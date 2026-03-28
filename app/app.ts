@@ -45,7 +45,7 @@ const filters = {
 // ─── Load ─────────────────────────────────────────────────────────────────────
 
 async function loadPlaces(): Promise<void> {
-  const res = await fetch("../public/places.json");
+  const res = await fetch("public/places.json");
   if (!res.ok) throw new Error(`Failed to load places.json: ${res.status}`);
   const data: PublicPlacesDataset = await res.json();
   allPlaces = data.places;

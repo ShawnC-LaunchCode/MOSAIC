@@ -7,7 +7,9 @@
     "build:indexes": "tsx src/scripts/buildRestrictedIndex.ts && tsx src/scripts/buildCandidateIndex.ts",
     "build:classify": "tsx src/scripts/classifyPlaces.ts",
     "build:public": "tsx src/scripts/buildPublicDataset.ts",
-    "build:data": "npm run build:indexes && npm run build:classify && npm run build:public"
+    "build:data": "npm run build:indexes && npm run build:classify && npm run build:public",
+    "build:app": "tsc --project tsconfig.app.json",
+    "build": "npm run build:data && npm run build:app"
   },
   "dependencies": {
     "geolib": "^3.3.4",
