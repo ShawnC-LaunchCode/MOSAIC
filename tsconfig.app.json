@@ -4,7 +4,7 @@
     "module": "ES2022",
     "moduleResolution": "Bundler",
     "strict": true,
-    "outDir": "app",
+    "outDir": "dist/app",
     "rootDir": "app"
   },
   "include": ["app/**/*.ts"]
