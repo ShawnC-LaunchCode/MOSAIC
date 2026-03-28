@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-28T00:00:00.000Z",
+  "county": "st-charles-county",
+  "sourceKind": "public-pools",
+  "sites": [
+    {
+      "id": "restricted:pool:st-charles-county:blanchette-pool",
+      "name": "Blanchette Park Pool",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "public-pool",
+      "address": "1900 W Randolph St, St Charles, MO",
+      "location": { "lat": 38.7945, "lng": -90.5170 },
+      "source": {
+        "id": "source-pool-001",
+        "sourceType": "county-data",
+        "sourceName": "St. Charles Parks",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    }
+  ]
+}

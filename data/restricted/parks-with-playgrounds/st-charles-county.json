@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-28T00:00:00.000Z",
+  "county": "st-charles-county",
+  "sourceKind": "parks-with-playgrounds",
+  "sites": [
+    {
+      "id": "restricted:park-playground:st-charles-county:frontier-park",
+      "name": "Frontier Park Playground Area",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "500 S Riverside Dr, St Charles, MO",
+      "location": { "lat": 38.7808, "lng": -90.4836 },
+      "source": {
+        "id": "source-park-001",
+        "sourceType": "county-data",
+        "sourceName": "St. Charles County Parks",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    }
+  ]
+}

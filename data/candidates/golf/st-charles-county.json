@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-28T00:00:00.000Z",
+  "county": "st-charles-county",
+  "category": "golf",
+  "places": [
+    {
+      "id": "candidate:golf:st-charles-county:bogey-hills",
+      "name": "Bogey Hills Country Club",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "golf",
+      "address": "1120 Country Club Rd, St Charles, MO",
+      "location": { "lat": 38.8132, "lng": -90.5331 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8132,-90.5331",
+      "source": {
+        "id": "source-golf-001",
+        "sourceType": "manual",
+        "sourceName": "Seed Data",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "sports"],
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    }
+  ]
+}

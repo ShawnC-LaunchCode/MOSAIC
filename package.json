@@ -1,0 +1,21 @@
+{
+  "name": "mosaic",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:indexes": "tsx src/scripts/buildRestrictedIndex.ts && tsx src/scripts/buildCandidateIndex.ts",
+    "build:classify": "tsx src/scripts/classifyPlaces.ts",
+    "build:public": "tsx src/scripts/buildPublicDataset.ts",
+    "build:data": "npm run build:indexes && npm run build:classify && npm run build:public"
+  },
+  "dependencies": {
+    "geolib": "^3.3.4",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3",
+    "@types/node": "^22.10.1"
+  }
+}

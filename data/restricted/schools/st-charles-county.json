@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-28T00:00:00.000Z",
+  "county": "st-charles-county",
+  "sourceKind": "schools",
+  "sites": [
+    {
+      "id": "restricted:school:st-charles-county:st-charles-high-school",
+      "name": "St. Charles High School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "725 Kingshighway St, St Charles, MO",
+      "location": { "lat": 38.7835, "lng": -90.4815 },
+      "source": {
+        "id": "source-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    }
+  ]
+}

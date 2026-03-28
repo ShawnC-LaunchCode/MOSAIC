@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-28T00:00:00.000Z",
+  "county": "st-charles-county",
+  "category": "trail",
+  "places": [
+    {
+      "id": "candidate:trail:st-charles-county:katy-trail-defiance",
+      "name": "Katy Trail – Defiance Access",
+      "county": "st-charles-county",
+      "municipality": "Defiance",
+      "recreationType": "trail",
+      "address": "700 S Highway 94, Defiance, MO",
+      "location": { "lat": 38.6628, "lng": -90.7870 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6628,-90.7870",
+      "source": {
+        "id": "source-trail-001",
+        "sourceType": "manual",
+        "sourceName": "Seed Data",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "walking"],
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trail:st-charles-county:frontier-park-trail",
+      "name": "Frontier Park Trail",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "trail",
+      "address": "500 S Riverside Dr, St Charles, MO",
+      "location": { "lat": 38.7809, "lng": -90.4838 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7809,-90.4838",
+      "source": {
+        "id": "source-trail-002",
+        "sourceType": "manual",
+        "sourceName": "Seed Data",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["urban", "park"],
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    }
+  ]
+}

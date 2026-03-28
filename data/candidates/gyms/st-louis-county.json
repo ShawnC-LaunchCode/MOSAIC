@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-28T00:00:00.000Z",
+  "county": "st-louis-county",
+  "category": "gym",
+  "places": [
+    {
+      "id": "candidate:gym:st-louis-county:planet-fitness-bridgeton",
+      "name": "Planet Fitness – Bridgeton",
+      "county": "st-louis-county",
+      "municipality": "Bridgeton",
+      "recreationType": "gym",
+      "address": "11901 St Charles Rock Rd, Bridgeton, MO",
+      "location": { "lat": 38.7512, "lng": -90.4275 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7512,-90.4275",
+      "source": {
+        "id": "source-gym-001",
+        "sourceType": "manual",
+        "sourceName": "Seed Data",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["indoor", "fitness"],
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    }
+  ]
+}

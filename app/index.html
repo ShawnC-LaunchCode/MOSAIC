@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MOSAIC — Missouri Recreation Directory</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="header-title">
+        <h1>MOSAIC</h1>
+        <p class="header-sub">Missouri Options &amp; Site Access Information Catalog</p>
+      </div>
+      <div class="header-meta" id="result-count"></div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <aside class="sidebar">
+      <div class="filter-group">
+        <label for="filter-county">County</label>
+        <select id="filter-county">
+          <option value="">All Counties</option>
+          <option value="st-louis-county">St. Louis County</option>
+          <option value="st-charles-county">St. Charles County</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="filter-type">Recreation Type</label>
+        <select id="filter-type">
+          <option value="">All Types</option>
+        </select>
+      </div>
+
+      <div class="filter-group">
+        <label for="filter-classification">Classification</label>
+        <select id="filter-classification">
+          <option value="">All</option>
+          <option value="candidate">Candidate</option>
+          <option value="needs-review">Needs Review</option>
+        </select>
+      </div>
+
+      <button class="reset-btn" id="reset-filters">Reset Filters</button>
+    </aside>
+
+    <section class="place-grid" id="place-grid">
+      <div class="loading" id="loading-msg">Loading places…</div>
+    </section>
+  </main>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>

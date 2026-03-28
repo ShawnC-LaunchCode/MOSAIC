@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-28T00:00:00.000Z",
+  "reviews": [
+    {
+      "placeId": "candidate:trail:st-charles-county:frontier-park-trail",
+      "reviewed": true,
+      "reviewedAt": "2026-03-28T00:00:00.000Z",
+      "reviewer": "admin",
+      "overrideClassification": "likely-excluded",
+      "overrideReason": "Trail runs directly through playground park",
+      "notes": ["Playground confirmed on-site"]
+    }
+  ]
+}
