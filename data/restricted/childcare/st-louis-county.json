@@ -1582,7 +1582,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:blessings-childcare-center-jennings",
@@ -1602,7 +1603,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:bright-horizons-jennings",
@@ -1622,7 +1624,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:caring-hands-child-development-jennings",
@@ -1642,7 +1645,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:community-care-preschool-jennings",
@@ -1662,7 +1666,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:destiny-childcare-jennings",
@@ -1682,7 +1687,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:faithful-beginnings-childcare-jennings",
@@ -1702,7 +1708,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:garden-of-eden-childcare-jennings",
@@ -1722,7 +1729,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:glory-to-god-childcare-jennings",
@@ -1742,7 +1750,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:grace-community-childcare-jennings",
@@ -1762,7 +1771,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:harvest-time-learning-center-jennings",
@@ -1782,7 +1792,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:joy-of-learning-childcare-jennings",
@@ -1802,7 +1813,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:kings-kids-childcare-jennings",
@@ -1822,7 +1834,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:lighthouse-child-development-jennings",
@@ -1842,7 +1855,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:little-miracles-learning-center-jennings",
@@ -1862,7 +1876,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:love-and-care-learning-center-jennings",
@@ -1882,7 +1897,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:mustard-seed-childcare-jennings",
@@ -1902,7 +1918,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:new-covenant-childcare-jennings",
@@ -1922,7 +1939,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:precious-moments-childcare-jennings",
@@ -1942,7 +1960,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:rainbow-bridge-childcare-jennings",
@@ -1962,7 +1981,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:rising-stars-academy-jennings",
@@ -1982,7 +2002,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:second-chance-childcare-jennings",
@@ -2002,7 +2023,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:stepping-stones-childcare-jennings",
@@ -2022,7 +2044,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:tender-loving-care-childcare-jennings",
@@ -2042,7 +2065,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:the-learning-nest-jennings",
@@ -2062,7 +2086,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:victory-outreach-childcare-jennings",
@@ -2082,7 +2107,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:wisdom-tree-learning-center-jennings",
@@ -2102,7 +2128,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:bellefontaine-christian-academy-bellefontaine-neighbors",
@@ -2122,7 +2149,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:caring-connections-childcare-bellefontaine-neighbors",
@@ -2142,7 +2170,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:child-first-learning-center-bellefontaine-neighbors",
@@ -2162,7 +2191,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:creative-minds-learning-center-bellefontaine-neighbors",
@@ -2182,7 +2212,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:faith-academy-childcare-bellefontaine-neighbors",
@@ -2202,7 +2233,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:little-champs-childcare-bellefontaine-neighbors",
@@ -2222,7 +2254,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:northpointe-christian-preschool-bellefontaine-neighbors",
@@ -2242,7 +2275,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:small-wonders-childcare-bellefontaine-neighbors",
@@ -2262,7 +2296,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:sunshine-academy-bellefontaine-neighbors",
@@ -2282,7 +2317,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:trinity-lutheran-preschool-bellefontaine-neighbors",
@@ -2302,7 +2338,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:young-champions-academy-bellefontaine-neighbors",
@@ -2322,7 +2359,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:zion-community-childcare-bellefontaine-neighbors",
@@ -2342,7 +2380,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:covenant-kids-childcare-spanish-lake",
@@ -2362,7 +2401,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:crossroads-childcare-spanish-lake",
@@ -2382,7 +2422,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:evangel-temple-childcare-spanish-lake",
@@ -2402,7 +2443,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:family-first-childcare-spanish-lake",
@@ -2422,7 +2464,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:heritage-christian-preschool-spanish-lake",
@@ -2442,7 +2485,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:kiddie-academy-spanish-lake",
@@ -2462,7 +2506,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:little-lambs-learning-center-spanish-lake",
@@ -2482,7 +2527,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:north-county-ymca-childcare-spanish-lake",
@@ -2502,7 +2548,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:peaceful-hearts-childcare-spanish-lake",
@@ -2522,7 +2569,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:rainbows-end-childcare-spanish-lake",
@@ -2542,7 +2590,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:shining-stars-childcare-spanish-lake",
@@ -2562,7 +2611,8 @@
         "fetchedAt": "2026-03-28T00:00:00.000Z"
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
-      "updatedAt": "2026-03-28T00:00:00.000Z"
+      "updatedAt": "2026-03-28T00:00:00.000Z",
+      "needsVerification": true
     },
     {
       "id": "restricted:childcare:st-louis-county:maplewood-richmond-heights-preschool",

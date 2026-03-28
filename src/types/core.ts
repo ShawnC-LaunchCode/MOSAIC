@@ -105,6 +105,8 @@ export interface RestrictedSite {
   address?: string;
   location: LatLng;
   source: SourceRecord;
+  /** When true, this entry has not been verified against an authoritative source and should be audited before relying on it. */
+  needsVerification?: boolean;
   createdAt: string; // ISO 8601
   updatedAt: string; // ISO 8601
 }
