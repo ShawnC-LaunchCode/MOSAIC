@@ -1,0 +1,1294 @@
+[
+  {
+    "id": "restricted:childcare:st-charles-county:faith-preschool-parents-day-out-st-charles",
+    "name": "Faith Preschool and Parents Day Out",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-faith-preschool-parents-day-out-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:just-4-us-childcare-st-charles",
+    "name": "Just 4 Us Childcare Inc.",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-just-4-us-childcare-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:patterson-schools-incorporated-st-charles",
+    "name": "Patterson Schools Incorporated",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-patterson-schools-incorporated-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:st-charles-presbyterian-church-educational-developmental-center-st-charles",
+    "name": "St. Charles Presbyterian Church Educational and Developmental Center",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-st-charles-presbyterian-church-educational-developmental-center-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:tendercare-learning-center-4-st-charles",
+    "name": "Tendercare Learning Center #4",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-tendercare-learning-center-4-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:discovery-zone-st-charles",
+    "name": "Discovery Zone",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-discovery-zone-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:great-beginnings-learning-center-st-charles",
+    "name": "Great Beginnings Learning Center L.C.",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-great-beginnings-learning-center-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:little-guppy-child-development-center-st-charles",
+    "name": "Little Guppy Child Development Center",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-little-guppy-child-development-center-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:o2b-kids-st-charles",
+    "name": "O2B Kids St. Charles",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-o2b-kids-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:our-savior-lutheran-preschool-st-charles",
+    "name": "Our Savior Lutheran Preschool",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-our-savior-lutheran-preschool-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:waverly-forest-academy-st-charles",
+    "name": "Waverly Forest Academy LLC",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-waverly-forest-academy-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-st-charles-coverdell-elementary-st-charles",
+    "name": "YMCA-St. Charles Branch-Coverdell Elementary",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-st-charles-coverdell-elementary-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-st-charles-jefferson-intermediate-st-charles",
+    "name": "YMCA-St. Charles Branch-Jefferson Intermediate",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-st-charles-jefferson-intermediate-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-st-charles-monroe-elementary-st-charles",
+    "name": "YMCA-St. Charles Branch-Monroe Elementary",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-st-charles-monroe-elementary-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-st-charles-null-elementary-st-charles",
+    "name": "YMCA-St. Charles Branch-Null Elementary",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-st-charles-null-elementary-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-st-charles-st-cletus-catholic-school-st-charles",
+    "name": "YMCA-St. Charles Branch-St. Cletus Catholic School",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-st-charles-st-cletus-catholic-school-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:first-st-charles-united-methodist-first-kids-st-charles",
+    "name": "First St. Charles United Methodist First Kids",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-first-st-charles-united-methodist-first-kids-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-st-charles-blackhurst-elementary-st-charles",
+    "name": "YMCA-St. Charles Branch-Blackhurst Elementary",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-st-charles-blackhurst-elementary-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-st-charles-lincoln-elementary-st-charles",
+    "name": "YMCA-St. Charles Branch-Lincoln Elementary",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-st-charles-lincoln-elementary-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:cribs-2-crayons-child-development-center-st-charles",
+    "name": "Cribs 2 Crayons Child Development Center",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-cribs-2-crayons-child-development-center-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:kidz-academy-st-charles",
+    "name": "Kidz Academy LLC",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-kidz-academy-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:little-explorers-learning-academy-st-charles",
+    "name": "Little Explorers Learning Academy LLC",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-little-explorers-learning-academy-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:little-hills-learning-center-st-charles",
+    "name": "Little Hills Learning Center Inc.",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-little-hills-learning-center-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:st-charles-montessori-school-st-charles",
+    "name": "St. Charles Montessori School LLC",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-st-charles-montessori-school-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:st-peter-early-learning-center-st-charles",
+    "name": "St. Peter Early Learning Center",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-st-peter-early-learning-center-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:a-to-z-kids-st-charles",
+    "name": "A to Z Kids L.L.C.",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-a-to-z-kids-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:goddard-school-63303-st-charles",
+    "name": "The Goddard School",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-goddard-school-63303-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:little-sunshines-daycare-learning-center-st-charles",
+    "name": "Little Sunshine's Daycare & Learning Center LLC",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-little-sunshines-daycare-learning-center-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:little-treasures-academy-st-charles",
+    "name": "Little Treasures Academy LLC",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-little-treasures-academy-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:abc-daycare-learning-center-63303-st-charles",
+    "name": "ABC Daycare & Learning Center",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-abc-daycare-learning-center-63303-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:hope-academy-of-early-learning-st-charles",
+    "name": "Hope Academy of Early Learning",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-hope-academy-of-early-learning-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:hope-lutheran-church-preschool-st-charles",
+    "name": "Hope Lutheran Church Preschool",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-hope-lutheran-church-preschool-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:jenners-kids-daycare-st-charles",
+    "name": "Jenner's Kids Daycare L.L.C.",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-jenners-kids-daycare-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:kindercare-learning-centers-63303-st-charles",
+    "name": "KinderCare Learning Centers LLC",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-kindercare-learning-centers-63303-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-st-charles-harris-elementary-st-charles",
+    "name": "YMCA-St. Charles Branch-Harris Elementary",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-st-charles-harris-elementary-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:northroad-academy-st-charles",
+    "name": "Northroad Academy",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-northroad-academy-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:preferred-family-healthcare-incorporated-st-charles",
+    "name": "Preferred Family Healthcare Incorporated",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-preferred-family-healthcare-incorporated-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:teddy-bear-daycare-learning-academy-st-charles",
+    "name": "Teddy Bear Daycare and Learning Academy LLC",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-teddy-bear-daycare-learning-academy-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:youth-in-need-st-charles",
+    "name": "Youth in Need",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-youth-in-need-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:primrose-school-st-charles-heritage-st-charles",
+    "name": "Primrose School of St. Charles at Heritage",
+    "county": "st-charles-county",
+    "municipality": "St. Charles",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-primrose-school-st-charles-heritage-st-charles-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:amerikids-christian-center-ofallon",
+    "name": "AmeriKids Christian Center",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-amerikids-christian-center-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:apple-of-your-eye-early-childhood-center-ofallon",
+    "name": "Apple of Your Eye Early Childhood Center LLC",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-apple-of-your-eye-early-childhood-center-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:holy-cross-lutheran-preschool-ofallon",
+    "name": "Holy Cross Lutheran Preschool",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-holy-cross-lutheran-preschool-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:just-4-us-child-care-learning-center-ofallon",
+    "name": "Just 4 Us Child Care and Learning Center Inc.",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-just-4-us-child-care-learning-center-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:learning-place-preschool-ofallon",
+    "name": "Learning Place Preschool",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-learning-place-preschool-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:little-guppy-child-development-center-ofallon",
+    "name": "Little Guppy Child Development Center",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-little-guppy-child-development-center-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:creative-corner-childcare-center-ofallon",
+    "name": "Creative Corner Childcare Center",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-creative-corner-childcare-center-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:little-learners-of-ofallon-ofallon",
+    "name": "Little Learners of O'Fallon LLC",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-little-learners-of-ofallon-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:o2b-kids-ofallon",
+    "name": "O2B Kids O'Fallon",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-o2b-kids-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:tendercare-learning-center-3-ofallon",
+    "name": "Tendercare Learning Center #3",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-tendercare-learning-center-3-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:the-learning-lodge-ofallon",
+    "name": "The Learning Lodge L.L.C.",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-the-learning-lodge-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-ofallon-dardenne-elementary-ofallon",
+    "name": "YMCA-O'Fallon Branch-Dardenne Elementary",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-ofallon-dardenne-elementary-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-ofallon-jl-mudd-elementary-ofallon",
+    "name": "YMCA-O'Fallon Branch-J.L. Mudd Elementary",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-ofallon-jl-mudd-elementary-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-ofallon-mount-hope-elementary-ofallon",
+    "name": "YMCA-O'Fallon Branch-Mount Hope Elementary",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-ofallon-mount-hope-elementary-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-ofallon-rock-creek-elementary-ofallon",
+    "name": "YMCA-O'Fallon Branch-Rock Creek Elementary",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-ofallon-rock-creek-elementary-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-ofallon-westhoff-elementary-ofallon",
+    "name": "YMCA-O'Fallon Branch-Westhoff Elementary",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-ofallon-westhoff-elementary-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:world-of-little-people-ofallon",
+    "name": "World of Little People Inc.",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-world-of-little-people-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ofallon-early-childhood-center-ofallon",
+    "name": "O'Fallon Early Childhood Center LLC",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ofallon-early-childhood-center-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:wonder-years-63368-ofallon",
+    "name": "Wonder Years LLC",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-wonder-years-63368-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:cadence-academy-preschool-ofallon",
+    "name": "Cadence Academy Preschool O'Fallon",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-cadence-academy-preschool-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:kids-and-company-ofallon",
+    "name": "Kids & Company",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-kids-and-company-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:goddard-school-winghaven-ofallon",
+    "name": "The Goddard School",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-goddard-school-winghaven-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:kidsplay-ofallon",
+    "name": "KidsPlay LLC",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-kidsplay-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:abc-daycare-learning-center-winghaven-ofallon",
+    "name": "ABC Daycare & Learning Center",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-abc-daycare-learning-center-winghaven-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:beth-academy-ofallon",
+    "name": "Beth Academy LLC",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-beth-academy-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:delmar-gardens-of-ofallon-ofallon",
+    "name": "Delmar Gardens of O'Fallon",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-delmar-gardens-of-ofallon-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:kids-academy-ofallon",
+    "name": "Kids Academy Inc.",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-kids-academy-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:little-learners-preschool-ofallon-family-ymca",
+    "name": "Little Learner's Preschool O'Fallon Family YMCA",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-little-learners-preschool-ofallon-family-ymca-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:primrose-school-ofallon-winghaven-ofallon",
+    "name": "Primrose School of O'Fallon at Winghaven",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-primrose-school-ofallon-winghaven-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:sunrise-church-of-ofallon-ofallon",
+    "name": "Sunrise Church of O'Fallon",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-sunrise-church-of-ofallon-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-ofallon-emge-elementary-ofallon",
+    "name": "YMCA-O'Fallon Branch-Emge Elementary",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-ofallon-emge-elementary-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-ofallon-pheasant-point-elementary-ofallon",
+    "name": "YMCA-O'Fallon Branch-Pheasant Point Elementary",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-ofallon-pheasant-point-elementary-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-ofallon-twin-chimneys-elementary-ofallon",
+    "name": "YMCA-O'Fallon Branch-Twin Chimneys Elementary",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-ofallon-twin-chimneys-elementary-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:kiddie-academy-of-ofallon-ofallon",
+    "name": "Kiddie Academy of O'Fallon",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-kiddie-academy-of-ofallon-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:little-sunshines-playhouse-preschool-ofallon",
+    "name": "Little Sunshine's Playhouse & Preschool",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-little-sunshines-playhouse-preschool-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  },
+  {
+    "id": "restricted:childcare:st-charles-county:ymca-ofallon-ostmann-elementary-ofallon",
+    "name": "YMCA-O'Fallon Branch-Ostmann Elementary",
+    "county": "st-charles-county",
+    "municipality": "O'Fallon",
+    "restrictedPropertyType": "childcare",
+    "address": "",
+    "location": { "lat": null, "lng": null },
+    "source": {
+      "id": "source-ymca-ofallon-ostmann-elementary-ofallon-001",
+      "sourceType": "state-data",
+      "sourceName": "MO DHSS",
+      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    },
+    "createdAt": "2026-03-28T00:00:00.000Z",
+    "updatedAt": "2026-03-28T00:00:00.000Z"
+  }
+]
