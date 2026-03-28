@@ -39,6 +39,8 @@ export function checkProximity(
   let closest: { site: RestrictedSite; distanceMeters: number } | null = null;
 
   for (const site of sites) {
+    if (site.location.lat === null || site.location.lng === null) continue;
+
     const distanceMeters = getDistance(
       { latitude: location.lat, longitude: location.lng },
       { latitude: site.location.lat, longitude: site.location.lng }
@@ -110,6 +112,7 @@ export function buildRestrictionFlags(
   // A place is considered on a restricted property if its name exactly matches
   // a restricted site and its coordinates are within ~10 meters.
   const onRestrictedProperty = restrictedSites.some((site) => {
+    if (site.location.lat === null || site.location.lng === null) return false;
     if (site.name.toLowerCase() !== place.name.toLowerCase()) return false;
     const distanceMeters = getDistance(
       { latitude: place.location.lat, longitude: place.location.lng },
