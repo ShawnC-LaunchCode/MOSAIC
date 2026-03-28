@@ -1,546 +1,648 @@
-[
-  {
-    "id": "restricted:childcare:st-louis-county:mary-margaret-day-care-learning-center-mehlville",
-    "name": "Mary Margaret Day Care & Learning Center",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-mary-margaret-day-care-learning-center-mehlville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-28T00:00:00.000Z",
+  "county": "st-louis-county",
+  "sourceKind": "childcare",
+  "sites": [
+    {
+      "id": "restricted:childcare:st-louis-county:mary-margaret-day-care-learning-center-mehlville",
+      "name": "Mary Margaret Day Care & Learning Center",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-mary-margaret-day-care-learning-center-mehlville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:prime-time-child-care-academy-mehlville",
-    "name": "Prime Time Child Care Academy",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-prime-time-child-care-academy-mehlville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:prime-time-child-care-academy-mehlville",
+      "name": "Prime Time Child Care Academy",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-prime-time-child-care-academy-mehlville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:lemay-child-family-center-mehlville",
-    "name": "Lemay Child and Family Center",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-lemay-child-family-center-mehlville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:lemay-child-family-center-mehlville",
+      "name": "Lemay Child and Family Center",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lemay-child-family-center-mehlville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:peace-lutheran-early-childhood-program-mehlville",
-    "name": "Peace Lutheran Early Childhood Program",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-peace-lutheran-early-childhood-program-mehlville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:peace-lutheran-early-childhood-program-mehlville",
+      "name": "Peace Lutheran Early Childhood Program",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-peace-lutheran-early-childhood-program-mehlville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:st-lukes-preschool-mehlville",
-    "name": "St. Lukes Preschool",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-st-lukes-preschool-mehlville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:st-lukes-preschool-mehlville",
+      "name": "St. Lukes Preschool",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-st-lukes-preschool-mehlville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:lift-kids-preschool-mehlville",
-    "name": "Lift Kids Preschool",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-lift-kids-preschool-mehlville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:lift-kids-preschool-mehlville",
+      "name": "Lift Kids Preschool",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lift-kids-preschool-mehlville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-south-county-beasley-elementary-mehlville",
-    "name": "YMCA-South County Branch-Beasley Elementary",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-south-county-beasley-elementary-mehlville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-south-county-beasley-elementary-mehlville",
+      "name": "YMCA-South County Branch-Beasley Elementary",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-south-county-beasley-elementary-mehlville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-south-county-bierbaum-elementary-mehlville",
-    "name": "YMCA-South County Branch-Bierbaum Elementary",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-south-county-bierbaum-elementary-mehlville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-south-county-bierbaum-elementary-mehlville",
+      "name": "YMCA-South County Branch-Bierbaum Elementary",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-south-county-bierbaum-elementary-mehlville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-south-county-forder-elementary-mehlville",
-    "name": "YMCA-South County Branch-Forder Elementary",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-south-county-forder-elementary-mehlville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-south-county-forder-elementary-mehlville",
+      "name": "YMCA-South County Branch-Forder Elementary",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-south-county-forder-elementary-mehlville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-south-county-mosaic-mehlville",
-    "name": "YMCA-South County Branch-MOSAIC",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-south-county-mosaic-mehlville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-south-county-mosaic-mehlville",
+      "name": "YMCA-South County Branch-MOSAIC",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-south-county-mosaic-mehlville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:st-lucas-preschool-crestwood",
-    "name": "St. Lucas Preschool",
-    "county": "st-louis-county",
-    "municipality": "Crestwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-st-lucas-preschool-crestwood-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:st-lucas-preschool-crestwood",
+      "name": "St. Lucas Preschool",
+      "county": "st-louis-county",
+      "municipality": "Crestwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-st-lucas-preschool-crestwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:christ-memorial-child-care-center-crestwood",
-    "name": "Christ Memorial Child Care Center",
-    "county": "st-louis-county",
-    "municipality": "Crestwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-christ-memorial-child-care-center-crestwood-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:christ-memorial-child-care-center-crestwood",
+      "name": "Christ Memorial Child Care Center",
+      "county": "st-louis-county",
+      "municipality": "Crestwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-christ-memorial-child-care-center-crestwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:sappington-child-care-center-summer-day-camp-crestwood",
-    "name": "Sappington Child Care Center & Summer Day Camp",
-    "county": "st-louis-county",
-    "municipality": "Crestwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-sappington-child-care-center-summer-day-camp-crestwood-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:sappington-child-care-center-summer-day-camp-crestwood",
+      "name": "Sappington Child Care Center & Summer Day Camp",
+      "county": "st-louis-county",
+      "municipality": "Crestwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-sappington-child-care-center-summer-day-camp-crestwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:southminster-presbyterian-church-crestwood",
-    "name": "Southminster Presbyterian Church",
-    "county": "st-louis-county",
-    "municipality": "Crestwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-southminster-presbyterian-church-crestwood-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:southminster-presbyterian-church-crestwood",
+      "name": "Southminster Presbyterian Church",
+      "county": "st-louis-county",
+      "municipality": "Crestwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-southminster-presbyterian-church-crestwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:st-thomas-holy-spirit-preschool-day-care-sunset-hills",
-    "name": "St. Thomas Holy Spirit Preschool Day Care",
-    "county": "st-louis-county",
-    "municipality": "Sunset Hills",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-st-thomas-holy-spirit-preschool-day-care-sunset-hills-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:st-thomas-holy-spirit-preschool-day-care-sunset-hills",
+      "name": "St. Thomas Holy Spirit Preschool Day Care",
+      "county": "st-louis-county",
+      "municipality": "Sunset Hills",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-st-thomas-holy-spirit-preschool-day-care-sunset-hills-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:casa-dia-montessori-sunset-hills",
-    "name": "Casa Dia Montessori",
-    "county": "st-louis-county",
-    "municipality": "Sunset Hills",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-casa-dia-montessori-sunset-hills-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:casa-dia-montessori-sunset-hills",
+      "name": "Casa Dia Montessori",
+      "county": "st-louis-county",
+      "municipality": "Sunset Hills",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-casa-dia-montessori-sunset-hills-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:faith-academy-early-childhood-sunset-hills",
-    "name": "Faith Academy Early Childhood",
-    "county": "st-louis-county",
-    "municipality": "Sunset Hills",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-faith-academy-early-childhood-sunset-hills-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:faith-academy-early-childhood-sunset-hills",
+      "name": "Faith Academy Early Childhood",
+      "county": "st-louis-county",
+      "municipality": "Sunset Hills",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-faith-academy-early-childhood-sunset-hills-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:fun-2-3-childcare-sunset-hills",
-    "name": "Fun, 2, 3 Childcare – Sunset Hills, Inc.",
-    "county": "st-louis-county",
-    "municipality": "Sunset Hills",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-fun-2-3-childcare-sunset-hills-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:fun-2-3-childcare-sunset-hills",
+      "name": "Fun, 2, 3 Childcare – Sunset Hills, Inc.",
+      "county": "st-louis-county",
+      "municipality": "Sunset Hills",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-fun-2-3-childcare-sunset-hills-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:concord-baptist-weekday-early-ed-school-mehlville-south",
-    "name": "Concord Baptist Weekday Early Ed School",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-concord-baptist-weekday-early-ed-school-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:concord-baptist-weekday-early-ed-school-mehlville-south",
+      "name": "Concord Baptist Weekday Early Ed School",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-concord-baptist-weekday-early-ed-school-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:first-impressions-preschool-mehlville-south",
-    "name": "First Impressions Preschool",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-first-impressions-preschool-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:first-impressions-preschool-mehlville-south",
+      "name": "First Impressions Preschool",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-first-impressions-preschool-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:la-petite-academy-mehlville-south",
-    "name": "La Petite Academy Inc.",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-la-petite-academy-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:la-petite-academy-mehlville-south",
+      "name": "La Petite Academy Inc.",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-la-petite-academy-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:noahs-ark-day-care-mehlville-south",
-    "name": "Noah's Ark Day Care",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-noahs-ark-day-care-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:noahs-ark-day-care-mehlville-south",
+      "name": "Noah's Ark Day Care",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-noahs-ark-day-care-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:resurrection-early-childhood-program-mehlville-south",
-    "name": "Resurrection Early Childhood Program",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-resurrection-early-childhood-program-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:resurrection-early-childhood-program-mehlville-south",
+      "name": "Resurrection Early Childhood Program",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-resurrection-early-childhood-program-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-south-county-preschool-mehlville-south",
-    "name": "YMCA South County Preschool",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-south-county-preschool-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-south-county-preschool-mehlville-south",
+      "name": "YMCA South County Preschool",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-south-county-preschool-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-south-county-hagemann-elementary-mehlville-south",
-    "name": "YMCA-South County Branch-Hagemann Elementary",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-south-county-hagemann-elementary-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-south-county-hagemann-elementary-mehlville-south",
+      "name": "YMCA-South County Branch-Hagemann Elementary",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-south-county-hagemann-elementary-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-south-county-st-catherine-laboure-mehlville-south",
-    "name": "YMCA-South County Branch-St. Catherine of Laboure",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-south-county-st-catherine-laboure-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-south-county-st-catherine-laboure-mehlville-south",
+      "name": "YMCA-South County Branch-St. Catherine of Laboure",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-south-county-st-catherine-laboure-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-south-county-trautwein-elementary-mehlville-south",
-    "name": "YMCA-South County Branch-Trautwein Elementary",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-south-county-trautwein-elementary-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-south-county-trautwein-elementary-mehlville-south",
+      "name": "YMCA-South County Branch-Trautwein Elementary",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-south-county-trautwein-elementary-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:delmar-gardens-south-mehlville-south",
-    "name": "Delmar Gardens South",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-delmar-gardens-south-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:delmar-gardens-south-mehlville-south",
+      "name": "Delmar Gardens South",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-delmar-gardens-south-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:mercy-coworker-childrens-center-mehlville-south",
-    "name": "Mercy Co-Worker Children's Center",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-mercy-coworker-childrens-center-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:mercy-coworker-childrens-center-mehlville-south",
+      "name": "Mercy Co-Worker Children's Center",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-mercy-coworker-childrens-center-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:sutton-blake-christian-academy-mehlville-south",
-    "name": "Sutton Blake Christian Academy LLC",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-sutton-blake-christian-academy-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:sutton-blake-christian-academy-mehlville-south",
+      "name": "Sutton Blake Christian Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-sutton-blake-christian-academy-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-south-county-washington-middle-mehlville-south",
-    "name": "YMCA-South County Branch-Washington Middle School",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-south-county-washington-middle-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-south-county-washington-middle-mehlville-south",
+      "name": "YMCA-South County Branch-Washington Middle School",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-south-county-washington-middle-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:charlottes-web-early-childhood-center-mehlville-south",
-    "name": "Charlotte's Web Early Childhood Center LLC",
-    "county": "st-louis-county",
-    "municipality": "Mehlville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-charlottes-web-early-childhood-center-mehlville-south-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
-    },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  }
-]
+    {
+      "id": "restricted:childcare:st-louis-county:charlottes-web-early-childhood-center-mehlville-south",
+      "name": "Charlotte's Web Early Childhood Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Mehlville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-charlottes-web-early-childhood-center-mehlville-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    }
+  ]
+}

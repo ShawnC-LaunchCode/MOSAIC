@@ -1,716 +1,848 @@
-[
-  {
-    "id": "restricted:childcare:st-charles-county:tyke-town-developmental-center-lake-st-louis",
-    "name": "Tyke Town Developmental Center Inc.",
-    "county": "st-charles-county",
-    "municipality": "Lake Saint Louis",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-tyke-town-developmental-center-lake-st-louis-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-28T00:00:00.000Z",
+  "county": "st-charles-county",
+  "sourceKind": "childcare",
+  "sites": [
+    {
+      "id": "restricted:childcare:st-charles-county:tyke-town-developmental-center-lake-st-louis",
+      "name": "Tyke Town Developmental Center Inc.",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-tyke-town-developmental-center-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:living-lord-lutheran-preschool-lake-st-louis",
-    "name": "Living Lord Lutheran Preschool",
-    "county": "st-charles-county",
-    "municipality": "Lake Saint Louis",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-living-lord-lutheran-preschool-lake-st-louis-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:living-lord-lutheran-preschool-lake-st-louis",
+      "name": "Living Lord Lutheran Preschool",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-living-lord-lutheran-preschool-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:abc-daycare-learning-center-lake-st-louis",
-    "name": "ABC Daycare & Learning Center",
-    "county": "st-charles-county",
-    "municipality": "Lake Saint Louis",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-abc-daycare-learning-center-lake-st-louis-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:abc-daycare-learning-center-lake-st-louis",
+      "name": "ABC Daycare & Learning Center",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-abc-daycare-learning-center-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:hope-montessori-academy-lake-st-louis",
-    "name": "Hope Montessori Academy Lake St. Louis",
-    "county": "st-charles-county",
-    "municipality": "Lake Saint Louis",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-hope-montessori-academy-lake-st-louis-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:hope-montessori-academy-lake-st-louis",
+      "name": "Hope Montessori Academy Lake St. Louis",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-hope-montessori-academy-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:lullaby-inn-lake-st-louis",
-    "name": "Lullaby Inn",
-    "county": "st-charles-county",
-    "municipality": "Lake Saint Louis",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-lullaby-inn-lake-st-louis-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:lullaby-inn-lake-st-louis",
+      "name": "Lullaby Inn",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lullaby-inn-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:o2b-kids-lake-st-louis",
-    "name": "O2B Kids Lake St. Louis",
-    "county": "st-charles-county",
-    "municipality": "Lake Saint Louis",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-o2b-kids-lake-st-louis-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:o2b-kids-lake-st-louis",
+      "name": "O2B Kids Lake St. Louis",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-o2b-kids-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:bridge-kidz-academy-lake-st-louis",
-    "name": "Bridge Kidz Academy",
-    "county": "st-charles-county",
-    "municipality": "Lake Saint Louis",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-bridge-kidz-academy-lake-st-louis-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:bridge-kidz-academy-lake-st-louis",
+      "name": "Bridge Kidz Academy",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-bridge-kidz-academy-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:learning-lodge-west-lake-st-louis",
-    "name": "Learning Lodge West, LLC",
-    "county": "st-charles-county",
-    "municipality": "Lake Saint Louis",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-learning-lodge-west-lake-st-louis-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:learning-lodge-west-lake-st-louis",
+      "name": "Learning Lodge West, LLC",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-learning-lodge-west-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:little-sunshines-playhouse-lake-st-louis",
-    "name": "Little Sunshine's Playhouse and Preschool",
-    "county": "st-charles-county",
-    "municipality": "Lake Saint Louis",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-little-sunshines-playhouse-lake-st-louis-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:little-sunshines-playhouse-lake-st-louis",
+      "name": "Little Sunshine's Playhouse and Preschool",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-sunshines-playhouse-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:peanuts-gang-learning-center-west-lake-st-louis",
-    "name": "Peanuts Gang Learning Center West",
-    "county": "st-charles-county",
-    "municipality": "Lake Saint Louis",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-peanuts-gang-learning-center-west-lake-st-louis-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:peanuts-gang-learning-center-west-lake-st-louis",
+      "name": "Peanuts Gang Learning Center West",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-peanuts-gang-learning-center-west-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:kids-academy-weldon-spring",
-    "name": "Kids Academy Inc.",
-    "county": "st-charles-county",
-    "municipality": "Weldon Spring",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-kids-academy-weldon-spring-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:kids-academy-weldon-spring",
+      "name": "Kids Academy Inc.",
+      "county": "st-charles-county",
+      "municipality": "Weldon Spring",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kids-academy-weldon-spring-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:little-learners-academy-weldon-spring",
-    "name": "Little Learners Academy, Inc.",
-    "county": "st-charles-county",
-    "municipality": "Weldon Spring",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-little-learners-academy-weldon-spring-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:little-learners-academy-weldon-spring",
+      "name": "Little Learners Academy, Inc.",
+      "county": "st-charles-county",
+      "municipality": "Weldon Spring",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-learners-academy-weldon-spring-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:faith-academy-early-childhood-weldon-spring",
-    "name": "Faith Academy Early Childhood Education",
-    "county": "st-charles-county",
-    "municipality": "Weldon Spring",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-faith-academy-early-childhood-weldon-spring-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:faith-academy-early-childhood-weldon-spring",
+      "name": "Faith Academy Early Childhood Education",
+      "county": "st-charles-county",
+      "municipality": "Weldon Spring",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-faith-academy-early-childhood-weldon-spring-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:abc-daycare-learning-center-st-peters",
-    "name": "ABC Daycare & Learning Center",
-    "county": "st-charles-county",
-    "municipality": "St. Peters",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-abc-daycare-learning-center-st-peters-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:abc-daycare-learning-center-st-peters",
+      "name": "ABC Daycare & Learning Center",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-abc-daycare-learning-center-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:jenners-kids-daycare-st-peters",
-    "name": "Jenner's Kids Daycare, L.L.C.",
-    "county": "st-charles-county",
-    "municipality": "St. Peters",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-jenners-kids-daycare-st-peters-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:jenners-kids-daycare-st-peters",
+      "name": "Jenner's Kids Daycare, L.L.C.",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-jenners-kids-daycare-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:kindercare-education-llc-st-peters",
-    "name": "KinderCare Education LLC",
-    "county": "st-charles-county",
-    "municipality": "St. Peters",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-kindercare-education-llc-st-peters-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:kindercare-education-llc-st-peters",
+      "name": "KinderCare Education LLC",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kindercare-education-llc-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:tendercare-learning-center-11-st-charles",
-    "name": "Tendercare Learning Center #11",
-    "county": "st-charles-county",
-    "municipality": "St. Charles",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-tendercare-learning-center-11-st-charles-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:tendercare-learning-center-11-st-charles",
+      "name": "Tendercare Learning Center #11",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-tendercare-learning-center-11-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:learning-safari-st-charles",
-    "name": "The Learning Safari, LLC",
-    "county": "st-charles-county",
-    "municipality": "St. Charles",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-learning-safari-st-charles-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:learning-safari-st-charles",
+      "name": "The Learning Safari, LLC",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-learning-safari-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:doodlebee-learning-center-st-charles",
-    "name": "Doodlebee Learning Center",
-    "county": "st-charles-county",
-    "municipality": "St. Charles",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-doodlebee-learning-center-st-charles-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:doodlebee-learning-center-st-charles",
+      "name": "Doodlebee Learning Center",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-doodlebee-learning-center-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:little-jems-learning-center-st-charles",
-    "name": "Little Jem's Learning Center, LLC",
-    "county": "st-charles-county",
-    "municipality": "St. Charles",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-little-jems-learning-center-st-charles-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:little-jems-learning-center-st-charles",
+      "name": "Little Jem's Learning Center, LLC",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-jems-learning-center-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:the-gan-st-charles",
-    "name": "The Gan St. Charles",
-    "county": "st-charles-county",
-    "municipality": "St. Charles",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-the-gan-st-charles-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:the-gan-st-charles",
+      "name": "The Gan St. Charles",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-gan-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:step-by-step-learning-center-cottleville",
-    "name": "Step by Step Learning Center LLC",
-    "county": "st-charles-county",
-    "municipality": "Cottleville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-step-by-step-learning-center-cottleville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:step-by-step-learning-center-cottleville",
+      "name": "Step by Step Learning Center LLC",
+      "county": "st-charles-county",
+      "municipality": "Cottleville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-step-by-step-learning-center-cottleville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:vasaio-atelier-saint-peters",
-    "name": "Vasaio Atelier",
-    "county": "st-charles-county",
-    "municipality": "Saint Peters",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-vasaio-atelier-saint-peters-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:vasaio-atelier-saint-peters",
+      "name": "Vasaio Atelier",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-vasaio-atelier-saint-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:little-learners-of-st-peters",
-    "name": "Little Learners of St. Peters",
-    "county": "st-charles-county",
-    "municipality": "Saint Peters",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-little-learners-of-st-peters-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:little-learners-of-st-peters",
+      "name": "Little Learners of St. Peters",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-learners-of-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:kidstreet-saint-peters",
-    "name": "Kidstreet Saint Peters",
-    "county": "st-charles-county",
-    "municipality": "Saint Peters",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-kidstreet-saint-peters-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:kidstreet-saint-peters",
+      "name": "Kidstreet Saint Peters",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kidstreet-saint-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:sunshine-kids-day-out-saint-peters",
-    "name": "Sunshine Kids Day Out and Preschool",
-    "county": "st-charles-county",
-    "municipality": "Saint Peters",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-sunshine-kids-day-out-saint-peters-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:sunshine-kids-day-out-saint-peters",
+      "name": "Sunshine Kids Day Out and Preschool",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-sunshine-kids-day-out-saint-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:warren-vacation-station-saint-peters",
-    "name": "Warren Vacation Station",
-    "county": "st-charles-county",
-    "municipality": "Saint Peters",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-warren-vacation-station-saint-peters-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:warren-vacation-station-saint-peters",
+      "name": "Warren Vacation Station",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-warren-vacation-station-saint-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:dardenne-presbyterian-church-mdo",
-    "name": "Dardenne Presbyterian Church MDO & Preschool",
-    "county": "st-charles-county",
-    "municipality": "Dardenne Prairie",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-dardenne-presbyterian-church-mdo-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:dardenne-presbyterian-church-mdo",
+      "name": "Dardenne Presbyterian Church MDO & Preschool",
+      "county": "st-charles-county",
+      "municipality": "Dardenne Prairie",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-dardenne-presbyterian-church-mdo-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:morgan-school-dardenne-prairie",
-    "name": "The Morgan School",
-    "county": "st-charles-county",
-    "municipality": "Dardenne Prairie",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-morgan-school-dardenne-prairie-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:morgan-school-dardenne-prairie",
+      "name": "The Morgan School",
+      "county": "st-charles-county",
+      "municipality": "Dardenne Prairie",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-morgan-school-dardenne-prairie-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:john-weldon-vacation-station-dardenne-prairie",
-    "name": "John Weldon Vacation Station",
-    "county": "st-charles-county",
-    "municipality": "Dardenne Prairie",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-john-weldon-vacation-station-dardenne-prairie-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:john-weldon-vacation-station-dardenne-prairie",
+      "name": "John Weldon Vacation Station",
+      "county": "st-charles-county",
+      "municipality": "Dardenne Prairie",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-john-weldon-vacation-station-dardenne-prairie-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:vip-kids-daycare-dardenne-prairie",
-    "name": "VIP Kids Daycare and Recreation Depot",
-    "county": "st-charles-county",
-    "municipality": "Dardenne Prairie",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-vip-kids-daycare-dardenne-prairie-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:vip-kids-daycare-dardenne-prairie",
+      "name": "VIP Kids Daycare and Recreation Depot",
+      "county": "st-charles-county",
+      "municipality": "Dardenne Prairie",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-vip-kids-daycare-dardenne-prairie-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:youth-in-need-wentzville",
-    "name": "Youth in Need",
-    "county": "st-charles-county",
-    "municipality": "Wentzville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-youth-in-need-wentzville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:youth-in-need-wentzville",
+      "name": "Youth in Need",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-youth-in-need-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:ymca-ofallon-flint-hill-elementary-wentzville",
-    "name": "YMCA-O'Fallon Branch-Flint Hill Elementary",
-    "county": "st-charles-county",
-    "municipality": "Wentzville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-ofallon-flint-hill-elementary-wentzville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:ymca-ofallon-flint-hill-elementary-wentzville",
+      "name": "YMCA-O'Fallon Branch-Flint Hill Elementary",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-ofallon-flint-hill-elementary-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:future-apostle-academy-wentzville",
-    "name": "Future Apostle Academy",
-    "county": "st-charles-county",
-    "municipality": "Wentzville",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-future-apostle-academy-wentzville-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:future-apostle-academy-wentzville",
+      "name": "Future Apostle Academy",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-future-apostle-academy-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:ages-and-stages-learning-center-defiance",
-    "name": "Ages & Stages Learning Center, Inc.",
-    "county": "st-charles-county",
-    "municipality": "Defiance",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ages-and-stages-learning-center-defiance-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:ages-and-stages-learning-center-defiance",
+      "name": "Ages & Stages Learning Center, Inc.",
+      "county": "st-charles-county",
+      "municipality": "Defiance",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ages-and-stages-learning-center-defiance-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:american-village-montessori-augusta",
-    "name": "American Village Montessori School",
-    "county": "st-charles-county",
-    "municipality": "Augusta",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-american-village-montessori-augusta-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:american-village-montessori-augusta",
+      "name": "American Village Montessori School",
+      "county": "st-charles-county",
+      "municipality": "Augusta",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-american-village-montessori-augusta-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:foristell-childcare-center",
-    "name": "Foristell Childcare Center",
-    "county": "st-charles-county",
-    "municipality": "Foristell",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-foristell-childcare-center-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:foristell-childcare-center",
+      "name": "Foristell Childcare Center",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-foristell-childcare-center-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:foristell-kids-corner",
-    "name": "Foristell Kids Corner",
-    "county": "st-charles-county",
-    "municipality": "Foristell",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-foristell-kids-corner-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:foristell-kids-corner",
+      "name": "Foristell Kids Corner",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-foristell-kids-corner-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:moscow-mills-early-learning-center",
-    "name": "Moscow Mills Early Learning Center",
-    "county": "st-charles-county",
-    "municipality": "Moscow Mills",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-moscow-mills-early-learning-center-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:moscow-mills-early-learning-center",
+      "name": "Moscow Mills Early Learning Center",
+      "county": "st-charles-county",
+      "municipality": "Moscow Mills",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-moscow-mills-early-learning-center-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:winfield-christian-preschool",
-    "name": "Winfield Christian Preschool",
-    "county": "st-charles-county",
-    "municipality": "Winfield",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-winfield-christian-preschool-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:winfield-christian-preschool",
+      "name": "Winfield Christian Preschool",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-winfield-christian-preschool-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:winfield-early-childhood-center",
-    "name": "Winfield Early Childhood Center",
-    "county": "st-charles-county",
-    "municipality": "Winfield",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-winfield-early-childhood-center-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-charles-county:winfield-early-childhood-center",
+      "name": "Winfield Early Childhood Center",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-winfield-early-childhood-center-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-charles-county:winfield-kids-academy",
-    "name": "Winfield Kids Academy",
-    "county": "st-charles-county",
-    "municipality": "Winfield",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-winfield-kids-academy-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
-    },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  }
-]
+    {
+      "id": "restricted:childcare:st-charles-county:winfield-kids-academy",
+      "name": "Winfield Kids Academy",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-winfield-kids-academy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    }
+  ]
+}

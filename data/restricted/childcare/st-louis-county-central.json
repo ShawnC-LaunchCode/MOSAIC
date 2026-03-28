@@ -1,926 +1,1548 @@
-[
-  {
-    "id": "restricted:childcare:st-louis-county:goodvibe-school-clayton",
-    "name": "GoodVibe School",
-    "county": "st-louis-county",
-    "municipality": "Clayton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-goodvibe-school-clayton-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:glenridge-childrens-center-clayton",
-    "name": "Glenridge Children's Center, Inc.",
-    "county": "st-louis-county",
-    "municipality": "Clayton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-glenridge-childrens-center-clayton-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:kol-rinah-early-childhood-center",
-    "name": "Kol Rinah Early Childhood Center",
-    "county": "st-louis-county",
-    "municipality": "Clayton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-kol-rinah-early-childhood-center-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:clayton-early-childhood-center",
-    "name": "Clayton Early Childhood Center",
-    "county": "st-louis-county",
-    "municipality": "Clayton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-clayton-early-childhood-center-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:first-congregational-preschool-clayton",
-    "name": "The First Congregational Preschool",
-    "county": "st-louis-county",
-    "municipality": "Clayton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-first-congregational-preschool-clayton-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-kirkwood-our-lady-of-lourdes",
-    "name": "YMCA-Kirkwood Branch-Our Lady of Lourdes",
-    "county": "st-louis-county",
-    "municipality": "Clayton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-ymca-kirkwood-our-lady-of-lourdes-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:samuel-church-prekindergarten-school",
-    "name": "Samuel Church PreKindergarten School",
-    "county": "st-louis-county",
-    "municipality": "Clayton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-samuel-church-prekindergarten-school-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:bright-horizons-childrens-centers-clayton",
-    "name": "Bright Horizons Children's Centers LLC",
-    "county": "st-louis-county",
-    "municipality": "Clayton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-bright-horizons-childrens-centers-clayton-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:central-presbyterian-church-peeps",
-    "name": "Central Presbyterian Church Peeps",
-    "county": "st-louis-county",
-    "municipality": "Clayton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-central-presbyterian-church-peeps-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ethical-society-nursery-school",
-    "name": "Ethical Society Nursery School",
-    "county": "st-louis-county",
-    "municipality": "Richmond Heights",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-ethical-society-nursery-school-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-mid-county-maplewood-richmond-heights-elementary",
-    "name": "YMCA-Mid County Branch-Maplewood Richmond Heights Elementary",
-    "county": "st-louis-county",
-    "municipality": "Richmond Heights",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-ymca-mid-county-maplewood-richmond-heights-elementary-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:the-goddard-school-webster-groves",
-    "name": "The Goddard School",
-    "county": "st-louis-county",
-    "municipality": "Webster Groves",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-the-goddard-school-webster-groves-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:emmanuel-preschool-pdo-webster-groves",
-    "name": "Emmanuel Preschool and Parents Day Out",
-    "county": "st-louis-county",
-    "municipality": "Webster Groves",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-emmanuel-preschool-pdo-webster-groves-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:webster-groves-presbyterian-ecc",
-    "name": "Webster Groves Presbyterian Church Early Childhood Center & Kids Day Out",
-    "county": "st-louis-county",
-    "municipality": "Webster Groves",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-webster-groves-presbyterian-ecc-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:webster-hills-preschool-mdo",
-    "name": "Webster Hills Preschool & MDO",
-    "county": "st-louis-county",
-    "municipality": "Webster Groves",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-webster-hills-preschool-mdo-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:bethel-christian-child-care-webster-groves",
-    "name": "Bethel Christian Child Care",
-    "county": "st-louis-county",
-    "municipality": "Webster Groves",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-bethel-christian-child-care-webster-groves-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:faith-academy-of-montessori-webster-groves",
-    "name": "Faith Academy of Montessori",
-    "county": "st-louis-county",
-    "municipality": "Webster Groves",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-faith-academy-of-montessori-webster-groves-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:berry-patch-child-care-webster-groves",
-    "name": "The Berry Patch Professional Child Care Center, L.L.C.",
-    "county": "st-louis-county",
-    "municipality": "Webster Groves",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-berry-patch-child-care-webster-groves-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:webster-child-care-laclede-groves",
-    "name": "Webster Child Care Center at Laclede Groves",
-    "county": "st-louis-county",
-    "municipality": "Webster Groves",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-webster-child-care-laclede-groves-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:here-we-grow-early-childhood-center",
-    "name": "Here We Grow Early Childhood Center LLC",
-    "county": "st-louis-county",
-    "municipality": "Webster Groves",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-here-we-grow-early-childhood-center-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:artcare-webster-groves",
-    "name": "ArtCare",
-    "county": "st-louis-county",
-    "municipality": "Webster Groves",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-artcare-webster-groves-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:play-daze-llc-webster-groves",
-    "name": "Play Daze, LLC",
-    "county": "st-louis-county",
-    "municipality": "Webster Groves",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-play-daze-llc-webster-groves-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:babbs-childcare-normandy",
-    "name": "Babbs Childcare, LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-babbs-childcare-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:girls-inc-of-st-louis",
-    "name": "Girls Incorporated of St. Louis",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-girls-inc-of-st-louis-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:hanley-child-care-dev-center",
-    "name": "Hanley Child Care Dev. Center",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-hanley-child-care-dev-center-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:normandy-schools-collaborative-childcare",
-    "name": "Normandy Schools Collaborative",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-normandy-schools-collaborative-childcare-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ferguson-florissant-preschool-bermuda-elementary",
-    "name": "Ferguson-Florissant Preschool at Bermuda Elementary",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-ferguson-florissant-preschool-bermuda-elementary-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:korner-stone-kids-normandy",
-    "name": "Korner Stone Kids, LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-korner-stone-kids-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:umsl-childcare",
-    "name": "University of Missouri – St. Louis Child Development Center",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-umsl-childcare-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-emerson-normandy-early-learning-center",
-    "name": "YMCA-Emerson Branch-Normandy Early Learning Center",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-ymca-emerson-normandy-early-learning-center-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:city-sprouts-daycare-normandy",
-    "name": "City Sprouts Daycare, LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-city-sprouts-daycare-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:grace-learning-center-normandy",
-    "name": "Grace Learning Center LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-grace-learning-center-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:new-horizon-7th-day-christian-church-ecdc",
-    "name": "New Horizon 7th Day Christian Church ECDC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-new-horizon-7th-day-christian-church-ecdc-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:a-generation-chosen-preschool",
-    "name": "A Generation Chosen Pre School Inc",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-a-generation-chosen-preschool-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:arch-kids-academy-normandy",
-    "name": "Arch Kids Academy, LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-arch-kids-academy-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:brightstar-preschool-academy-normandy",
-    "name": "BrightStar Preschool Academy",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-brightstar-preschool-academy-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:childhood-memories-daycare-normandy",
-    "name": "Childhood Memories Daycare & Learning Center LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-childhood-memories-daycare-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:inaya-love-4-kidz-daycare",
-    "name": "Inaya Love 4 Kidz Daycare",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-inaya-love-4-kidz-daycare-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:jessie-bs-academy-normandy",
-    "name": "Jessie B's Academy, LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-jessie-bs-academy-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:just-4-me-learning-center-normandy",
-    "name": "Just 4 Me Learning Center",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-just-4-me-learning-center-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:kjw-care-center-corp",
-    "name": "KJW Care Center Corp",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-kjw-care-center-corp-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:pre-k-university-normandy",
-    "name": "Pre-K University LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-pre-k-university-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:purpose-driven-vision-center",
-    "name": "Purpose Driven Vision Center",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-purpose-driven-vision-center-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:shining-stars-childcare-normandy",
-    "name": "Shining Stars Childcare LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-shining-stars-childcare-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:tilsunup-24hr-daycare",
-    "name": "Tilsunup24Hr Daycare LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-tilsunup-24hr-daycare-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:time-away-learning-center-2",
-    "name": "Time Away Learning Center 2 LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-time-away-learning-center-2-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:williams-academy-normandy",
-    "name": "Williams Academy LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-williams-academy-normandy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:wrice-academy",
-    "name": "Wrice Academy LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-wrice-academy-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:wrice-academy-2",
-    "name": "Wrice Academy 2 LLC",
-    "county": "st-louis-county",
-    "municipality": "Normandy",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-wrice-academy-2-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:carmelite-child-development-center-holy-family",
-    "name": "Carmelite Child Development Center of the Holy Family",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-carmelite-child-development-center-holy-family-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:a-place-for-children-kirkwood",
-    "name": "A Place for Children, Inc.",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-a-place-for-children-kirkwood-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:eliot-chapel-nursery-school",
-    "name": "Eliot Chapel Nursery School",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-eliot-chapel-nursery-school-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:kindercare-education-kirkwood",
-    "name": "KinderCare Education LLC",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-kindercare-education-kirkwood-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:kindercare-learning-centers-kirkwood",
-    "name": "KinderCare Learning Centers LLC",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-kindercare-learning-centers-kirkwood-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:kirkwood-baptist-wee-center",
-    "name": "Kirkwood Baptist Wee Center",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-kirkwood-baptist-wee-center-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:kirkwood-r7-school-district-childcare",
-    "name": "Kirkwood R-VII School District Early Childhood",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-kirkwood-r7-school-district-childcare-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:kirkwood-united-methodist-preschool",
-    "name": "Kirkwood United Methodist Preschool",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-kirkwood-united-methodist-preschool-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:the-lab-school-kirkwood",
-    "name": "The Lab School",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-the-lab-school-kirkwood-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:green-tree-montessori",
-    "name": "Green Tree Montessori, LLC",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-green-tree-montessori-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:trinity-lutheran-pdo-kirkwood",
-    "name": "Trinity Lutheran Church Parents' Day Out",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-trinity-lutheran-pdo-kirkwood-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:strictly-pediatrics-kirkwood",
-    "name": "Strictly Pediatrics Center, Inc.",
-    "county": "st-louis-county",
-    "municipality": "Kirkwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-strictly-pediatrics-kirkwood-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:apple-of-your-eye-learning-center-affton",
-    "name": "Apple of Your Eye Learning Center, Inc.",
-    "county": "st-louis-county",
-    "municipality": "Affton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-apple-of-your-eye-learning-center-affton-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:bayless-school-district-childcare",
-    "name": "Bayless School District Early Childhood",
-    "county": "st-louis-county",
-    "municipality": "Affton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-bayless-school-district-childcare-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:st-marys-preschool-south",
-    "name": "St. Mary's Preschool-South",
-    "county": "st-louis-county",
-    "municipality": "Affton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-st-marys-preschool-south-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:st-philips-united-church-of-christ-childcare",
-    "name": "St. Philip's United Church of Christ Childcare",
-    "county": "st-louis-county",
-    "municipality": "Affton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-st-philips-united-church-of-christ-childcare-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-south-city-bayless-elementary",
-    "name": "YMCA-South City Branch-Bayless Elementary",
-    "county": "st-louis-county",
-    "municipality": "Affton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-ymca-south-city-bayless-elementary-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:montessori-learning-center-affton",
-    "name": "Montessori Learning Center",
-    "county": "st-louis-county",
-    "municipality": "Affton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-montessori-learning-center-affton-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:affton-before-and-after-school-care",
-    "name": "Affton Before and After School Care",
-    "county": "st-louis-county",
-    "municipality": "Affton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-affton-before-and-after-school-care-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:affton-early-childhood-center",
-    "name": "Affton Early Childhood Center",
-    "county": "st-louis-county",
-    "municipality": "Affton",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-affton-early-childhood-center-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:little-sunshines-playhouse-ladue",
-    "name": "Little Sunshine's Playhouse & Preschool",
-    "county": "st-louis-county",
-    "municipality": "Ladue",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-little-sunshines-playhouse-ladue-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:sow-and-grow-christian-preschool",
-    "name": "Sow & Grow Christian Preschool",
-    "county": "st-louis-county",
-    "municipality": "Ladue",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-sow-and-grow-christian-preschool-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ladue-chapel-nursery-school",
-    "name": "Ladue Chapel Nursery School",
-    "county": "st-louis-county",
-    "municipality": "Ladue",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-ladue-chapel-nursery-school-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:village-lutheran-church-preschool",
-    "name": "Village Lutheran Church Preschool",
-    "county": "st-louis-county",
-    "municipality": "Ladue",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-village-lutheran-church-preschool-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:st-peters-playgroup-ladue",
-    "name": "St. Peters Playgroup",
-    "county": "st-louis-county",
-    "municipality": "Ladue",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-st-peters-playgroup-ladue-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:raintree-school-des-peres",
-    "name": "Raintree School",
-    "county": "st-louis-county",
-    "municipality": "Des Peres",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-raintree-school-des-peres-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:kiddie-academy-des-peres",
-    "name": "Kiddie Academy of Des Peres",
-    "county": "st-louis-county",
-    "municipality": "Des Peres",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-kiddie-academy-des-peres-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:harper-school-extended-care-preschool",
-    "name": "Harper School Extended Care and Preschool",
-    "county": "st-louis-county",
-    "municipality": "Des Peres",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": { "id": "source-harper-school-extended-care-preschool-001", "sourceType": "state-data", "sourceName": "MO DHSS", "fetchedAt": "2026-03-28T00:00:00.000Z" },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  }
-]
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-28T00:00:00.000Z",
+  "county": "st-louis-county",
+  "sourceKind": "childcare",
+  "sites": [
+    {
+      "id": "restricted:childcare:st-louis-county:goodvibe-school-clayton",
+      "name": "GoodVibe School",
+      "county": "st-louis-county",
+      "municipality": "Clayton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-goodvibe-school-clayton-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:glenridge-childrens-center-clayton",
+      "name": "Glenridge Children's Center, Inc.",
+      "county": "st-louis-county",
+      "municipality": "Clayton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-glenridge-childrens-center-clayton-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kol-rinah-early-childhood-center",
+      "name": "Kol Rinah Early Childhood Center",
+      "county": "st-louis-county",
+      "municipality": "Clayton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kol-rinah-early-childhood-center-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:clayton-early-childhood-center",
+      "name": "Clayton Early Childhood Center",
+      "county": "st-louis-county",
+      "municipality": "Clayton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-clayton-early-childhood-center-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:first-congregational-preschool-clayton",
+      "name": "The First Congregational Preschool",
+      "county": "st-louis-county",
+      "municipality": "Clayton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-first-congregational-preschool-clayton-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-kirkwood-our-lady-of-lourdes",
+      "name": "YMCA-Kirkwood Branch-Our Lady of Lourdes",
+      "county": "st-louis-county",
+      "municipality": "Clayton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-kirkwood-our-lady-of-lourdes-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:samuel-church-prekindergarten-school",
+      "name": "Samuel Church PreKindergarten School",
+      "county": "st-louis-county",
+      "municipality": "Clayton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-samuel-church-prekindergarten-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:bright-horizons-childrens-centers-clayton",
+      "name": "Bright Horizons Children's Centers LLC",
+      "county": "st-louis-county",
+      "municipality": "Clayton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-bright-horizons-childrens-centers-clayton-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:central-presbyterian-church-peeps",
+      "name": "Central Presbyterian Church Peeps",
+      "county": "st-louis-county",
+      "municipality": "Clayton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-central-presbyterian-church-peeps-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ethical-society-nursery-school",
+      "name": "Ethical Society Nursery School",
+      "county": "st-louis-county",
+      "municipality": "Richmond Heights",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ethical-society-nursery-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-mid-county-maplewood-richmond-heights-elementary",
+      "name": "YMCA-Mid County Branch-Maplewood Richmond Heights Elementary",
+      "county": "st-louis-county",
+      "municipality": "Richmond Heights",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-mid-county-maplewood-richmond-heights-elementary-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-goddard-school-webster-groves",
+      "name": "The Goddard School",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-goddard-school-webster-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:emmanuel-preschool-pdo-webster-groves",
+      "name": "Emmanuel Preschool and Parents Day Out",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-emmanuel-preschool-pdo-webster-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:webster-groves-presbyterian-ecc",
+      "name": "Webster Groves Presbyterian Church Early Childhood Center & Kids Day Out",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-webster-groves-presbyterian-ecc-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:webster-hills-preschool-mdo",
+      "name": "Webster Hills Preschool & MDO",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-webster-hills-preschool-mdo-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:bethel-christian-child-care-webster-groves",
+      "name": "Bethel Christian Child Care",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-bethel-christian-child-care-webster-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:faith-academy-of-montessori-webster-groves",
+      "name": "Faith Academy of Montessori",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-faith-academy-of-montessori-webster-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:berry-patch-child-care-webster-groves",
+      "name": "The Berry Patch Professional Child Care Center, L.L.C.",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-berry-patch-child-care-webster-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:webster-child-care-laclede-groves",
+      "name": "Webster Child Care Center at Laclede Groves",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-webster-child-care-laclede-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:here-we-grow-early-childhood-center",
+      "name": "Here We Grow Early Childhood Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-here-we-grow-early-childhood-center-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:artcare-webster-groves",
+      "name": "ArtCare",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-artcare-webster-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:play-daze-llc-webster-groves",
+      "name": "Play Daze, LLC",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-play-daze-llc-webster-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:babbs-childcare-normandy",
+      "name": "Babbs Childcare, LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-babbs-childcare-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:girls-inc-of-st-louis",
+      "name": "Girls Incorporated of St. Louis",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-girls-inc-of-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:hanley-child-care-dev-center",
+      "name": "Hanley Child Care Dev. Center",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-hanley-child-care-dev-center-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:normandy-schools-collaborative-childcare",
+      "name": "Normandy Schools Collaborative",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-normandy-schools-collaborative-childcare-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ferguson-florissant-preschool-bermuda-elementary",
+      "name": "Ferguson-Florissant Preschool at Bermuda Elementary",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ferguson-florissant-preschool-bermuda-elementary-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:korner-stone-kids-normandy",
+      "name": "Korner Stone Kids, LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-korner-stone-kids-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:umsl-childcare",
+      "name": "University of Missouri – St. Louis Child Development Center",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-umsl-childcare-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-emerson-normandy-early-learning-center",
+      "name": "YMCA-Emerson Branch-Normandy Early Learning Center",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-emerson-normandy-early-learning-center-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:city-sprouts-daycare-normandy",
+      "name": "City Sprouts Daycare, LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-city-sprouts-daycare-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:grace-learning-center-normandy",
+      "name": "Grace Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-grace-learning-center-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:new-horizon-7th-day-christian-church-ecdc",
+      "name": "New Horizon 7th Day Christian Church ECDC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-new-horizon-7th-day-christian-church-ecdc-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:a-generation-chosen-preschool",
+      "name": "A Generation Chosen Pre School Inc",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-a-generation-chosen-preschool-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:arch-kids-academy-normandy",
+      "name": "Arch Kids Academy, LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-arch-kids-academy-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:brightstar-preschool-academy-normandy",
+      "name": "BrightStar Preschool Academy",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-brightstar-preschool-academy-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:childhood-memories-daycare-normandy",
+      "name": "Childhood Memories Daycare & Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-childhood-memories-daycare-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:inaya-love-4-kidz-daycare",
+      "name": "Inaya Love 4 Kidz Daycare",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-inaya-love-4-kidz-daycare-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:jessie-bs-academy-normandy",
+      "name": "Jessie B's Academy, LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-jessie-bs-academy-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:just-4-me-learning-center-normandy",
+      "name": "Just 4 Me Learning Center",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-just-4-me-learning-center-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kjw-care-center-corp",
+      "name": "KJW Care Center Corp",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kjw-care-center-corp-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:pre-k-university-normandy",
+      "name": "Pre-K University LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-pre-k-university-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:purpose-driven-vision-center",
+      "name": "Purpose Driven Vision Center",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-purpose-driven-vision-center-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:shining-stars-childcare-normandy",
+      "name": "Shining Stars Childcare LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-shining-stars-childcare-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:tilsunup-24hr-daycare",
+      "name": "Tilsunup24Hr Daycare LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-tilsunup-24hr-daycare-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:time-away-learning-center-2",
+      "name": "Time Away Learning Center 2 LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-time-away-learning-center-2-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:williams-academy-normandy",
+      "name": "Williams Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-williams-academy-normandy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:wrice-academy",
+      "name": "Wrice Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-wrice-academy-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:wrice-academy-2",
+      "name": "Wrice Academy 2 LLC",
+      "county": "st-louis-county",
+      "municipality": "Normandy",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-wrice-academy-2-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:carmelite-child-development-center-holy-family",
+      "name": "Carmelite Child Development Center of the Holy Family",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-carmelite-child-development-center-holy-family-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:a-place-for-children-kirkwood",
+      "name": "A Place for Children, Inc.",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-a-place-for-children-kirkwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:eliot-chapel-nursery-school",
+      "name": "Eliot Chapel Nursery School",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-eliot-chapel-nursery-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kindercare-education-kirkwood",
+      "name": "KinderCare Education LLC",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kindercare-education-kirkwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kindercare-learning-centers-kirkwood",
+      "name": "KinderCare Learning Centers LLC",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kindercare-learning-centers-kirkwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kirkwood-baptist-wee-center",
+      "name": "Kirkwood Baptist Wee Center",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kirkwood-baptist-wee-center-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kirkwood-r7-school-district-childcare",
+      "name": "Kirkwood R-VII School District Early Childhood",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kirkwood-r7-school-district-childcare-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kirkwood-united-methodist-preschool",
+      "name": "Kirkwood United Methodist Preschool",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kirkwood-united-methodist-preschool-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-lab-school-kirkwood",
+      "name": "The Lab School",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-lab-school-kirkwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:green-tree-montessori",
+      "name": "Green Tree Montessori, LLC",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-green-tree-montessori-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:trinity-lutheran-pdo-kirkwood",
+      "name": "Trinity Lutheran Church Parents' Day Out",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-trinity-lutheran-pdo-kirkwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:strictly-pediatrics-kirkwood",
+      "name": "Strictly Pediatrics Center, Inc.",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-strictly-pediatrics-kirkwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:apple-of-your-eye-learning-center-affton",
+      "name": "Apple of Your Eye Learning Center, Inc.",
+      "county": "st-louis-county",
+      "municipality": "Affton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-apple-of-your-eye-learning-center-affton-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:bayless-school-district-childcare",
+      "name": "Bayless School District Early Childhood",
+      "county": "st-louis-county",
+      "municipality": "Affton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-bayless-school-district-childcare-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:st-marys-preschool-south",
+      "name": "St. Mary's Preschool-South",
+      "county": "st-louis-county",
+      "municipality": "Affton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-st-marys-preschool-south-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:st-philips-united-church-of-christ-childcare",
+      "name": "St. Philip's United Church of Christ Childcare",
+      "county": "st-louis-county",
+      "municipality": "Affton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-st-philips-united-church-of-christ-childcare-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-south-city-bayless-elementary",
+      "name": "YMCA-South City Branch-Bayless Elementary",
+      "county": "st-louis-county",
+      "municipality": "Affton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-south-city-bayless-elementary-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:montessori-learning-center-affton",
+      "name": "Montessori Learning Center",
+      "county": "st-louis-county",
+      "municipality": "Affton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-montessori-learning-center-affton-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:affton-before-and-after-school-care",
+      "name": "Affton Before and After School Care",
+      "county": "st-louis-county",
+      "municipality": "Affton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-affton-before-and-after-school-care-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:affton-early-childhood-center",
+      "name": "Affton Early Childhood Center",
+      "county": "st-louis-county",
+      "municipality": "Affton",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-affton-early-childhood-center-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-sunshines-playhouse-ladue",
+      "name": "Little Sunshine's Playhouse & Preschool",
+      "county": "st-louis-county",
+      "municipality": "Ladue",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-sunshines-playhouse-ladue-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:sow-and-grow-christian-preschool",
+      "name": "Sow & Grow Christian Preschool",
+      "county": "st-louis-county",
+      "municipality": "Ladue",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-sow-and-grow-christian-preschool-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ladue-chapel-nursery-school",
+      "name": "Ladue Chapel Nursery School",
+      "county": "st-louis-county",
+      "municipality": "Ladue",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ladue-chapel-nursery-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:village-lutheran-church-preschool",
+      "name": "Village Lutheran Church Preschool",
+      "county": "st-louis-county",
+      "municipality": "Ladue",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-village-lutheran-church-preschool-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:st-peters-playgroup-ladue",
+      "name": "St. Peters Playgroup",
+      "county": "st-louis-county",
+      "municipality": "Ladue",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-st-peters-playgroup-ladue-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:raintree-school-des-peres",
+      "name": "Raintree School",
+      "county": "st-louis-county",
+      "municipality": "Des Peres",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-raintree-school-des-peres-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kiddie-academy-des-peres",
+      "name": "Kiddie Academy of Des Peres",
+      "county": "st-louis-county",
+      "municipality": "Des Peres",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kiddie-academy-des-peres-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:harper-school-extended-care-preschool",
+      "name": "Harper School Extended Care and Preschool",
+      "county": "st-louis-county",
+      "municipality": "Des Peres",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-harper-school-extended-care-preschool-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    }
+  ]
+}

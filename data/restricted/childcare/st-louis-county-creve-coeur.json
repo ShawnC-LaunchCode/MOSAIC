@@ -1,512 +1,608 @@
-[
-  {
-    "id": "restricted:childcare:st-louis-county:goddard-school-creve-coeur",
-    "name": "The Goddard School",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-goddard-school-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-28T00:00:00.000Z",
+  "county": "st-louis-county",
+  "sourceKind": "childcare",
+  "sites": [
+    {
+      "id": "restricted:childcare:st-louis-county:goddard-school-creve-coeur",
+      "name": "The Goddard School",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-goddard-school-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:chesterfield-kids-academy-creve-coeur",
-    "name": "Chesterfield Kids Academy LLC",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-chesterfield-kids-academy-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:chesterfield-kids-academy-creve-coeur",
+      "name": "Chesterfield Kids Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-chesterfield-kids-academy-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:early-explorers-academy-creve-coeur",
-    "name": "Early Explorers Academy Inc.",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-early-explorers-academy-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:early-explorers-academy-creve-coeur",
+      "name": "Early Explorers Academy Inc.",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-early-explorers-academy-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:parkway-baptist-preschool-creve-coeur",
-    "name": "Parkway Baptist Preschool",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-parkway-baptist-preschool-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:parkway-baptist-preschool-creve-coeur",
+      "name": "Parkway Baptist Preschool",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-parkway-baptist-preschool-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:saul-spielberg-early-childhood-center-creve-coeur",
-    "name": "Saul Spielberg Early Childhood Center",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-saul-spielberg-early-childhood-center-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:saul-spielberg-early-childhood-center-creve-coeur",
+      "name": "Saul Spielberg Early Childhood Center",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-saul-spielberg-early-childhood-center-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:shirlee-green-preschool-creve-coeur",
-    "name": "Shirlee Green Preschool",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-shirlee-green-preschool-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:shirlee-green-preschool-creve-coeur",
+      "name": "Shirlee Green Preschool",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-shirlee-green-preschool-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:countryside-montessori-school-creve-coeur",
-    "name": "Countryside Montessori School",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-countryside-montessori-school-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:countryside-montessori-school-creve-coeur",
+      "name": "Countryside Montessori School",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-countryside-montessori-school-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:deutsch-early-childhood-center-creve-coeur",
-    "name": "Deutsch Early Childhood Center",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-deutsch-early-childhood-center-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:deutsch-early-childhood-center-creve-coeur",
+      "name": "Deutsch Early Childhood Center",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-deutsch-early-childhood-center-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:hope-montessori-academy-creve-coeur",
-    "name": "Hope Montessori Academy Creve Coeur",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-hope-montessori-academy-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:hope-montessori-academy-creve-coeur",
+      "name": "Hope Montessori Academy Creve Coeur",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-hope-montessori-academy-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:linda-rotskoff-ecc-congregation-bnai-amoona-creve-coeur",
-    "name": "Linda Rotskoff ECC at Congregation Bnai Amoona",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-linda-rotskoff-ecc-congregation-bnai-amoona-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:linda-rotskoff-ecc-congregation-bnai-amoona-creve-coeur",
+      "name": "Linda Rotskoff ECC at Congregation Bnai Amoona",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-linda-rotskoff-ecc-congregation-bnai-amoona-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:lucky-lane-nursery-school-creve-coeur",
-    "name": "Lucky Lane Nursery School Association",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-lucky-lane-nursery-school-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:lucky-lane-nursery-school-creve-coeur",
+      "name": "Lucky Lane Nursery School Association",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lucky-lane-nursery-school-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:the-centre-at-conway-creve-coeur",
-    "name": "The Centre at Conway",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-the-centre-at-conway-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:the-centre-at-conway-creve-coeur",
+      "name": "The Centre at Conway",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-centre-at-conway-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-edward-jones-st-monica-school-creve-coeur",
-    "name": "YMCA-Edward Jones Branch-St. Monica School",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-edward-jones-st-monica-school-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-edward-jones-st-monica-school-creve-coeur",
+      "name": "YMCA-Edward Jones Branch-St. Monica School",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-edward-jones-st-monica-school-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:cadence-academy-preschool-beagle-creve-coeur",
-    "name": "Cadence Academy Preschool Beagle",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-cadence-academy-preschool-beagle-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:cadence-academy-preschool-beagle-creve-coeur",
+      "name": "Cadence Academy Preschool Beagle",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-cadence-academy-preschool-beagle-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:little-sunshines-playhouse-preschool-creve-coeur",
-    "name": "Little Sunshine's Playhouse & Preschool",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-little-sunshines-playhouse-preschool-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:little-sunshines-playhouse-preschool-creve-coeur",
+      "name": "Little Sunshine's Playhouse & Preschool",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-sunshines-playhouse-preschool-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:mercy-coworker-childrens-center-creve-coeur",
-    "name": "Mercy Co-Worker Children's Center",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-mercy-coworker-childrens-center-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:mercy-coworker-childrens-center-creve-coeur",
+      "name": "Mercy Co-Worker Children's Center",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-mercy-coworker-childrens-center-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:monsanto-child-development-center-creve-coeur",
-    "name": "Monsanto Child Development Center",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-monsanto-child-development-center-creve-coeur-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:monsanto-child-development-center-creve-coeur",
+      "name": "Monsanto Child Development Center",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-monsanto-child-development-center-creve-coeur-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:rosi-academy-brentwood",
-    "name": "Rosi Academy Inc.",
-    "county": "st-louis-county",
-    "municipality": "Brentwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-rosi-academy-brentwood-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:rosi-academy-brentwood",
+      "name": "Rosi Academy Inc.",
+      "county": "st-louis-county",
+      "municipality": "Brentwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-rosi-academy-brentwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:mt-calvary-center-early-childhood-brentwood",
-    "name": "Mt. Calvary Center for Early Childhood Education",
-    "county": "st-louis-county",
-    "municipality": "Brentwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-mt-calvary-center-early-childhood-brentwood-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:mt-calvary-center-early-childhood-brentwood",
+      "name": "Mt. Calvary Center for Early Childhood Education",
+      "county": "st-louis-county",
+      "municipality": "Brentwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-mt-calvary-center-early-childhood-brentwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-kirkwood-mcgrath-elementary-brentwood",
-    "name": "YMCA-Kirkwood Branch-McGrath Elementary",
-    "county": "st-louis-county",
-    "municipality": "Brentwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-kirkwood-mcgrath-elementary-brentwood-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-kirkwood-mcgrath-elementary-brentwood",
+      "name": "YMCA-Kirkwood Branch-McGrath Elementary",
+      "county": "st-louis-county",
+      "municipality": "Brentwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-kirkwood-mcgrath-elementary-brentwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-mid-county-minier-early-childhood-brentwood",
-    "name": "YMCA-Mid County Branch-Minier Early Childhood Education Center",
-    "county": "st-louis-county",
-    "municipality": "Brentwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-mid-county-minier-early-childhood-brentwood-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-mid-county-minier-early-childhood-brentwood",
+      "name": "YMCA-Mid County Branch-Minier Early Childhood Education Center",
+      "county": "st-louis-county",
+      "municipality": "Brentwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-mid-county-minier-early-childhood-brentwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:brentwood-christian-childcare-center-brentwood",
-    "name": "Brentwood Christian Childcare Center",
-    "county": "st-louis-county",
-    "municipality": "Brentwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-brentwood-christian-childcare-center-brentwood-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:brentwood-christian-childcare-center-brentwood",
+      "name": "Brentwood Christian Childcare Center",
+      "county": "st-louis-county",
+      "municipality": "Brentwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-brentwood-christian-childcare-center-brentwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:strictly-pediatrics-center-brentwood",
-    "name": "Strictly Pediatrics Center Inc.",
-    "county": "st-louis-county",
-    "municipality": "Brentwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-strictly-pediatrics-center-brentwood-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:strictly-pediatrics-center-brentwood",
+      "name": "Strictly Pediatrics Center Inc.",
+      "county": "st-louis-county",
+      "municipality": "Brentwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-strictly-pediatrics-center-brentwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-kirkwood-mark-twain-elementary-brentwood",
-    "name": "YMCA-Kirkwood Branch-Mark Twain Elementary",
-    "county": "st-louis-county",
-    "municipality": "Brentwood",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-kirkwood-mark-twain-elementary-brentwood-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-kirkwood-mark-twain-elementary-brentwood",
+      "name": "YMCA-Kirkwood Branch-Mark Twain Elementary",
+      "county": "st-louis-county",
+      "municipality": "Brentwood",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-kirkwood-mark-twain-elementary-brentwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:good-shepherd-school-for-children-creve-coeur-east",
-    "name": "Good Shepherd School for Children",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-good-shepherd-school-for-children-creve-coeur-east-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:good-shepherd-school-for-children-creve-coeur-east",
+      "name": "Good Shepherd School for Children",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-good-shepherd-school-for-children-creve-coeur-east-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:jewish-community-center-creve-coeur-east",
-    "name": "Jewish Community Center",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-jewish-community-center-creve-coeur-east-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:jewish-community-center-creve-coeur-east",
+      "name": "Jewish Community Center",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-jewish-community-center-creve-coeur-east-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:kindercare-learning-centers-creve-coeur-east",
-    "name": "KinderCare Learning Centers LLC",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-kindercare-learning-centers-creve-coeur-east-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:kindercare-learning-centers-creve-coeur-east",
+      "name": "KinderCare Learning Centers LLC",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kindercare-learning-centers-creve-coeur-east-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:westport-school-childcare-creve-coeur-east",
-    "name": "The Westport School Childcare",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-westport-school-childcare-creve-coeur-east-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:westport-school-childcare-creve-coeur-east",
+      "name": "The Westport School Childcare",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-westport-school-childcare-creve-coeur-east-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-edward-jones-willow-brook-elementary-creve-coeur-east",
-    "name": "YMCA-Edward Jones Branch-Willow Brook Elementary",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-edward-jones-willow-brook-elementary-creve-coeur-east-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-edward-jones-willow-brook-elementary-creve-coeur-east",
+      "name": "YMCA-Edward Jones Branch-Willow Brook Elementary",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-edward-jones-willow-brook-elementary-creve-coeur-east-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
     },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  },
-  {
-    "id": "restricted:childcare:st-louis-county:ymca-edward-jones-early-childhood-education-creve-coeur-east",
-    "name": "YMCA-Edward Jones Branch-Early Childhood Education Center",
-    "county": "st-louis-county",
-    "municipality": "Creve Coeur",
-    "restrictedPropertyType": "childcare",
-    "address": "",
-    "location": { "lat": null, "lng": null },
-    "source": {
-      "id": "source-ymca-edward-jones-early-childhood-education-creve-coeur-east-001",
-      "sourceType": "state-data",
-      "sourceName": "MO DHSS",
-      "fetchedAt": "2026-03-28T00:00:00.000Z"
-    },
-    "createdAt": "2026-03-28T00:00:00.000Z",
-    "updatedAt": "2026-03-28T00:00:00.000Z"
-  }
-]
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-edward-jones-early-childhood-education-creve-coeur-east",
+      "name": "YMCA-Edward Jones Branch-Early Childhood Education Center",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "restrictedPropertyType": "childcare",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-edward-jones-early-childhood-education-creve-coeur-east-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DHSS",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    }
+  ]
+}

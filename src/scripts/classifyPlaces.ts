@@ -37,18 +37,19 @@ function computeDistanceChecks(
   place: CandidatePlace,
   sites: RestrictedSite[]
 ): DistanceCheck[] {
-  return sites.map((site) => {
+  return sites.flatMap((site) => {
+    if (site.location.lat === null || site.location.lng === null) return [];
     const meters = getDistance(
       { latitude: place.location.lat, longitude: place.location.lng },
       { latitude: site.location.lat, longitude: site.location.lng }
     );
     const distanceFt = metersToFeet(meters);
-    return {
+    return [{
       restrictedSiteId: site.id,
       restrictedSiteType: site.restrictedPropertyType,
       distanceFt,
       withinThreshold: distanceFt <= 500,
-    };
+    }];
   });
 }
 
