@@ -38,6 +38,8 @@ jobs:
         run: |
           mkdir -p site/public
           cp app/index.html site/
+          cp app/statutes.html site/
+          cp app/resources.html site/
           cp dist/app/app.js site/
           cp app/styles.css site/
           cp public/places.json site/public/places.json

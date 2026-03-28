@@ -88,6 +88,153 @@ body {
   white-space: nowrap;
 }
 
+.header-logo-link {
+  color: inherit;
+  text-decoration: none;
+}
+
+.header-logo-link:hover {
+  color: #e7e5e4;
+}
+
+/* ─── Header Nav ───────────────────────────────────────────────────────────── */
+
+.header-nav {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+
+.nav-link {
+  padding: 6px 14px;
+  border-radius: var(--radius-sm);
+  font-size: 14px;
+  font-weight: 500;
+  color: #a8a29e;
+  text-decoration: none;
+  transition: color 0.15s, background 0.15s;
+}
+
+.nav-link:hover {
+  color: var(--color-header-text);
+  background: rgba(255,255,255,0.08);
+}
+
+.nav-link--active {
+  color: var(--color-header-text);
+  background: rgba(255,255,255,0.1);
+}
+
+/* ─── Static Page Content ──────────────────────────────────────────────────── */
+
+.page-content {
+  max-width: 760px;
+  margin: 40px auto;
+  padding: 0 24px 64px;
+}
+
+.page-content h2 {
+  font-size: 22px;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 12px;
+}
+
+.page-content p {
+  font-size: 15px;
+  line-height: 1.7;
+  color: #44403c;
+  margin-bottom: 16px;
+}
+
+.statute-block {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 24px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow);
+}
+
+.statute-block h3 {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--color-text);
+  margin-bottom: 4px;
+}
+
+.statute-block .statute-cite {
+  font-size: 13px;
+  color: var(--color-muted);
+  margin-bottom: 14px;
+}
+
+.statute-block .statute-cite a {
+  color: var(--color-link);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.statute-block .statute-cite a:hover {
+  text-decoration: underline;
+}
+
+.statute-block p {
+  margin-bottom: 10px;
+}
+
+.statute-block p:last-child {
+  margin-bottom: 0;
+}
+
+.statute-block .statute-penalty {
+  font-size: 13px;
+  color: var(--color-muted);
+  margin-top: 10px;
+  padding-top: 10px;
+  border-top: 1px solid var(--color-border);
+}
+
+.resource-block {
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  padding: 24px;
+  margin-bottom: 20px;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.resource-block h3 {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--color-text);
+}
+
+.resource-block .resource-publisher {
+  font-size: 13px;
+  color: var(--color-muted);
+}
+
+.resource-block p {
+  margin-bottom: 0;
+}
+
+.resource-block .resource-link {
+  display: inline-block;
+  margin-top: 4px;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--color-link);
+  text-decoration: none;
+}
+
+.resource-block .resource-link:hover {
+  text-decoration: underline;
+}
+
 /* ─── Legend Bar ───────────────────────────────────────────────────────────── */
 
 .legend-bar {
