@@ -103,7 +103,7 @@ function renderCard(place: PublicPlaceRecord): string {
       ? `<ul class="reasons">${place.reasons.map((r) => `<li>${r}</li>`).join("")}</ul>`
       : "";
 
-  const warningsHtml = `<p class="card-notice">&#9888; See important notice below.</p>`;
+  const warningsHtml = `<p class="card-notice">&#9888; <a href="#site-footer">Read notice</a></p>`;
 
   const mapsLink = place.googleMapsUrl
     ? `<a class="maps-link" href="${place.googleMapsUrl}" target="_blank" rel="noopener noreferrer">View on Google Maps</a>`
