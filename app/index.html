@@ -17,6 +17,23 @@
     </div>
   </header>
 
+  <div class="legend-bar">
+    <div class="legend-inner">
+      <span class="legend-item">
+        <span class="legend-dot legend-dot--candidate"></span>
+        <strong>Candidate</strong> — No known restriction signals
+      </span>
+      <span class="legend-item">
+        <span class="legend-dot legend-dot--review"></span>
+        <strong>Needs Review</strong> — Possible conflicts or unclear conditions
+      </span>
+      <span class="legend-item">
+        <span class="legend-dot legend-dot--excluded"></span>
+        <strong>Likely Excluded</strong> — Likely conflicts with statutory restrictions
+      </span>
+    </div>
+  </div>
+
   <main class="layout">
     <aside class="sidebar">
       <div class="filter-group">
@@ -31,14 +48,14 @@
       <div class="filter-group">
         <label for="filter-type">Recreation Type</label>
         <select id="filter-type">
-          <option value="">All Types</option>
+          <option value="">All Recreation Types</option>
         </select>
       </div>
 
       <div class="filter-group">
         <label for="filter-classification">Classification</label>
         <select id="filter-classification">
-          <option value="">All</option>
+          <option value="">All Classifications</option>
           <option value="candidate">Candidate</option>
           <option value="needs-review">Needs Review</option>
         </select>
@@ -55,9 +72,9 @@
   <footer class="site-footer" id="site-footer">
     <div class="footer-inner">
       <p class="footer-warning">
-        <strong>Important:</strong> Individual supervision requirements may impose additional restrictions beyond automated checks. Always verify current statutes and local ordinances before relying on this information.
+        <strong>Important Notice:</strong> This directory is a guidance tool based on available data — it is not legal advice and does not guarantee suitability. Individual supervision requirements and local ordinances may impose additional restrictions. Always verify current statutes before relying on this information.
       </p>
-      <p class="footer-meta">MOSAIC is a guidance tool, not legal advice.</p>
+      <p class="footer-meta">MOSAIC &mdash; Missouri Options &amp; Site Access Information Catalog</p>
     </div>
   </footer>
 

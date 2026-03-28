@@ -5,7 +5,7 @@ interface LatLng {
   lng: number;
 }
 
-type PlaceClassification = "candidate" | "needs-review";
+type PlaceClassification = "candidate" | "needs-review" | "likely-excluded";
 type RecreationType = string;
 type County = "st-louis-county" | "st-charles-county";
 
@@ -87,23 +87,22 @@ function formatCounty(county: string, municipality?: string): string {
   return municipality ? `${municipality}, ${countyLabel}` : countyLabel;
 }
 
-function classificationClass(c: string): string {
-  if (c === "candidate") return "badge badge--candidate";
-  if (c === "needs-review") return "badge badge--review";
+function classificationClass(c: PlaceClassification): string {
+  if (c === "candidate")     return "badge badge--candidate";
+  if (c === "needs-review")  return "badge badge--review";
+  if (c === "likely-excluded") return "badge badge--excluded";
   return "badge";
 }
 
 function renderCard(place: PublicPlaceRecord): string {
   const locationLine = formatCounty(place.county, place.municipality);
-  const badge = `<span class="${classificationClass(place.finalClassification)}">${formatLabel(place.finalClassification)}</span>`;
+  const badge     = `<span class="${classificationClass(place.finalClassification)}">${formatLabel(place.finalClassification)}</span>`;
   const typeBadge = `<span class="badge badge--type">${formatLabel(place.recreationType)}</span>`;
 
   const reasonsHtml =
     place.reasons.length > 0
       ? `<ul class="reasons">${place.reasons.map((r) => `<li>${r}</li>`).join("")}</ul>`
       : "";
-
-  const warningsHtml = `<p class="card-notice">&#9888; <a href="#site-footer">Read notice</a></p>`;
 
   const mapsLink = place.googleMapsUrl
     ? `<a class="maps-link" href="${place.googleMapsUrl}" target="_blank" rel="noopener noreferrer">View on Google Maps</a>`
@@ -113,7 +112,7 @@ function renderCard(place: PublicPlaceRecord): string {
     ? `<a class="website-link" href="${place.websiteUrl}" target="_blank" rel="noopener noreferrer">Website</a>`
     : "";
 
-  const links = [mapsLink, websiteLink].filter(Boolean).join(" ");
+  const links = [mapsLink, websiteLink].filter(Boolean).join("");
 
   return `
     <article class="place-card" data-id="${place.id}">
@@ -124,7 +123,7 @@ function renderCard(place: PublicPlaceRecord): string {
       <p class="place-location">${locationLine}</p>
       <p class="place-summary">${place.summary}</p>
       ${reasonsHtml}
-      ${warningsHtml}
+      <p class="card-guidance">&#9888; This is general guidance based on available data. Individual restrictions may still apply.</p>
       ${links ? `<div class="card-links">${links}</div>` : ""}
       <p class="card-meta">Last reviewed: ${place.lastReviewedLabel}</p>
     </article>
@@ -132,49 +131,38 @@ function renderCard(place: PublicPlaceRecord): string {
 }
 
 function render(): void {
-  const grid = document.getElementById("place-grid")!;
+  const grid    = document.getElementById("place-grid")!;
   const countEl = document.getElementById("result-count")!;
   const filtered = getFilteredPlaces();
 
   if (filtered.length === 0) {
-    grid.innerHTML = `<div class="empty-state">No places match the selected filters.</div>`;
+    grid.innerHTML = `<div class="empty-state">No locations match your filters. Try expanding your search.</div>`;
   } else {
     grid.innerHTML = filtered.map(renderCard).join("");
   }
 
-  countEl.textContent = `${filtered.length} place${filtered.length !== 1 ? "s" : ""}`;
+  countEl.textContent = `${filtered.length} location${filtered.length !== 1 ? "s" : ""}`;
 }
 
 // ─── Event Listeners ──────────────────────────────────────────────────────────
 
 function bindFilters(): void {
   const countySelect = document.getElementById("filter-county") as HTMLSelectElement;
-  const typeSelect = document.getElementById("filter-type") as HTMLSelectElement;
-  const classSelect = document.getElementById("filter-classification") as HTMLSelectElement;
-  const resetBtn = document.getElementById("reset-filters") as HTMLButtonElement;
+  const typeSelect   = document.getElementById("filter-type") as HTMLSelectElement;
+  const classSelect  = document.getElementById("filter-classification") as HTMLSelectElement;
+  const resetBtn     = document.getElementById("reset-filters") as HTMLButtonElement;
 
-  countySelect.addEventListener("change", () => {
-    filters.county = countySelect.value;
-    render();
-  });
-
-  typeSelect.addEventListener("change", () => {
-    filters.type = typeSelect.value;
-    render();
-  });
-
-  classSelect.addEventListener("change", () => {
-    filters.classification = classSelect.value;
-    render();
-  });
+  countySelect.addEventListener("change", () => { filters.county = countySelect.value; render(); });
+  typeSelect.addEventListener("change",   () => { filters.type   = typeSelect.value;   render(); });
+  classSelect.addEventListener("change",  () => { filters.classification = classSelect.value; render(); });
 
   resetBtn.addEventListener("click", () => {
     filters.county = "";
-    filters.type = "";
+    filters.type   = "";
     filters.classification = "";
     countySelect.value = "";
-    typeSelect.value = "";
-    classSelect.value = "";
+    typeSelect.value   = "";
+    classSelect.value  = "";
     render();
   });
 }

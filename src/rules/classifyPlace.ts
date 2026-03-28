@@ -12,9 +12,6 @@ export interface ClassificationContext {
   distanceChecks: DistanceCheck[];
 }
 
-const SUPERVISION_WARNING =
-  "Individual supervision requirements may impose additional restrictions beyond automated checks. Always verify current statutes and local ordinances.";
-
 export function classifyPlace(
   place: CandidatePlace,
   flags: RestrictionFlags,
@@ -43,7 +40,7 @@ export function classifyPlace(
 
   if (flags.onRestrictedProperty) {
     classification = "likely-excluded";
-    summary = `${place.name} is likely excluded because it is located on a restricted property.`;
+    summary = `This location appears to be on or within a restricted property and likely conflicts with statutory restrictions. It is not recommended without further legal review.`;
   } else if (
     flags.nearSchool500ft ||
     flags.nearChildcare500ft ||
@@ -51,10 +48,10 @@ export function classifyPlace(
     flags.specialReviewRequired
   ) {
     classification = "needs-review";
-    summary = `${place.name} requires review due to proximity to a restricted site or a special review flag.`;
+    summary = `Possible conflicts were detected near this location. Further review is recommended before considering it a suitable option.`;
   } else {
     classification = "candidate";
-    summary = `${place.name} has no proximity conflicts and is a candidate for inclusion.`;
+    summary = `No nearby restriction zones were detected. This location may be a suitable recreation option, but individual restrictions may still apply.`;
   }
 
   return {
@@ -63,10 +60,7 @@ export function classifyPlace(
     flags,
     explanation: {
       summary,
-      reasons: [
-        ...(reasons.length > 0 ? reasons : ["No restriction flags triggered."]),
-        SUPERVISION_WARNING,
-      ],
+      reasons: reasons.length > 0 ? reasons : ["No restriction flags were triggered."],
       distanceChecks: context.distanceChecks,
     },
     classifiedAt: new Date().toISOString(),
