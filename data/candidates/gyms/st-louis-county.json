@@ -11,7 +11,10 @@
       "municipality": "Bridgeton",
       "recreationType": "gym",
       "address": "11901 St Charles Rock Rd, Bridgeton, MO",
-      "location": { "lat": 38.7512, "lng": -90.4275 },
+      "location": {
+        "lat": 38.7512,
+        "lng": -90.4275
+      },
       "googleMapsUrl": "https://maps.google.com/?q=38.7512,-90.4275",
       "source": {
         "id": "source-gym-001",
@@ -21,9 +24,2282 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["indoor", "fitness"],
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
       "createdAt": "2026-03-28T00:00:00.000Z",
       "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gym:st-louis-county:south-county-ymca",
+      "name": "South County Family YMCA",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "recreationType": "gym",
+      "address": "12736 Southfork Rd, St. Louis, MO 63128",
+      "location": {
+        "lat": 38.5048,
+        "lng": -90.3661
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5048,-90.3661",
+      "websiteUrl": "https://www.gwrymca.org/locations/south-county-family-ymca",
+      "source": {
+        "id": "source-gym-002",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gym:st-louis-county:riverchase-ymca",
+      "name": "RiverChase YMCA",
+      "county": "st-louis-county",
+      "municipality": "Fenton",
+      "recreationType": "gym",
+      "address": "990 Horan Dr, Fenton, MO 63026",
+      "location": {
+        "lat": 38.5132,
+        "lng": -90.4529
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5132,-90.4529",
+      "websiteUrl": "https://www.gwrymca.org/locations/riverchase-ymca",
+      "source": {
+        "id": "source-gym-003",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gym:st-louis-county:mid-county-ymca",
+      "name": "Mid-County Family YMCA",
+      "county": "st-louis-county",
+      "municipality": "Brentwood",
+      "recreationType": "gym",
+      "address": "1900 Urban Dr, Brentwood, MO 63144",
+      "location": {
+        "lat": 38.6175,
+        "lng": -90.3492
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6175,-90.3492",
+      "websiteUrl": "https://www.gwrymca.org/locations/mid-county-family-ymca",
+      "source": {
+        "id": "source-gym-004",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gym:st-louis-county:chesterfield-family-ymca",
+      "name": "Chesterfield Family YMCA",
+      "county": "st-louis-county",
+      "municipality": "Chesterfield",
+      "recreationType": "gym",
+      "address": "16464 Burkhardt Pl, Chesterfield, MO 63017",
+      "location": {
+        "lat": 38.6614,
+        "lng": -90.5724
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6614,-90.5724",
+      "websiteUrl": "https://www.gwrymca.org/locations/chesterfield-family-ymca",
+      "source": {
+        "id": "source-gym-005",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gym:st-louis-county:the-pointe-at-ballwin",
+      "name": "The Pointe at Ballwin Commons",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "recreationType": "gym",
+      "address": "1 Ballwin Commons Cir, Ballwin, MO 63021",
+      "location": {
+        "lat": 38.5951,
+        "lng": -90.553
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5951,-90.5530",
+      "websiteUrl": "https://www.ballwin.mo.us/Ballwin-Parks-and-Recreation",
+      "source": {
+        "id": "source-gym-006",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:24-hour-fitness-2611163187",
+      "name": "24 Hour Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.5997314,
+        "lng": -90.397733
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5997314,-90.397733",
+      "source": {
+        "id": "osm-2611163187",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.984Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.984Z",
+      "updatedAt": "2026-04-04T15:39:20.984Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:crunch-fitness-3383768689",
+      "name": "Crunch Fitness",
+      "county": "st-louis-county",
+      "municipality": "Manchester",
+      "recreationType": "gym",
+      "address": "151 Highlands Boulevard Drive",
+      "location": {
+        "lat": 38.593859,
+        "lng": -90.5074432
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.593859,-90.5074432",
+      "websiteUrl": "https://www.crunch.com/locations/manchester-mo",
+      "source": {
+        "id": "osm-3383768689",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.988Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.988Z",
+      "updatedAt": "2026-04-04T15:39:20.988Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:club-fitness-3977331773",
+      "name": "Club Fitness",
+      "county": "st-louis-county",
+      "municipality": "Affton",
+      "recreationType": "gym",
+      "address": "10047 Gravois Road",
+      "location": {
+        "lat": 38.5518057,
+        "lng": -90.334937
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5518057,-90.334937",
+      "source": {
+        "id": "osm-3977331773",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.990Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.990Z",
+      "updatedAt": "2026-04-04T15:39:20.990Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:fit-city-gym-4139195407",
+      "name": "Fit City Gym",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "1601 South Jefferson Avenue",
+      "location": {
+        "lat": 38.6164785,
+        "lng": -90.2217406
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6164785,-90.2217406",
+      "websiteUrl": "https://www.fitcitystl.com/?y_source=1_MTAzODAzNTI1Ni03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D",
+      "source": {
+        "id": "osm-4139195407",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.990Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.990Z",
+      "updatedAt": "2026-04-04T15:39:20.990Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:anytime-fitness-4720608761",
+      "name": "Anytime Fitness",
+      "county": "st-louis-county",
+      "municipality": "Washington",
+      "recreationType": "gym",
+      "address": "2022 Phoenix Center Drive",
+      "location": {
+        "lat": 38.5372372,
+        "lng": -90.9857084
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5372372,-90.9857084",
+      "source": {
+        "id": "osm-4720608761",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.991Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.991Z",
+      "updatedAt": "2026-04-04T15:39:20.991Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:9round-4764550179",
+      "name": "9Round",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "recreationType": "gym",
+      "address": "12536 Olive Boulevard",
+      "location": {
+        "lat": 38.6756925,
+        "lng": -90.4648665
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6756925,-90.4648665",
+      "websiteUrl": "https://www.9round.com/",
+      "source": {
+        "id": "osm-4764550179",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.992Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.992Z",
+      "updatedAt": "2026-04-04T15:39:20.992Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:snap-fitness-4989701174",
+      "name": "Snap Fitness",
+      "county": "st-louis-county",
+      "municipality": "Union",
+      "recreationType": "gym",
+      "address": "29 Silo Drive",
+      "location": {
+        "lat": 38.4335962,
+        "lng": -90.9750342
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4335962,-90.9750342",
+      "source": {
+        "id": "osm-4989701174",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.993Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.993Z",
+      "updatedAt": "2026-04-04T15:39:20.993Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:red-fitness-lounge-5470181124",
+      "name": "Red Fitness Lounge",
+      "county": "st-louis-county",
+      "municipality": "Clayton",
+      "recreationType": "gym",
+      "address": "139 Carondelet Plaza",
+      "location": {
+        "lat": 38.6487551,
+        "lng": -90.3325148
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6487551,-90.3325148",
+      "websiteUrl": "https://redfitnesslounge.com/",
+      "source": {
+        "id": "osm-5470181124",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.994Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.994Z",
+      "updatedAt": "2026-04-04T15:39:20.994Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:club-pilates-5637995807",
+      "name": "Club Pilates",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.6685335,
+        "lng": -90.4426402
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6685335,-90.4426402",
+      "source": {
+        "id": "osm-5637995807",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.997Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.997Z",
+      "updatedAt": "2026-04-04T15:39:20.997Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:pilates-yoga-studio-5967761432",
+      "name": "Pilates + Yoga Studio",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "recreationType": "gym",
+      "address": "1015 McCausland Avenue",
+      "location": {
+        "lat": 38.6324599,
+        "lng": -90.304961
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6324599,-90.304961",
+      "websiteUrl": "https://www.pilatesyogastudio.com/",
+      "source": {
+        "id": "osm-5967761432",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.999Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.999Z",
+      "updatedAt": "2026-04-04T15:39:20.999Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:gold-s-gym-6161148123",
+      "name": "Gold's Gym",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.5978029,
+        "lng": -90.484334
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5978029,-90.484334",
+      "source": {
+        "id": "osm-6161148123",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.003Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.003Z",
+      "updatedAt": "2026-04-04T15:39:21.003Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:fuel-6361446467",
+      "name": "Fuel",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.637863,
+        "lng": -90.3398831
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.637863,-90.3398831",
+      "source": {
+        "id": "osm-6361446467",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.005Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.005Z",
+      "updatedAt": "2026-04-04T15:39:21.005Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:absolute-martial-arts-6361870706",
+      "name": "Absolute Martial Arts",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "recreationType": "gym",
+      "address": "8822 Gravois Rd",
+      "location": {
+        "lat": 38.555796,
+        "lng": -90.3107567
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.555796,-90.3107567",
+      "websiteUrl": "https://absolutemartialarts.com",
+      "source": {
+        "id": "osm-6361870706",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.006Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.006Z",
+      "updatedAt": "2026-04-04T15:39:21.006Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:the-smart-studio-6583556515",
+      "name": "The SMART Studio",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.6091335,
+        "lng": -90.2337516
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6091335,-90.2337516",
+      "source": {
+        "id": "osm-6583556515",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.008Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.008Z",
+      "updatedAt": "2026-04-04T15:39:21.008Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:vero-fitness-6796923307",
+      "name": "Vero Fitness",
+      "county": "st-louis-county",
+      "municipality": "Pacific",
+      "recreationType": "gym",
+      "address": "522 East Osage Street",
+      "location": {
+        "lat": 38.4835598,
+        "lng": -90.734883
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4835598,-90.734883",
+      "websiteUrl": "https://www.verofitness.com/",
+      "source": {
+        "id": "osm-6796923307",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.011Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.011Z",
+      "updatedAt": "2026-04-04T15:39:21.011Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:crossfit-6839045069",
+      "name": "CrossFit",
+      "county": "st-louis-county",
+      "municipality": "Wildwood",
+      "recreationType": "gym",
+      "address": "16966 Manchester Road",
+      "location": {
+        "lat": 38.5752819,
+        "lng": -90.6367063
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5752819,-90.6367063",
+      "source": {
+        "id": "osm-6839045069",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.011Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.011Z",
+      "updatedAt": "2026-04-04T15:39:21.011Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:anytime-fitness-6839048540",
+      "name": "Anytime Fitness",
+      "county": "st-louis-county",
+      "municipality": "Wildwood",
+      "recreationType": "gym",
+      "address": "2450 Taylor Road",
+      "location": {
+        "lat": 38.580584,
+        "lng": -90.6271715
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.580584,-90.6271715",
+      "websiteUrl": "https://www.anytimefitness.com/gyms/3531/wildwood-mo-63040/",
+      "source": {
+        "id": "osm-6839048540",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.012Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.012Z",
+      "updatedAt": "2026-04-04T15:39:21.012Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:fit-body-boot-camp-6848055254",
+      "name": "Fit Body Boot Camp",
+      "county": "st-louis-county",
+      "municipality": "Manchester",
+      "recreationType": "gym",
+      "address": "691 Big Bend Road",
+      "location": {
+        "lat": 38.5687985,
+        "lng": -90.5218752
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5687985,-90.5218752",
+      "source": {
+        "id": "osm-6848055254",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.013Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.013Z",
+      "updatedAt": "2026-04-04T15:39:21.013Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:planet-fitness-6955999957",
+      "name": "Planet Fitness",
+      "county": "st-louis-county",
+      "municipality": "Fenton",
+      "recreationType": "gym",
+      "address": "687 Gravois Bluffs Boulevard",
+      "location": {
+        "lat": 38.509866,
+        "lng": -90.4422086
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.509866,-90.4422086",
+      "source": {
+        "id": "osm-6955999957",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.014Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.014Z",
+      "updatedAt": "2026-04-04T15:39:21.014Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:eagle-fitness-7100094596",
+      "name": "Eagle Fitness",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "recreationType": "gym",
+      "address": "23 Mullanphy Gardens Shopping Center",
+      "location": {
+        "lat": 38.8140334,
+        "lng": -90.3447955
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8140334,-90.3447955",
+      "source": {
+        "id": "osm-7100094596",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.016Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.016Z",
+      "updatedAt": "2026-04-04T15:39:21.016Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:club-fitness-7123514249",
+      "name": "Club Fitness",
+      "county": "st-louis-county",
+      "municipality": "East Alton",
+      "recreationType": "gym",
+      "address": "47 Eastgate Plaza",
+      "location": {
+        "lat": 38.8800505,
+        "lng": -90.119427
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8800505,-90.119427",
+      "websiteUrl": "https://www.clubfitness.us/location/east-alton/",
+      "source": {
+        "id": "osm-7123514249",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.016Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.016Z",
+      "updatedAt": "2026-04-04T15:39:21.016Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:anytime-fitness-7141543873",
+      "name": "Anytime Fitness",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "4329 Butler Hill Road",
+      "location": {
+        "lat": 38.4878511,
+        "lng": -90.3580779
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4878511,-90.3580779",
+      "websiteUrl": "https://www.anytimefitness.com/gyms/3922/st-louis-mo-63128/",
+      "source": {
+        "id": "osm-7141543873",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.017Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.017Z",
+      "updatedAt": "2026-04-04T15:39:21.017Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:river-bend-yoga-7190047387",
+      "name": "River Bend Yoga",
+      "county": "st-louis-county",
+      "municipality": "Alton",
+      "recreationType": "gym",
+      "address": "202 State Street",
+      "location": {
+        "lat": 38.8909466,
+        "lng": -90.1887214
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8909466,-90.1887214",
+      "source": {
+        "id": "osm-7190047387",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.018Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.018Z",
+      "updatedAt": "2026-04-04T15:39:21.018Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:club-fitness-7895541421",
+      "name": "Club Fitness",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "12 Hampton Village Plaza",
+      "location": {
+        "lat": 38.5927265,
+        "lng": -90.292288
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5927265,-90.292288",
+      "websiteUrl": "https://www.clubfitness.us/location/hampton-club-fitness/",
+      "source": {
+        "id": "osm-7895541421",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.019Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.019Z",
+      "updatedAt": "2026-04-04T15:39:21.019Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:blue-sky-yoga-st-louis-7965420346",
+      "name": "Blue Sky Yoga St. Louis",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "3525 Watson Road",
+      "location": {
+        "lat": 38.5985179,
+        "lng": -90.3006173
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5985179,-90.3006173",
+      "websiteUrl": "https://www.blueskyyogastl.com/",
+      "source": {
+        "id": "osm-7965420346",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.019Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.019Z",
+      "updatedAt": "2026-04-04T15:39:21.019Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:st-louis-fitness-club-7965461139",
+      "name": "St. Louis Fitness Club",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "3525 Hampton Avenue",
+      "location": {
+        "lat": 38.5978161,
+        "lng": -90.2929183
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5978161,-90.2929183",
+      "websiteUrl": "https://www.stlfitnessclub.com/",
+      "source": {
+        "id": "osm-7965461139",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.021Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.021Z",
+      "updatedAt": "2026-04-04T15:39:21.021Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:planet-fitness-8000195176",
+      "name": "Planet Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.8117167,
+        "lng": -90.2950532
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8117167,-90.2950532",
+      "source": {
+        "id": "osm-8000195176",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.021Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.021Z",
+      "updatedAt": "2026-04-04T15:39:21.021Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:yoga-six-8443170376",
+      "name": "Yoga Six",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "5724 Oakland Avenue",
+      "location": {
+        "lat": 38.6300999,
+        "lng": -90.2823336
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6300999,-90.2823336",
+      "websiteUrl": "https://yogasix.com",
+      "source": {
+        "id": "osm-8443170376",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.022Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.022Z",
+      "updatedAt": "2026-04-04T15:39:21.022Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:jazzercise-9310909153",
+      "name": "Jazzercise",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.4624017,
+        "lng": -90.3695054
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4624017,-90.3695054",
+      "source": {
+        "id": "osm-9310909153",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.023Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.023Z",
+      "updatedAt": "2026-04-04T15:39:21.023Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:planet-fitness-9710346879",
+      "name": "Planet Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.5901609,
+        "lng": -90.2723456
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5901609,-90.2723456",
+      "source": {
+        "id": "osm-9710346879",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.023Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.023Z",
+      "updatedAt": "2026-04-04T15:39:21.023Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:orangetheory-fitness-9718175717",
+      "name": "Orangetheory Fitness",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "recreationType": "gym",
+      "address": "10277 Clayton Road",
+      "location": {
+        "lat": 38.6340603,
+        "lng": -90.4044618
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6340603,-90.4044618",
+      "websiteUrl": "https://www.orangetheory.com/en-us/locations/missouri/ladue/10277-clayton-road/",
+      "source": {
+        "id": "osm-9718175717",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.024Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.024Z",
+      "updatedAt": "2026-04-04T15:39:21.024Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:planet-fitness-9723410110",
+      "name": "Planet Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.5090617,
+        "lng": -90.334746
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5090617,-90.334746",
+      "source": {
+        "id": "osm-9723410110",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.024Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.024Z",
+      "updatedAt": "2026-04-04T15:39:21.024Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:xist-fitness-9747815066",
+      "name": "Xist Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.5236651,
+        "lng": -90.363119
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5236651,-90.363119",
+      "source": {
+        "id": "osm-9747815066",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.025Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.025Z",
+      "updatedAt": "2026-04-04T15:39:21.025Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:the-edge-fitness-clubs-9918329780",
+      "name": "The Edge Fitness Clubs",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.5822084,
+        "lng": -90.3217468
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5822084,-90.3217468",
+      "source": {
+        "id": "osm-9918329780",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.026Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.026Z",
+      "updatedAt": "2026-04-04T15:39:21.026Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:planet-fitness-10290201183",
+      "name": "Planet Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.6889375,
+        "lng": -90.3547563
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6889375,-90.3547563",
+      "source": {
+        "id": "osm-10290201183",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.029Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.029Z",
+      "updatedAt": "2026-04-04T15:39:21.029Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:planet-fitness-10744205589",
+      "name": "Planet Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.5918362,
+        "lng": -90.5430607
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5918362,-90.5430607",
+      "source": {
+        "id": "osm-10744205589",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.029Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.029Z",
+      "updatedAt": "2026-04-04T15:39:21.029Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:planet-fitness-10751805139",
+      "name": "Planet Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.5568089,
+        "lng": -90.376404
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5568089,-90.376404",
+      "source": {
+        "id": "osm-10751805139",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.030Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.030Z",
+      "updatedAt": "2026-04-04T15:39:21.030Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:anytime-fitness-10855428547",
+      "name": "Anytime Fitness",
+      "county": "st-louis-county",
+      "municipality": "Olivette",
+      "recreationType": "gym",
+      "address": "9654 Olive Boulevard",
+      "location": {
+        "lat": 38.673198,
+        "lng": -90.3876759
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.673198,-90.3876759",
+      "websiteUrl": "https://www.anytimefitness.com/gyms/4112/olivette-mo-63132/",
+      "source": {
+        "id": "osm-10855428547",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.030Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.030Z",
+      "updatedAt": "2026-04-04T15:39:21.030Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:city-of-arnold-recreation-center-10856467515",
+      "name": "City of Arnold Recreation Center",
+      "county": "st-louis-county",
+      "municipality": "Arnold",
+      "recreationType": "gym",
+      "address": "1695 Missouri State Road",
+      "location": {
+        "lat": 38.4415835,
+        "lng": -90.4022938
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4415835,-90.4022938",
+      "websiteUrl": "https://www.arnoldmo.org/government/departments/parks-recreation/rec-center/",
+      "source": {
+        "id": "osm-10856467515",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.031Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.031Z",
+      "updatedAt": "2026-04-04T15:39:21.031Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:hotworx-10888943527",
+      "name": "Hotworx",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.6737306,
+        "lng": -90.4555113
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6737306,-90.4555113",
+      "source": {
+        "id": "osm-10888943527",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.031Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.031Z",
+      "updatedAt": "2026-04-04T15:39:21.031Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:bodywise-1-on-1-10888943534",
+      "name": "BodyWise 1-on-1",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.6739287,
+        "lng": -90.4565329
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6739287,-90.4565329",
+      "source": {
+        "id": "osm-10888943534",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.031Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.031Z",
+      "updatedAt": "2026-04-04T15:39:21.031Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:orangetheory-fitness-10898964141",
+      "name": "Orangetheory Fitness",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "12434 Tesson Ferry Road",
+      "location": {
+        "lat": 38.5086583,
+        "lng": -90.3746964
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5086583,-90.3746964",
+      "source": {
+        "id": "osm-10898964141",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.032Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.032Z",
+      "updatedAt": "2026-04-04T15:39:21.032Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:pure-barre-10985529479",
+      "name": "Pure Barre",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.654044,
+        "lng": -90.3534488
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.654044,-90.3534488",
+      "source": {
+        "id": "osm-10985529479",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.032Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.032Z",
+      "updatedAt": "2026-04-04T15:39:21.032Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:the-l-a-b-gym-10997669105",
+      "name": "The L.A.B. Gym",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "4011 Papin Street",
+      "location": {
+        "lat": 38.6293446,
+        "lng": -90.2483004
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6293446,-90.2483004",
+      "websiteUrl": "https://labgym.com/",
+      "source": {
+        "id": "osm-10997669105",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.033Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.033Z",
+      "updatedAt": "2026-04-04T15:39:21.033Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:infinity-fitness-11009353191",
+      "name": "Infinity Fitness",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "608 North McKnight Road",
+      "location": {
+        "lat": 38.6613062,
+        "lng": -90.3565014
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6613062,-90.3565014",
+      "websiteUrl": "https://infinityfitnessstl.com/",
+      "source": {
+        "id": "osm-11009353191",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.033Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.033Z",
+      "updatedAt": "2026-04-04T15:39:21.033Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:club-fitness-11016359904",
+      "name": "Club Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.4993901,
+        "lng": -90.3315506
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4993901,-90.3315506",
+      "source": {
+        "id": "osm-11016359904",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.034Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.034Z",
+      "updatedAt": "2026-04-04T15:39:21.034Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:shanti-yoga-wellness-11110031927",
+      "name": "Shanti Yoga + Wellness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.6102281,
+        "lng": -90.2686173
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6102281,-90.2686173",
+      "source": {
+        "id": "osm-11110031927",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.035Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.035Z",
+      "updatedAt": "2026-04-04T15:39:21.035Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:genesis-health-clubs-12228144010",
+      "name": "Genesis Health Clubs",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "3 Cardinal Way",
+      "location": {
+        "lat": 38.6243377,
+        "lng": -90.1925918
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6243377,-90.1925918",
+      "websiteUrl": "https://www.genesishealthclubs.com/locations/ballpark-village.html?utm_campaign=search&utm_medium=organic&utm_source=gbp",
+      "source": {
+        "id": "osm-12228144010",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.042Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.042Z",
+      "updatedAt": "2026-04-04T15:39:21.042Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:xist-fitness-12239794093",
+      "name": "Xist Fitness",
+      "county": "st-louis-county",
+      "municipality": "Arnold",
+      "recreationType": "gym",
+      "address": "3823 Vogel Road",
+      "location": {
+        "lat": 38.4126984,
+        "lng": -90.3990461
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4126984,-90.3990461",
+      "websiteUrl": "https://xistfitness.com/locations/arnold-mo/",
+      "source": {
+        "id": "osm-12239794093",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.042Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.042Z",
+      "updatedAt": "2026-04-04T15:39:21.042Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:eagle-gym-12305143910",
+      "name": "Eagle Gym",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.7042766,
+        "lng": -90.3617796
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7042766,-90.3617796",
+      "source": {
+        "id": "osm-12305143910",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.043Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.043Z",
+      "updatedAt": "2026-04-04T15:39:21.043Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:stretch-lab-12396558528",
+      "name": "Stretch Lab",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.6538472,
+        "lng": -90.3518586
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6538472,-90.3518586",
+      "source": {
+        "id": "osm-12396558528",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.044Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.044Z",
+      "updatedAt": "2026-04-04T15:39:21.044Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:orangetheory-fitness-12532333079",
+      "name": "Orangetheory Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.643485,
+        "lng": -90.261232
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.643485,-90.261232",
+      "source": {
+        "id": "osm-12532333079",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.045Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.045Z",
+      "updatedAt": "2026-04-04T15:39:21.045Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:pure-barre-12532348259",
+      "name": "Pure Barre",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "4931 Lindell Boulevard",
+      "location": {
+        "lat": 38.6437199,
+        "lng": -90.2627116
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6437199,-90.2627116",
+      "websiteUrl": "https://www.purebarre.com/location/st-louis-central-west-end-mo",
+      "source": {
+        "id": "osm-12532348259",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.045Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.045Z",
+      "updatedAt": "2026-04-04T15:39:21.045Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:the-simple-fitlife-12626014127",
+      "name": "The Simple FitLife",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.7220145,
+        "lng": -90.3718394
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7220145,-90.3718394",
+      "source": {
+        "id": "osm-12626014127",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.052Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.052Z",
+      "updatedAt": "2026-04-04T15:39:21.052Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:big-fitness-personal-training-12695694790",
+      "name": "Big Fitness Personal Training",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "1904 Washington Avenue",
+      "location": {
+        "lat": 38.6336522,
+        "lng": -90.2066519
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6336522,-90.2066519",
+      "websiteUrl": "https://bigfitnessstl.com/",
+      "source": {
+        "id": "osm-12695694790",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.055Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.055Z",
+      "updatedAt": "2026-04-04T15:39:21.055Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:pro-fit-12784530739",
+      "name": "Pro-Fit",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.7140849,
+        "lng": -90.438194
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7140849,-90.438194",
+      "source": {
+        "id": "osm-12784530739",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.057Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.057Z",
+      "updatedAt": "2026-04-04T15:39:21.057Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:team-central-gymnastics-academy-12804703696",
+      "name": "Team Central Gymnastics Academy",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "address": "2675 Metro Boulevard",
+      "location": {
+        "lat": 38.7192867,
+        "lng": -90.4408357
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7192867,-90.4408357",
+      "websiteUrl": "https://teamcentral.org/",
+      "source": {
+        "id": "osm-12804703696",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.058Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.058Z",
+      "updatedAt": "2026-04-04T15:39:21.058Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:webster-groves-recreational-center-12824194901",
+      "name": "Webster Groves Recreational Center",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "address": "33 East Glendale Road",
+      "location": {
+        "lat": 38.5773489,
+        "lng": -90.3559654
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5773489,-90.3559654",
+      "websiteUrl": "https://www.webstergrovesmo.gov/119/Benny-Gordon-Recreation-Center",
+      "source": {
+        "id": "osm-12824194901",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.058Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.058Z",
+      "updatedAt": "2026-04-04T15:39:21.058Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:boom-pilates-13075231695",
+      "name": "Boom Pilates",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.67255,
+        "lng": -90.4565031
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.67255,-90.4565031",
+      "source": {
+        "id": "osm-13075231695",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.060Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.060Z",
+      "updatedAt": "2026-04-04T15:39:21.060Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:club-pilates-13240208300",
+      "name": "Club Pilates",
+      "county": "st-louis-county",
+      "municipality": "Crestwood",
+      "recreationType": "gym",
+      "address": "9547 Watson Road",
+      "location": {
+        "lat": 38.5588054,
+        "lng": -90.3799217
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5588054,-90.3799217",
+      "websiteUrl": "https://www.clubpilates.com/Crestwood",
+      "source": {
+        "id": "osm-13240208300",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.062Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.062Z",
+      "updatedAt": "2026-04-04T15:39:21.062Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:st-louis-pilates-lab-13304983494",
+      "name": "St. Louis Pilates Lab",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "4981 West Pine Boulevard",
+      "location": {
+        "lat": 38.6425573,
+        "lng": -90.2647685
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6425573,-90.2647685",
+      "websiteUrl": "https://stlpilateslab.com/",
+      "source": {
+        "id": "osm-13304983494",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.062Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.062Z",
+      "updatedAt": "2026-04-04T15:39:21.062Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:cyclebar-13338861601",
+      "name": "CYCLEBAR",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "address": "8025 Dale Avenue",
+      "location": {
+        "lat": 38.6282346,
+        "lng": -90.3329011
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6282346,-90.3329011",
+      "websiteUrl": "https://www.cyclebar.com/location/richmond-heights",
+      "source": {
+        "id": "osm-13338861601",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.063Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.063Z",
+      "updatedAt": "2026-04-04T15:39:21.063Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:omen-athletics-13397862799",
+      "name": "Omen Athletics",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "2665 Washington Boulevard",
+      "location": {
+        "lat": 38.635692,
+        "lng": -90.2153685
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.635692,-90.2153685",
+      "websiteUrl": "https://omenathleticsstl.com/",
+      "source": {
+        "id": "osm-13397862799",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.065Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.065Z",
+      "updatedAt": "2026-04-04T15:39:21.065Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:hotworx-13398061154",
+      "name": "Hotworx",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "3763 Forest Park Avenue",
+      "location": {
+        "lat": 38.6345467,
+        "lng": -90.2398119
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6345467,-90.2398119",
+      "websiteUrl": "https://www.hotworx.net/studio/stlouis-midtown/",
+      "source": {
+        "id": "osm-13398061154",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.065Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.065Z",
+      "updatedAt": "2026-04-04T15:39:21.065Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:eldon-e-pederson-fieldhouse-122054466",
+      "name": "Eldon E Pederson Fieldhouse",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.6373675,
+        "lng": -90.3152087
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6373675,-90.3152087",
+      "source": {
+        "id": "osm-122054466",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.150Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.150Z",
+      "updatedAt": "2026-04-04T15:39:21.150Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:lift-for-life-gym-271626207",
+      "name": "Lift For Life Gym",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "1415 Cass Avenue",
+      "location": {
+        "lat": 38.6417392,
+        "lng": -90.1955286
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6417392,-90.1955286",
+      "websiteUrl": "https://www.liftforlifegym.org/",
+      "source": {
+        "id": "osm-271626207",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.515Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.515Z",
+      "updatedAt": "2026-04-04T15:39:21.515Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:urban-breath-yoga-374854806",
+      "name": "Urban Breath Yoga",
+      "county": "st-louis-county",
+      "municipality": "Maplewood",
+      "recreationType": "gym",
+      "address": "2812 Sutton Boulevard",
+      "location": {
+        "lat": 38.610626,
+        "lng": -90.3198872
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.610626,-90.3198872",
+      "websiteUrl": "https://urbanbreathyoga.com",
+      "source": {
+        "id": "osm-374854806",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.816Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.816Z",
+      "updatedAt": "2026-04-04T15:39:21.816Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:barx-crossfit-377681806",
+      "name": "BARx CrossFit",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "recreationType": "gym",
+      "address": "12309 Old Big Bend Road",
+      "location": {
+        "lat": 38.5681424,
+        "lng": -90.4384964
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5681424,-90.4384964",
+      "websiteUrl": "https://www.barxcrossfit.com/",
+      "source": {
+        "id": "osm-377681806",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.822Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.822Z",
+      "updatedAt": "2026-04-04T15:39:21.822Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:palm-health-465560560",
+      "name": "Palm Health",
+      "county": "st-louis-county",
+      "municipality": "Ladue",
+      "recreationType": "gym",
+      "address": "9160 Clayton Road",
+      "location": {
+        "lat": 38.6410132,
+        "lng": -90.3670671
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6410132,-90.3670671",
+      "websiteUrl": "https://palmhealth.com/",
+      "source": {
+        "id": "osm-465560560",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.986Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.986Z",
+      "updatedAt": "2026-04-04T15:39:21.986Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:homefront-fitness-478138664",
+      "name": "Homefront Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.5325313,
+        "lng": -90.9649826
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5325313,-90.9649826",
+      "source": {
+        "id": "osm-478138664",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.078Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.078Z",
+      "updatedAt": "2026-04-04T15:39:22.078Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:fitness-edge-478295016",
+      "name": "Fitness Edge",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "recreationType": "gym",
+      "address": "10571 Old Olive Street Road",
+      "location": {
+        "lat": 38.6742046,
+        "lng": -90.4138817
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6742046,-90.4138817",
+      "source": {
+        "id": "osm-478295016",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.080Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.080Z",
+      "updatedAt": "2026-04-04T15:39:22.080Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:club-fitness-486443072",
+      "name": "Club Fitness",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "recreationType": "gym",
+      "address": "957 Woodcrest Executive Drive",
+      "location": {
+        "lat": 38.6745785,
+        "lng": -90.452
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6745785,-90.452",
+      "source": {
+        "id": "osm-486443072",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.258Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.258Z",
+      "updatedAt": "2026-04-04T15:39:22.258Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:max-sports-492684453",
+      "name": "Max Sports",
+      "county": "st-louis-county",
+      "municipality": "Alton",
+      "recreationType": "gym",
+      "address": "2300 Henry Street",
+      "location": {
+        "lat": 38.9105905,
+        "lng": -90.1773473
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9105905,-90.1773473",
+      "source": {
+        "id": "osm-492684453",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.329Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.329Z",
+      "updatedAt": "2026-04-04T15:39:22.329Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:crossfit-south-city-627504283",
+      "name": "Crossfit South City",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "gym",
+      "address": "3283 Ivanhoe Avenue",
+      "location": {
+        "lat": 38.603649,
+        "lng": -90.3043029
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.603649,-90.3043029",
+      "websiteUrl": "http://www.crossfitsouthcity.com/",
+      "source": {
+        "id": "osm-627504283",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.116Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.116Z",
+      "updatedAt": "2026-04-04T15:39:23.116Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:casa-bagus-631683339",
+      "name": "Casa Bagus",
+      "county": "st-louis-county",
+      "municipality": "Richmond Heights",
+      "recreationType": "gym",
+      "address": "6318 Clayton Road",
+      "location": {
+        "lat": 38.633421,
+        "lng": -90.3074345
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.633421,-90.3074345",
+      "websiteUrl": "https://www.facebook.com/CasaBagus/",
+      "source": {
+        "id": "osm-631683339",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.133Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.133Z",
+      "updatedAt": "2026-04-04T15:39:23.133Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:gold-s-gym-659478873",
+      "name": "Gold's Gym",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.590628,
+        "lng": -90.5846052
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.590628,-90.5846052",
+      "source": {
+        "id": "osm-659478873",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.358Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.358Z",
+      "updatedAt": "2026-04-04T15:39:23.358Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:the-dungeon-titone-s-pro-gym-1136340621",
+      "name": "The Dungeon: Titone's Pro Gym",
+      "county": "st-louis-county",
+      "municipality": "Arnold",
+      "recreationType": "gym",
+      "address": "2010 Key West Drive",
+      "location": {
+        "lat": 38.4410115,
+        "lng": -90.3860178
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4410115,-90.3860178",
+      "websiteUrl": "http://www.anntitone.com/personal-training.html",
+      "source": {
+        "id": "osm-1136340621",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.287Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.287Z",
+      "updatedAt": "2026-04-04T15:39:24.287Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:club-fitness-1138230112",
+      "name": "Club Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.4470127,
+        "lng": -90.3755987
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4470127,-90.3755987",
+      "source": {
+        "id": "osm-1138230112",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.304Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.304Z",
+      "updatedAt": "2026-04-04T15:39:24.304Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:coach-crafton-athletic-center-1235300932",
+      "name": "Coach Crafton Athletic Center",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.9528157,
+        "lng": -90.3444792
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9528157,-90.3444792",
+      "source": {
+        "id": "osm-1235300932",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.498Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.498Z",
+      "updatedAt": "2026-04-04T15:39:24.498Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:life-time-1366665099",
+      "name": "Life Time",
+      "county": "st-louis-county",
+      "municipality": "Frontenac",
+      "recreationType": "gym",
+      "address": "2051 South Lindbergh Boulevard",
+      "location": {
+        "lat": 38.6262034,
+        "lng": -90.4085817
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6262034,-90.4085817",
+      "websiteUrl": "https://www.lifetime.life/life-time-locations/mo-frontenac.html",
+      "source": {
+        "id": "osm-1366665099",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.846Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.846Z",
+      "updatedAt": "2026-04-04T15:39:24.846Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:planet-fitness-1479379999",
+      "name": "Planet Fitness",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.9161695,
+        "lng": -90.1407157
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9161695,-90.1407157",
+      "source": {
+        "id": "osm-1479379999",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.085Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.085Z",
+      "updatedAt": "2026-04-04T15:39:25.085Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:senior-services-plus-wellness-center-1479380000",
+      "name": "Senior Services Plus Wellness Center",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.9159477,
+        "lng": -90.1364523
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9159477,-90.1364523",
+      "source": {
+        "id": "osm-1479380000",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.087Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.087Z",
+      "updatedAt": "2026-04-04T15:39:25.087Z"
+    },
+    {
+      "id": "candidate:gyms:st-louis-county:american-muscle-1481574078",
+      "name": "American Muscle",
+      "county": "st-louis-county",
+      "municipality": "Byrnes Mill",
+      "recreationType": "gym",
+      "address": "4576 Hunter Lane",
+      "location": {
+        "lat": 38.4116074,
+        "lng": -90.5844066
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4116074,-90.5844066",
+      "websiteUrl": "https://www.americanmusclestl.com/American-muscle-house-springs",
+      "source": {
+        "id": "osm-1481574078",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.092Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.092Z",
+      "updatedAt": "2026-04-04T15:39:25.092Z"
     }
   ]
 }

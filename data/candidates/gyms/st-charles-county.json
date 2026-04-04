@@ -1,0 +1,489 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-charles-county",
+  "category": "gym",
+  "places": [
+    {
+      "id": "candidate:gym:st-charles-county:st-charles-county-ymca",
+      "name": "St. Charles County Family YMCA",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "recreationType": "gym",
+      "address": "3900 Shady Springs Ln, St. Peters, MO 63376",
+      "location": {
+        "lat": 38.7871,
+        "lng": -90.6141
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7871,-90.6141",
+      "websiteUrl": "https://www.gwrymca.org/locations/st-charles-ymca",
+      "source": {
+        "id": "source-st-charles-county-ymca-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gym:st-charles-county:ofallon-family-ymca",
+      "name": "O'Fallon Family YMCA",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "gym",
+      "address": "3451 Pheasant Meadow Dr, O'Fallon, MO 63366",
+      "location": {
+        "lat": 38.7768,
+        "lng": -90.6905
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7768,-90.6905",
+      "websiteUrl": "https://www.gwrymca.org/locations/ofallon-missouri-ymca",
+      "source": {
+        "id": "source-ofallon-family-ymca-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gym:st-charles-county:wentzville-recreation-center",
+      "name": "Wentzville Recreation Center",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "gym",
+      "address": "500 Great Oaks Blvd, Wentzville, MO 63385",
+      "location": {
+        "lat": 38.8135,
+        "lng": -90.8578
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8135,-90.8578",
+      "websiteUrl": "https://www.wentzvillemo.gov/parks-and-recreation/parks-facilities/find-a-park-or-facility/wentzville-rec-center",
+      "source": {
+        "id": "source-wentzville-recreation-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gym:st-charles-county:freedom-fitness-cottleville",
+      "name": "Freedom Fitness – Cottleville",
+      "county": "st-charles-county",
+      "municipality": "Cottleville",
+      "recreationType": "gym",
+      "address": "5991 Mid Rivers Mall Dr, Cottleville, MO 63304",
+      "location": {
+        "lat": 38.7703,
+        "lng": -90.6366
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7703,-90.6366",
+      "websiteUrl": "https://www.gofreedomfit.com/cottleville",
+      "source": {
+        "id": "source-freedom-fitness-cottleville-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gym:st-charles-county:freedom-fitness-ofallon",
+      "name": "Freedom Fitness – O'Fallon",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "gym",
+      "address": "2433 State Highway K, O'Fallon, MO 63368",
+      "location": {
+        "lat": 38.7449,
+        "lng": -90.7239
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7449,-90.7239",
+      "websiteUrl": "https://www.gofreedomfit.com",
+      "source": {
+        "id": "source-freedom-fitness-ofallon-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gym:st-charles-county:freedom-fitness-wentzville",
+      "name": "Freedom Fitness – Wentzville",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "gym",
+      "address": "1074 Crosswinds Ct, Wentzville, MO 63385",
+      "location": {
+        "lat": 38.8176,
+        "lng": -90.8649
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8176,-90.8649",
+      "websiteUrl": "https://www.gofreedomfit.com",
+      "source": {
+        "id": "source-freedom-fitness-wentzville-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "fitness"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:o-fallon-family-ymca-3218288070",
+      "name": "O'Fallon Family YMCA",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.745389,
+        "lng": -90.695342
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.745389,-90.695342",
+      "source": {
+        "id": "osm-3218288070",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.986Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.986Z",
+      "updatedAt": "2026-04-04T15:39:20.986Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:rokita-dancer-center-5628751654",
+      "name": "Rokita Dancer Center",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "recreationType": "gym",
+      "address": "7477 Mexico Road",
+      "location": {
+        "lat": 38.7885018,
+        "lng": -90.6396972
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7885018,-90.6396972",
+      "source": {
+        "id": "osm-5628751654",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.995Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.995Z",
+      "updatedAt": "2026-04-04T15:39:20.995Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:the-little-gym-of-st-charles-5628752569",
+      "name": "The Little Gym of St. Charles",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "recreationType": "gym",
+      "address": "7347 Mexico Road",
+      "location": {
+        "lat": 38.7890364,
+        "lng": -90.6334553
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7890364,-90.6334553",
+      "websiteUrl": "https://www.thelittlegym.com/StCharlesMO",
+      "source": {
+        "id": "osm-5628752569",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.996Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.996Z",
+      "updatedAt": "2026-04-04T15:39:20.996Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:club-pilates-5628789394",
+      "name": "Club Pilates",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "gym",
+      "address": "1894 Wentzville Parkway",
+      "location": {
+        "lat": 38.8179295,
+        "lng": -90.8768297
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8179295,-90.8768297",
+      "websiteUrl": "https://www.clubpilates.com/wentzville/",
+      "source": {
+        "id": "osm-5628789394",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.996Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.996Z",
+      "updatedAt": "2026-04-04T15:39:20.996Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:the-edge-fitness-clubs-5628791460",
+      "name": "The Edge Fitness Clubs",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "recreationType": "gym",
+      "address": "4025 Veterans Memorial Parkway",
+      "location": {
+        "lat": 38.7927257,
+        "lng": -90.5685797
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7927257,-90.5685797",
+      "websiteUrl": "https://www.theedgefitnessclubs.com/locations/missouri/st-peters/",
+      "source": {
+        "id": "osm-5628791460",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.996Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.996Z",
+      "updatedAt": "2026-04-04T15:39:20.996Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:club-fitness-6307394343",
+      "name": "Club Fitness",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "gym",
+      "address": "225 O'Fallon Plaza",
+      "location": {
+        "lat": 38.808195,
+        "lng": -90.6969401
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.808195,-90.6969401",
+      "websiteUrl": "https://www.clubfitness.us/location/ofallon-north/",
+      "source": {
+        "id": "osm-6307394343",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.004Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.004Z",
+      "updatedAt": "2026-04-04T15:39:21.004Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:club-fitness-6436549026",
+      "name": "Club Fitness",
+      "county": "st-charles-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.7596446,
+        "lng": -90.7036155
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7596446,-90.7036155",
+      "source": {
+        "id": "osm-6436549026",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.006Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.006Z",
+      "updatedAt": "2026-04-04T15:39:21.006Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:fitness-center-6751165021",
+      "name": "Fitness Center",
+      "county": "st-charles-county",
+      "recreationType": "gym",
+      "location": {
+        "lat": 38.9461031,
+        "lng": -90.5878782
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9461031,-90.5878782",
+      "source": {
+        "id": "osm-6751165021",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.009Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.009Z",
+      "updatedAt": "2026-04-04T15:39:21.009Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:olympia-gymnastics-160365926",
+      "name": "Olympia Gymnastics",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "recreationType": "gym",
+      "address": "248 Mid Rivers Center",
+      "location": {
+        "lat": 38.7928439,
+        "lng": -90.6194105
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7928439,-90.6194105",
+      "websiteUrl": "http://www.olympiadgymnastics.org/mid-rivers.html",
+      "source": {
+        "id": "osm-160365926",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.368Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.368Z",
+      "updatedAt": "2026-04-04T15:39:21.368Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:planet-fitness-547539968",
+      "name": "Planet Fitness",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "recreationType": "gym",
+      "address": "490 Mid Rivers Mall Circle",
+      "location": {
+        "lat": 38.7953538,
+        "lng": -90.6116005
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7953538,-90.6116005",
+      "websiteUrl": "https://www.planetfitness.com/gyms/st-peters-mid-rivers-mall-mo",
+      "source": {
+        "id": "osm-547539968",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.680Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.680Z",
+      "updatedAt": "2026-04-04T15:39:22.680Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:cdy-fitness-llc-670504517",
+      "name": "CDY Fitness LLC",
+      "county": "st-charles-county",
+      "municipality": "Troy",
+      "recreationType": "gym",
+      "address": "116 Sarah Ann Boulevard",
+      "location": {
+        "lat": 38.9868335,
+        "lng": -90.9611427
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9868335,-90.9611427",
+      "source": {
+        "id": "osm-670504517",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.471Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.471Z",
+      "updatedAt": "2026-04-04T15:39:23.471Z"
+    },
+    {
+      "id": "candidate:gyms:st-charles-county:planet-fitness-674563933",
+      "name": "Planet Fitness",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "gym",
+      "address": "99 Wentzville Bluffs Drive",
+      "location": {
+        "lat": 38.8042212,
+        "lng": -90.8589566
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8042212,-90.8589566",
+      "source": {
+        "id": "osm-674563933",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.478Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.478Z",
+      "updatedAt": "2026-04-04T15:39:23.478Z"
+    }
+  ]
+}

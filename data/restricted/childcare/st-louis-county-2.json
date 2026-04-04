@@ -1,0 +1,4608 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-31T00:00:00.000Z",
+  "county": "st-louis-county",
+  "sourceKind": "childcare",
+  "sites": [
+    {
+      "id": "restricted:childcare:st-louis-county:training-up-a-child-llc-st-louis",
+      "name": "\"Training Up a Child\" LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1425 Stein Rd, St. Louis, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-training-up-a-child-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:a-better-future-learning-center-llc-st-louis",
+      "name": "A Better Future Learning Center, LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1442 Chambers Rd, St. Louis, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-a-better-future-learning-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:a-generation-chosen-academy-llc-cool-valley",
+      "name": "A Generation Chosen Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "Cool Valley",
+      "restrictedPropertyType": "childcare",
+      "address": "1301 S Florissant Rd, Cool Valley, MO 63121",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-a-generation-chosen-academy-llc-cool-valley-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:agape-academy-and-child-development-center-st-louis",
+      "name": "Agape' Academy and Child Development Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "7400 Olive Blvd, St. Louis, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-agape-academy-and-child-development-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:angels-curious-kids-early-childhood-academic-center-llc-st-louis",
+      "name": "Angel'S Curious Kids Early Childhood Academic Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "12508 Lusher Rd, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-angels-curious-kids-early-childhood-academic-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:apple-of-your-eye-academy-llc-st-louis",
+      "name": "Apple of Your Eye Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2580 Baumgartner Rd, St. Louis, MO 63129",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-apple-of-your-eye-academy-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:bayless-school-district-st-louis",
+      "name": "Bayless School District",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "4531 Weber Rd, St. Louis, MO 63123",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-bayless-school-district-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:betty-dumas-enrichment-palace-st-louis",
+      "name": "Betty Dumas Enrichment Palace",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "12068 Bellefontaine Rd, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-betty-dumas-enrichment-palace-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:boys-girls-clubs-of-greater-st-louis-hazelwood-elementary-school-club-st-louis",
+      "name": "Boys & Girls Clubs of Greater St. Louis - Hazelwood Elementary School Club",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1025 Trampe Ave, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-boys-girls-clubs-of-greater-st-louis-hazelwood-elementary-school-club-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:campfaa-llc-eureka",
+      "name": "Campfaa LLC",
+      "county": "st-louis-county",
+      "municipality": "Eureka",
+      "restrictedPropertyType": "childcare",
+      "address": "608 Top Notch Ln, Eureka, MO 63025",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-campfaa-llc-eureka-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:cdlc-early-learning-llc-ellisville",
+      "name": "Cdlc Early Learning, LLC",
+      "county": "st-louis-county",
+      "municipality": "Ellisville",
+      "restrictedPropertyType": "childcare",
+      "address": "15677 Manchester Rd, Ellisville, MO 63011",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-cdlc-early-learning-llc-ellisville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:childtime-learning-centers-wildwood",
+      "name": "Childtime Learning Centers",
+      "county": "st-louis-county",
+      "municipality": "Wildwood",
+      "restrictedPropertyType": "childcare",
+      "address": "1725 Highway 109, Wildwood, MO 63038",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-childtime-learning-centers-wildwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:courtney-mckenzie-daycare-center-st-louis",
+      "name": "Courtney & Mckenzie Daycare Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2120 Redman Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-courtney-mckenzie-daycare-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:covenant-academy-center-l-l-c-st-louis",
+      "name": "Covenant Academy Center L.L.C.",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "8364 Midland Blvd, St. Louis, MO 63114",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-covenant-academy-center-l-l-c-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:cuddles-day-care-center-corp-florissant",
+      "name": "Cuddles Day Care Center Corp..",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "3815 Shackelford Rd, Florissant, MO 63034",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-cuddles-day-care-center-corp-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:dream-s-t-e-a-m-academy-olivette",
+      "name": "Dream S.T.E.a.M. Academy",
+      "county": "st-louis-county",
+      "municipality": "Olivette",
+      "restrictedPropertyType": "childcare",
+      "address": "9310 Olive Blvd, Olivette, MO 63132",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-dream-s-t-e-a-m-academy-olivette-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:elantis-kids-llc-st-louis",
+      "name": "Elantis Kids, LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "7141 Olive Blvd, St. Louis, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-elantis-kids-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:faiths-in-home-child-development-center-2-llc-st-louis",
+      "name": "Faith'S in Home Child Development Center 2 LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "3006 Pershall Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-faiths-in-home-child-development-center-2-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:family-and-workforce-centers-of-america-wellston",
+      "name": "Family and Workforce Centers of America",
+      "county": "st-louis-county",
+      "municipality": "Wellston",
+      "restrictedPropertyType": "childcare",
+      "address": "1232 Robert L Powell Pl, Wellston, MO 63133",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-family-and-workforce-centers-of-america-wellston-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:first-steps-early-childhood-learning-center-st-louis",
+      "name": "First Steps Early Childhood Learning Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "6912 Woodsmere Cir, St. Louis, MO 63129",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-first-steps-early-childhood-learning-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:future-geniuses-enterprises-inc-st-louis",
+      "name": "Future Geniuses Enterprises, Inc..",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "3830 Pershall Rd, St. Louis, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-future-geniuses-enterprises-inc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:growing-minds-academy-daycare-llc-st-louis",
+      "name": "Growing Minds Academy & Daycare, LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "11889 Benham Rd, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-growing-minds-academy-daycare-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:happy-child-academy-learning-center-llc-hazelwood",
+      "name": "Happy Child Academy \"Learning Center\" LLC",
+      "county": "st-louis-county",
+      "municipality": "Hazelwood",
+      "restrictedPropertyType": "childcare",
+      "address": "317 Elmgrove Ave, Hazelwood, MO 63042",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-happy-child-academy-learning-center-llc-hazelwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:hazelwood-child-development-center-limited-liability-company-hazelwood",
+      "name": "Hazelwood Child Development Center Limited Liability Company",
+      "county": "st-louis-county",
+      "municipality": "Hazelwood",
+      "restrictedPropertyType": "childcare",
+      "address": "819 Hazelwest Dr, Hazelwood, MO 63042",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-hazelwood-child-development-center-limited-liability-company-hazelwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:hildis-kids-learning-center-llc-berkeley",
+      "name": "Hildi'S Kids Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Berkeley",
+      "restrictedPropertyType": "childcare",
+      "address": "8606 Frost Ave, Berkeley, MO 63134",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-hildis-kids-learning-center-llc-berkeley-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:in-loving-arms-christian-academy-llc-hazelwood",
+      "name": "In Loving Arms Christian Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "Hazelwood",
+      "restrictedPropertyType": "childcare",
+      "address": "8016 N Lindbergh Blvd, Hazelwood, MO 63042",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-in-loving-arms-christian-academy-llc-hazelwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:it-takes-a-village-childcare-and-education-center-llc-st-louis",
+      "name": "It Takes a Village Childcare and Education Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "3211 Woodson Rd, St. Louis, MO 63114",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-it-takes-a-village-childcare-and-education-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:jitterbugs-development-center-llc-st-louis",
+      "name": "Jitterbugs Development Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "420 Chambers Rd, St. Louis, MO 63137",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-jitterbugs-development-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:juega-y-aprende-daycare-llc-st-louis",
+      "name": "Juega Y Aprende Daycare LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9021 Gravois Rd, St. Louis, MO 63123",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-juega-y-aprende-daycare-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:jump-start-learning-center-inc-st-louis",
+      "name": "Jump Start Learning Center, Inc..",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "7240 Page Ave, St. Louis, MO 63133",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-jump-start-learning-center-inc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kandi-land-academy-llc-st-louis",
+      "name": "Kandi Land Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "6201 Page Ave, St. Louis, MO 63133",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kandi-land-academy-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kids-kastle-learning-activity-center-st-louis",
+      "name": "Kid'S Kastle Learning & Activity Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "4710 South Dr, St. Louis, MO 63129",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kids-kastle-learning-activity-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kiddie-kastle-learning-academy-llc-florissant",
+      "name": "Kiddie Kastle Learning Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "12606 Lusher Rd, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kiddie-kastle-learning-academy-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kidz-biz-inc-hazelwood",
+      "name": "Kidz Biz, Inc..",
+      "county": "st-louis-county",
+      "municipality": "Hazelwood",
+      "restrictedPropertyType": "childcare",
+      "address": "7118 N Hanley Rd, Hazelwood, MO 63042",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kidz-biz-inc-hazelwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kidz-r-our-future-child-development-center-llc-florissant",
+      "name": "Kidz R Our Future Child Development Center, LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "2184 N Waterford Dr, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kidz-r-our-future-child-development-center-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kindercare-education-at-work-llc-fenton",
+      "name": "Kindercare Education at Work LLC",
+      "county": "st-louis-county",
+      "municipality": "Fenton",
+      "restrictedPropertyType": "childcare",
+      "address": "241 Wolfner Dr, Fenton, MO 63026",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kindercare-education-at-work-llc-fenton-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kingdom-minded-kidz-llc-st-louis",
+      "name": "Kingdom Minded Kidz LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "4338 Oakwood Ave, St. Louis, MO 63121",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kingdom-minded-kidz-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kirkwood-r-vii-school-district-st-louis",
+      "name": "Kirkwood R-Vii School District",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "100 N Sappington Rd, St. Louis, MO 63122",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kirkwood-r-vii-school-district-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kyddie-kares-youth-academy-and-resource-center-llc-st-louis",
+      "name": "Kyddie Kares Youth Academy and Resource Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "12430 Lusher Rd, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kyddie-kares-youth-academy-and-resource-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kyddie-karnival-24hour-learning-academy-st-louis",
+      "name": "Kyddie Karnival 24hour Learning Academy",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "12265 Bellefontaine Rd, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kyddie-karnival-24hour-learning-academy-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kydz-ark-learning-center-llc-st-louis",
+      "name": "Kydz Ark Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "6527 Olive Blvd, St. Louis, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kydz-ark-learning-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:lakeside-childrens-academy-inc-valley-park",
+      "name": "Lakeside Children'S Academy, Inc..",
+      "county": "st-louis-county",
+      "municipality": "Valley Park",
+      "restrictedPropertyType": "childcare",
+      "address": "1230 Dougherty Ferry Rd, Valley Park, MO 63088",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lakeside-childrens-academy-inc-valley-park-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:lil-smarties-learning-center-inc-ferguson",
+      "name": "Lil Smarties Learning Center, Inc.",
+      "county": "st-louis-county",
+      "municipality": "Ferguson",
+      "restrictedPropertyType": "childcare",
+      "address": "1020 S Florissant Rd, Ferguson, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lil-smarties-learning-center-inc-ferguson-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:lindberghs-little-academy-st-louis",
+      "name": "Lindbergh'S Little Academy",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "4320 S Lindbergh Blvd, St. Louis, MO 63127",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lindberghs-little-academy-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-gingerbread-house-learning-center-llc-st-louis",
+      "name": "Little Gingerbread House Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9706 Lackland Rd, St. Louis, MO 63114",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-gingerbread-house-learning-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-steps-preschool-and-learning-center-2-llc-florissant",
+      "name": "Little Steps Preschool and Learning Center 2, LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "2051 Croftdale Ln, Florissant, MO 63031",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-steps-preschool-and-learning-center-2-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-steps-preschool-and-learning-center-3-llc-florissant",
+      "name": "Little Steps Preschool and Learning Center 3,LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "15444 New Halls Ferry Rd, Florissant, MO 63031",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-steps-preschool-and-learning-center-3-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-steps-preschool-and-learning-center-4-llc-florissant",
+      "name": "Little Steps Preschool and Learning Center 4, LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "2154 N Waterford Dr, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-steps-preschool-and-learning-center-4-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-steps-preschool-and-learning-center-llc-florissant",
+      "name": "Little Steps Preschool and Learning Center, LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "13100 New Halls Ferry Rd, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-steps-preschool-and-learning-center-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:love-n-laughter-christian-academy-manchester",
+      "name": "Love N' Laughter Christian Academy",
+      "county": "st-louis-county",
+      "municipality": "Manchester",
+      "restrictedPropertyType": "childcare",
+      "address": "230 Henry Ave, Manchester, MO 63011",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-love-n-laughter-christian-academy-manchester-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:lovely-child-development-center-llc-ferguson",
+      "name": "Lovely Child Development Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Ferguson",
+      "restrictedPropertyType": "childcare",
+      "address": "10716 New Halls Ferry Rd, Ferguson, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lovely-child-development-center-llc-ferguson-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:lucky-lane-nursery-school-association-benevolent-st-louis",
+      "name": "Lucky Lane Nursery School Association-Benevolent",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "12546 Conway Rd, St. Louis, MO 63141",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lucky-lane-nursery-school-association-benevolent-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:maplewood-richmond-heights-school-district-maplewood",
+      "name": "Maplewood Richmond Heights School District",
+      "county": "st-louis-county",
+      "municipality": "Maplewood",
+      "restrictedPropertyType": "childcare",
+      "address": "2801 Oakland Ave, Maplewood, MO 63143",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-maplewood-richmond-heights-school-district-maplewood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:mary-margaret-day-care-and-learning-center-st-louis",
+      "name": "Mary Margaret Day Care and Learning Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2011 Redman Rd, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-mary-margaret-day-care-and-learning-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:mary-margarets-day-care-and-learning-center-st-louis",
+      "name": "Mary Margaret'S Day Care and Learning Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "10055 Halls Ferry Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-mary-margarets-day-care-and-learning-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:morning-star-academy-llc-st-louis",
+      "name": "Morning Star Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9424 Guthrie Ave, St. Louis, MO 63134",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-morning-star-academy-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:mothers-hands-daycare-ferguson",
+      "name": "Mother'S Hands Daycare",
+      "county": "st-louis-county",
+      "municipality": "Ferguson",
+      "restrictedPropertyType": "childcare",
+      "address": "401 Darst Rd, Ferguson, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-mothers-hands-daycare-ferguson-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:o2b-kids-overland-overland",
+      "name": "O2b Kids Overland",
+      "county": "st-louis-county",
+      "municipality": "Overland",
+      "restrictedPropertyType": "childcare",
+      "address": "9636 Midland Blvd, Overland, MO 63114",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-o2b-kids-overland-overland-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:our-future-leaders-academy-llc-berkeley",
+      "name": "Our Future Leaders Academy, LLC",
+      "county": "st-louis-county",
+      "municipality": "Berkeley",
+      "restrictedPropertyType": "childcare",
+      "address": "8371 Frost Ave, Berkeley, MO 63134",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-our-future-leaders-academy-llc-berkeley-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:peace-of-mind-learning-academy-llc-st-louis",
+      "name": "Peace of Mind Learning Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9659 Page Ave, St. Louis, MO 63132",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-peace-of-mind-learning-academy-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:pearls-palace-st-louis",
+      "name": "Pearl'S Palace",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "8336 Olive Blvd, St. Louis, MO 63132",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-pearls-palace-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:planet-child-care-inc-st-louis",
+      "name": "Planet Child Care, Inc..",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "5660 Telegraph Rd, St. Louis, MO 63129",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-planet-child-care-inc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:playtime-childcare-learning-center-inc-st-louis",
+      "name": "Playtime Childcare Learning Center, Inc..",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "8310 Frost Ave, St. Louis, MO 63134",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-playtime-childcare-learning-center-inc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:precious-days-learning-academy-inc-st-louis",
+      "name": "Precious Days Learning Academy Inc.",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "8119 Airport Rd, St. Louis, MO 63134",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-precious-days-learning-academy-inc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:prestige-prep-academy-llc-hazelwood",
+      "name": "Prestige Prep Academy, LLC",
+      "county": "st-louis-county",
+      "municipality": "Hazelwood",
+      "restrictedPropertyType": "childcare",
+      "address": "453 Candle Light Ln, Hazelwood, MO 63042",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-prestige-prep-academy-llc-hazelwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:r-b-rising-star-development-center-llc-st-louis",
+      "name": "R&B Rising Star Development Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1650 Redman Rd, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-r-b-rising-star-development-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:radiant-faith-academy-maryland-heights",
+      "name": "Radiant Faith Academy",
+      "county": "st-louis-county",
+      "municipality": "Maryland Heights",
+      "restrictedPropertyType": "childcare",
+      "address": "2153 Mckelvey Rd, Maryland Heights, MO 63043",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-radiant-faith-academy-maryland-heights-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:recess-time-steam-learning-and-care-center-llc-st-louis",
+      "name": "Recess Time Steam Learning and Care Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "7340 Saint Charles Rock Rd, St. Louis, MO 63133",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-recess-time-steam-learning-and-care-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:right-at-school-llc-st-louis",
+      "name": "Right at School, LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "425 N Spoede Rd, St. Louis, MO 63141",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-right-at-school-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:riverview-gardens-school-district-st-louis",
+      "name": "Riverview Gardens School District",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1111 Saint Cyr Rd, St. Louis, MO 63137",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-riverview-gardens-school-district-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:robins-nest-daycare-learning-center-st-louis",
+      "name": "Robin'S Nest Daycare & Learning Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "7249 Olive Blvd, St. Louis, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-robins-nest-daycare-learning-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:scholastic-scholars-360-llc-bridgeton",
+      "name": "Scholastic Scholars 360, LLC",
+      "county": "st-louis-county",
+      "municipality": "Bridgeton",
+      "restrictedPropertyType": "childcare",
+      "address": "11520 Saint Charles Rock Rd, Bridgeton, MO 63044",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-scholastic-scholars-360-llc-bridgeton-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:spiegel-lavina-gale-st-louis",
+      "name": "Spiegel, Lavina Gale",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "3135 S Brentwood Blvd, St. Louis, MO 63144",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-spiegel-lavina-gale-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:st-philips-united-church-of-christ-st-louis",
+      "name": "St. Philip'S United Church of Christ",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "10708 Lavinia Dr, St. Louis, MO 63123",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-st-philips-united-church-of-christ-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:starlight-academy-st-ann",
+      "name": "Starlight Academy",
+      "county": "st-louis-county",
+      "municipality": "St. Ann",
+      "restrictedPropertyType": "childcare",
+      "address": "10451 International Plaza Dr, St. Ann, MO 63074",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-starlight-academy-st-ann-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:storybook-learning-center-llc-bridgeton",
+      "name": "Storybook Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Bridgeton",
+      "restrictedPropertyType": "childcare",
+      "address": "3163 Fee Fee Rd, Bridgeton, MO 63044",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-storybook-learning-center-llc-bridgeton-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:strawberry-international-schools-of-st-john-st-louis",
+      "name": "Strawberry International Schools of St. John",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "8701 Saint Charles Rock Rd, St. Louis, MO 63114",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-strawberry-international-schools-of-st-john-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:sunshine-daycare-center-st-ann",
+      "name": "Sunshine Daycare Center",
+      "county": "st-louis-county",
+      "municipality": "St. Ann",
+      "restrictedPropertyType": "childcare",
+      "address": "10128 Saint Charles Rock Rd, St. Ann, MO 63074",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-sunshine-daycare-center-st-ann-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:tendercare-learning-center-8-florissant",
+      "name": "Tendercare Learning Center #8",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "13775 New Halls Ferry Rd, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-tendercare-learning-center-8-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:tendercare-learning-center-9-overland",
+      "name": "Tendercare Learning Center #9",
+      "county": "st-louis-county",
+      "municipality": "Overland",
+      "restrictedPropertyType": "childcare",
+      "address": "9632 Midland Blvd, Overland, MO 63114",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-tendercare-learning-center-9-overland-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-child-development-laboratory-center-of-st-louis-community-college-at-florissant-valley-st-louis",
+      "name": "The Child Development Laboratory Center of St. Louis Community College at Florissant Valley",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "3400 Pershall Rd, St. Louis, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-child-development-laboratory-center-of-st-louis-community-college-at-florissant-valley-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-christian-academy-florissant",
+      "name": "The Christian Academy",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "11621 W Florissant Ave, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-christian-academy-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-gingerbread-house-learning-center-llc-st-louis",
+      "name": "The Gingerbread House Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9561 Lackland Rd, St. Louis, MO 63114",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-gingerbread-house-learning-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-legacy-center-stl-st-louis",
+      "name": "The Legacy Center Stl",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "6850 Normandale Dr, St. Louis, MO 63121",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-legacy-center-stl-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-perfect-gift-nursery-learning-center-inc-st-louis",
+      "name": "The Perfect Gift Nursery & Learning Center, Inc..",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "10012 Bellefontaine Rd, St. Louis, MO 63137",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-perfect-gift-nursery-learning-center-inc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-soulfisher-ministries-st-louis",
+      "name": "The Soulfisher Ministries",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9800 Patricia Barkalow Dr, St. Louis, MO 63137",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-soulfisher-ministries-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-steam-academy-at-kyddie-karnival-llc-st-louis",
+      "name": "The Steam Academy at Kyddie Karnival LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9601 Halls Ferry Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-steam-academy-at-kyddie-karnival-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:their-futures-bright-academy-ii-llc-jennings",
+      "name": "Their Future'S Bright Academy Ii, LLC",
+      "county": "st-louis-county",
+      "municipality": "Jennings",
+      "restrictedPropertyType": "childcare",
+      "address": "8850 Jennings Station Rd, Jennings, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-their-futures-bright-academy-ii-llc-jennings-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:thomas-business-enterprises-inc-ferguson",
+      "name": "Thomas Business Enterprises, Inc..",
+      "county": "st-louis-county",
+      "municipality": "Ferguson",
+      "restrictedPropertyType": "childcare",
+      "address": "910 S Florissant Rd, Ferguson, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-thomas-business-enterprises-inc-ferguson-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:time-away-learning-center-llc-st-louis",
+      "name": "Time Away Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "11931 Larimore Rd, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-time-away-learning-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:trese-pieces-learning-center-llc-webster-groves",
+      "name": "Trese Pieces Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "12 E Lockwood Ave, Webster Groves, MO 63119",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-trese-pieces-learning-center-llc-webster-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:university-city-childrens-center-st-louis",
+      "name": "University City Children'S Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "6646 Vernon Ave, St. Louis, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-university-city-childrens-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:unleashing-potential-university-city",
+      "name": "Unleashing Potential",
+      "county": "st-louis-county",
+      "municipality": "University City",
+      "restrictedPropertyType": "childcare",
+      "address": "7400 Balson Ave, University City, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-unleashing-potential-university-city-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:urban-league-head-start-early-head-start-county-headquarters-st-louis",
+      "name": "Urban League Head Start/Early Head Start-County Headquarters",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2900 Pershall Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-urban-league-head-start-early-head-start-county-headquarters-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:urban-sprouts-child-development-center-st-louis",
+      "name": "Urban Sprouts Child Development Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "6757 Olive Blvd, St. Louis, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-urban-sprouts-child-development-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:washington-university-nursery-school-st-louis",
+      "name": "Washington University Nursery School",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "6926 Forest Park Pkwy Bldg 2, St. Louis, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-washington-university-nursery-school-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:webster-child-care-center-at-laclede-groves-st-louis",
+      "name": "Webster Child Care Center at Laclede Groves",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "624 Lohmann Forest Ln, St. Louis, MO 63119",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-webster-child-care-center-at-laclede-groves-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:webster-groves-school-district-webster-groves",
+      "name": "Webster Groves School District",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "222 W Cedar Ave, Webster Groves, MO 63119",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-webster-groves-school-district-webster-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:wee-care-child-development-center-inc-st-louis",
+      "name": "Wee Care Child Development Center, Inc..",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9909 Halls Ferry Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-wee-care-child-development-center-inc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:wellness-kids-academy-chesterfield",
+      "name": "Wellness Kids Academy",
+      "county": "st-louis-county",
+      "municipality": "Chesterfield",
+      "restrictedPropertyType": "childcare",
+      "address": "940 N Woods Mill Rd, Chesterfield, MO 63017",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-wellness-kids-academy-chesterfield-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:wellston-childcare-academy-llc-st-louis",
+      "name": "Wellston Childcare Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "6144 Page Blvd, St. Louis, MO 63133",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-wellston-childcare-academy-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:wonderfully-made-child-development-center-llc-ferguson",
+      "name": "Wonderfully Made Child Development Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Ferguson",
+      "restrictedPropertyType": "childcare",
+      "address": "16 N Dade Ave, Ferguson, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-wonderfully-made-child-development-center-llc-ferguson-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-mid-county-branch-buder-elementary-st-ann",
+      "name": "YMCA-Mid County Branch-Buder Elementary",
+      "county": "st-louis-county",
+      "municipality": "St. Ann",
+      "restrictedPropertyType": "childcare",
+      "address": "10350 Baltimore Ave, St. Ann, MO 63074",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-mid-county-branch-buder-elementary-st-ann-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-mid-county-branch-iveland-elementary-overland",
+      "name": "YMCA-Mid County Branch-Iveland Elementary",
+      "county": "st-louis-county",
+      "municipality": "Overland",
+      "restrictedPropertyType": "childcare",
+      "address": "1836 Dyer Ave, Overland, MO 63114",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-mid-county-branch-iveland-elementary-overland-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-mid-county-branch-julia-goldstein-ece-st-louis",
+      "name": "YMCA-Mid County Branch-Julia Goldstein Ece",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "737 Kingsland Ave, St. Louis, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-mid-county-branch-julia-goldstein-ece-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-mid-county-branch-kratz-elementary-st-louis",
+      "name": "YMCA-Mid County Branch-Kratz Elementary",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "4301 Edmundson Rd, St. Louis, MO 63134",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-mid-county-branch-kratz-elementary-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-mid-county-branch-maplewood-richmond-heights-early-childhood-education-center-maplewood",
+      "name": "YMCA-Mid County Branch-Maplewood Richmond Heights Early Childhood Education Center",
+      "county": "st-louis-county",
+      "municipality": "Maplewood",
+      "restrictedPropertyType": "childcare",
+      "address": "2810 Burgess Ln, Maplewood, MO 63143",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-mid-county-branch-maplewood-richmond-heights-early-childhood-education-center-maplewood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-mid-county-branch-mark-twain-elementary-st-louis",
+      "name": "YMCA-Mid County Branch-Mark Twain Elementary",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "8636 Litzsinger Rd, St. Louis, MO 63144",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-mid-county-branch-mark-twain-elementary-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-mid-county-branch-our-lady-of-lourdes-elementary-st-louis",
+      "name": "YMCA-Mid County Branch-Our Lady of Lourdes Elementary",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "7157 Northmoor Dr, St. Louis, MO 63105",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-mid-county-branch-our-lady-of-lourdes-elementary-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ymca-wildwood-branch-most-sacred-heart-school-eureka",
+      "name": "YMCA-Wildwood Branch-Most Sacred Heart School",
+      "county": "st-louis-county",
+      "municipality": "Eureka",
+      "restrictedPropertyType": "childcare",
+      "address": "350 E 4th St, Eureka, MO 63025",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-wildwood-branch-most-sacred-heart-school-eureka-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:young-womens-christian-association-of-metropolitan-st-louis-missouri-st-louis",
+      "name": "Young Women'S Christian Association of Metropolitan St. Louis, Missouri",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "4974 Heege Rd, St. Louis, MO 63123",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-young-womens-christian-association-of-metropolitan-st-louis-missouri-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:zukes-kingdom-daycare-llc-st-louis",
+      "name": "Zuke'S Kingdom Daycare LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "8081 Olive Blvd, St. Louis, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-zukes-kingdom-daycare-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:a-parents-choice-learning-center-st-louis",
+      "name": "A Parent'S Choice Learning Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "539 Dornoch Dr, St. Louis, MO 63137",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-a-parents-choice-learning-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:abc-learning-academy-llc-st-louis",
+      "name": "Abc Learning Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "8306 Braddock Dr, St. Louis, MO 63132",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-abc-learning-academy-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:abounader-nadera-st-louis",
+      "name": "Abounader, Nadera",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1254 N Kirkwood Rd, St. Louis, MO 63122",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-abounader-nadera-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:asias-learn-play-house-ferguson",
+      "name": "Asia'S Learn & Play House",
+      "county": "st-louis-county",
+      "municipality": "Ferguson",
+      "restrictedPropertyType": "childcare",
+      "address": "536 Hentschel Pl, Ferguson, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-asias-learn-play-house-ferguson-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:benson-judy-elizabeth-st-louis",
+      "name": "Benson, Judy Elizabeth",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "826 Cumberland Dr, St. Louis, MO 63125",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-benson-judy-elizabeth-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:blue-goose-child-care-llc-webster-groves",
+      "name": "Blue Goose Child Care, LLC",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "598 Virginia Ave, Webster Groves, MO 63119",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-blue-goose-child-care-llc-webster-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:boyd-lasley-jordan-louise-lakeshire",
+      "name": "Boyd-Lasley, Jordan Louise",
+      "county": "st-louis-county",
+      "municipality": "Lakeshire",
+      "restrictedPropertyType": "childcare",
+      "address": "10034 Lakeside Dr, Lakeshire, MO 63123",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-boyd-lasley-jordan-louise-lakeshire-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:chandras-child-care-llc-st-louis",
+      "name": "Chandra'S Child Care LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "131 Brigadoon Cir, St. Louis, MO 63137",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-chandras-child-care-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:chickadee-school-for-early-childhood-llc-university-city",
+      "name": "Chickadee School for Early Childhood, LLC",
+      "county": "st-louis-county",
+      "municipality": "University City",
+      "restrictedPropertyType": "childcare",
+      "address": "1105 N and South Rd, University City, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-chickadee-school-for-early-childhood-llc-university-city-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:chosen-ones-child-development-center-llc-florissant",
+      "name": "Chosen Ones Child Development Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "725 Pimlico Dr, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-chosen-ones-child-development-center-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:crown-kids-childcare-llc-florissant",
+      "name": "Crown Kids Childcare LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "80 Lynn Meadows Ln, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-crown-kids-childcare-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:curtis-denise-jennings",
+      "name": "Curtis, Denise",
+      "county": "st-louis-county",
+      "municipality": "Jennings",
+      "restrictedPropertyType": "childcare",
+      "address": "8900 Lucerne Ct, Jennings, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-curtis-denise-jennings-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:daycare-on-the-hill-llc-st-louis",
+      "name": "Daycare on the Hill LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1021 Robert Ave, St. Louis, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-daycare-on-the-hill-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:devotional-child-care-services-of-stl-llc-bridgeton",
+      "name": "Devotional Child Care Services of Stl LLC",
+      "county": "st-louis-county",
+      "municipality": "Bridgeton",
+      "restrictedPropertyType": "childcare",
+      "address": "11739 Parish Dr, Bridgeton, MO 63044",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-devotional-child-care-services-of-stl-llc-bridgeton-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:entouch-daycare-and-family-resources-llc-florissant",
+      "name": "Entouch Daycare and Family Resources LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "2180 Huntington Dr, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-entouch-daycare-and-family-resources-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:faith-move-daycare-ferguson",
+      "name": "Faith Move Daycare",
+      "county": "st-louis-county",
+      "municipality": "Ferguson",
+      "restrictedPropertyType": "childcare",
+      "address": "318 S Dellwood Ave, Ferguson, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-faith-move-daycare-ferguson-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:future-starz-playhouse-llc-st-louis",
+      "name": "Future Starz Playhouse LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "11831 Aire Ct, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-future-starz-playhouse-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:futures-of-the-earth-llc-chesterfield",
+      "name": "Futures of the Earth LLC",
+      "county": "st-louis-county",
+      "municipality": "Chesterfield",
+      "restrictedPropertyType": "childcare",
+      "address": "14562 Gatemont Dr, Chesterfield, MO 63017",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-futures-of-the-earth-llc-chesterfield-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:gardiner-catherine-st-louis",
+      "name": "Gardiner, Catherine",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "11639 Tescord Dr, St. Louis, MO 63128",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-gardiner-catherine-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:grannys-house-st-ann",
+      "name": "Granny'S House",
+      "county": "st-louis-county",
+      "municipality": "St. Ann",
+      "restrictedPropertyType": "childcare",
+      "address": "3436 Wright Ave, St. Ann, MO 63074",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-grannys-house-st-ann-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:growth-spurts-black-jack",
+      "name": "Growth Spurts",
+      "county": "st-louis-county",
+      "municipality": "Black Jack",
+      "restrictedPropertyType": "childcare",
+      "address": "5251 Elk Trail Dr, Black Jack, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-growth-spurts-black-jack-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:his-little-lambs-childcare-and-preschool-breckenridge-hills",
+      "name": "His Little Lambs Childcare and Preschool",
+      "county": "st-louis-county",
+      "municipality": "Breckenridge Hills",
+      "restrictedPropertyType": "childcare",
+      "address": "3349 Dix Ave, Breckenridge Hills, MO 63114",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-his-little-lambs-childcare-and-preschool-breckenridge-hills-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:honey-living-llc-st-louis",
+      "name": "Honey Living, LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "3564 Norman Ave, St. Louis, MO 63114",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-honey-living-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:it-takes-a-village-to-raise-a-child-llc-florissant",
+      "name": "It Takes a Village to Raise a Child LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "11460 Fox Hall Ln, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-it-takes-a-village-to-raise-a-child-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:joyful-faces-daycare-llc-florissant",
+      "name": "Joyful Faces Daycare LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "195 Lynn Meadows Ln, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-joyful-faces-daycare-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:julius-deborah-marie-st-louis",
+      "name": "Julius, Deborah Marie",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "7482 Birch Bridge Dr, St. Louis, MO 63129",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-julius-deborah-marie-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kelseys-little-learners-st-louis",
+      "name": "Kelsey'S Little Learners",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1511 N Elizabeth Ave, St. Louis, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kelseys-little-learners-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-dreamers-daycare-llc-ferguson",
+      "name": "Little Dreamers Daycare LLC",
+      "county": "st-louis-county",
+      "municipality": "Ferguson",
+      "restrictedPropertyType": "childcare",
+      "address": "207 Ward Dr, Ferguson, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-dreamers-daycare-llc-ferguson-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-leaders-home-group-childcare-llc-ferguson",
+      "name": "Little Leaders Home Group Childcare LLC",
+      "county": "st-louis-county",
+      "municipality": "Ferguson",
+      "restrictedPropertyType": "childcare",
+      "address": "930 N Elizabeth Ave, Ferguson, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-leaders-home-group-childcare-llc-ferguson-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-ones-concept-learning-center-llc-st-louis",
+      "name": "Little One'S Concept Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1311 Coppergate Ln, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-ones-concept-learning-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-shine-family-child-care-llc-wildwood",
+      "name": "Little Shine Family Child Care, LLC",
+      "county": "st-louis-county",
+      "municipality": "Wildwood",
+      "restrictedPropertyType": "childcare",
+      "address": "16806 Westglen Farms Dr, Wildwood, MO 63011",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-shine-family-child-care-llc-wildwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:moeller-carol-ann-kirkwood",
+      "name": "Moeller, Carol Ann",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "1125 Simmons Ave, Kirkwood, MO 63122",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-moeller-carol-ann-kirkwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:moments-to-cherish-daycare-st-louis",
+      "name": "Moments to Cherish Daycare",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "681 Bagnell Dr, St. Louis, MO 63137",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-moments-to-cherish-daycare-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:natural-brainiacs-llc-st-louis",
+      "name": "Natural Brainiacs, LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "16 Reasor Dr, St. Louis, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-natural-brainiacs-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:nourishing-hearts-child-care-llc-ballwin",
+      "name": "Nourishing Hearts Child Care LLC",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "restrictedPropertyType": "childcare",
+      "address": "1014 Shadowoak Dr, Ballwin, MO 63021",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-nourishing-hearts-child-care-llc-ballwin-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:nurtured-beginnings-webster-groves",
+      "name": "Nurtured Beginnings",
+      "county": "st-louis-county",
+      "municipality": "Webster Groves",
+      "restrictedPropertyType": "childcare",
+      "address": "624 W Kirkham Ave, Webster Groves, MO 63119",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-nurtured-beginnings-webster-groves-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:once-upon-a-learning-tree-st-louis",
+      "name": "Once Upon a Learning Tree",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9608 Saint Girard Ln, St. Louis, MO 63134",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-once-upon-a-learning-tree-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:peace-of-mind-child-care-home-llc-st-louis",
+      "name": "Peace of Mind Child Care Home, LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "8521 Grantshire Ln, St. Louis, MO 63123",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-peace-of-mind-child-care-home-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:poelker-amy-maria-st-ann",
+      "name": "Poelker, Amy Maria",
+      "county": "st-louis-county",
+      "municipality": "St. Ann",
+      "restrictedPropertyType": "childcare",
+      "address": "3459 Mary Ann Ct, St. Ann, MO 63074",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-poelker-amy-maria-st-ann-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:shamodd-and-me-st-louis",
+      "name": "Shamodd and Me",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1615 Parker Rd, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-shamodd-and-me-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:shapes-colors-berkeley",
+      "name": "Shapes & Colors",
+      "county": "st-louis-county",
+      "municipality": "Berkeley",
+      "restrictedPropertyType": "childcare",
+      "address": "4417 Biloxi Ave, Berkeley, MO 63134",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-shapes-colors-berkeley-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:spring-garden-childcare-center-st-louis",
+      "name": "Spring Garden Childcare Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "10633 Spring Garden Dr, St. Louis, MO 63137",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-spring-garden-childcare-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:their-futures-bright-child-development-center-st-louis",
+      "name": "Their Future'S Bright Child Development Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "10047 Castle Dr, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-their-futures-bright-child-development-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:twinkle-town-learning-center-llc-florissant",
+      "name": "Twinkle Town Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "1460 Lisa Dr, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-twinkle-town-learning-center-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:white-amanda-florissant",
+      "name": "White, Amanda",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "4420 Deer Valley Dr, Florissant, MO 63034",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-white-amanda-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:youth-empowered-to-succeed-ii-llc-st-louis",
+      "name": "Youth Empowered to Succeed Ii LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "11921 Bridgevale Ave, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-youth-empowered-to-succeed-ii-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:zone-4-kidz-llc-st-louis",
+      "name": "Zone 4 Kidz LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1930 Lakemont Ln, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-zone-4-kidz-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:casa-de-ninos-montessori-bilingual-academy-llc-ballwin",
+      "name": "Casa De Ninos Montessori Bilingual Academy, LLC",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "restrictedPropertyType": "childcare",
+      "address": "105 Lock Dr, Ballwin, MO 63011",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-casa-de-ninos-montessori-bilingual-academy-llc-ballwin-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:happy-hearts-llc-st-louis",
+      "name": "Happy Hearts LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "13478 Land O Woods Dr, St. Louis, MO 63141",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-happy-hearts-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:morning-star-academy-west-llc-st-louis",
+      "name": "Morning Star Academy West LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "6523 Olive Blvd, St. Louis, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-morning-star-academy-west-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:bethlehem-lutheran-childcare-all-nations-st-louis",
+      "name": "Bethlehem Lutheran Childcare @ All Nations",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "7860 Olive Blvd, St. Louis, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-bethlehem-lutheran-childcare-all-nations-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:bethlehem-lutheran-childcare-chapel-of-the-cross-st-louis",
+      "name": "Bethlehem Lutheran Childcare @ Chapel of the Cross",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "11645 Benham Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-bethlehem-lutheran-childcare-chapel-of-the-cross-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:blue-birds-maryland-heights",
+      "name": "Blue Birds",
+      "county": "st-louis-county",
+      "municipality": "Maryland Heights",
+      "restrictedPropertyType": "childcare",
+      "address": "2300 Mckelvey Rd, Maryland Heights, MO 63043",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-blue-birds-maryland-heights-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:christ-church-childcare-center-brentwood",
+      "name": "Christ Church Childcare Center",
+      "county": "st-louis-county",
+      "municipality": "Brentwood",
+      "restrictedPropertyType": "childcare",
+      "address": "2400 S Brentwood Blvd, Brentwood, MO 63144",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-christ-church-childcare-center-brentwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:covenant-for-life-child-development-center-st-louis",
+      "name": "Covenant for Life Child Development Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "7200 W Florissant Ave, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-covenant-for-life-child-development-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:covenant-for-life-child-development-center-2-florissant",
+      "name": "Covenant for Life Child Development Center #2",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "4417 N Highway 67, Florissant, MO 63034",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-covenant-for-life-child-development-center-2-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:faith-academy-childhood-development-center-earth-city",
+      "name": "Faith Academy Childhood Development Center",
+      "county": "st-louis-county",
+      "municipality": "Earth City",
+      "restrictedPropertyType": "childcare",
+      "address": "3590 Rider Trail South, Earth City, MO 63045",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-faith-academy-childhood-development-center-earth-city-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:first-presbyterian-early-years-center-university-city",
+      "name": "First Presbyterian Early Years Center",
+      "county": "st-louis-county",
+      "municipality": "University City",
+      "restrictedPropertyType": "childcare",
+      "address": "7200 Delmar, University City, MO 63130",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-first-presbyterian-early-years-center-university-city-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:fountain-of-youth-child-care-development-center-st-louis",
+      "name": "Fountain of Youth Child Care Development Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9835 Nolte Ave, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-fountain-of-youth-child-care-development-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:gods-small-world-nursery-school-st-louis",
+      "name": "God'S Small World Nursery School",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "11952 Bellefontaine Rd, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-gods-small-world-nursery-school-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:heavenly-hearts-learning-center-st-louis",
+      "name": "Heavenly Hearts Learning Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "215 Shepley Dr, St. Louis, MO 63137",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-heavenly-hearts-learning-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:heavenly-hearts-learning-center-bellefontaine-st-louis",
+      "name": "Heavenly Hearts Learning Center Bellefontaine",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "10020 Bellefontaine Rd, St. Louis, MO 63137",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-heavenly-hearts-learning-center-bellefontaine-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:jce-child-care-center-st-louis",
+      "name": "Jce Child Care Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "6631 Dr Martin Luther King Dr, St. Louis, MO 63133",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-jce-child-care-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:queens-royal-treasures-edu-fit-child-care-st-louis",
+      "name": "Queen'S Royal Treasures Edu-Fit Child Care",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1451 Chambers Rd, St. Louis, MO 63135",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-queens-royal-treasures-edu-fit-child-care-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:restoration-temple-early-learning-center-st-louis",
+      "name": "Restoration Temple Early Learning Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1801 Kienlen Ave, St. Louis, MO 63133",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-restoration-temple-early-learning-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:smart-learners-academy-st-louis",
+      "name": "Smart Learners Academy",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9050 W Florissant Ave, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-smart-learners-academy-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:st-joseph-early-childhood-learning-center-manchester",
+      "name": "St. Joseph Early Childhood Learning Center",
+      "county": "st-louis-county",
+      "municipality": "Manchester",
+      "restrictedPropertyType": "childcare",
+      "address": "555 Saint Joseph Ln, Manchester, MO 63021",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-st-joseph-early-childhood-learning-center-manchester-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-childrens-center-florissant",
+      "name": "The Childrens Center",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "3975 N Highway 67, Florissant, MO 63034",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-childrens-center-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-treehouse-at-st-pauls-st-louis",
+      "name": "The Treehouse at St. Paul'S",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "5508 Telegraph Rd, St. Louis, MO 63129",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-treehouse-at-st-pauls-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:woodlawn-chapel-play-learn-wildwood",
+      "name": "Woodlawn Chapel Play & Learn",
+      "county": "st-louis-county",
+      "municipality": "Wildwood",
+      "restrictedPropertyType": "childcare",
+      "address": "16520 Clayton Rd, Wildwood, MO 63011",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-woodlawn-chapel-play-learn-wildwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:zions-preschool-maryland-heights",
+      "name": "Zion'S Preschool",
+      "county": "st-louis-county",
+      "municipality": "Maryland Heights",
+      "restrictedPropertyType": "childcare",
+      "address": "12075 Dorsett Rd, Maryland Heights, MO 63043",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-zions-preschool-maryland-heights-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:a-brighter-future-childcare-and-development-center-inc-st-louis",
+      "name": "A Brighter Future Childcare and Development Center, Inc..",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2140 Chambers Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-a-brighter-future-childcare-and-development-center-inc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:brilliant-angels-academy-llc-st-louis",
+      "name": "Brilliant Angels Academy, LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "10160 W Florissant Ave, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-brilliant-angels-academy-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:camerons-cottage-hazelwood",
+      "name": "Cameron'S Cottage",
+      "county": "st-louis-county",
+      "municipality": "Hazelwood",
+      "restrictedPropertyType": "childcare",
+      "address": "733 Dunn Rd, Hazelwood, MO 63042",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-camerons-cottage-hazelwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:childrens-choice-academy-llc-st-louis",
+      "name": "Children'S Choice Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2303 Chambers Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-childrens-choice-academy-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:christian-hospital-northeast-northwest-st-louis",
+      "name": "Christian Hospital Northeast-Northwest",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "11133 Dunn Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-christian-hospital-northeast-northwest-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:clara-belle-preschool-learning-adventures-llc-florissant",
+      "name": "Clara Belle Preschool Learning Adventures, LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "1165 Humes Ln, Florissant, MO 63031",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-clara-belle-preschool-learning-adventures-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:in-the-beginning-infant-center-preschool-llc-st-louis",
+      "name": "In the Beginning Infant Center & Preschool, LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9635 Lewis and Clark Blvd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-in-the-beginning-infant-center-preschool-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kids-in-motion-learning-center-llc-florissant",
+      "name": "Kids in Motion Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "696 N Jefferson St, Florissant, MO 63031",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kids-in-motion-learning-center-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kidsworld-north-l-l-c-st-louis",
+      "name": "Kidsworld North, L.L.C.",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9833 Halls Ferry, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kidsworld-north-l-l-c-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kingdom-kare-early-learning-center-st-louis",
+      "name": "Kingdom Kare Early Learning Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2469 Baroness Dr, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kingdom-kare-early-learning-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-learners-of-florissant-florissant",
+      "name": "Little Learners of Florissant",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "1085 Saint Charles St, Florissant, MO 63031",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-learners-of-florissant-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:lot-a-luv-corporation-st-louis",
+      "name": "Lot-a-Luv Corporation",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9859 Halls Ferry Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lot-a-luv-corporation-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:lots-of-love-learning-center-st-louis",
+      "name": "Lots of Love Learning Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "7436 W Florissant Ave, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lots-of-love-learning-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:m-el-k-academy-iii-berkeley",
+      "name": "M.El.K Academy Iii",
+      "county": "st-louis-county",
+      "municipality": "Berkeley",
+      "restrictedPropertyType": "childcare",
+      "address": "6100 Madison Ave, Berkeley, MO 63134",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-m-el-k-academy-iii-berkeley-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:m-el-k-academy-llc-st-louis",
+      "name": "M.El.K. Academy LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "10136 W Florissant Ave, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-m-el-k-academy-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:north-county-childrens-academy-llc-florissant",
+      "name": "North County Children'S Academy, LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "516 Greenway Manor Dr, Florissant, MO 63031",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-north-county-childrens-academy-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:one-to-grow-on-2-florissant",
+      "name": "One to Grow on 2",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "11850 W Florissant Ave, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-one-to-grow-on-2-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:one-to-grow-on-3-st-louis",
+      "name": "One to Grow on 3",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "11100 Old Halls Ferry Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-one-to-grow-on-3-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:one-to-grow-on-inc-florissant",
+      "name": "One to Grow on, Inc..",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "1101 Saint Louis St, Florissant, MO 63031",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-one-to-grow-on-inc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:perfect-peace-family-care-center-llc-hazelwood",
+      "name": "Perfect Peace Family Care Center, LLC",
+      "county": "st-louis-county",
+      "municipality": "Hazelwood",
+      "restrictedPropertyType": "childcare",
+      "address": "7001 Howdershell Rd, Hazelwood, MO 63042",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-perfect-peace-family-care-center-llc-hazelwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:smart-kids-child-development-center-llc-st-louis",
+      "name": "Smart Kids Child Development Center, LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "12027 Bellefontaine Rd, St. Louis, MO 63138",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-smart-kids-child-development-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:smart-kids-nursery-llc-st-louis",
+      "name": "Smart Kids Nursery, LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "10069 Viscount Dr, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-smart-kids-nursery-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:special-school-district-of-st-louis-county-florissant",
+      "name": "Special School District of St. Louis County",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "1700 Derhake Rd, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-special-school-district-of-st-louis-county-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:toyland-day-nursery-st-louis",
+      "name": "Toyland Day Nursery",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9549 Glen Owen Dr, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-toyland-day-nursery-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:young-expressions-child-care-center-and-preschool-llc-florissant",
+      "name": "Young Expressions Child Care Center and Preschool, LLC",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "2939 Patterson Rd, Florissant, MO 63031",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-young-expressions-child-care-center-and-preschool-llc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:brooks-thelma-denise-st-louis",
+      "name": "Brooks, Thelma Denise",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1004 Patience Dr, St. Louis, MO 63034",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-brooks-thelma-denise-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:cuddle-love-daycare-jennings",
+      "name": "Cuddle Love Daycare",
+      "county": "st-louis-county",
+      "municipality": "Jennings",
+      "restrictedPropertyType": "childcare",
+      "address": "5738 Helen Ave, Jennings, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-cuddle-love-daycare-jennings-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:cuddle-love-daycare-2-llc-st-louis",
+      "name": "Cuddle Love Daycare 2 LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "5730 Helen Ave, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-cuddle-love-daycare-2-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:fresh-start-daycare-llc-st-louis",
+      "name": "Fresh Start Daycare LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9613 Weyburn Dr, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-fresh-start-daycare-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:inspire-change-academy-lc-florissant",
+      "name": "Inspire Change Academy Lc",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "1318 Harting Dr, Florissant, MO 63031",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-inspire-change-academy-lc-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kids-r-us-childcare-center-llc-st-louis",
+      "name": "Kids R Us Childcare Center LLC.",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2018 Sun Valley Dr, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kids-r-us-childcare-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:m-o-s-s-academy-florissant",
+      "name": "M.O.S.S. Academy",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "4222 Tarentum Dr, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-m-o-s-s-academy-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:mcbride-kimbrell-st-louis",
+      "name": "Mcbride, Kimbrell",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1805 Kilrea Dr, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-mcbride-kimbrell-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:pace-tawanda-florissant",
+      "name": "Pace, Tawanda",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "12131 Jerries Ln, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-pace-tawanda-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:spann-baker-pamela-maria-florissant",
+      "name": "Spann-Baker, Pamela Maria",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "3828 Windemer Dr, Florissant, MO 63033",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-spann-baker-pamela-maria-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:terries-little-angels-st-louis",
+      "name": "Terrie'S Little Angels",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2467 St. Cyr Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-terries-little-angels-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:bright-beginnings-child-development-learning-center-llc-st-louis",
+      "name": "Bright Beginnings Child Development & Learning Center LLC",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2332 Chambers Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-bright-beginnings-child-development-learning-center-llc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:child-prep-developmental-center-inc-st-louis",
+      "name": "Child Prep Developmental Center Inc..",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2115 Chambers Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-child-prep-developmental-center-inc-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:covenant-for-life-child-development-center-3-hazelwood",
+      "name": "Covenant for Life Child Development Center #3",
+      "county": "st-louis-county",
+      "municipality": "Hazelwood",
+      "restrictedPropertyType": "childcare",
+      "address": "5590 Saint Louis Mills Blvd, Hazelwood, MO 63042",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-covenant-for-life-child-development-center-3-hazelwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:good-shepherd-lutheran-coop-preschool-hazelwood",
+      "name": "Good Shepherd Lutheran Coop Preschool",
+      "county": "st-louis-county",
+      "municipality": "Hazelwood",
+      "restrictedPropertyType": "childcare",
+      "address": "7380 Howdershell Rd, Hazelwood, MO 63042",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-good-shepherd-lutheran-coop-preschool-hazelwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:new-life-little-arrows-florissant",
+      "name": "New Life Little Arrows",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "1170 Wiethaupt Rd, Florissant, MO 63031",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-new-life-little-arrows-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:rainbow-of-dreams-learning-center-st-louis",
+      "name": "Rainbow of Dreams Learning Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9836 Halls Ferry Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-rainbow-of-dreams-learning-center-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:spirit-truth-daycare-preschool-hazelwood",
+      "name": "Spirit & Truth Daycare & Preschool",
+      "county": "st-louis-county",
+      "municipality": "Hazelwood",
+      "restrictedPropertyType": "childcare",
+      "address": "8727 Dunn Rd, Hazelwood, MO 63042",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-spirit-truth-daycare-preschool-hazelwood-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-mini-school-florissant",
+      "name": "The Mini School",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "restrictedPropertyType": "childcare",
+      "address": "315 Graham Rd, Florissant, MO 63031",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-mini-school-florissant-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-salvation-army-ferguson-community-empowerment-center-spark-academy-st-louis",
+      "name": "The Salvation Army Ferguson Community Empowerment Center - Spark Academy",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9420 W Florissant Ave, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-salvation-army-ferguson-community-empowerment-center-spark-academy-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:third-presbyterian-preschool-st-louis",
+      "name": "Third Presbyterian Preschool",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9990 Lewis and Clark Blvd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-third-presbyterian-preschool-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:word-ministries-kids-klub-st-louis",
+      "name": "Word Ministries Kids' Klub",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "9930 Halls Ferry Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-word-ministries-kids-klub-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,647 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-louis-county",
+  "category": "dog-park",
+  "places": [
+    {
+      "id": "candidate:dog-park:st-louis-county:deer-creek-dog-park",
+      "name": "Deer Creek Dog Park",
+      "county": "st-louis-county",
+      "municipality": "Maplewood",
+      "recreationType": "dog-park",
+      "address": "3200 N Laclede Station Rd, Maplewood, MO 63143",
+      "location": {
+        "lat": 38.6049,
+        "lng": -90.3534
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6049,-90.3534",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-deer-creek-dog-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "pets"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:dog-park:st-louis-county:tails-trails-dog-park-queeny",
+      "name": "Tails & Trails Dog Park at Queeny Park",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "recreationType": "dog-park",
+      "address": "1675 S Mason Rd, Ballwin, MO 63011",
+      "location": {
+        "lat": 38.584,
+        "lng": -90.4957
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5840,-90.4957",
+      "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/places/tails-trails-dog-park",
+      "source": {
+        "id": "source-tails-trails-dog-park-queeny-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "pets"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:dog-park:st-louis-county:treecourt-dog-adventure-park",
+      "name": "Treecourt Dog Adventure Park",
+      "county": "st-louis-county",
+      "municipality": "Valley Park",
+      "recreationType": "dog-park",
+      "address": "2499 Marshall Rd, St. Louis, MO 63122",
+      "location": {
+        "lat": 38.5501,
+        "lng": -90.4612
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5501,-90.4612",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-treecourt-dog-adventure-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "pets"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:dog-park:st-louis-county:southwest-city-dog-park",
+      "name": "Southwest City Dog Park",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "recreationType": "dog-park",
+      "address": "6415 Jamieson Ave, St. Louis, MO 63109",
+      "location": {
+        "lat": 38.5849,
+        "lng": -90.2985
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5849,-90.2985",
+      "websiteUrl": "https://swcitydogpark.org",
+      "source": {
+        "id": "source-southwest-city-dog-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "pets"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:dog-park:st-louis-county:kiefer-creek-dog-park",
+      "name": "Kiefer Creek Park – Dog Park",
+      "county": "st-louis-county",
+      "municipality": "Ellisville",
+      "recreationType": "dog-park",
+      "address": "225 Kiefer Creek Rd, Ellisville, MO 63021",
+      "location": {
+        "lat": 38.5921,
+        "lng": -90.5868
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5921,-90.5868",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-kiefer-creek-dog-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "pets"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:wayside-park-unleashed-11664359436",
+      "name": "Wayside Park Unleashed",
+      "county": "st-louis-county",
+      "municipality": "Ferguson",
+      "recreationType": "dog-park",
+      "address": "1026 Chambers Road",
+      "location": {
+        "lat": 38.7480708,
+        "lng": -90.2898276
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7480708,-90.2898276",
+      "websiteUrl": "https://www.fergusoncity.com/613/Wayside-Park",
+      "source": {
+        "id": "osm-11664359436",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.036Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.036Z",
+      "updatedAt": "2026-04-04T15:39:21.036Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:florissant-dog-park-11664405174",
+      "name": "Florissant Dog Park",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "recreationType": "dog-park",
+      "address": "5 Brower Lane",
+      "location": {
+        "lat": 38.7873263,
+        "lng": -90.3408133
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7873263,-90.3408133",
+      "websiteUrl": "https://www.florissantmo.com/topic/index.php?topicid=239&structureid=20",
+      "source": {
+        "id": "osm-11664405174",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.036Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.036Z",
+      "updatedAt": "2026-04-04T15:39:21.036Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:k-9-training-12569719715",
+      "name": "K-9 Training",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.8261475,
+        "lng": -90.2220071
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8261475,-90.2220071",
+      "source": {
+        "id": "osm-12569719715",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.048Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.048Z",
+      "updatedAt": "2026-04-04T15:39:21.048Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:heinz-memorial-dog-park-13646382880",
+      "name": "Heinz Memorial Dog Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.9450774,
+        "lng": -90.1967177
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9450774,-90.1967177",
+      "source": {
+        "id": "osm-13646382880",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.068Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.068Z",
+      "updatedAt": "2026-04-04T15:39:21.068Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:broemmelsiek-156992003",
+      "name": "Broemmelsiek",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.7169435,
+        "lng": -90.8185792
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7169435,-90.8185792",
+      "source": {
+        "id": "osm-156992003",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.332Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.332Z",
+      "updatedAt": "2026-04-04T15:39:21.332Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:shaw-neighborhood-dog-park-200493076",
+      "name": "Shaw Neighborhood Dog Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.6117565,
+        "lng": -90.2515595
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6117565,-90.2515595",
+      "websiteUrl": "https://shawstlouis.org/attractions-amenities/shaw-dog-park",
+      "source": {
+        "id": "osm-200493076",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.426Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.426Z",
+      "updatedAt": "2026-04-04T15:39:21.426Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:wildwood-dog-park-453343294",
+      "name": "Wildwood Dog Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.5865369,
+        "lng": -90.6483078
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5865369,-90.6483078",
+      "source": {
+        "id": "osm-453343294",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.937Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.937Z",
+      "updatedAt": "2026-04-04T15:39:21.937Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:forest-park-southeast-dog-park-461391324",
+      "name": "Forest Park Southeast Dog Park",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "dog-park",
+      "address": "4359 Chouteau Avenue",
+      "location": {
+        "lat": 38.6301891,
+        "lng": -90.2575694
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6301891,-90.2575694",
+      "websiteUrl": "https://www.stlouis-mo.gov/parks/parks/browse-parks/amenity.cfm?id=504",
+      "source": {
+        "id": "osm-461391324",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.965Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.965Z",
+      "updatedAt": "2026-04-04T15:39:21.965Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:soulard-dog-park-544634331",
+      "name": "Soulard Dog Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.6101388,
+        "lng": -90.2052833
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6101388,-90.2052833",
+      "source": {
+        "id": "osm-544634331",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.577Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.577Z",
+      "updatedAt": "2026-04-04T15:39:22.577Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:water-tower-dog-park-626042855",
+      "name": "Water Tower Dog Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.6153345,
+        "lng": -90.2352684
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6153345,-90.2352684",
+      "source": {
+        "id": "osm-626042855",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.091Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.091Z",
+      "updatedAt": "2026-04-04T15:39:23.091Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:paw-park-747113458",
+      "name": "Paw Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.4321795,
+        "lng": -90.3896339
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4321795,-90.3896339",
+      "source": {
+        "id": "osm-747113458",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.681Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.681Z",
+      "updatedAt": "2026-04-04T15:39:23.681Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:ozark-paw-park-747113459",
+      "name": "Ozark Paw Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.4273306,
+        "lng": -90.3866316
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4273306,-90.3866316",
+      "source": {
+        "id": "osm-747113459",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.685Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.685Z",
+      "updatedAt": "2026-04-04T15:39:23.685Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:st-johns-community-dog-park-1093687090",
+      "name": "St Johns Community Dog Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.5141352,
+        "lng": -90.3358445
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5141352,-90.3358445",
+      "source": {
+        "id": "osm-1093687090",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.215Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.215Z",
+      "updatedAt": "2026-04-04T15:39:24.215Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:laclede-s-landing-dog-park-1152000102",
+      "name": "Laclede's Landing Dog Park",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "dog-park",
+      "address": "Laclede's Landing Boulevard",
+      "location": {
+        "lat": 38.6314295,
+        "lng": -90.1836885
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6314295,-90.1836885",
+      "source": {
+        "id": "osm-1152000102",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.324Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.324Z",
+      "updatedAt": "2026-04-04T15:39:24.324Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:woodson-road-dog-park-1182374416",
+      "name": "Woodson Road Dog Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.6821502,
+        "lng": -90.3621717
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6821502,-90.3621717",
+      "websiteUrl": "https://www.overlandmo.org/418/Dog-Park",
+      "source": {
+        "id": "osm-1182374416",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.356Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.356Z",
+      "updatedAt": "2026-04-04T15:39:24.356Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:maplewood-dog-park-1192458743",
+      "name": "Maplewood Dog Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.6159871,
+        "lng": -90.3306331
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6159871,-90.3306331",
+      "source": {
+        "id": "osm-1192458743",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.380Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.380Z",
+      "updatedAt": "2026-04-04T15:39:24.380Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:bar-k-1309486943",
+      "name": "Bar K",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "dog-park",
+      "address": "4565 McRee Avenue",
+      "location": {
+        "lat": 38.6210987,
+        "lng": -90.2594812
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6210987,-90.2594812",
+      "websiteUrl": "https://barkdogbar.com/locations/st-louis-mo/",
+      "source": {
+        "id": "osm-1309486943",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.644Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.644Z",
+      "updatedAt": "2026-04-04T15:39:24.644Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:renaissance-place-dog-park-1349015611",
+      "name": "Renaissance Place Dog Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.6418044,
+        "lng": -90.2285487
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6418044,-90.2285487",
+      "source": {
+        "id": "osm-1349015611",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.804Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.804Z",
+      "updatedAt": "2026-04-04T15:39:24.804Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:alton-dog-park-1424632063",
+      "name": "Alton Dog Park",
+      "county": "st-louis-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.8861222,
+        "lng": -90.1703691
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8861222,-90.1703691",
+      "source": {
+        "id": "osm-1424632063",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.981Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.981Z",
+      "updatedAt": "2026-04-04T15:39:24.981Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-louis-county:treecourt-unleashed-dog-adventure-park-1430810748",
+      "name": "Treecourt Unleashed Dog Adventure Park",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "dog-park",
+      "address": "2499 Marshall Rd",
+      "location": {
+        "lat": 38.5569014,
+        "lng": -90.460638
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5569014,-90.460638",
+      "websiteUrl": "https://treecourtunleasheddogadventureparks.com",
+      "source": {
+        "id": "osm-1430810748",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.994Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.994Z",
+      "updatedAt": "2026-04-04T15:39:24.994Z"
+    }
+  ]
+}

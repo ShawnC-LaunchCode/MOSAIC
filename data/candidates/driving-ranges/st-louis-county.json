@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-louis-county",
+  "category": "driving-range",
+  "places": [
+    {
+      "id": "candidate:driving-range:st-louis-county:barrett-station-golf-center",
+      "name": "Barrett Station Golf Center – Driving Range",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "recreationType": "driving-range",
+      "address": "16639 Manchester Rd, Ballwin, MO 63021",
+      "location": { "lat": 38.5880, "lng": -90.5350 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5880,-90.5350",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-barrett-station-golf-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "sports"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,1368 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-03-31T00:00:00.000Z",
+  "county": "st-charles-county",
+  "sourceKind": "childcare",
+  "sites": [
+    {
+      "id": "restricted:childcare:st-charles-county:great-beginnings-daycare-preschool-l-c-cottleville",
+      "name": "Great Beginnings Daycare & Preschool, L.C.",
+      "county": "st-charles-county",
+      "municipality": "Cottleville",
+      "restrictedPropertyType": "childcare",
+      "address": "1401 Cottleville Pkwy, Cottleville, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-great-beginnings-daycare-preschool-l-c-cottleville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:harlan-oaks-llc-st-peters",
+      "name": "Harlan Oaks, LLC",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "417 S Church St, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-harlan-oaks-llc-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:inspire-early-education-ltd-st-peters",
+      "name": "Inspire Early Education Ltd.",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "8368 Mexico Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-inspire-early-education-ltd-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:inspire-early-education-ltd-st-charles-1",
+      "name": "Inspire Early Education Ltd.",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "15 Garvey Pkwy, St. Charles, MO 63303",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-inspire-early-education-ltd-st-charles-1-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:inspire-early-education-ltd-o-fallon-2",
+      "name": "Inspire Early Education Ltd.",
+      "county": "st-charles-county",
+      "municipality": "O Fallon",
+      "restrictedPropertyType": "childcare",
+      "address": "123 Hutchings Farm Dr, O Fallon, MO 63368",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-inspire-early-education-ltd-o-fallon-2-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:inspire-early-education-ltd-st-peters-3",
+      "name": "Inspire Early Education Ltd.",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "4621 N Saint Peters Pkwy, St. Peters, MO 63304",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-inspire-early-education-ltd-st-peters-3-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:inspire-early-education-ltd-lake-st-louis-4",
+      "name": "Inspire Early Education Ltd.",
+      "county": "st-charles-county",
+      "municipality": "Lake St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2240 Lake Saint Louis Blvd, Lake St. Louis, MO 63367",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-inspire-early-education-ltd-lake-st-louis-4-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:inspire-early-education-ltd-lake-st-louis-5",
+      "name": "Inspire Early Education Ltd.",
+      "county": "st-charles-county",
+      "municipality": "Lake St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2998 Technology Dr, Lake St. Louis, MO 63367",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-inspire-early-education-ltd-lake-st-louis-5-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:inspire-early-education-ltd-o-fallon-6",
+      "name": "Inspire Early Education Ltd.",
+      "county": "st-charles-county",
+      "municipality": "O Fallon",
+      "restrictedPropertyType": "childcare",
+      "address": "2796 Highway K, O Fallon, MO 63368",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-inspire-early-education-ltd-o-fallon-6-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:jellybean-island-learning-academy-llc-st-peters",
+      "name": "Jellybean Island Learning Academy LLC",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "6810 Mexico Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-jellybean-island-learning-academy-llc-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:o2b-kids-bluestone-st-charles",
+      "name": "O2b Kids Bluestone",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "2041 Bluestone Dr, St. Charles, MO 63303",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-o2b-kids-bluestone-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:o2b-kids-cottleville-st-peters",
+      "name": "O2b Kids Cottleville",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "1481 Cottleville Pkwy, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-o2b-kids-cottleville-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:o2b-kids-wentzville-wentzville",
+      "name": "O2b Kids Wentzville",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "1401 Neela Rd, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-o2b-kids-wentzville-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:the-learning-experience-st-peters-east-st-peters",
+      "name": "The Learning Experience - St. Peters East",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "600 Bond St, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-learning-experience-st-peters-east-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:the-morgan-school-wentzville-wentzville",
+      "name": "The Morgan School-Wentzville",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "100 Perry Cate Blvd, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-morgan-school-wentzville-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:the-nest-early-learning-center-llc-wentzville",
+      "name": "The Nest Early Learning Center LLC",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "411 W Pearce Blvd, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-nest-early-learning-center-llc-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:karns-karla-jean-o-fallon",
+      "name": "Karns, Karla Jean",
+      "county": "st-charles-county",
+      "municipality": "O Fallon",
+      "restrictedPropertyType": "childcare",
+      "address": "25 Flanders Ct, O Fallon, MO 63366",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-karns-karla-jean-o-fallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:hope-learning-center-wentzville",
+      "name": "Hope Learning Center",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "9 Love Park Ln, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-hope-learning-center-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:magic-world-preschool-wentzville",
+      "name": "Magic World Preschool",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "106 Kent Dr, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-magic-world-preschool-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:wentzville-christian-preschool-wentzville",
+      "name": "Wentzville Christian Preschool",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "1507 Highway Z, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-wentzville-christian-preschool-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:aspen-academy-llc-wentzville",
+      "name": "Aspen Academy, LLC",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "740 Welker Pkwy, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-aspen-academy-llc-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:childrens-edu-care-center-inc-st-peters",
+      "name": "Children'S Edu-Care Center, Inc..",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "100 Vantage Dr, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-childrens-edu-care-center-inc-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:childrens-lighthouse-of-ofallon-lake-st-louis",
+      "name": "Children'S Lighthouse of O'Fallon",
+      "county": "st-charles-county",
+      "municipality": "Lake St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2558 Sommers Rd, Lake St. Louis, MO 63367",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-childrens-lighthouse-of-ofallon-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:community-advocates-early-childcare-center-lake-st-louis",
+      "name": "Community Advocates Early Childcare Center",
+      "county": "st-charles-county",
+      "municipality": "Lake St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "10390 Veterans Memorial Pkwy, Lake St. Louis, MO 63367",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-community-advocates-early-childcare-center-lake-st-louis-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:delmar-gardens-of-ofallon-l-l-c-o-fallon",
+      "name": "Delmar Gardens of O'Fallon, L.L.C.",
+      "county": "st-charles-county",
+      "municipality": "O Fallon",
+      "restrictedPropertyType": "childcare",
+      "address": "7068 S Outer Road 364, O Fallon, MO 63368",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-delmar-gardens-of-ofallon-l-l-c-o-fallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:discovery-kids-inc-st-peters",
+      "name": "Discovery Kids, Inc..",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "2451 Willott Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-discovery-kids-inc-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:elite-scholars-academy-llc-st-peters",
+      "name": "Elite Scholars Academy LLC",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "102 Birdie Hills Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-elite-scholars-academy-llc-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:extraordinary-kids-preschool-1-st-charles",
+      "name": "Extraordinary Kids Preschool #1",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "1804 Boones Lick Rd, St. Charles, MO 63301",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-extraordinary-kids-preschool-1-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:extraordinary-kids-preschool-2-st-charles",
+      "name": "Extraordinary Kids Preschool #2",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "4778 Central School Rd, St. Charles, MO 63304",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-extraordinary-kids-preschool-2-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:infinite-wisdom-llc-st-charles",
+      "name": "Infinite Wisdom LLC",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "3456 Harry S Truman Blvd, St. Charles, MO 63301",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-infinite-wisdom-llc-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:jack-and-jill-steam-academy-llc-st-peters",
+      "name": "Jack and Jill Steam Academy, LLC",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "700 Jungermann Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-jack-and-jill-steam-academy-llc-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:kiddie-academy-st-charles",
+      "name": "Kiddie Academy",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "1500 Woodstone Dr, St. Charles, MO 63304",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kiddie-academy-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:kids-r-kids-wentzville-wentzville",
+      "name": "Kids R Kids - Wentzville",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "1020 Meyer Rd, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kids-r-kids-wentzville-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:kingdom-kare-early-learning-center-llc-st-peters",
+      "name": "Kingdom Kare Early Learning Center LLC",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "1 Sugarwood Dr, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kingdom-kare-early-learning-center-llc-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:little-learners-of-st-charles-st-peters",
+      "name": "Little Learners of St. Charles",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "3857 Mcclay Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-learners-of-st-charles-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:little-monsters-childcare-and-development-llc-st-charles",
+      "name": "Little Monsters Childcare and Development LLC",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "3545 Franks Dr, St. Charles, MO 63301",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-monsters-childcare-and-development-llc-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:mid-rivers-day-care-st-peters",
+      "name": "Mid Rivers Day Care",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "349 Mid Rivers Mall Dr, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-mid-rivers-day-care-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:primrose-school-at-st-charles-community-college-cottleville",
+      "name": "Primrose School at St. Charles Community College",
+      "county": "st-charles-county",
+      "municipality": "Cottleville",
+      "restrictedPropertyType": "childcare",
+      "address": "4601 Mid Rivers Mall Dr, Cottleville, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-primrose-school-at-st-charles-community-college-cottleville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:the-learning-circle-st-charles",
+      "name": "The Learning Circle",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "1530 Country Club Plaza Dr, St. Charles, MO 63303",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-learning-circle-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:the-peanuts-gang-learning-center-incorporated-st-peters",
+      "name": "The Peanuts Gang Learning Center, Incorporated",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "551 Salt Lick Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-peanuts-gang-learning-center-incorporated-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:treehouse-learning-center-inc-wentzville",
+      "name": "Treehouse Learning Center, Inc..",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "23 Tiffany Lynn Ct, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-treehouse-learning-center-inc-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:ymca-ofallon-branch-hawthorn-elementary-st-peters",
+      "name": "YMCA-O'Fallon Branch-Hawthorn Elementary",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "166 Boone Hills Dr, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-ofallon-branch-hawthorn-elementary-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:ymca-ofallon-branch-mid-rivers-elementary-st-peters",
+      "name": "YMCA-O'Fallon Branch-Mid Rivers Elementary",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "7479 Mexico Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-ofallon-branch-mid-rivers-elementary-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:ymca-ofallon-branch-progress-south-elementary-st-peters",
+      "name": "YMCA-O'Fallon Branch-Progress South Elementary",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "201 Knaust Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-ofallon-branch-progress-south-elementary-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:ymca-ofallon-branch-st-peters-elementary-st-peters",
+      "name": "YMCA-O'Fallon Branch-St. Peters Elementary",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "400 Mcmenamy Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ymca-ofallon-branch-st-peters-elementary-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:ambers-daycare-st-peters",
+      "name": "Ambers Daycare",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "4 Bluegrass Ln, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ambers-daycare-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:aprils-loving-home-learning-center-st-charles",
+      "name": "April'S Loving Home Learning Center",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "12 Brynwyck Hall Ct, St. Charles, MO 63304",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-aprils-loving-home-learning-center-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:babies-and-blessings-daycare-wentzville",
+      "name": "Babies and Blessings Daycare",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "127 Cimarron Summit Way, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-babies-and-blessings-daycare-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:elissies-daycare-st-peters",
+      "name": "Elissie'S Daycare",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "46 Country Hill Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-elissies-daycare-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:faith-and-friends-daycare-o-fallon",
+      "name": "Faith and Friends Daycare",
+      "county": "st-charles-county",
+      "municipality": "O Fallon",
+      "restrictedPropertyType": "childcare",
+      "address": "13 Autumn Mist Ct, O Fallon, MO 63366",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-faith-and-friends-daycare-o-fallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:fister-renee-lynn-st-peters",
+      "name": "Fister, Renee Lynn",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "3067 Valley Vista Dr N, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-fister-renee-lynn-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:hoffman-daronda-st-charles",
+      "name": "Hoffman, Daronda",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "1441 Woodstone Dr, St. Charles, MO 63304",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-hoffman-daronda-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:miss-sarahs-house-llc-o-fallon",
+      "name": "Miss Sarah'S House LLC",
+      "county": "st-charles-county",
+      "municipality": "O Fallon",
+      "restrictedPropertyType": "childcare",
+      "address": "967 Crestwood Ln, O Fallon, MO 63366",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-miss-sarahs-house-llc-o-fallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:newbury-jennifer-o-fallon",
+      "name": "Newbury, Jennifer",
+      "county": "st-charles-county",
+      "municipality": "O Fallon",
+      "restrictedPropertyType": "childcare",
+      "address": "902 Taylor Pl, O Fallon, MO 63366",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-newbury-jennifer-o-fallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:prayers-and-playtime-daycare-wentzville",
+      "name": "Prayers and Playtime Daycare",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "216 Carlton Point Dr, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-prayers-and-playtime-daycare-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:sabella-kathleen-a-o-fallon",
+      "name": "Sabella, Kathleen a",
+      "county": "st-charles-county",
+      "municipality": "O Fallon",
+      "restrictedPropertyType": "childcare",
+      "address": "154 Royallprairie Ln, O Fallon, MO 63368",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-sabella-kathleen-a-o-fallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:warnock-joanna-o-fallon",
+      "name": "Warnock, Joanna",
+      "county": "st-charles-county",
+      "municipality": "O Fallon",
+      "restrictedPropertyType": "childcare",
+      "address": "6 Statesman Ct, O Fallon, MO 63368",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-warnock-joanna-o-fallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:calvary-church-mothers-day-out-st-peters",
+      "name": "Calvary Church Mothers Day Out",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "3998 Mid Rivers Mall Dr, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-calvary-church-mothers-day-out-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:chapel-of-the-cross-lutheran-preschool-st-peters",
+      "name": "Chapel of the Cross Lutheran Preschool",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "907 Jungermann Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-chapel-of-the-cross-lutheran-preschool-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:faith-preschool-st-charles",
+      "name": "Faith Preschool",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "2950 Droste Rd, St. Charles, MO 63301",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-faith-preschool-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:fieldview-academy-st-charles",
+      "name": "Fieldview Academy",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "1120 Jungs Station Rd, St. Charles, MO 63303",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-fieldview-academy-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:first-baptist-church-of-st-peters-preschool-st-peters",
+      "name": "First Baptist Church of St. Peters Preschool",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "3533 Mid Rivers Mall Dr, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-first-baptist-church-of-st-peters-preschool-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:grace-united-church-of-christ-preschool-st-peters",
+      "name": "Grace United Church of Christ Preschool",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "8326 Mexico Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-grace-united-church-of-christ-preschool-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:kids-first-daycare-llc-st-peters",
+      "name": "Kids First Daycare LLC",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "4750 N Service Rd, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-kids-first-daycare-llc-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:little-seedlings-academy-foristell",
+      "name": "Little Seedlings Academy",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "restrictedPropertyType": "childcare",
+      "address": "2805 Dietrich Rd, Foristell, MO 63348",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-little-seedlings-academy-foristell-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:the-solid-rock-preschool-mdo-wentzville",
+      "name": "The Solid Rock Preschool & Mdo",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "653 Luetkenhaus Blvd, Wentzville, MO 63385",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-the-solid-rock-preschool-mdo-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:just-4-us-st-charles",
+      "name": "Just 4 Us",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "childcare",
+      "address": "2559 Raymond Dr, St. Charles, MO 63301",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-just-4-us-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:just-4-us-childcare-st-peters",
+      "name": "Just 4 Us Childcare",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "3011 Mid Rivers Mall Dr, St. Peters, MO 63376",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-just-4-us-childcare-st-peters-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-31T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-31T00:00:00.000Z",
+      "updatedAt": "2026-03-31T00:00:00.000Z"
+    }
+  ]
+}

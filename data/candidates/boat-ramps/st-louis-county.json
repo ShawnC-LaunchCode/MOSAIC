@@ -1,0 +1,74 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-louis-county",
+  "category": "boat-ramp",
+  "places": [
+    {
+      "id": "candidate:boat-ramp:st-louis-county:creve-coeur-lake-boat-ramp",
+      "name": "Creve Coeur Lake Memorial Park – Boat Ramp",
+      "county": "st-louis-county",
+      "municipality": "Maryland Heights",
+      "recreationType": "boat-ramp",
+      "address": "13725 Marine Ave, Maryland Heights, MO 63146",
+      "location": { "lat": 38.7240, "lng": -90.4835 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7240,-90.4835",
+      "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/places/creve-coeur-lake-park",
+      "source": {
+        "id": "source-creve-coeur-lake-boat-ramp-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "boating"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:boat-ramp:st-louis-county:columbia-bottom-boat-ramp",
+      "name": "Columbia Bottom Conservation Area – Missouri River Boat Ramp",
+      "county": "st-louis-county",
+      "municipality": "Spanish Lake",
+      "recreationType": "boat-ramp",
+      "address": "801 Strodtman Rd, St. Louis, MO 63138",
+      "location": { "lat": 38.7938, "lng": -90.1762 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7938,-90.1762",
+      "websiteUrl": "https://mdc.mo.gov/discover-nature/places/columbia-bottom-conservation-area",
+      "source": {
+        "id": "source-columbia-bottom-boat-ramp-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "boating"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:boat-ramp:st-louis-county:simpson-lake-boat-ramp",
+      "name": "Simpson Lake – Boat Ramp",
+      "county": "st-louis-county",
+      "municipality": "Valley Park",
+      "recreationType": "boat-ramp",
+      "address": "1234 Marshall Rd, Valley Park, MO 63088",
+      "location": { "lat": 38.5457, "lng": -90.4653 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5457,-90.4653",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-simpson-lake-boat-ramp-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "boating"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    }
+  ]
+}

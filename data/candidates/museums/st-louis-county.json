@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-louis-county",
+  "category": "museum",
+  "places": [
+    {
+      "id": "candidate:museum:st-louis-county:national-museum-of-transportation",
+      "name": "National Museum of Transportation",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "recreationType": "museum",
+      "address": "2933 Barrett Station Rd, St. Louis, MO 63122",
+      "location": { "lat": 38.5730, "lng": -90.4630 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5730,-90.4630",
+      "websiteUrl": "https://tnmot.org",
+      "source": {
+        "id": "source-national-museum-of-transportation-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["indoor", "culture"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:museum:st-louis-county:faust-historic-village",
+      "name": "Faust Historic Village at Faust Park",
+      "county": "st-louis-county",
+      "municipality": "Chesterfield",
+      "recreationType": "museum",
+      "address": "15025 Faust Park Rd, Chesterfield, MO 63017",
+      "location": { "lat": 38.6748, "lng": -90.5631 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6748,-90.5631",
+      "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/find-a-park/faust-park",
+      "source": {
+        "id": "source-faust-historic-village-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["indoor", "culture"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:museum:st-louis-county:powder-valley-nature-center",
+      "name": "Powder Valley Conservation Nature Center",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "recreationType": "museum",
+      "address": "11715 Cragwold Rd, Kirkwood, MO 63122",
+      "location": { "lat": 38.5441, "lng": -90.4198 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5441,-90.4198",
+      "websiteUrl": "https://mdc.mo.gov/discover-nature/places/powder-valley-conservation-nature-center",
+      "source": {
+        "id": "source-powder-valley-nature-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["indoor", "culture"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:museum:st-louis-county:columbia-bottom-nature-history-center",
+      "name": "Columbia Bottom Conservation Area – Nature & History Center",
+      "county": "st-louis-county",
+      "municipality": "Spanish Lake",
+      "recreationType": "museum",
+      "address": "801 Strodtman Rd, St. Louis, MO 63138",
+      "location": { "lat": 38.7938, "lng": -90.1762 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7938,-90.1762",
+      "websiteUrl": "https://mdc.mo.gov/discover-nature/places/columbia-bottom-conservation-area",
+      "source": {
+        "id": "source-columbia-bottom-nature-history-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["indoor", "culture"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-charles-county",
+  "category": "boat-ramp",
+  "places": [
+    {
+      "id": "candidate:boat-ramp:st-charles-county:hideaway-harbor-boat-ramp",
+      "name": "Hideaway Harbor Park – Boat Ramp",
+      "county": "st-charles-county",
+      "municipality": "Portage des Sioux",
+      "recreationType": "boat-ramp",
+      "address": "1550 Hideaway Harbor Dr, Portage des Sioux, MO 63373",
+      "location": { "lat": 38.9192, "lng": -90.3713 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9192,-90.3713",
+      "websiteUrl": "https://www.sccmo.org/663/Hideaway-Harbor-Park",
+      "source": {
+        "id": "source-hideaway-harbor-boat-ramp-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "boating"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:boat-ramp:st-charles-county:riverside-landing-boat-ramp",
+      "name": "Riverside Landing Park – Mississippi River Boat Ramp",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "boat-ramp",
+      "address": "101 Riverport Lane, St. Charles, MO 63301",
+      "location": { "lat": 38.7869, "lng": -90.4768 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7869,-90.4768",
+      "websiteUrl": "https://www.sccmo.org/726/Riverside-Landing",
+      "source": {
+        "id": "source-riverside-landing-boat-ramp-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "boating"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:boat-ramp:st-charles-county:klondike-park-boat-ramp",
+      "name": "Klondike Park – Missouri River Boat Ramp",
+      "county": "st-charles-county",
+      "municipality": "Augusta",
+      "recreationType": "boat-ramp",
+      "address": "4600 Highway 94 S, Augusta, MO 63332",
+      "location": { "lat": 38.6350, "lng": -90.8830 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6350,-90.8830",
+      "websiteUrl": "https://www.sccmo.org/669/Klondike-Park",
+      "source": {
+        "id": "source-klondike-park-boat-ramp-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "boating"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:boat-ramp:st-charles-county:flatwoods-park-kayak-launch",
+      "name": "Flatwoods Park – Cuivre River Kayak Launch",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "boat-ramp",
+      "address": "2420 Flatwoods Rd, O'Fallon, MO 63366",
+      "location": { "lat": 38.8612, "lng": -90.6482 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8612,-90.6482",
+      "websiteUrl": "https://www.sccmo.org/2100/Flatwoods-Park",
+      "source": {
+        "id": "source-flatwoods-park-kayak-launch-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "boating"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    }
+  ]
+}

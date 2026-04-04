@@ -1,0 +1,140 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-louis-county",
+  "category": "greenway",
+  "places": [
+    {
+      "id": "candidate:greenway:st-louis-county:grants-trail-south",
+      "name": "Grant's Trail – South Trailhead",
+      "county": "st-louis-county",
+      "municipality": "Affton",
+      "recreationType": "greenway",
+      "address": "4590 Hoffmeister Ave, St. Louis, MO 63125",
+      "location": { "lat": 38.5068, "lng": -90.2968 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5068,-90.2968",
+      "websiteUrl": "https://greatriversgreenway.org",
+      "source": {
+        "id": "source-grants-trail-south-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "walking"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:greenway:st-louis-county:grants-trail-kirkwood-north",
+      "name": "Grant's Trail – Kirkwood North Trailhead",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "recreationType": "greenway",
+      "address": "Holmes Ave & Leffingwell Ave, Kirkwood, MO 63122",
+      "location": { "lat": 38.5762, "lng": -90.4068 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5762,-90.4068",
+      "websiteUrl": "https://greatriversgreenway.org",
+      "source": {
+        "id": "source-grants-trail-kirkwood-north-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "walking"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:greenway:st-louis-county:meramec-greenway-greentree",
+      "name": "Meramec Greenway – Greentree Park Trailhead",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "recreationType": "greenway",
+      "address": "2150 Marshall Rd, Kirkwood, MO 63122",
+      "location": { "lat": 38.5570, "lng": -90.4261 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5570,-90.4261",
+      "websiteUrl": "https://greatriversgreenway.org",
+      "source": {
+        "id": "source-meramec-greenway-greentree-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "walking"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:greenway:st-louis-county:meramec-greenway-fenton",
+      "name": "Meramec Greenway – Fenton City Park Trailhead",
+      "county": "st-louis-county",
+      "municipality": "Fenton",
+      "recreationType": "greenway",
+      "address": "1215 Larkin Williams Rd, Fenton, MO 63026",
+      "location": { "lat": 38.5133, "lng": -90.4444 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5133,-90.4444",
+      "websiteUrl": "https://greatriversgreenway.org",
+      "source": {
+        "id": "source-meramec-greenway-fenton-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "walking"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:greenway:st-louis-county:monarch-chesterfield-levee-rivers-edge",
+      "name": "Monarch-Chesterfield Levee Trail – River's Edge Trailhead",
+      "county": "st-louis-county",
+      "municipality": "Chesterfield",
+      "recreationType": "greenway",
+      "address": "17017 N Outer 40 Rd, Chesterfield, MO 63005",
+      "location": { "lat": 38.7301, "lng": -90.5849 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7301,-90.5849",
+      "websiteUrl": "https://greatriversgreenway.org/greenways/missouri-greenway-monarch-chesterfield-levee",
+      "source": {
+        "id": "source-monarch-chesterfield-levee-rivers-edge-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "walking"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:greenway:st-louis-county:monarch-chesterfield-levee-railroad-park",
+      "name": "Monarch-Chesterfield Levee Trail – Railroad Park Trailhead",
+      "county": "st-louis-county",
+      "municipality": "Chesterfield",
+      "recreationType": "greenway",
+      "address": "17634 Edison Ave, Chesterfield, MO 63005",
+      "location": { "lat": 38.7340, "lng": -90.5990 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7340,-90.5990",
+      "websiteUrl": "https://greatriversgreenway.org/greenways/missouri-greenway-monarch-chesterfield-levee",
+      "source": {
+        "id": "source-monarch-chesterfield-levee-railroad-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "walking"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    }
+  ]
+}

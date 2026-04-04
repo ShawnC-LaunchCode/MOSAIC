@@ -1,0 +1,74 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-louis-county",
+  "category": "fishing",
+  "places": [
+    {
+      "id": "candidate:fishing:st-louis-county:creve-coeur-lake-fishing",
+      "name": "Creve Coeur Lake – Fishing Dock",
+      "county": "st-louis-county",
+      "municipality": "Maryland Heights",
+      "recreationType": "fishing",
+      "address": "13236 Streetcar Dr, Maryland Heights, MO 63043",
+      "location": { "lat": 38.7260, "lng": -90.4890 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7260,-90.4890",
+      "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/places/creve-coeur-lake-park",
+      "source": {
+        "id": "source-creve-coeur-lake-fishing-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "fishing"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:fishing:st-louis-county:queeny-park-jarville-lake-fishing",
+      "name": "Queeny Park – Jarville Lake Fishing",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "recreationType": "fishing",
+      "address": "1675 S Mason Rd, Ballwin, MO 63011",
+      "location": { "lat": 38.5840, "lng": -90.4957 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5840,-90.4957",
+      "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/find-a-park/queeny-park",
+      "source": {
+        "id": "source-queeny-park-jarville-lake-fishing-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "fishing"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:fishing:st-louis-county:cliff-cave-park-fishing",
+      "name": "Cliff Cave County Park – Mississippi River Fishing",
+      "county": "st-louis-county",
+      "municipality": "Oakville",
+      "recreationType": "fishing",
+      "address": "806 Cliff Cave Rd, St. Louis, MO 63129",
+      "location": { "lat": 38.4588, "lng": -90.2879 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4588,-90.2879",
+      "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/find-a-park/cliff-cave-park",
+      "source": {
+        "id": "source-cliff-cave-park-fishing-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "fishing"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    }
+  ]
+}

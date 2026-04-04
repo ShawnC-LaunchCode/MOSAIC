@@ -1,0 +1,118 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-charles-county",
+  "category": "museum",
+  "places": [
+    {
+      "id": "candidate:museum:st-charles-county:lewis-clark-boathouse-museum",
+      "name": "Lewis & Clark Boat House and Museum",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "museum",
+      "address": "1050 S Riverside Dr, St. Charles, MO 63301",
+      "location": { "lat": 38.7780, "lng": -90.4784 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7780,-90.4784",
+      "websiteUrl": "https://lewisandclarkboathouse.org",
+      "source": {
+        "id": "source-lewis-clark-boathouse-museum-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["indoor", "culture"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:museum:st-charles-county:st-charles-heritage-museum",
+      "name": "St. Charles County Heritage Museum",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "recreationType": "museum",
+      "address": "1630 Heritage Landing, St. Peters, MO 63376",
+      "location": { "lat": 38.7823, "lng": -90.6225 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7823,-90.6225",
+      "websiteUrl": "https://www.sccmo.org/658/Heritage-Museum",
+      "source": {
+        "id": "source-st-charles-heritage-museum-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["indoor", "culture"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:museum:st-charles-county:weldon-spring-interpretive-center",
+      "name": "Weldon Spring Site Interpretive Center",
+      "county": "st-charles-county",
+      "municipality": "Weldon Spring",
+      "recreationType": "museum",
+      "address": "7295 Highway 94 S, St. Charles, MO 63304",
+      "location": { "lat": 38.7048, "lng": -90.6750 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7048,-90.6750",
+      "websiteUrl": "https://www.energy.gov/lm/weldon-spring-site-interpretive-center",
+      "source": {
+        "id": "source-weldon-spring-interpretive-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["indoor", "culture"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:museum:st-charles-county:commemorative-air-force-museum",
+      "name": "Commemorative Air Force – Missouri Wing Museum",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "museum",
+      "address": "6390 Grafton Ferry Rd, St. Charles, MO 63373",
+      "location": { "lat": 38.8991, "lng": -90.4290 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8991,-90.4290",
+      "websiteUrl": "https://www.cafmo.org",
+      "source": {
+        "id": "source-commemorative-air-force-museum-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["indoor", "culture"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:museum:st-charles-county:first-mo-state-capitol",
+      "name": "First Missouri State Capitol State Historic Site",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "museum",
+      "address": "200 S Main St, St. Charles, MO 63301",
+      "location": { "lat": 38.7834, "lng": -90.4897 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7834,-90.4897",
+      "websiteUrl": "https://mostateparks.com/park/first-missouri-state-capitol-state-historic-site",
+      "source": {
+        "id": "source-first-mo-state-capitol-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["indoor", "culture"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    }
+  ]
+}

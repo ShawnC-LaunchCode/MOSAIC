@@ -1,0 +1,74 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-charles-county",
+  "category": "fishing",
+  "places": [
+    {
+      "id": "candidate:fishing:st-charles-county:busch-conservation-area-fishing",
+      "name": "August A. Busch Memorial Conservation Area – Fishing",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "fishing",
+      "address": "2360 Highway D, St. Charles, MO 63304",
+      "location": { "lat": 38.7184, "lng": -90.7557 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7184,-90.7557",
+      "websiteUrl": "https://mdc.mo.gov/discover-nature/places/august-busch-memorial-conservation-area",
+      "source": {
+        "id": "source-busch-conservation-fishing-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "fishing"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:fishing:st-charles-county:klondike-park-fishing",
+      "name": "Klondike Park – Fishing Lake",
+      "county": "st-charles-county",
+      "municipality": "Augusta",
+      "recreationType": "fishing",
+      "address": "4600 Highway 94 S, Augusta, MO 63332",
+      "location": { "lat": 38.6371, "lng": -90.8820 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6371,-90.8820",
+      "websiteUrl": "https://www.sccmo.org/669/Klondike-Park",
+      "source": {
+        "id": "source-klondike-park-fishing-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "fishing"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:fishing:st-charles-county:new-melle-lakes-fishing",
+      "name": "The Park at New Melle Lakes – Fishing",
+      "county": "st-charles-county",
+      "municipality": "New Melle",
+      "recreationType": "fishing",
+      "address": "400 Foristell Rd, New Melle, MO 63365",
+      "location": { "lat": 38.7742, "lng": -90.8540 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7742,-90.8540",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-new-melle-lakes-fishing-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "fishing"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    }
+  ]
+}

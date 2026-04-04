@@ -843,6 +843,321 @@
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
       "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:great-beginnings-learning-center-5265775341",
+      "name": "Great Beginnings Learning Center",
+      "county": "st-charles-county",
+      "municipality": "Cottleville",
+      "restrictedPropertyType": "childcare",
+      "address": "1401 Cottleville Parkway",
+      "location": {
+        "lat": 38.7603058,
+        "lng": -90.6514335
+      },
+      "source": {
+        "id": "osm-5265775341",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.994Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.994Z",
+      "updatedAt": "2026-04-04T15:39:20.994Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:magic-world-preschool-5605075252",
+      "name": "Magic World Preschool",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "106 Kent Drive",
+      "location": {
+        "lat": 38.8106774,
+        "lng": -90.8619027
+      },
+      "source": {
+        "id": "osm-5605075252",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.995Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.995Z",
+      "updatedAt": "2026-04-04T15:39:20.995Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:kingdom-kare-early-learning-center-12138267813",
+      "name": "Kingdom Kare Early Learning Center",
+      "county": "st-charles-county",
+      "municipality": "St Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "1 Sugarwood Dr",
+      "location": {
+        "lat": 38.7536612,
+        "lng": -90.579717
+      },
+      "source": {
+        "id": "osm-12138267813",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.041Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.041Z",
+      "updatedAt": "2026-04-04T15:39:21.041Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:peanuts-gang-learning-center-13387171291",
+      "name": "Peanuts Gang Learning Center",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "551 Salt Lick Road",
+      "location": {
+        "lat": 38.7939557,
+        "lng": -90.6587625
+      },
+      "source": {
+        "id": "osm-13387171291",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.064Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.064Z",
+      "updatedAt": "2026-04-04T15:39:21.064Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:mid-rivers-day-care-317609907",
+      "name": "Mid Rivers Day Care",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "349 Mid Rivers Mall Drive",
+      "location": {
+        "lat": 38.7910037,
+        "lng": -90.6259422
+      },
+      "source": {
+        "id": "osm-317609907",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.644Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.644Z",
+      "updatedAt": "2026-04-04T15:39:21.644Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:just-4-us-childcare-learning-center-618557564",
+      "name": "Just 4 Us Childcare & Learning Center",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "childcare",
+      "address": "192 Frontier Park Drive",
+      "location": {
+        "lat": 38.7807088,
+        "lng": -90.7016585
+      },
+      "source": {
+        "id": "osm-618557564",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.038Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.038Z",
+      "updatedAt": "2026-04-04T15:39:23.038Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:candyland-academy-inc-815745976",
+      "name": "Candyland Academy, Inc",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "102 Birdie Hills Road",
+      "location": {
+        "lat": 38.7864389,
+        "lng": -90.6617543
+      },
+      "source": {
+        "id": "osm-815745976",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.761Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.761Z",
+      "updatedAt": "2026-04-04T15:39:23.761Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:the-goddard-school-1317398846",
+      "name": "The Goddard School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "1513 Wentzville Parkway",
+      "location": {
+        "lat": 38.8256498,
+        "lng": -90.8754867
+      },
+      "source": {
+        "id": "osm-1317398846",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.671Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.671Z",
+      "updatedAt": "2026-04-04T15:39:24.671Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:the-learning-experience-st-peters-east-1337429511",
+      "name": "The Learning Experience - St. Peters East",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "childcare",
+      "address": "600 Bond Street",
+      "location": {
+        "lat": 38.7500144,
+        "lng": -90.5829985
+      },
+      "source": {
+        "id": "osm-1337429511",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.745Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.745Z",
+      "updatedAt": "2026-04-04T15:39:24.745Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:amerikids-christian-center-1338139759",
+      "name": "AmeriKids Christian Center",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "childcare",
+      "address": "1017 North Main Street",
+      "location": {
+        "lat": 38.8224271,
+        "lng": -90.7001747
+      },
+      "source": {
+        "id": "osm-1338139759",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.755Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.755Z",
+      "updatedAt": "2026-04-04T15:39:24.755Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:winfield-children-s-center-1346235889",
+      "name": "Winfield Children's Center",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "childcare",
+      "address": "4019 Highway 47",
+      "location": {
+        "lat": 38.9921736,
+        "lng": -90.7440855
+      },
+      "source": {
+        "id": "osm-1346235889",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.792Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.792Z",
+      "updatedAt": "2026-04-04T15:39:24.792Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:winfield-early-childhood-center-1346972746",
+      "name": "Winfield Early Childhood Center",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "childcare",
+      "address": "105 8th Street",
+      "location": {
+        "lat": 38.9942195,
+        "lng": -90.7469384
+      },
+      "source": {
+        "id": "osm-1346972746",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.797Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.797Z",
+      "updatedAt": "2026-04-04T15:39:24.797Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:saint-louis-crisis-nursery-1357659526",
+      "name": "Saint Louis Crisis Nursery",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "700 Medical Drive",
+      "location": {
+        "lat": 38.8209215,
+        "lng": -90.8801221
+      },
+      "source": {
+        "id": "osm-1357659526",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.818Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.818Z",
+      "updatedAt": "2026-04-04T15:39:24.818Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:lullaby-inn-learning-center-1391728478",
+      "name": "Lullaby Inn Learning Center",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "1652 West Meyer Road",
+      "location": {
+        "lat": 38.8253252,
+        "lng": -90.8813026
+      },
+      "source": {
+        "id": "osm-1391728478",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.899Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.899Z",
+      "updatedAt": "2026-04-04T15:39:24.899Z"
+    },
+    {
+      "id": "restricted:childcare:st-charles-county:kids-r-kids-1409535984",
+      "name": "Kids 'R' Kids",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "childcare",
+      "address": "1020 Meyer Road",
+      "location": {
+        "lat": 38.8234588,
+        "lng": -90.8588359
+      },
+      "source": {
+        "id": "osm-1409535984",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.953Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.953Z",
+      "updatedAt": "2026-04-04T15:39:24.953Z"
     }
   ]
 }

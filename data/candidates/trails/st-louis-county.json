@@ -1,0 +1,3170 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-louis-county",
+  "category": "trail",
+  "places": [
+    {
+      "id": "candidate:trail:st-louis-county:castlewood-state-park-trail",
+      "name": "Castlewood State Park – Lone Wolf Trailhead",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "recreationType": "trail",
+      "address": "1401 Kiefer Creek Rd, Ballwin, MO 63021",
+      "location": {
+        "lat": 38.5526,
+        "lng": -90.5435
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5526,-90.5435",
+      "websiteUrl": "https://mostateparks.com/park/castlewood-state-park",
+      "source": {
+        "id": "source-castlewood-state-park-trail-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trail:st-louis-county:greensfelder-park-trail",
+      "name": "Greensfelder County Park – Trail & Nature Center",
+      "county": "st-louis-county",
+      "municipality": "Wildwood",
+      "recreationType": "trail",
+      "address": "4312 Allenton Rd, Wildwood, MO 63005",
+      "location": {
+        "lat": 38.521,
+        "lng": -90.613
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5210,-90.6130",
+      "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/find-a-park/greensfelder-park",
+      "source": {
+        "id": "source-greensfelder-park-trail-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trail:st-louis-county:emmenegger-nature-park",
+      "name": "Emmenegger Nature Park",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "recreationType": "trail",
+      "address": "11991 Stoneywood Dr, Kirkwood, MO 63122",
+      "location": {
+        "lat": 38.5481,
+        "lng": -90.5234
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5481,-90.5234",
+      "websiteUrl": "https://mdc.mo.gov/discover-nature/places/emmenegger-nature-park",
+      "source": {
+        "id": "source-emmenegger-nature-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trail:st-louis-county:lone-elk-park-trail",
+      "name": "Lone Elk County Park – White Bison Trail",
+      "county": "st-louis-county",
+      "municipality": "Valley Park",
+      "recreationType": "trail",
+      "address": "1 Lone Elk Park Rd, Valley Park, MO 63088",
+      "location": {
+        "lat": 38.5308,
+        "lng": -90.5404
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5308,-90.5404",
+      "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/find-a-park/lone-elk-park",
+      "source": {
+        "id": "source-lone-elk-park-trail-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:etzel-avenue-6411429",
+      "name": "Etzel Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6633957,
+        "lng": -90.2770497
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6633957,-90.2770497",
+      "source": {
+        "id": "osm-6411429",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.069Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.069Z",
+      "updatedAt": "2026-04-04T15:39:21.069Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:manhattan-mews-6423435",
+      "name": "Manhattan Mews",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6386736,
+        "lng": -90.2527029
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6386736,-90.2527029",
+      "source": {
+        "id": "osm-6423435",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.070Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.070Z",
+      "updatedAt": "2026-04-04T15:39:21.070Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:busch-hiking-biking-trail-12264850",
+      "name": "Busch Hiking/Biking Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7232261,
+        "lng": -90.7724082
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7232261,-90.7724082",
+      "source": {
+        "id": "osm-12264850",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.070Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.070Z",
+      "updatedAt": "2026-04-04T15:39:21.070Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:lost-lake-drive-12267084",
+      "name": "Lost Lake Drive",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7244972,
+        "lng": -90.8943278
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7244972,-90.8943278",
+      "source": {
+        "id": "osm-12267084",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.072Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.072Z",
+      "updatedAt": "2026-04-04T15:39:21.072Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:river-bend-drive-18526589",
+      "name": "River Bend Drive",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.46348,
+        "lng": -90.5913477
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.46348,-90.5913477",
+      "source": {
+        "id": "osm-18526589",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.073Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.073Z",
+      "updatedAt": "2026-04-04T15:39:21.073Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:hollywood-beach-road-18527205",
+      "name": "Hollywood Beach Road",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.4517291,
+        "lng": -90.3426654
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4517291,-90.3426654",
+      "source": {
+        "id": "osm-18527205",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.075Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.075Z",
+      "updatedAt": "2026-04-04T15:39:21.075Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:outer-loop-trail-18706304",
+      "name": "Outer Loop Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5100896,
+        "lng": -90.6001667
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5100896,-90.6001667",
+      "source": {
+        "id": "osm-18706304",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.076Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.076Z",
+      "updatedAt": "2026-04-04T15:39:21.076Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:levee-road-22023581",
+      "name": "Levee Road",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5372191,
+        "lng": -90.2388881
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5372191,-90.2388881",
+      "source": {
+        "id": "osm-22023581",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.076Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.076Z",
+      "updatedAt": "2026-04-04T15:39:21.076Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:hamburg-trail-32551168",
+      "name": "Hamburg Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6558536,
+        "lng": -90.7560656
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6558536,-90.7560656",
+      "source": {
+        "id": "osm-32551168",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.083Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.083Z",
+      "updatedAt": "2026-04-04T15:39:21.083Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:prairie-boardwalk-40719688",
+      "name": "Prairie Boardwalk",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6391822,
+        "lng": -90.2684644
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6391822,-90.2684644",
+      "source": {
+        "id": "osm-40719688",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.094Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.094Z",
+      "updatedAt": "2026-04-04T15:39:21.094Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:ccc-road-108403853",
+      "name": "CCC Road",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5180785,
+        "lng": -90.2738106
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5180785,-90.2738106",
+      "source": {
+        "id": "osm-108403853",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.139Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.139Z",
+      "updatedAt": "2026-04-04T15:39:21.139Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:lost-valley-trail-117269449",
+      "name": "Lost Valley Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6782908,
+        "lng": -90.7501559
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6782908,-90.7501559",
+      "source": {
+        "id": "osm-117269449",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.148Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.148Z",
+      "updatedAt": "2026-04-04T15:39:21.148Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:broemmelsiek-trail-119245328",
+      "name": "Broemmelsiek Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7176205,
+        "lng": -90.8131209
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7176205,-90.8131209",
+      "source": {
+        "id": "osm-119245328",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.149Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.149Z",
+      "updatedAt": "2026-04-04T15:39:21.149Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:hamburg-trail-127269537",
+      "name": "Hamburg Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.668989,
+        "lng": -90.7325568
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.668989,-90.7325568",
+      "source": {
+        "id": "osm-127269537",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.153Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.153Z",
+      "updatedAt": "2026-04-04T15:39:21.153Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:stanford-avenue-149427289",
+      "name": "Stanford Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6629178,
+        "lng": -90.3463833
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6629178,-90.3463833",
+      "source": {
+        "id": "osm-149427289",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.182Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.182Z",
+      "updatedAt": "2026-04-04T15:39:21.182Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:creve-coeur-mill-road-157480679",
+      "name": "Creve Coeur Mill Road",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7315084,
+        "lng": -90.4814588
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7315084,-90.4814588",
+      "source": {
+        "id": "osm-157480679",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.344Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.344Z",
+      "updatedAt": "2026-04-04T15:39:21.344Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:mainly-used-for-bike-race-157582302",
+      "name": "Mainly used for bike race",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7172307,
+        "lng": -90.8194536
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7172307,-90.8194536",
+      "source": {
+        "id": "osm-157582302",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.362Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.362Z",
+      "updatedAt": "2026-04-04T15:39:21.362Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:north-newstead-avenue-172756216",
+      "name": "North Newstead Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6468151,
+        "lng": -90.2520683
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6468151,-90.2520683",
+      "source": {
+        "id": "osm-172756216",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.412Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.412Z",
+      "updatedAt": "2026-04-04T15:39:21.412Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:white-connector-7-191995382",
+      "name": "White Connector 7",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.547027,
+        "lng": -90.5379304
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.547027,-90.5379304",
+      "source": {
+        "id": "osm-191995382",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.420Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.420Z",
+      "updatedAt": "2026-04-04T15:39:21.420Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:riverwoods-trail-225336112",
+      "name": "Riverwoods Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7742973,
+        "lng": -90.4753613
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7742973,-90.4753613",
+      "source": {
+        "id": "osm-225336112",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.438Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.438Z",
+      "updatedAt": "2026-04-04T15:39:21.438Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:stinging-nettle-trail-242376374",
+      "name": "Stinging Nettle Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5400255,
+        "lng": -90.573088
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5400255,-90.573088",
+      "source": {
+        "id": "osm-242376374",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.469Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.469Z",
+      "updatedAt": "2026-04-04T15:39:21.469Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:wc10-gravel-plant-connector-242779504",
+      "name": "WC10 Gravel Plant Connector",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5389304,
+        "lng": -90.5675882
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5389304,-90.5675882",
+      "source": {
+        "id": "osm-242779504",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.471Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.471Z",
+      "updatedAt": "2026-04-04T15:39:21.471Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:wc9-old-nettle-loop-connector-242932129",
+      "name": "WC9 Old Nettle Loop Connector",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5372317,
+        "lng": -90.5703689
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5372317,-90.5703689",
+      "source": {
+        "id": "osm-242932129",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.472Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.472Z",
+      "updatedAt": "2026-04-04T15:39:21.472Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:wc8-rockaway-connector-242959885",
+      "name": "WC8 Rockaway Connector",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5368684,
+        "lng": -90.5732967
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5368684,-90.5732967",
+      "source": {
+        "id": "osm-242959885",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.473Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.473Z",
+      "updatedAt": "2026-04-04T15:39:21.473Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:labarque-creek-trail-253900996",
+      "name": "LaBarque Creek Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.4223956,
+        "lng": -90.6987176
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4223956,-90.6987176",
+      "source": {
+        "id": "osm-253900996",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.492Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.492Z",
+      "updatedAt": "2026-04-04T15:39:21.492Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:abandoned-road-264195794",
+      "name": "Abandoned Road",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6780145,
+        "lng": -90.7577423
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6780145,-90.7577423",
+      "source": {
+        "id": "osm-264195794",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.501Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.501Z",
+      "updatedAt": "2026-04-04T15:39:21.501Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:old-farm-estates-trail-279465697",
+      "name": "Old Farm Estates Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6914648,
+        "lng": -90.4921252
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6914648,-90.4921252",
+      "source": {
+        "id": "osm-279465697",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.533Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.533Z",
+      "updatedAt": "2026-04-04T15:39:21.533Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:accomac-street-285596388",
+      "name": "Accomac Street",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.609463,
+        "lng": -90.222992
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.609463,-90.222992",
+      "source": {
+        "id": "osm-285596388",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.550Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.550Z",
+      "updatedAt": "2026-04-04T15:39:21.550Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:lost-valley-trail-connector-310906409",
+      "name": "Lost Valley Trail Connector",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6815386,
+        "lng": -90.736624
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6815386,-90.736624",
+      "source": {
+        "id": "osm-310906409",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.633Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.633Z",
+      "updatedAt": "2026-04-04T15:39:21.633Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:hogsback-trail-322502991",
+      "name": "Hogsback Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5826249,
+        "lng": -90.8286471
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5826249,-90.8286471",
+      "source": {
+        "id": "osm-322502991",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.674Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.674Z",
+      "updatedAt": "2026-04-04T15:39:21.674Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:nelson-miller-bridge-327914711",
+      "name": "Nelson Miller Bridge",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.903357,
+        "lng": -90.1150453
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.903357,-90.1150453",
+      "source": {
+        "id": "osm-327914711",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.689Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.689Z",
+      "updatedAt": "2026-04-04T15:39:21.689Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:hiking-loop-329342414",
+      "name": "Hiking Loop",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8763685,
+        "lng": -90.178964
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8763685,-90.178964",
+      "source": {
+        "id": "osm-329342414",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.691Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.691Z",
+      "updatedAt": "2026-04-04T15:39:21.691Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:2nd-connector-329342415",
+      "name": "2nd Connector",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8745921,
+        "lng": -90.1764039
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8745921,-90.1764039",
+      "source": {
+        "id": "osm-329342415",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.693Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.693Z",
+      "updatedAt": "2026-04-04T15:39:21.693Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:paul-e-bauer-memorial-trail-at-heron-pond-329344446",
+      "name": "Paul E Bauer Memorial Trail at Heron Pond",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8648238,
+        "lng": -90.1682486
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8648238,-90.1682486",
+      "source": {
+        "id": "osm-329344446",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.695Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.695Z",
+      "updatedAt": "2026-04-04T15:39:21.695Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:salt-lick-point-trail-329358084",
+      "name": "Salt Lick Point Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.3056792,
+        "lng": -90.3034345
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3056792,-90.3034345",
+      "source": {
+        "id": "osm-329358084",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.699Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.699Z",
+      "updatedAt": "2026-04-04T15:39:21.699Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:johnson-trail-329358092",
+      "name": "Johnson Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.3090772,
+        "lng": -90.3022122
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3090772,-90.3022122",
+      "source": {
+        "id": "osm-329358092",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.701Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.701Z",
+      "updatedAt": "2026-04-04T15:39:21.701Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:spice-bush-trail-330310979",
+      "name": "Spice Bush Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.426758,
+        "lng": -90.8194094
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.426758,-90.8194094",
+      "source": {
+        "id": "osm-330310979",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.707Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.707Z",
+      "updatedAt": "2026-04-04T15:39:21.707Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:lakeside-trail-330458922",
+      "name": "Lakeside Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7955269,
+        "lng": -90.2052384
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7955269,-90.2052384",
+      "source": {
+        "id": "osm-330458922",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.713Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.713Z",
+      "updatedAt": "2026-04-04T15:39:21.713Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:prairie-loop-330575267",
+      "name": "Prairie Loop",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7736999,
+        "lng": -90.2922471
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7736999,-90.2922471",
+      "source": {
+        "id": "osm-330575267",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.719Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.719Z",
+      "updatedAt": "2026-04-04T15:39:21.719Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:wildflower-trail-330675599",
+      "name": "Wildflower Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.3786968,
+        "lng": -90.3831733
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3786968,-90.3831733",
+      "websiteUrl": "https://mostateparks.com/media/pdf/trail-map-wildflower-trail",
+      "source": {
+        "id": "osm-330675599",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.722Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.722Z",
+      "updatedAt": "2026-04-04T15:39:21.722Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:spring-branch-trail-330874169",
+      "name": "Spring Branch Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.3794539,
+        "lng": -90.3969232
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3794539,-90.3969232",
+      "websiteUrl": "https://mostateparks.com/media/pdf/trail-map-spring-branch-trail",
+      "source": {
+        "id": "osm-330874169",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.724Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.724Z",
+      "updatedAt": "2026-04-04T15:39:21.724Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:limestone-hill-trail-330874174",
+      "name": "Limestone Hill Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.3809429,
+        "lng": -90.3953998
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3809429,-90.3953998",
+      "source": {
+        "id": "osm-330874174",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.728Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.728Z",
+      "updatedAt": "2026-04-04T15:39:21.728Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:botomland-trail-332219037",
+      "name": "Botomland Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5318592,
+        "lng": -90.3371568
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5318592,-90.3371568",
+      "source": {
+        "id": "osm-332219037",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.730Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.730Z",
+      "updatedAt": "2026-04-04T15:39:21.730Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:west-trail-339278029",
+      "name": "West Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5062558,
+        "lng": -90.6043897
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5062558,-90.6043897",
+      "source": {
+        "id": "osm-339278029",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.735Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.735Z",
+      "updatedAt": "2026-04-04T15:39:21.735Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:white-connector-1-339278269",
+      "name": "White Connector 1",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5063439,
+        "lng": -90.5969979
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5063439,-90.5969979",
+      "source": {
+        "id": "osm-339278269",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.737Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.737Z",
+      "updatedAt": "2026-04-04T15:39:21.737Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:flint-quarry-trail-340301766",
+      "name": "Flint Quarry Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5149592,
+        "lng": -90.5817426
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5149592,-90.5817426",
+      "source": {
+        "id": "osm-340301766",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.741Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.741Z",
+      "updatedAt": "2026-04-04T15:39:21.741Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:chinkapin-trail-340301767",
+      "name": "Chinkapin Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5103951,
+        "lng": -90.5858017
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5103951,-90.5858017",
+      "source": {
+        "id": "osm-340301767",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.743Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.743Z",
+      "updatedAt": "2026-04-04T15:39:21.743Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:low-water-route-340303657",
+      "name": "Low Water Route",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.530493,
+        "lng": -90.5812979
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.530493,-90.5812979",
+      "source": {
+        "id": "osm-340303657",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.745Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.745Z",
+      "updatedAt": "2026-04-04T15:39:21.745Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:central-park-trail-352321705",
+      "name": "Central Park Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6553472,
+        "lng": -90.5747254
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6553472,-90.5747254",
+      "source": {
+        "id": "osm-352321705",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.790Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.790Z",
+      "updatedAt": "2026-04-04T15:39:21.790Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:beaver-time-368590521",
+      "name": "Beaver Time",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6710929,
+        "lng": -90.7587963
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6710929,-90.7587963",
+      "source": {
+        "id": "osm-368590521",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.812Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.812Z",
+      "updatedAt": "2026-04-04T15:39:21.812Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:geyer-avenue-405029552",
+      "name": "Geyer Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.61443,
+        "lng": -90.2330905
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.61443,-90.2330905",
+      "source": {
+        "id": "osm-405029552",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.861Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.861Z",
+      "updatedAt": "2026-04-04T15:39:21.861Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:virginia-avenue-405029566",
+      "name": "Virginia Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6128145,
+        "lng": -90.2343192
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6128145,-90.2343192",
+      "source": {
+        "id": "osm-405029566",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.863Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.863Z",
+      "updatedAt": "2026-04-04T15:39:21.863Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:old-hamburg-trail-405953019",
+      "name": "Old Hamburg Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7015979,
+        "lng": -90.7117062
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7015979,-90.7117062",
+      "source": {
+        "id": "osm-405953019",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.867Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.867Z",
+      "updatedAt": "2026-04-04T15:39:21.867Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:de-giverville-avenue-422269100",
+      "name": "De Giverville Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6541712,
+        "lng": -90.2928816
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6541712,-90.2928816",
+      "source": {
+        "id": "osm-422269100",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.881Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.881Z",
+      "updatedAt": "2026-04-04T15:39:21.881Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:riverscene-trail-455679627",
+      "name": "Riverscene Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5489728,
+        "lng": -90.5394711
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5489728,-90.5394711",
+      "source": {
+        "id": "osm-455679627",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.939Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.939Z",
+      "updatedAt": "2026-04-04T15:39:21.939Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:gravel-trail-462198277",
+      "name": "Gravel Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6748994,
+        "lng": -90.59133
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6748994,-90.59133",
+      "source": {
+        "id": "osm-462198277",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.981Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.981Z",
+      "updatedAt": "2026-04-04T15:39:21.981Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:temporirly-closed-546714750",
+      "name": "Temporirly Closed",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5299833,
+        "lng": -90.3315066
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5299833,-90.3315066",
+      "source": {
+        "id": "osm-546714750",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.645Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.645Z",
+      "updatedAt": "2026-04-04T15:39:22.645Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:sandstone-canyon-trail-597118967",
+      "name": "Sandstone Canyon Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.3935702,
+        "lng": -90.6915588
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3935702,-90.6915588",
+      "source": {
+        "id": "osm-597118967",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.926Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.926Z",
+      "updatedAt": "2026-04-04T15:39:22.926Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:river-trail-627298306",
+      "name": "River Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5790815,
+        "lng": -90.8332603
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5790815,-90.8332603",
+      "source": {
+        "id": "osm-627298306",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.107Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.107Z",
+      "updatedAt": "2026-04-04T15:39:23.107Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:salt-mill-connector-681378471",
+      "name": "Salt Mill Connector",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.633859,
+        "lng": -90.5128298
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.633859,-90.5128298",
+      "source": {
+        "id": "osm-681378471",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.490Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.490Z",
+      "updatedAt": "2026-04-04T15:39:23.490Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:newberry-terrace-689436995",
+      "name": "Newberry Terrace",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6559118,
+        "lng": -90.2546215
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6559118,-90.2546215",
+      "source": {
+        "id": "osm-689436995",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.498Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.498Z",
+      "updatedAt": "2026-04-04T15:39:23.498Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:madison-avenue-695773669",
+      "name": "Madison Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6031374,
+        "lng": -90.3735741
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6031374,-90.3735741",
+      "source": {
+        "id": "osm-695773669",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.531Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.531Z",
+      "updatedAt": "2026-04-04T15:39:23.531Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:woodgate-drive-696803861",
+      "name": "Woodgate Drive",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6065621,
+        "lng": -90.4243838
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6065621,-90.4243838",
+      "source": {
+        "id": "osm-696803861",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.539Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.539Z",
+      "updatedAt": "2026-04-04T15:39:23.539Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:sugar-pines-court-727473750",
+      "name": "Sugar Pines Court",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7739323,
+        "lng": -90.2727258
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7739323,-90.2727258",
+      "source": {
+        "id": "osm-727473750",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.633Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.633Z",
+      "updatedAt": "2026-04-04T15:39:23.633Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:lost-hill-trail-732226376",
+      "name": "Lost Hill Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.4269391,
+        "lng": -90.8177164
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4269391,-90.8177164",
+      "source": {
+        "id": "osm-732226376",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.635Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.635Z",
+      "updatedAt": "2026-04-04T15:39:23.635Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:tower-valley-drive-760907149",
+      "name": "Tower Valley Drive",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.3552684,
+        "lng": -90.5227318
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3552684,-90.5227318",
+      "source": {
+        "id": "osm-760907149",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.704Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.704Z",
+      "updatedAt": "2026-04-04T15:39:23.704Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:gilrose-avenue-780409278",
+      "name": "Gilrose Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6961955,
+        "lng": -90.3428367
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6961955,-90.3428367",
+      "source": {
+        "id": "osm-780409278",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.729Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.729Z",
+      "updatedAt": "2026-04-04T15:39:23.729Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:cedar-bluff-trail-823498964",
+      "name": "Cedar Bluff Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5446116,
+        "lng": -90.5725424
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5446116,-90.5725424",
+      "source": {
+        "id": "osm-823498964",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.774Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.774Z",
+      "updatedAt": "2026-04-04T15:39:23.774Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:river-scene-trail-823504747",
+      "name": "River Scene Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5497217,
+        "lng": -90.5400423
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5497217,-90.5400423",
+      "source": {
+        "id": "osm-823504747",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.779Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.779Z",
+      "updatedAt": "2026-04-04T15:39:23.779Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:labarque-hills-trail-824615884",
+      "name": "LaBarque Hills Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.3904548,
+        "lng": -90.6974981
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3904548,-90.6974981",
+      "source": {
+        "id": "osm-824615884",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.782Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.782Z",
+      "updatedAt": "2026-04-04T15:39:23.782Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:white-connector-1-824615888",
+      "name": "White Connector 1",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.3924972,
+        "lng": -90.6877387
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3924972,-90.6877387",
+      "source": {
+        "id": "osm-824615888",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.794Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.794Z",
+      "updatedAt": "2026-04-04T15:39:23.794Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:dogwood-trail-824624885",
+      "name": "Dogwood Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6311862,
+        "lng": -90.693975
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6311862,-90.693975",
+      "source": {
+        "id": "osm-824624885",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.798Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.798Z",
+      "updatedAt": "2026-04-04T15:39:23.798Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:hawthorn-trail-824624888",
+      "name": "Hawthorn Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6181755,
+        "lng": -90.7101663
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6181755,-90.7101663",
+      "source": {
+        "id": "osm-824624888",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.800Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.800Z",
+      "updatedAt": "2026-04-04T15:39:23.800Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:virginia-day-memorial-nature-trail-access-spur-1-824627696",
+      "name": "Virginia Day Memorial Nature Trail Access Spur 1",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6123128,
+        "lng": -90.6933431
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6123128,-90.6933431",
+      "source": {
+        "id": "osm-824627696",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.807Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.807Z",
+      "updatedAt": "2026-04-04T15:39:23.807Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:virginia-day-memorial-nature-trail-824627698",
+      "name": "Virginia Day Memorial Nature Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6133291,
+        "lng": -90.6905212
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6133291,-90.6905212",
+      "source": {
+        "id": "osm-824627698",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.810Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.810Z",
+      "updatedAt": "2026-04-04T15:39:23.810Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:white-connector-2-824627699",
+      "name": "White Connector 2",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6151895,
+        "lng": -90.6897437
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6151895,-90.6897437",
+      "source": {
+        "id": "osm-824627699",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.813Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.813Z",
+      "updatedAt": "2026-04-04T15:39:23.813Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:paved-bicycle-trail-824631922",
+      "name": "Paved Bicycle Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6153045,
+        "lng": -90.7003402
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6153045,-90.7003402",
+      "source": {
+        "id": "osm-824631922",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.819Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.819Z",
+      "updatedAt": "2026-04-04T15:39:23.819Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:confluence-point-trail-843301310",
+      "name": "Confluence Point Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8176187,
+        "lng": -90.1202812
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8176187,-90.1202812",
+      "source": {
+        "id": "osm-843301310",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.849Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.849Z",
+      "updatedAt": "2026-04-04T15:39:23.849Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:white-connector-3-844080443",
+      "name": "White Connector 3",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5555422,
+        "lng": -90.5415641
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5555422,-90.5415641",
+      "source": {
+        "id": "osm-844080443",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.866Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.866Z",
+      "updatedAt": "2026-04-04T15:39:23.866Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:lone-wolf-trail-844080444",
+      "name": "Lone Wolf Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5482666,
+        "lng": -90.5431259
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5482666,-90.5431259",
+      "source": {
+        "id": "osm-844080444",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.870Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.870Z",
+      "updatedAt": "2026-04-04T15:39:23.870Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:white-connector-1-844080445",
+      "name": "White Connector 1",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.552628,
+        "lng": -90.5479094
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.552628,-90.5479094",
+      "source": {
+        "id": "osm-844080445",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.874Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.874Z",
+      "updatedAt": "2026-04-04T15:39:23.874Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:white-connector-2-844080446",
+      "name": "White Connector 2",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.556325,
+        "lng": -90.5429324
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.556325,-90.5429324",
+      "source": {
+        "id": "osm-844080446",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.877Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.877Z",
+      "updatedAt": "2026-04-04T15:39:23.877Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:grotpeter-trail-844080447",
+      "name": "Grotpeter Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5529391,
+        "lng": -90.545437
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5529391,-90.545437",
+      "source": {
+        "id": "osm-844080447",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.879Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.879Z",
+      "updatedAt": "2026-04-04T15:39:23.879Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:white-connector-6-844080451",
+      "name": "White Connector 6",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5513213,
+        "lng": -90.5469267
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5513213,-90.5469267",
+      "source": {
+        "id": "osm-844080451",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.887Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.887Z",
+      "updatedAt": "2026-04-04T15:39:23.887Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:white-connector-4-844080452",
+      "name": "White Connector 4",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5562865,
+        "lng": -90.538521
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5562865,-90.538521",
+      "source": {
+        "id": "osm-844080452",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.889Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.889Z",
+      "updatedAt": "2026-04-04T15:39:23.889Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:newman-trail-900500826",
+      "name": "Newman Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.3111867,
+        "lng": -90.2918589
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3111867,-90.2918589",
+      "source": {
+        "id": "osm-900500826",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.936Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.936Z",
+      "updatedAt": "2026-04-04T15:39:23.936Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:forest-parkway-drive-913044717",
+      "name": "Forest Parkway Drive",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5878308,
+        "lng": -90.5003318
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5878308,-90.5003318",
+      "source": {
+        "id": "osm-913044717",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.938Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.938Z",
+      "updatedAt": "2026-04-04T15:39:23.938Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:breezy-point-lane-935274135",
+      "name": "Breezy Point Lane",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7754227,
+        "lng": -90.2434863
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7754227,-90.2434863",
+      "source": {
+        "id": "osm-935274135",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.953Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.953Z",
+      "updatedAt": "2026-04-04T15:39:23.953Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:howell-island-conservation-area-causeway-961700230",
+      "name": "Howell Island Conservation Area Causeway",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6646379,
+        "lng": -90.6809387
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6646379,-90.6809387",
+      "source": {
+        "id": "osm-961700230",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.963Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.963Z",
+      "updatedAt": "2026-04-04T15:39:23.963Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:joanna-avenue-965524173",
+      "name": "Joanna Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6012752,
+        "lng": -90.3858057
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6012752,-90.3858057",
+      "source": {
+        "id": "osm-965524173",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.968Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.968Z",
+      "updatedAt": "2026-04-04T15:39:23.968Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:raymond-drive-971970612",
+      "name": "Raymond Drive",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8069565,
+        "lng": -90.3580992
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8069565,-90.3580992",
+      "source": {
+        "id": "osm-971970612",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.986Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.986Z",
+      "updatedAt": "2026-04-04T15:39:23.986Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:huntsman-drive-978362113",
+      "name": "Huntsman Drive",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7608835,
+        "lng": -90.2128704
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7608835,-90.2128704",
+      "source": {
+        "id": "osm-978362113",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.000Z",
+      "updatedAt": "2026-04-04T15:39:24.000Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:emma-avenue-978379088",
+      "name": "Emma Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7067806,
+        "lng": -90.2560645
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7067806,-90.2560645",
+      "source": {
+        "id": "osm-978379088",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.001Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.001Z",
+      "updatedAt": "2026-04-04T15:39:24.001Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:henrietta-street-989832673",
+      "name": "Henrietta Street",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6166956,
+        "lng": -90.2291124
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6166956,-90.2291124",
+      "source": {
+        "id": "osm-989832673",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.005Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.005Z",
+      "updatedAt": "2026-04-04T15:39:24.005Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:oakland-avenue-995462175",
+      "name": "Oakland Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6273177,
+        "lng": -90.2592966
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6273177,-90.2592966",
+      "source": {
+        "id": "osm-995462175",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.073Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.073Z",
+      "updatedAt": "2026-04-04T15:39:24.073Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:purdue-avenue-1005608686",
+      "name": "Purdue Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6672285,
+        "lng": -90.3246015
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6672285,-90.3246015",
+      "source": {
+        "id": "osm-1005608686",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.103Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.103Z",
+      "updatedAt": "2026-04-04T15:39:24.103Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:rosedale-avenue-1009842656",
+      "name": "Rosedale Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6546053,
+        "lng": -90.2961306
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6546053,-90.2961306",
+      "source": {
+        "id": "osm-1009842656",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.105Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.105Z",
+      "updatedAt": "2026-04-04T15:39:24.105Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:south-11th-street-1011683783",
+      "name": "South 11th Street",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6117342,
+        "lng": -90.1652565
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6117342,-90.1652565",
+      "source": {
+        "id": "osm-1011683783",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.107Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.107Z",
+      "updatedAt": "2026-04-04T15:39:24.107Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:vassar-avenue-1015058263",
+      "name": "Vassar Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.656462,
+        "lng": -90.3162517
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.656462,-90.3162517",
+      "source": {
+        "id": "osm-1015058263",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.112Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.112Z",
+      "updatedAt": "2026-04-04T15:39:24.112Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:columbia-avenue-1044700198",
+      "name": "Columbia Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6107924,
+        "lng": -90.2731969
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6107924,-90.2731969",
+      "source": {
+        "id": "osm-1044700198",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.133Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.133Z",
+      "updatedAt": "2026-04-04T15:39:24.133Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:willow-glen-park-1046399385",
+      "name": "Willow Glen Park",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.4576112,
+        "lng": -90.447969
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4576112,-90.447969",
+      "source": {
+        "id": "osm-1046399385",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.135Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.135Z",
+      "updatedAt": "2026-04-04T15:39:24.135Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:brantner-place-1056809839",
+      "name": "Brantner Place",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.645534,
+        "lng": -90.2249793
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.645534,-90.2249793",
+      "source": {
+        "id": "osm-1056809839",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.137Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.137Z",
+      "updatedAt": "2026-04-04T15:39:24.137Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:asbury-avenue-1060913828",
+      "name": "Asbury Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6464462,
+        "lng": -90.321497
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6464462,-90.321497",
+      "source": {
+        "id": "osm-1060913828",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.141Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.141Z",
+      "updatedAt": "2026-04-04T15:39:24.141Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:19th-street-1060916886",
+      "name": "19th Street",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6668111,
+        "lng": -90.2049461
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6668111,-90.2049461",
+      "source": {
+        "id": "osm-1060916886",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.145Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.145Z",
+      "updatedAt": "2026-04-04T15:39:24.145Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:penrose-street-1060916888",
+      "name": "Penrose Street",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6660057,
+        "lng": -90.2045806
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6660057,-90.2045806",
+      "source": {
+        "id": "osm-1060916888",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.150Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.150Z",
+      "updatedAt": "2026-04-04T15:39:24.150Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:bradley-beach-road-1068265643",
+      "name": "Bradley Beach Road",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.4508494,
+        "lng": -90.3430094
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4508494,-90.3430094",
+      "source": {
+        "id": "osm-1068265643",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.168Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.168Z",
+      "updatedAt": "2026-04-04T15:39:24.168Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:wabada-avenue-1069233593",
+      "name": "Wabada Avenue",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6696853,
+        "lng": -90.2641656
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6696853,-90.2641656",
+      "source": {
+        "id": "osm-1069233593",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.173Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.173Z",
+      "updatedAt": "2026-04-04T15:39:24.173Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:washington-boulevard-1078128560",
+      "name": "Washington Boulevard",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.64806,
+        "lng": -90.2512736
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.64806,-90.2512736",
+      "source": {
+        "id": "osm-1078128560",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.198Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.198Z",
+      "updatedAt": "2026-04-04T15:39:24.198Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:al-foster-trail-1086993703",
+      "name": "Al Foster Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5446889,
+        "lng": -90.6078436
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5446889,-90.6078436",
+      "source": {
+        "id": "osm-1086993703",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.201Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.201Z",
+      "updatedAt": "2026-04-04T15:39:24.201Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:farrar-street-1094420042",
+      "name": "Farrar Street",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6604009,
+        "lng": -90.2056427
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6604009,-90.2056427",
+      "source": {
+        "id": "osm-1094420042",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.219Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.219Z",
+      "updatedAt": "2026-04-04T15:39:24.219Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:pierremont-panther-track-1101516297",
+      "name": "Pierremont Panther Track",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6046618,
+        "lng": -90.499822
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6046618,-90.499822",
+      "source": {
+        "id": "osm-1101516297",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.230Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.230Z",
+      "updatedAt": "2026-04-04T15:39:24.230Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:riparian-trail-1126142446",
+      "name": "Riparian Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6487731,
+        "lng": -90.5732845
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6487731,-90.5732845",
+      "source": {
+        "id": "osm-1126142446",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.267Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.267Z",
+      "updatedAt": "2026-04-04T15:39:24.267Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:riparian-trail-old-alignment--1126142463",
+      "name": "Riparian Trail (Old Alignment)",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6491347,
+        "lng": -90.5719739
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6491347,-90.5719739",
+      "source": {
+        "id": "osm-1126142463",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.271Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.271Z",
+      "updatedAt": "2026-04-04T15:39:24.271Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:lost-valley-trail-1206934922",
+      "name": "Lost Valley Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6874445,
+        "lng": -90.7768891
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6874445,-90.7768891",
+      "source": {
+        "id": "osm-1206934922",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.453Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.453Z",
+      "updatedAt": "2026-04-04T15:39:24.453Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:valley-park-trail-1217805262",
+      "name": "Valley Park Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5472997,
+        "lng": -90.4854823
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5472997,-90.4854823",
+      "source": {
+        "id": "osm-1217805262",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.467Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.467Z",
+      "updatedAt": "2026-04-04T15:39:24.467Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:valley-park-trail-connector-1217805263",
+      "name": "Valley Park Trail Connector",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5468096,
+        "lng": -90.4847111
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5468096,-90.4847111",
+      "source": {
+        "id": "osm-1217805263",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.471Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.471Z",
+      "updatedAt": "2026-04-04T15:39:24.471Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:flat-rock-trail-1282678674",
+      "name": "Flat Rock Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6408397,
+        "lng": -90.272201
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6408397,-90.272201",
+      "source": {
+        "id": "osm-1282678674",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.557Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.557Z",
+      "updatedAt": "2026-04-04T15:39:24.557Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:federer-s-folly-trail-1316556665",
+      "name": "Federer’s Folly Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5641293,
+        "lng": -90.2658262
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5641293,-90.2658262",
+      "source": {
+        "id": "osm-1316556665",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.666Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.666Z",
+      "updatedAt": "2026-04-04T15:39:24.666Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:pharmacy-place-1331143073",
+      "name": "Pharmacy Place",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6371027,
+        "lng": -90.2601021
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6371027,-90.2601021",
+      "source": {
+        "id": "osm-1331143073",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.707Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.707Z",
+      "updatedAt": "2026-04-04T15:39:24.707Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:bayer-boardwalk-1341309304",
+      "name": "Bayer Boardwalk",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.6343197,
+        "lng": -90.2684356
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6343197,-90.2684356",
+      "source": {
+        "id": "osm-1341309304",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.762Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.762Z",
+      "updatedAt": "2026-04-04T15:39:24.762Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:chubb-trail-1346040220",
+      "name": "Chubb Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5355539,
+        "lng": -90.5373594
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5355539,-90.5373594",
+      "source": {
+        "id": "osm-1346040220",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.783Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.783Z",
+      "updatedAt": "2026-04-04T15:39:24.783Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:cadigan-drive-1366213975",
+      "name": "Cadigan Drive",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7766913,
+        "lng": -90.2123392
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7766913,-90.2123392",
+      "source": {
+        "id": "osm-1366213975",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.842Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.842Z",
+      "updatedAt": "2026-04-04T15:39:24.842Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:log-cabin-loop-1368019250",
+      "name": "Log Cabin Loop",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.772762,
+        "lng": -90.2902174
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.772762,-90.2902174",
+      "source": {
+        "id": "osm-1368019250",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.851Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.851Z",
+      "updatedAt": "2026-04-04T15:39:24.851Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:prairie-loop-1451370457",
+      "name": "Prairie Loop",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5277414,
+        "lng": -90.5866055
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5277414,-90.5866055",
+      "source": {
+        "id": "osm-1451370457",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.021Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.021Z",
+      "updatedAt": "2026-04-04T15:39:25.021Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:deer-trail-1453211177",
+      "name": "Deer Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.9179034,
+        "lng": -90.2137169
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9179034,-90.2137169",
+      "source": {
+        "id": "osm-1453211177",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.023Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.023Z",
+      "updatedAt": "2026-04-04T15:39:25.023Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:connector-trail-1461949829",
+      "name": "Connector Trail",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.5579884,
+        "lng": -90.539783
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5579884,-90.539783",
+      "source": {
+        "id": "osm-1461949829",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.047Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.047Z",
+      "updatedAt": "2026-04-04T15:39:25.047Z"
+    },
+    {
+      "id": "candidate:trails:st-louis-county:under-construction-1488700693",
+      "name": "Under construction",
+      "county": "st-louis-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.9446458,
+        "lng": -90.1961334
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9446458,-90.1961334",
+      "source": {
+        "id": "osm-1488700693",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.095Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.095Z",
+      "updatedAt": "2026-04-04T15:39:25.095Z"
+    }
+  ]
+}

@@ -1,0 +1,3340 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-charles-county",
+  "category": "park",
+  "places": [
+    {
+      "id": "candidate:park:st-charles-county:broemmelsiek-park",
+      "name": "Broemmelsiek Park",
+      "county": "st-charles-county",
+      "municipality": "Defiance",
+      "recreationType": "park",
+      "address": "1795 Highway DD, Defiance, MO 63341",
+      "location": {
+        "lat": 38.7001,
+        "lng": -90.765
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7001,-90.7650",
+      "websiteUrl": "https://www.sccmo.org/617/Broemmelsiek-Park",
+      "source": {
+        "id": "source-broemmelsiek-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "park"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:park:st-charles-county:klondike-park",
+      "name": "Klondike Park",
+      "county": "st-charles-county",
+      "municipality": "Augusta",
+      "recreationType": "park",
+      "address": "4600 Highway 94 S, Augusta, MO 63332",
+      "location": {
+        "lat": 38.6371,
+        "lng": -90.882
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6371,-90.8820",
+      "websiteUrl": "https://www.sccmo.org/669/Klondike-Park",
+      "source": {
+        "id": "source-klondike-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "park"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:park:st-charles-county:indian-camp-creek-park",
+      "name": "Indian Camp Creek Park",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "recreationType": "park",
+      "address": "2679 Dietrich Rd, Foristell, MO 63348",
+      "location": {
+        "lat": 38.7924,
+        "lng": -90.9101
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7924,-90.9101",
+      "websiteUrl": "https://www.sccmo.org/665/Indian-Camp-Creek-Park",
+      "source": {
+        "id": "source-indian-camp-creek-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "park"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:park:st-charles-county:veterans-tribute-park",
+      "name": "Veterans Tribute Park",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "park",
+      "address": "1031 Kisker Rd, St. Charles, MO 63304",
+      "location": {
+        "lat": 38.7541,
+        "lng": -90.5793
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7541,-90.5793",
+      "websiteUrl": "https://www.sccmo.org/741/Veterans-Tribute-Park",
+      "source": {
+        "id": "source-veterans-tribute-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "park"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:park:st-charles-county:towne-park",
+      "name": "Towne Park",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "recreationType": "park",
+      "address": "100 Towne Park Dr, Foristell, MO 63348",
+      "location": {
+        "lat": 38.8024,
+        "lng": -90.9266
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8024,-90.9266",
+      "websiteUrl": "https://www.sccmo.org/739/Towne-Park",
+      "source": {
+        "id": "source-towne-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "park"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:park:st-charles-county:missouri-bluffs-park",
+      "name": "Missouri Bluffs Park",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "park",
+      "address": "100 Research Circle, St. Charles, MO 63304",
+      "location": {
+        "lat": 38.7613,
+        "lng": -90.596
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7613,-90.5960",
+      "websiteUrl": "https://www.sccmo.org/715/Missouri-Bluffs-Park",
+      "source": {
+        "id": "source-missouri-bluffs-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "park"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:park:st-charles-county:oglesby-park",
+      "name": "Oglesby Park",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "recreationType": "park",
+      "address": "2801 W Meyer Rd, Foristell, MO 63348",
+      "location": {
+        "lat": 38.7985,
+        "lng": -90.894
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7985,-90.8940",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-oglesby-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "park"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:river-road-park-358069879",
+      "name": "River Road Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8681058,
+        "lng": -90.5203968
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8681058,-90.5203968",
+      "source": {
+        "id": "osm-358069879",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.916Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.916Z",
+      "updatedAt": "2026-04-04T15:39:20.916Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:paul-a-westhoff-park-358084387",
+      "name": "Paul A Westhoff Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8125518,
+        "lng": -90.6856806
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8125518,-90.6856806",
+      "source": {
+        "id": "osm-358084387",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.934Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.934Z",
+      "updatedAt": "2026-04-04T15:39:20.934Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:brookshire-commons-5260694722",
+      "name": "Brookshire Commons",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8336962,
+        "lng": -90.8370256
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8336962,-90.8370256",
+      "source": {
+        "id": "osm-5260694722",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.994Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.994Z",
+      "updatedAt": "2026-04-04T15:39:20.994Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:brussels-school-gym-6751192761",
+      "name": "Brussels School Gym",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9485557,
+        "lng": -90.5886295
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9485557,-90.5886295",
+      "source": {
+        "id": "osm-6751192761",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.010Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.010Z",
+      "updatedAt": "2026-04-04T15:39:21.010Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:riverside-landing-park-12705922207",
+      "name": "Riverside Landing Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8613323,
+        "lng": -90.5336308
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8613323,-90.5336308",
+      "source": {
+        "id": "osm-12705922207",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.056Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.056Z",
+      "updatedAt": "2026-04-04T15:39:21.056Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:fox-hill-park-110348135",
+      "name": "Fox Hill Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8179507,
+        "lng": -90.4917166
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8179507,-90.4917166",
+      "source": {
+        "id": "osm-110348135",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.145Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.145Z",
+      "updatedAt": "2026-04-04T15:39:21.145Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:new-town-park-110348391",
+      "name": "New Town Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8362027,
+        "lng": -90.4913986
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8362027,-90.4913986",
+      "source": {
+        "id": "osm-110348391",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.146Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.146Z",
+      "updatedAt": "2026-04-04T15:39:21.146Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:legacy-park-147096510",
+      "name": "Legacy Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.751037,
+        "lng": -90.6499398
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.751037,-90.6499398",
+      "source": {
+        "id": "osm-147096510",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.166Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.166Z",
+      "updatedAt": "2026-04-04T15:39:21.166Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:old-monroe-communityballpark-154644555",
+      "name": "Old Monroe CommunityBallpark",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.928775,
+        "lng": -90.7532358
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.928775,-90.7532358",
+      "source": {
+        "id": "osm-154644555",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.310Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.310Z",
+      "updatedAt": "2026-04-04T15:39:21.310Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:goos-park-155849924",
+      "name": "Goos Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9306024,
+        "lng": -90.748137
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9306024,-90.748137",
+      "source": {
+        "id": "osm-155849924",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.311Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.311Z",
+      "updatedAt": "2026-04-04T15:39:21.311Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:mcnair-park-157550541",
+      "name": "McNair Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7972163,
+        "lng": -90.5223394
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7972163,-90.5223394",
+      "source": {
+        "id": "osm-157550541",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.357Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.357Z",
+      "updatedAt": "2026-04-04T15:39:21.357Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:boone-s-lick-park-157551420",
+      "name": "Boone's Lick Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7752814,
+        "lng": -90.4986003
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7752814,-90.4986003",
+      "websiteUrl": "http://www.stcharlesparks.com/park/boones-lick-park/",
+      "source": {
+        "id": "osm-157551420",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.358Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.358Z",
+      "updatedAt": "2026-04-04T15:39:21.358Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:founders-park-160654488",
+      "name": "Founders Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8016894,
+        "lng": -90.8110341
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8016894,-90.8110341",
+      "source": {
+        "id": "osm-160654488",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.370Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.370Z",
+      "updatedAt": "2026-04-04T15:39:21.370Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:fort-zumwalt-park-161810670",
+      "name": "Fort Zumwalt Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7968578,
+        "lng": -90.7085652
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7968578,-90.7085652",
+      "websiteUrl": "https://www.ofallon.mo.us/fort-zumwalt-park",
+      "source": {
+        "id": "osm-161810670",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.374Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.374Z",
+      "updatedAt": "2026-04-04T15:39:21.374Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:dames-park-164078994",
+      "name": "Dames Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8266995,
+        "lng": -90.70804
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8266995,-90.70804",
+      "source": {
+        "id": "osm-164078994",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.383Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.383Z",
+      "updatedAt": "2026-04-04T15:39:21.383Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:jaycee-park-164817874",
+      "name": "Jaycee Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7994419,
+        "lng": -90.504733
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7994419,-90.504733",
+      "source": {
+        "id": "osm-164817874",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.386Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.386Z",
+      "updatedAt": "2026-04-04T15:39:21.386Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:moscow-mills-athletic-association-166891420",
+      "name": "Moscow Mills Athletic Association",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9495722,
+        "lng": -90.8995915
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9495722,-90.8995915",
+      "source": {
+        "id": "osm-166891420",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.410Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.410Z",
+      "updatedAt": "2026-04-04T15:39:21.410Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:woodlands-sports-park-205301490",
+      "name": "Woodlands Sports Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7746941,
+        "lng": -90.6437624
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7746941,-90.6437624",
+      "source": {
+        "id": "osm-205301490",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.432Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.432Z",
+      "updatedAt": "2026-04-04T15:39:21.432Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:brookmount-park-206197035",
+      "name": "Brookmount Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7797717,
+        "lng": -90.6149879
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7797717,-90.6149879",
+      "source": {
+        "id": "osm-206197035",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.433Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.433Z",
+      "updatedAt": "2026-04-04T15:39:21.433Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:tot-lot-park-208370216",
+      "name": "Tot Lot Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7845581,
+        "lng": -90.6149772
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7845581,-90.6149772",
+      "source": {
+        "id": "osm-208370216",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.434Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.434Z",
+      "updatedAt": "2026-04-04T15:39:21.434Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:schaefer-park-233583887",
+      "name": "Schaefer Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7537971,
+        "lng": -90.5558076
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7537971,-90.5558076",
+      "source": {
+        "id": "osm-233583887",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.442Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.442Z",
+      "updatedAt": "2026-04-04T15:39:21.442Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:mcnair-aquatic-facility-233683920",
+      "name": "McNair Aquatic Facility",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7973525,
+        "lng": -90.5216161
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7973525,-90.5216161",
+      "source": {
+        "id": "osm-233683920",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.443Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.443Z",
+      "updatedAt": "2026-04-04T15:39:21.443Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:roller-hockey-233683927",
+      "name": "Roller hockey",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7959498,
+        "lng": -90.5201114
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7959498,-90.5201114",
+      "source": {
+        "id": "osm-233683927",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.444Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.444Z",
+      "updatedAt": "2026-04-04T15:39:21.444Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:blanchette-park-238319331",
+      "name": "Blanchette Park",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "park",
+      "address": "1900 Randolph St",
+      "location": {
+        "lat": 38.7989238,
+        "lng": -90.4832188
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7989238,-90.4832188",
+      "websiteUrl": "http://www.stcharlesparks.com/park/blanchette-park/",
+      "source": {
+        "id": "osm-238319331",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.450Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.450Z",
+      "updatedAt": "2026-04-04T15:39:21.450Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:field-no-2-238319333",
+      "name": "Field No. 2",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7975327,
+        "lng": -90.4837653
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7975327,-90.4837653",
+      "source": {
+        "id": "osm-238319333",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.451Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.451Z",
+      "updatedAt": "2026-04-04T15:39:21.451Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:horseshoe-pits-238319337",
+      "name": "Horseshoe pits",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7994294,
+        "lng": -90.4830313
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7994294,-90.4830313",
+      "source": {
+        "id": "osm-238319337",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.455Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.455Z",
+      "updatedAt": "2026-04-04T15:39:21.455Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:archery-range-240280186",
+      "name": "Archery Range",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8232794,
+        "lng": -90.5610123
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8232794,-90.5610123",
+      "source": {
+        "id": "osm-240280186",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.460Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.460Z",
+      "updatedAt": "2026-04-04T15:39:21.460Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:harlen-c-hunter-stadium-249556830",
+      "name": "Harlen C. Hunter Stadium",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7878106,
+        "lng": -90.5019238
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7878106,-90.5019238",
+      "source": {
+        "id": "osm-249556830",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.480Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.480Z",
+      "updatedAt": "2026-04-04T15:39:21.480Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:new-town-center-268514552",
+      "name": "New Town Center",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8364305,
+        "lng": -90.4945684
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8364305,-90.4945684",
+      "source": {
+        "id": "osm-268514552",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.502Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.502Z",
+      "updatedAt": "2026-04-04T15:39:21.502Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:sand-volleyball-court-347336306",
+      "name": "Sand Volleyball Court",
+      "county": "st-charles-county",
+      "municipality": "Saint Charles",
+      "recreationType": "park",
+      "address": "2020 Lions One Roar Drive",
+      "location": {
+        "lat": 38.7890215,
+        "lng": -90.5051882
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7890215,-90.5051882",
+      "source": {
+        "id": "osm-347336306",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.786Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.786Z",
+      "updatedAt": "2026-04-04T15:39:21.786Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:quail-ridge-park-358611817",
+      "name": "Quail Ridge Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8001182,
+        "lng": -90.8387859
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8001182,-90.8387859",
+      "source": {
+        "id": "osm-358611817",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.798Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.798Z",
+      "updatedAt": "2026-04-04T15:39:21.798Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:broemmelsiek-astronomy-viewing-area-404755385",
+      "name": "Broemmelsiek Astronomy Viewing Area",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "park",
+      "address": "1615 Schwede Road",
+      "location": {
+        "lat": 38.7228726,
+        "lng": -90.8149131
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7228726,-90.8149131",
+      "source": {
+        "id": "osm-404755385",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.847Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.847Z",
+      "updatedAt": "2026-04-04T15:39:21.847Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:duchesne-high-school-track-football-field-406608926",
+      "name": "Duchesne High School Track & Football Field",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7979507,
+        "lng": -90.499201
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7979507,-90.499201",
+      "source": {
+        "id": "osm-406608926",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.868Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.868Z",
+      "updatedAt": "2026-04-04T15:39:21.868Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:new-town-kid-s-park-466735908",
+      "name": "New Town Kid's Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8299344,
+        "lng": -90.4895171
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8299344,-90.4895171",
+      "source": {
+        "id": "osm-466735908",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.989Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.989Z",
+      "updatedAt": "2026-04-04T15:39:21.989Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:hyland-green-park-468430356",
+      "name": "Hyland Green Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8324069,
+        "lng": -90.7089376
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8324069,-90.7089376",
+      "source": {
+        "id": "osm-468430356",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.991Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.991Z",
+      "updatedAt": "2026-04-04T15:39:21.991Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:370-lakeside-park-468489435",
+      "name": "370 Lakeside Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8238394,
+        "lng": -90.5752622
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8238394,-90.5752622",
+      "source": {
+        "id": "osm-468489435",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.995Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.995Z",
+      "updatedAt": "2026-04-04T15:39:21.995Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:civic-park-469215172",
+      "name": "Civic Park",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "park",
+      "address": "410 E Elm Street",
+      "location": {
+        "lat": 38.8126224,
+        "lng": -90.7047103
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8126224,-90.7047103",
+      "source": {
+        "id": "osm-469215172",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.004Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.004Z",
+      "updatedAt": "2026-04-04T15:39:22.004Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:frontier-park-469216413",
+      "name": "Frontier Park",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "park",
+      "address": "500 South Riverside Drive",
+      "location": {
+        "lat": 38.7763134,
+        "lng": -90.4823981
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7763134,-90.4823981",
+      "websiteUrl": "https://stcharlesparks.com/park/frontier-park/",
+      "source": {
+        "id": "osm-469216413",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.006Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.006Z",
+      "updatedAt": "2026-04-04T15:39:22.006Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:kister-park-469217827",
+      "name": "Kister Park",
+      "county": "st-charles-county",
+      "municipality": "Saint Charles",
+      "recreationType": "park",
+      "address": "408 South Main Street",
+      "location": {
+        "lat": 38.7783533,
+        "lng": -90.4823693
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7783533,-90.4823693",
+      "source": {
+        "id": "osm-469217827",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.009Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.009Z",
+      "updatedAt": "2026-04-04T15:39:22.009Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:berthold-square-park-469218671",
+      "name": "Berthold Square Park",
+      "county": "st-charles-county",
+      "municipality": "Saint Charles",
+      "recreationType": "park",
+      "address": "221 South Main Street",
+      "location": {
+        "lat": 38.7799162,
+        "lng": -90.48227
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7799162,-90.48227",
+      "source": {
+        "id": "osm-469218671",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.011Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.011Z",
+      "updatedAt": "2026-04-04T15:39:22.011Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:westoff-park-470057510",
+      "name": "Westoff park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8127345,
+        "lng": -90.6864169
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8127345,-90.6864169",
+      "source": {
+        "id": "osm-470057510",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.031Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.031Z",
+      "updatedAt": "2026-04-04T15:39:22.031Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:rotary-park-470419173",
+      "name": "Rotary Park",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "park",
+      "address": "2577 West Meyer Road",
+      "location": {
+        "lat": 38.8289188,
+        "lng": -90.9167469
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8289188,-90.9167469",
+      "websiteUrl": "https://www.wentzvillemo.gov/parks-and-recreation/parks-facilities/find-a-park-or-facility/rotary-park/",
+      "source": {
+        "id": "osm-470419173",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.035Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.035Z",
+      "updatedAt": "2026-04-04T15:39:22.035Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:heartland-park-470419774",
+      "name": "Heartland Park",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "park",
+      "address": "100 William Dierberg Drive",
+      "location": {
+        "lat": 38.8183088,
+        "lng": -90.8724701
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8183088,-90.8724701",
+      "source": {
+        "id": "osm-470419774",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.037Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.037Z",
+      "updatedAt": "2026-04-04T15:39:22.037Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:boulevard-park-470423135",
+      "name": "Boulevard Park",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "recreationType": "park",
+      "address": "2550 Lake Saint Louis Boulevard",
+      "location": {
+        "lat": 38.7831838,
+        "lng": -90.7803725
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7831838,-90.7803725",
+      "source": {
+        "id": "osm-470423135",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.039Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.039Z",
+      "updatedAt": "2026-04-04T15:39:22.039Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:old-towne-park-475882684",
+      "name": "Old Towne Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8013538,
+        "lng": -90.6277316
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8013538,-90.6277316",
+      "source": {
+        "id": "osm-475882684",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.049Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.049Z",
+      "updatedAt": "2026-04-04T15:39:22.049Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:dardenne-park-475885112",
+      "name": "Dardenne Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7686026,
+        "lng": -90.7551
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7686026,-90.7551",
+      "source": {
+        "id": "osm-475885112",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.050Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.050Z",
+      "updatedAt": "2026-04-04T15:39:22.050Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:nob-hill-park-480961134",
+      "name": "Nob Hill Park",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "recreationType": "park",
+      "address": "50 Sutters Mill Road",
+      "location": {
+        "lat": 38.7797412,
+        "lng": -90.5802788
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7797412,-90.5802788",
+      "websiteUrl": "https://www.stpetersmo.net/st-peters-parks.aspx#nobhill",
+      "source": {
+        "id": "osm-480961134",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.130Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.130Z",
+      "updatedAt": "2026-04-04T15:39:22.130Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:veterans-memorial-park-480961141",
+      "name": "Veterans Memorial Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7749257,
+        "lng": -90.5824443
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7749257,-90.5824443",
+      "source": {
+        "id": "osm-480961141",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.133Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.133Z",
+      "updatedAt": "2026-04-04T15:39:22.133Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:orchard-hills-pocket-park-482783169",
+      "name": "Orchard Hills Pocket Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7835962,
+        "lng": -90.5784435
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7835962,-90.5784435",
+      "source": {
+        "id": "osm-482783169",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.196Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.196Z",
+      "updatedAt": "2026-04-04T15:39:22.196Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:foristell-city-park-494952764",
+      "name": "Foristell City Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8053249,
+        "lng": -90.9530197
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8053249,-90.9530197",
+      "source": {
+        "id": "osm-494952764",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.343Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.343Z",
+      "updatedAt": "2026-04-04T15:39:22.343Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:ball-field-4-518954309",
+      "name": "Ball Field 4",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7974726,
+        "lng": -90.4811308
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7974726,-90.4811308",
+      "source": {
+        "id": "osm-518954309",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.463Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.463Z",
+      "updatedAt": "2026-04-04T15:39:22.463Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:vogt-brothers-park-536482491",
+      "name": "Vogt Brothers Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7597169,
+        "lng": -90.5068608
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7597169,-90.5068608",
+      "source": {
+        "id": "osm-536482491",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.525Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.525Z",
+      "updatedAt": "2026-04-04T15:39:22.525Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:veteran-s-memorial-park-552179778",
+      "name": "Veteran's Memorial Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7854778,
+        "lng": -90.7940429
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7854778,-90.7940429",
+      "source": {
+        "id": "osm-552179778",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.737Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.737Z",
+      "updatedAt": "2026-04-04T15:39:22.737Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:fireman-s-park-552228447",
+      "name": "Fireman's Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8123698,
+        "lng": -90.8560462
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8123698,-90.8560462",
+      "source": {
+        "id": "osm-552228447",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.739Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.739Z",
+      "updatedAt": "2026-04-04T15:39:22.739Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:hawk-ridge-park-552633305",
+      "name": "Hawk Ridge Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7648081,
+        "lng": -90.789147
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7648081,-90.789147",
+      "source": {
+        "id": "osm-552633305",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.742Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.742Z",
+      "updatedAt": "2026-04-04T15:39:22.742Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:towne-park-562364391",
+      "name": "Towne Park",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "recreationType": "park",
+      "address": "100 Towne Park Drive",
+      "location": {
+        "lat": 38.8768674,
+        "lng": -90.8988291
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8768674,-90.8988291",
+      "websiteUrl": "https://www.sccmo.org/739/Towne-Park",
+      "source": {
+        "id": "osm-562364391",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.800Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.800Z",
+      "updatedAt": "2026-04-04T15:39:22.800Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:fairgrounds-historical-park-577681245",
+      "name": "Fairgrounds Historical Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9762379,
+        "lng": -90.9714662
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9762379,-90.9714662",
+      "source": {
+        "id": "osm-577681245",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.844Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.844Z",
+      "updatedAt": "2026-04-04T15:39:22.844Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:avery-park-577684145",
+      "name": "Avery Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9800334,
+        "lng": -90.9705692
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9800334,-90.9705692",
+      "source": {
+        "id": "osm-577684145",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.846Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.846Z",
+      "updatedAt": "2026-04-04T15:39:22.846Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:weinand-park-577688358",
+      "name": "Weinand Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9755536,
+        "lng": -90.9962175
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9755536,-90.9962175",
+      "source": {
+        "id": "osm-577688358",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.850Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.850Z",
+      "updatedAt": "2026-04-04T15:39:22.850Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:bonfields-ballfields-577691026",
+      "name": "Bonfields' Ballfields",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9777492,
+        "lng": -90.9890227
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9777492,-90.9890227",
+      "source": {
+        "id": "osm-577691026",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.853Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.853Z",
+      "updatedAt": "2026-04-04T15:39:22.853Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:lincoln-county-fairgrounds-577926554",
+      "name": "Lincoln County Fairgrounds",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9878793,
+        "lng": -90.9955805
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9878793,-90.9955805",
+      "source": {
+        "id": "osm-577926554",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.855Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.855Z",
+      "updatedAt": "2026-04-04T15:39:22.855Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:field-3-578212961",
+      "name": "Field 3",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.975695,
+        "lng": -90.9706436
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.975695,-90.9706436",
+      "source": {
+        "id": "osm-578212961",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.859Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.859Z",
+      "updatedAt": "2026-04-04T15:39:22.859Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:field-4-578213275",
+      "name": "Field 4",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9754166,
+        "lng": -90.9691684
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9754166,-90.9691684",
+      "source": {
+        "id": "osm-578213275",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.861Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.861Z",
+      "updatedAt": "2026-04-04T15:39:22.861Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:field-2-578215684",
+      "name": "Field 2",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9766323,
+        "lng": -90.9718475
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9766323,-90.9718475",
+      "source": {
+        "id": "osm-578215684",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.863Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.863Z",
+      "updatedAt": "2026-04-04T15:39:22.863Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:field-1-578216091",
+      "name": "Field 1",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9766187,
+        "lng": -90.9729835
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9766187,-90.9729835",
+      "source": {
+        "id": "osm-578216091",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.866Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.866Z",
+      "updatedAt": "2026-04-04T15:39:22.866Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:glenna-s-garden-578220222",
+      "name": "Glenna's Garden",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9781974,
+        "lng": -90.9810396
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9781974,-90.9810396",
+      "source": {
+        "id": "osm-578220222",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.868Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.868Z",
+      "updatedAt": "2026-04-04T15:39:22.868Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:west-cherry-street-park-578233561",
+      "name": "West Cherry Street Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9795767,
+        "lng": -90.9815054
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9795767,-90.9815054",
+      "source": {
+        "id": "osm-578233561",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.871Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.871Z",
+      "updatedAt": "2026-04-04T15:39:22.871Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:historic-court-house-grounds-578234191",
+      "name": "Historic Court House Grounds",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9803152,
+        "lng": -90.9821195
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9803152,-90.9821195",
+      "source": {
+        "id": "osm-578234191",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.873Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.873Z",
+      "updatedAt": "2026-04-04T15:39:22.873Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:heckler-park-578684461",
+      "name": "Heckler Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.978625,
+        "lng": -90.9806089
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.978625,-90.9806089",
+      "source": {
+        "id": "osm-578684461",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.875Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.875Z",
+      "updatedAt": "2026-04-04T15:39:22.875Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:kathren-s-garden-578700678",
+      "name": "Kathren's Garden",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9967939,
+        "lng": -90.920679
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9967939,-90.920679",
+      "source": {
+        "id": "osm-578700678",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.876Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.876Z",
+      "updatedAt": "2026-04-04T15:39:22.876Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:miss-rodeo-missouri-ranch-583788075",
+      "name": "Miss Rodeo Missouri Ranch",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9238259,
+        "lng": -90.9036463
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9238259,-90.9036463",
+      "source": {
+        "id": "osm-583788075",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.881Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.881Z",
+      "updatedAt": "2026-04-04T15:39:22.881Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:brookmont-dog-park-584017457",
+      "name": "Brookmont Dog Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7857832,
+        "lng": -90.6138906
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7857832,-90.6138906",
+      "source": {
+        "id": "osm-584017457",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.888Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.888Z",
+      "updatedAt": "2026-04-04T15:39:22.888Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:winghaven-park-598667787",
+      "name": "Winghaven Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7427073,
+        "lng": -90.7352016
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7427073,-90.7352016",
+      "source": {
+        "id": "osm-598667787",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.932Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.932Z",
+      "updatedAt": "2026-04-04T15:39:22.932Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:boardwalk-springs-park-598999864",
+      "name": "Boardwalk Springs Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7407714,
+        "lng": -90.7351689
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7407714,-90.7351689",
+      "source": {
+        "id": "osm-598999864",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.938Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.938Z",
+      "updatedAt": "2026-04-04T15:39:22.938Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:bangert-island-601199724",
+      "name": "Bangert Island",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7568235,
+        "lng": -90.4931337
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7568235,-90.4931337",
+      "source": {
+        "id": "osm-601199724",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.941Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.941Z",
+      "updatedAt": "2026-04-04T15:39:22.941Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:pin-oak-grove-park-606819126",
+      "name": "Pin Oak Grove Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9754987,
+        "lng": -90.9886779
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9754987,-90.9886779",
+      "source": {
+        "id": "osm-606819126",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.945Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.945Z",
+      "updatedAt": "2026-04-04T15:39:22.945Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:antler-paradise-606899407",
+      "name": "Antler Paradise",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9270708,
+        "lng": -90.8997805
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9270708,-90.8997805",
+      "source": {
+        "id": "osm-606899407",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.948Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.948Z",
+      "updatedAt": "2026-04-04T15:39:22.948Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:progress-park-682783738",
+      "name": "Progress Park",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "park",
+      "address": "968 Meyer Road",
+      "location": {
+        "lat": 38.8229361,
+        "lng": -90.8569245
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8229361,-90.8569245",
+      "websiteUrl": "https://www.wentzvillemo.gov/parks-and-recreation/parks-facilities/find-a-park-or-facility/progress-park/",
+      "source": {
+        "id": "osm-682783738",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.494Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.494Z",
+      "updatedAt": "2026-04-04T15:39:23.494Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:brussels-boy-s-baseball-field-719038600",
+      "name": "Brussels Boy's Baseball Field",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.948325,
+        "lng": -90.5879766
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.948325,-90.5879766",
+      "source": {
+        "id": "osm-719038600",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.613Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.613Z",
+      "updatedAt": "2026-04-04T15:39:23.613Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:field-1-740405429",
+      "name": "Field 1",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "park",
+      "address": "901 Caledonia Dr",
+      "location": {
+        "lat": 38.7453551,
+        "lng": -90.7547855
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7453551,-90.7547855",
+      "websiteUrl": "https://www.morushsoccer.com/parkdetails",
+      "source": {
+        "id": "osm-740405429",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.658Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.658Z",
+      "updatedAt": "2026-04-04T15:39:23.658Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:field-2-740405430",
+      "name": "Field 2",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7454416,
+        "lng": -90.7539227
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7454416,-90.7539227",
+      "websiteUrl": "https://www.morushsoccer.com/parkdetails",
+      "source": {
+        "id": "osm-740405430",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.660Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.660Z",
+      "updatedAt": "2026-04-04T15:39:23.660Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:field-3-740405431",
+      "name": "Field 3",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7455281,
+        "lng": -90.7530622
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7455281,-90.7530622",
+      "websiteUrl": "https://www.morushsoccer.com/parkdetails",
+      "source": {
+        "id": "osm-740405431",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.663Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.663Z",
+      "updatedAt": "2026-04-04T15:39:23.663Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:field-4-740405432",
+      "name": "Field 4",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.745614,
+        "lng": -90.7522016
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.745614,-90.7522016",
+      "websiteUrl": "https://www.morushsoccer.com/parkdetails",
+      "source": {
+        "id": "osm-740405432",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.666Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.666Z",
+      "updatedAt": "2026-04-04T15:39:23.666Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:wabash-woods-community-park-831863324",
+      "name": "Wabash Woods Community Park",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "park",
+      "address": "329 Wabash Woods Way",
+      "location": {
+        "lat": 38.8092053,
+        "lng": -90.6875628
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8092053,-90.6875628",
+      "source": {
+        "id": "osm-831863324",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.826Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.826Z",
+      "updatedAt": "2026-04-04T15:39:23.826Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:ozzie-smith-sports-complex-839179689",
+      "name": "Ozzie Smith Sports Complex",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "park",
+      "address": "900 TR Hughes Boulevard",
+      "location": {
+        "lat": 38.8180263,
+        "lng": -90.6805899
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8180263,-90.6805899",
+      "websiteUrl": "https://www.ofallon.mo.us/ozzie-smith-sports-complex",
+      "source": {
+        "id": "osm-839179689",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.834Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.834Z",
+      "updatedAt": "2026-04-04T15:39:23.834Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:schrader-farm-park-923496842",
+      "name": "Schrader Farm Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7905417,
+        "lng": -90.6776476
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7905417,-90.6776476",
+      "source": {
+        "id": "osm-923496842",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.947Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.947Z",
+      "updatedAt": "2026-04-04T15:39:23.947Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:stone-ridge-tennis-court-939025475",
+      "name": "Stone Ridge Tennis Court",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7409331,
+        "lng": -90.5989723
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7409331,-90.5989723",
+      "source": {
+        "id": "osm-939025475",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.955Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.955Z",
+      "updatedAt": "2026-04-04T15:39:23.955Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:cavalry-park-962258392",
+      "name": "Cavalry Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7665725,
+        "lng": -90.6284031
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7665725,-90.6284031",
+      "source": {
+        "id": "osm-962258392",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.966Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.966Z",
+      "updatedAt": "2026-04-04T15:39:23.966Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:royallsprings-park-south-977039760",
+      "name": "RoyallSprings Park South",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7622234,
+        "lng": -90.7012638
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7622234,-90.7012638",
+      "source": {
+        "id": "osm-977039760",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.995Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.995Z",
+      "updatedAt": "2026-04-04T15:39:23.995Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:royallsprings-park-north-977039761",
+      "name": "RoyallSprings Park North",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7630547,
+        "lng": -90.7007935
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7630547,-90.7007935",
+      "source": {
+        "id": "osm-977039761",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.997Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.997Z",
+      "updatedAt": "2026-04-04T15:39:23.997Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:legacy-park-volleyball-1104737675",
+      "name": "Legacy Park Volleyball",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7508701,
+        "lng": -90.6515326
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7508701,-90.6515326",
+      "source": {
+        "id": "osm-1104737675",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.237Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.237Z",
+      "updatedAt": "2026-04-04T15:39:24.237Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:oglesby-park-1107092876",
+      "name": "Oglesby Park",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "recreationType": "park",
+      "address": "2949 W Meyer Road",
+      "location": {
+        "lat": 38.8328622,
+        "lng": -90.9380896
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8328622,-90.9380896",
+      "websiteUrl": "https://www.sccmo.org/2223/Oglesby-Park",
+      "source": {
+        "id": "osm-1107092876",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.244Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.244Z",
+      "updatedAt": "2026-04-04T15:39:24.244Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:troy-kiwanis-park-1107720263",
+      "name": "Troy Kiwanis Park",
+      "county": "st-charles-county",
+      "municipality": "Troy",
+      "recreationType": "park",
+      "address": "2500 Trojan Circle",
+      "location": {
+        "lat": 38.9696723,
+        "lng": -90.9862337
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9696723,-90.9862337",
+      "source": {
+        "id": "osm-1107720263",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.249Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.249Z",
+      "updatedAt": "2026-04-04T15:39:24.249Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:tiki-beach-missouri-sand-volleyball-club-1204006814",
+      "name": "Tiki Beach Missouri Sand Volleyball Club",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7448495,
+        "lng": -90.7530254
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7448495,-90.7530254",
+      "source": {
+        "id": "osm-1204006814",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.406Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.406Z",
+      "updatedAt": "2026-04-04T15:39:24.406Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:st-cletus-soccer-field-1204013350",
+      "name": "St. Cletus Soccer Field",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.801835,
+        "lng": -90.536782
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.801835,-90.536782",
+      "source": {
+        "id": "osm-1204013350",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.411Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.411Z",
+      "updatedAt": "2026-04-04T15:39:24.411Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:frankie-martin-s-garden-1212697983",
+      "name": "Frankie Martin's Garden",
+      "county": "st-charles-county",
+      "municipality": "Cottleville",
+      "recreationType": "park",
+      "address": "5372 Saint Charles Street",
+      "location": {
+        "lat": 38.748611,
+        "lng": -90.6531727
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.748611,-90.6531727",
+      "websiteUrl": "https://frankiemartinsgarden.com/",
+      "source": {
+        "id": "osm-1212697983",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.464Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.464Z",
+      "updatedAt": "2026-04-04T15:39:24.464Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:fox-hill-apartments-play-area-1273895539",
+      "name": "Fox Hill Apartments Play Area",
+      "county": "st-charles-county",
+      "municipality": "Saint Charles",
+      "recreationType": "park",
+      "address": "800 Fox Chase Drive",
+      "location": {
+        "lat": 38.8140585,
+        "lng": -90.4860499
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8140585,-90.4860499",
+      "source": {
+        "id": "osm-1273895539",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.511Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.511Z",
+      "updatedAt": "2026-04-04T15:39:24.511Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:hansen-park-1305753483",
+      "name": "Hansen Park",
+      "county": "st-charles-county",
+      "municipality": "Cottleville",
+      "recreationType": "park",
+      "address": "65 Ohmes Road",
+      "location": {
+        "lat": 38.7658145,
+        "lng": -90.6363673
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7658145,-90.6363673",
+      "source": {
+        "id": "osm-1305753483",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.617Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.617Z",
+      "updatedAt": "2026-04-04T15:39:24.617Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:new-town-pickleball-1332926241",
+      "name": "New Town Pickleball",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8331169,
+        "lng": -90.4812606
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8331169,-90.4812606",
+      "source": {
+        "id": "osm-1332926241",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.716Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.716Z",
+      "updatedAt": "2026-04-04T15:39:24.716Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:island-district-quay-1332926243",
+      "name": "Island District Quay",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8353306,
+        "lng": -90.4871437
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8353306,-90.4871437",
+      "source": {
+        "id": "osm-1332926243",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.720Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.720Z",
+      "updatedAt": "2026-04-04T15:39:24.720Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:suntan-quadrangle-1332926244",
+      "name": "Suntan Quadrangle",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8338962,
+        "lng": -90.5038022
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8338962,-90.5038022",
+      "source": {
+        "id": "osm-1332926244",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.723Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.723Z",
+      "updatedAt": "2026-04-04T15:39:24.723Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:rector-green-1332926245",
+      "name": "Rector Green",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8350728,
+        "lng": -90.5077026
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8350728,-90.5077026",
+      "source": {
+        "id": "osm-1332926245",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.727Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.727Z",
+      "updatedAt": "2026-04-04T15:39:24.727Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:island-quadrangle-1332926249",
+      "name": "Island Quadrangle",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8354399,
+        "lng": -90.5031285
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8354399,-90.5031285",
+      "source": {
+        "id": "osm-1332926249",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.730Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.730Z",
+      "updatedAt": "2026-04-04T15:39:24.730Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:warrior-way-park-1337855611",
+      "name": "Warrior Way Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.9928628,
+        "lng": -90.7455956
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9928628,-90.7455956",
+      "source": {
+        "id": "osm-1337855611",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.753Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.753Z",
+      "updatedAt": "2026-04-04T15:39:24.753Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:pundmann-nature-reserve-1376582358",
+      "name": "Pundmann Nature Reserve",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7778096,
+        "lng": -90.5257846
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7778096,-90.5257846",
+      "source": {
+        "id": "osm-1376582358",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.880Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.880Z",
+      "updatedAt": "2026-04-04T15:39:24.880Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:trailwoods-park-1377611557",
+      "name": "Trailwoods Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7929367,
+        "lng": -90.6646811
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7929367,-90.6646811",
+      "source": {
+        "id": "osm-1377611557",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.884Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.884Z",
+      "updatedAt": "2026-04-04T15:39:24.884Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:joust-field-1382395498",
+      "name": "Joust Field",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8307212,
+        "lng": -90.9186979
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8307212,-90.9186979",
+      "source": {
+        "id": "osm-1382395498",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.889Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.889Z",
+      "updatedAt": "2026-04-04T15:39:24.889Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:brown-road-park-7079905",
+      "name": "Brown Road park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8029576,
+        "lng": -90.6327248
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8029576,-90.6327248",
+      "source": {
+        "id": "osm-7079905",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.145Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.145Z",
+      "updatedAt": "2026-04-04T15:39:25.145Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:lone-wolff-park-7079907",
+      "name": "Lone Wolff Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8031877,
+        "lng": -90.6303947
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8031877,-90.6303947",
+      "source": {
+        "id": "osm-7079907",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.149Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.149Z",
+      "updatedAt": "2026-04-04T15:39:25.149Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:sports-center-park-7079908",
+      "name": "Sports Center Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.801968,
+        "lng": -90.6341846
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.801968,-90.6341846",
+      "source": {
+        "id": "osm-7079908",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.153Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.153Z",
+      "updatedAt": "2026-04-04T15:39:25.153Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:glen-travis-park-7790432",
+      "name": "Glen Travis Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7813558,
+        "lng": -90.6343549
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7813558,-90.6343549",
+      "source": {
+        "id": "osm-7790432",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.163Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.163Z",
+      "updatedAt": "2026-04-04T15:39:25.163Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:rabbit-run-park-7790433",
+      "name": "Rabbit Run Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7803535,
+        "lng": -90.6312755
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7803535,-90.6312755",
+      "source": {
+        "id": "osm-7790433",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.165Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.165Z",
+      "updatedAt": "2026-04-04T15:39:25.165Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:grand-teton-pocket-park-7793139",
+      "name": "Grand Teton Pocket Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7879099,
+        "lng": -90.6157223
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7879099,-90.6157223",
+      "source": {
+        "id": "osm-7793139",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.168Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.168Z",
+      "updatedAt": "2026-04-04T15:39:25.168Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:brookmount-trail-park-7793141",
+      "name": "Brookmount Trail Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7823055,
+        "lng": -90.6099925
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7823055,-90.6099925",
+      "source": {
+        "id": "osm-7793141",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.170Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.170Z",
+      "updatedAt": "2026-04-04T15:39:25.170Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:cuivre-river-state-park-7802017",
+      "name": "Cuivre River State Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 39.0357926,
+        "lng": -90.9344561
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=39.0357926,-90.9344561",
+      "websiteUrl": "https://mostateparks.com/park/cuivre-river-state-park",
+      "source": {
+        "id": "osm-7802017",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.175Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.175Z",
+      "updatedAt": "2026-04-04T15:39:25.175Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:covenant-park-8126369",
+      "name": "Covenant Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7716409,
+        "lng": -90.5852186
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7716409,-90.5852186",
+      "source": {
+        "id": "osm-8126369",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.182Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.182Z",
+      "updatedAt": "2026-04-04T15:39:25.182Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:spencer-creek-park-8296713",
+      "name": "Spencer Creek Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7812946,
+        "lng": -90.5861956
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7812946,-90.5861956",
+      "source": {
+        "id": "osm-8296713",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.190Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.190Z",
+      "updatedAt": "2026-04-04T15:39:25.190Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:city-centre-park-8296714",
+      "name": "City Centre Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7899743,
+        "lng": -90.5957147
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7899743,-90.5957147",
+      "source": {
+        "id": "osm-8296714",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.192Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.192Z",
+      "updatedAt": "2026-04-04T15:39:25.192Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:spencer-road-pocket-park-8309811",
+      "name": "Spencer Road Pocket Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7769243,
+        "lng": -90.6006096
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7769243,-90.6006096",
+      "source": {
+        "id": "osm-8309811",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.200Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.200Z",
+      "updatedAt": "2026-04-04T15:39:25.200Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:oak-creek-park-8309812",
+      "name": "Oak Creek Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7766706,
+        "lng": -90.5969434
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7766706,-90.5969434",
+      "source": {
+        "id": "osm-8309812",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.203Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.203Z",
+      "updatedAt": "2026-04-04T15:39:25.203Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:dardenne-park-8439076",
+      "name": "Dardenne Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7924338,
+        "lng": -90.6485773
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7924338,-90.6485773",
+      "source": {
+        "id": "osm-8439076",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.206Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.206Z",
+      "updatedAt": "2026-04-04T15:39:25.206Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:scott-a-lewis-park-9198264",
+      "name": "Scott A Lewis Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7609746,
+        "lng": -90.6296626
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7609746,-90.6296626",
+      "websiteUrl": "https://www.cityofcottleville.com/parks-and-recreation/scott-a-lewis-park/",
+      "source": {
+        "id": "osm-9198264",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.238Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.238Z",
+      "updatedAt": "2026-04-04T15:39:25.238Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:college-meadows-park-9347497",
+      "name": "College Meadows Park",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "recreationType": "park",
+      "address": "4601 Mid Rivers Mall Drive",
+      "location": {
+        "lat": 38.7640658,
+        "lng": -90.6437703
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7640658,-90.6437703",
+      "websiteUrl": "https://www.sccmo.org/1483/College-Meadows-Park",
+      "source": {
+        "id": "osm-9347497",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.241Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.241Z",
+      "updatedAt": "2026-04-04T15:39:25.241Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:laurel-park-9647119",
+      "name": "Laurel Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7656704,
+        "lng": -90.5720511
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7656704,-90.5720511",
+      "source": {
+        "id": "osm-9647119",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.247Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.247Z",
+      "updatedAt": "2026-04-04T15:39:25.247Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:jack-gettermeyer-park-10295073",
+      "name": "Jack Gettermeyer Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7790619,
+        "lng": -90.6387735
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7790619,-90.6387735",
+      "source": {
+        "id": "osm-10295073",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.251Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.251Z",
+      "updatedAt": "2026-04-04T15:39:25.251Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:knaust-park-12594527",
+      "name": "Knaust Park",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "park",
+      "address": "114 Sea Side Court",
+      "location": {
+        "lat": 38.7760423,
+        "lng": -90.6850441
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7760423,-90.6850441",
+      "source": {
+        "id": "osm-12594527",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.264Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.264Z",
+      "updatedAt": "2026-04-04T15:39:25.264Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:kinetic-park-13922094",
+      "name": "Kinetic Park",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.7683298,
+        "lng": -90.7634447
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7683298,-90.7634447",
+      "source": {
+        "id": "osm-13922094",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.282Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.282Z",
+      "updatedAt": "2026-04-04T15:39:25.282Z"
+    },
+    {
+      "id": "candidate:parks:st-charles-county:civic-green-lawn-18275642",
+      "name": "Civic Green Lawn",
+      "county": "st-charles-county",
+      "recreationType": "park",
+      "location": {
+        "lat": 38.8342169,
+        "lng": -90.494063
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8342169,-90.494063",
+      "source": {
+        "id": "osm-18275642",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.316Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.316Z",
+      "updatedAt": "2026-04-04T15:39:25.316Z"
+    }
+  ]
+}

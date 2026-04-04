@@ -1,0 +1,172 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-charles-county",
+  "category": "dog-park",
+  "places": [
+    {
+      "id": "candidate:dog-park:st-charles-county:quail-ridge-dog-area",
+      "name": "Quail Ridge Park – Off-Leash Dog Area",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "dog-park",
+      "address": "560 Interstate Dr, Wentzville, MO 63385",
+      "location": {
+        "lat": 38.8087,
+        "lng": -90.8511
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8087,-90.8511",
+      "websiteUrl": "https://www.sccmo.org/716/Quail-Ridge-Park",
+      "source": {
+        "id": "source-quail-ridge-dog-area-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "pets"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:dog-park:st-charles-county:veterans-tribute-dog-area",
+      "name": "Veterans Tribute Park – Off-Leash Dog Area",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "dog-park",
+      "address": "1031 Kisker Rd, St. Charles, MO 63304",
+      "location": {
+        "lat": 38.7541,
+        "lng": -90.5793
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7541,-90.5793",
+      "websiteUrl": "https://www.sccmo.org/741/Veterans-Tribute-Park",
+      "source": {
+        "id": "source-veterans-tribute-dog-area-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "pets"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:dog-park:st-charles-county:broemmelsiek-dog-area",
+      "name": "Broemmelsiek Park – Off-Leash Dog Area",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "dog-park",
+      "address": "4301 Wilson Rd, Wentzville, MO 63385",
+      "location": {
+        "lat": 38.699,
+        "lng": -90.764
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6990,-90.7640",
+      "websiteUrl": "https://www.sccmo.org/617/Broemmelsiek-Park",
+      "source": {
+        "id": "source-broemmelsiek-dog-area-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "pets"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:dog-park:st-charles-county:dusable-dog-park",
+      "name": "DuSable Dog Park",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "dog-park",
+      "address": "2598 N Main St, St. Charles, MO 63301",
+      "location": {
+        "lat": 38.806,
+        "lng": -90.491
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8060,-90.4910",
+      "websiteUrl": "https://stcharlesparks.com/facilities/dusable-dog-park",
+      "source": {
+        "id": "source-dusable-dog-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "pets"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:dog-park:st-charles-county:don-yarber-bark-park",
+      "name": "Don Yarber Bark Park",
+      "county": "st-charles-county",
+      "municipality": "Cottleville",
+      "recreationType": "dog-park",
+      "address": "5490 5th St, Cottleville, MO 63304",
+      "location": {
+        "lat": 38.7645,
+        "lng": -90.6418
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7645,-90.6418",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-don-yarber-bark-park-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "pets"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:dog-parks:st-charles-county:bark-park-1028500229",
+      "name": "Bark Park",
+      "county": "st-charles-county",
+      "recreationType": "dog-park",
+      "location": {
+        "lat": 38.7516509,
+        "lng": -90.6512367
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7516509,-90.6512367",
+      "source": {
+        "id": "osm-1028500229",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.117Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.117Z",
+      "updatedAt": "2026-04-04T15:39:24.117Z"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-charles-county",
+  "category": "driving-range",
+  "places": [
+    {
+      "id": "candidate:driving-range:st-charles-county:cave-spring-golf-center",
+      "name": "Cave Spring Golf Center – Driving Range",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "driving-range",
+      "address": "3650 W Clay St, St. Charles, MO 63301",
+      "location": { "lat": 38.7923, "lng": -90.5350 },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7923,-90.5350",
+      "websiteUrl": "https://www.cavespringgolfcenter.com",
+      "source": {
+        "id": "source-cave-spring-golf-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": ["outdoor", "sports"],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    }
+  ]
+}

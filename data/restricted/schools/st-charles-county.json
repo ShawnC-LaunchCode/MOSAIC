@@ -4,47 +4,3016 @@
   "county": "st-charles-county",
   "sourceKind": "schools",
   "sites": [
-    { "id": "restricted:school:st-charles-county:st-charles-high-school", "name": "St. Charles High School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "725 Kingshighway St, St Charles, MO", "location": { "lat": 38.7835, "lng": -90.4815 }, "source": { "id": "source-st-charles-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:st-charles-west-high-school", "name": "St. Charles West High School", "county": "st-charles-county", "municipality": "O'Fallon", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-st-charles-west-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:jefferson-middle-school-st-charles", "name": "Jefferson Middle School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-jefferson-middle-school-st-charles-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:washington-middle-school-st-charles", "name": "Washington Middle School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-washington-middle-school-st-charles-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:francis-howell-high-school", "name": "Francis Howell High School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-francis-howell-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:francis-howell-north-high-school", "name": "Francis Howell North High School", "county": "st-charles-county", "municipality": "St. Peters", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-francis-howell-north-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:francis-howell-central-high-school", "name": "Francis Howell Central High School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-francis-howell-central-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:bryan-middle-school", "name": "Bryan Middle School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-bryan-middle-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:hollenbeck-middle-school", "name": "Hollenbeck Middle School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-hollenbeck-middle-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:labelle-middle-school", "name": "LaBelle Middle School", "county": "st-charles-county", "municipality": "St. Peters", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-labelle-middle-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:barnwell-middle-school", "name": "Barnwell Middle School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-barnwell-middle-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:saeger-middle-school", "name": "Saeger Middle School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-saeger-middle-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:becky-david-elementary", "name": "Becky-David Elementary School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-becky-david-elementary-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:harvest-ridge-elementary", "name": "Harvest Ridge Elementary School", "county": "st-charles-county", "municipality": "St. Peters", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-harvest-ridge-elementary-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:cave-springs-elementary", "name": "Cave Springs Elementary School", "county": "st-charles-county", "municipality": "St. Peters", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-cave-springs-elementary-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:new-melle-elementary", "name": "New Melle Elementary School", "county": "st-charles-county", "municipality": "New Melle", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-new-melle-elementary-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:fort-zumwalt-north-high-school", "name": "Fort Zumwalt North High School", "county": "st-charles-county", "municipality": "O'Fallon", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-fort-zumwalt-north-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:fort-zumwalt-south-high-school", "name": "Fort Zumwalt South High School", "county": "st-charles-county", "municipality": "O'Fallon", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-fort-zumwalt-south-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:fort-zumwalt-east-high-school", "name": "Fort Zumwalt East High School", "county": "st-charles-county", "municipality": "St. Peters", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-fort-zumwalt-east-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:fort-zumwalt-west-high-school", "name": "Fort Zumwalt West High School", "county": "st-charles-county", "municipality": "O'Fallon", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-fort-zumwalt-west-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:dubray-middle-school", "name": "Dubray Middle School", "county": "st-charles-county", "municipality": "O'Fallon", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-dubray-middle-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:heritage-middle-school-ofallon", "name": "Heritage Middle School", "county": "st-charles-county", "municipality": "O'Fallon", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-heritage-middle-school-ofallon-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:prairie-view-middle-school", "name": "Prairie View Middle School", "county": "st-charles-county", "municipality": "O'Fallon", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-prairie-view-middle-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:summit-elementary-ofallon", "name": "Summit Elementary School", "county": "st-charles-county", "municipality": "O'Fallon", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-summit-elementary-ofallon-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:veterans-elementary-ofallon", "name": "Veterans Elementary School", "county": "st-charles-county", "municipality": "O'Fallon", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-veterans-elementary-ofallon-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:ostmann-elementary", "name": "Ostmann Elementary School", "county": "st-charles-county", "municipality": "St. Peters", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-ostmann-elementary-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:rock-creek-elementary-ofallon", "name": "Rock Creek Elementary School", "county": "st-charles-county", "municipality": "O'Fallon", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-rock-creek-elementary-ofallon-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:lewis-and-clark-elementary-ofallon", "name": "Lewis & Clark Elementary School", "county": "st-charles-county", "municipality": "O'Fallon", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-lewis-and-clark-elementary-ofallon-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:holt-senior-high-school", "name": "Holt Senior High School", "county": "st-charles-county", "municipality": "Wentzville", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-holt-senior-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:liberty-senior-high-school", "name": "Liberty Senior High School", "county": "st-charles-county", "municipality": "Wentzville", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-liberty-senior-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:north-point-senior-high-school", "name": "North Point Senior High School", "county": "st-charles-county", "municipality": "Wentzville", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-north-point-senior-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:wentzville-middle-school", "name": "Wentzville Middle School", "county": "st-charles-county", "municipality": "Wentzville", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-wentzville-middle-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:discovery-middle-school-wentzville", "name": "Discovery Middle School", "county": "st-charles-county", "municipality": "Wentzville", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-discovery-middle-school-wentzville-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:green-tree-elementary-wentzville", "name": "Green Tree Elementary School", "county": "st-charles-county", "municipality": "Wentzville", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-green-tree-elementary-wentzville-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:flint-ridge-elementary-wentzville", "name": "Flint Ridge Elementary School", "county": "st-charles-county", "municipality": "Wentzville", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-flint-ridge-elementary-wentzville-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:journey-elementary-wentzville", "name": "Journey Elementary School", "county": "st-charles-county", "municipality": "Wentzville", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-journey-elementary-wentzville-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:orchard-farm-high-school", "name": "Orchard Farm High School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-orchard-farm-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:orchard-farm-middle-school", "name": "Orchard Farm Middle School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-orchard-farm-middle-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:orchard-farm-elementary", "name": "Orchard Farm Elementary School", "county": "st-charles-county", "municipality": "St. Charles", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-orchard-farm-elementary-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:winfield-high-school", "name": "Winfield High School", "county": "st-charles-county", "municipality": "Winfield", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-winfield-high-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:winfield-middle-school", "name": "Winfield Middle School", "county": "st-charles-county", "municipality": "Winfield", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-winfield-middle-school-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" },
-    { "id": "restricted:school:st-charles-county:winfield-elementary", "name": "Winfield Elementary School", "county": "st-charles-county", "municipality": "Winfield", "restrictedPropertyType": "school", "address": "", "location": { "lat": null, "lng": null }, "source": { "id": "source-winfield-elementary-001", "sourceType": "state-data", "sourceName": "MO DESE", "fetchedAt": "2026-03-28T00:00:00.000Z" }, "createdAt": "2026-03-28T00:00:00.000Z", "updatedAt": "2026-03-28T00:00:00.000Z" }
+    {
+      "id": "restricted:school:st-charles-county:st-charles-high-school",
+      "name": "St. Charles High School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "725 Kingshighway St, St Charles, MO",
+      "location": {
+        "lat": 38.7835,
+        "lng": -90.4815
+      },
+      "source": {
+        "id": "source-st-charles-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:st-charles-west-high-school",
+      "name": "St. Charles West High School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-st-charles-west-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:jefferson-middle-school-st-charles",
+      "name": "Jefferson Middle School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-jefferson-middle-school-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:washington-middle-school-st-charles",
+      "name": "Washington Middle School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-washington-middle-school-st-charles-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:francis-howell-high-school",
+      "name": "Francis Howell High School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-francis-howell-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:francis-howell-north-high-school",
+      "name": "Francis Howell North High School",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-francis-howell-north-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:francis-howell-central-high-school",
+      "name": "Francis Howell Central High School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-francis-howell-central-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:bryan-middle-school",
+      "name": "Bryan Middle School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-bryan-middle-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:hollenbeck-middle-school",
+      "name": "Hollenbeck Middle School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-hollenbeck-middle-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:labelle-middle-school",
+      "name": "LaBelle Middle School",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-labelle-middle-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:barnwell-middle-school",
+      "name": "Barnwell Middle School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-barnwell-middle-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:saeger-middle-school",
+      "name": "Saeger Middle School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-saeger-middle-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:becky-david-elementary",
+      "name": "Becky-David Elementary School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-becky-david-elementary-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:harvest-ridge-elementary",
+      "name": "Harvest Ridge Elementary School",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-harvest-ridge-elementary-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:cave-springs-elementary",
+      "name": "Cave Springs Elementary School",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-cave-springs-elementary-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:new-melle-elementary",
+      "name": "New Melle Elementary School",
+      "county": "st-charles-county",
+      "municipality": "New Melle",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-new-melle-elementary-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:fort-zumwalt-north-high-school",
+      "name": "Fort Zumwalt North High School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-fort-zumwalt-north-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:fort-zumwalt-south-high-school",
+      "name": "Fort Zumwalt South High School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-fort-zumwalt-south-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:fort-zumwalt-east-high-school",
+      "name": "Fort Zumwalt East High School",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-fort-zumwalt-east-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:fort-zumwalt-west-high-school",
+      "name": "Fort Zumwalt West High School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-fort-zumwalt-west-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:dubray-middle-school",
+      "name": "Dubray Middle School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-dubray-middle-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:heritage-middle-school-ofallon",
+      "name": "Heritage Middle School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-heritage-middle-school-ofallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:prairie-view-middle-school",
+      "name": "Prairie View Middle School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-prairie-view-middle-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:summit-elementary-ofallon",
+      "name": "Summit Elementary School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-summit-elementary-ofallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:veterans-elementary-ofallon",
+      "name": "Veterans Elementary School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-veterans-elementary-ofallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:ostmann-elementary",
+      "name": "Ostmann Elementary School",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-ostmann-elementary-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:rock-creek-elementary-ofallon",
+      "name": "Rock Creek Elementary School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-rock-creek-elementary-ofallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:lewis-and-clark-elementary-ofallon",
+      "name": "Lewis & Clark Elementary School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-lewis-and-clark-elementary-ofallon-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:holt-senior-high-school",
+      "name": "Holt Senior High School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-holt-senior-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:liberty-senior-high-school",
+      "name": "Liberty Senior High School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-liberty-senior-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:north-point-senior-high-school",
+      "name": "North Point Senior High School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-north-point-senior-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:wentzville-middle-school",
+      "name": "Wentzville Middle School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-wentzville-middle-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:discovery-middle-school-wentzville",
+      "name": "Discovery Middle School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-discovery-middle-school-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:green-tree-elementary-wentzville",
+      "name": "Green Tree Elementary School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-green-tree-elementary-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:flint-ridge-elementary-wentzville",
+      "name": "Flint Ridge Elementary School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-flint-ridge-elementary-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:journey-elementary-wentzville",
+      "name": "Journey Elementary School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-journey-elementary-wentzville-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:orchard-farm-high-school",
+      "name": "Orchard Farm High School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-orchard-farm-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:orchard-farm-middle-school",
+      "name": "Orchard Farm Middle School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-orchard-farm-middle-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:orchard-farm-elementary",
+      "name": "Orchard Farm Elementary School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-orchard-farm-elementary-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:winfield-high-school",
+      "name": "Winfield High School",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-winfield-high-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:winfield-middle-school",
+      "name": "Winfield Middle School",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-winfield-middle-school-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:school:st-charles-county:winfield-elementary",
+      "name": "Winfield Elementary School",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "school",
+      "address": "",
+      "location": {
+        "lat": null,
+        "lng": null
+      },
+      "source": {
+        "id": "source-winfield-elementary-001",
+        "sourceType": "state-data",
+        "sourceName": "MO DESE",
+        "fetchedAt": "2026-03-28T00:00:00.000Z"
+      },
+      "createdAt": "2026-03-28T00:00:00.000Z",
+      "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:owen-station-school-358053555",
+      "name": "Owen Station School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9064389,
+        "lng": -90.8570769
+      },
+      "source": {
+        "id": "osm-358053555",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.869Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.869Z",
+      "updatedAt": "2026-04-04T15:39:20.869Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:west-liberty-school-358053565",
+      "name": "West Liberty School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9544943,
+        "lng": -90.8217967
+      },
+      "source": {
+        "id": "osm-358053565",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.869Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.869Z",
+      "updatedAt": "2026-04-04T15:39:20.869Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:keelstone-school-358053566",
+      "name": "Keelstone School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9467436,
+        "lng": -90.8740622
+      },
+      "source": {
+        "id": "osm-358053566",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.870Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.870Z",
+      "updatedAt": "2026-04-04T15:39:20.870Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:creech-school-358053567",
+      "name": "Creech School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9692159,
+        "lng": -90.8701329
+      },
+      "source": {
+        "id": "osm-358053567",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.870Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.870Z",
+      "updatedAt": "2026-04-04T15:39:20.870Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:wilson-school-358053568",
+      "name": "Wilson School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9994932,
+        "lng": -90.8698549
+      },
+      "source": {
+        "id": "osm-358053568",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.871Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.871Z",
+      "updatedAt": "2026-04-04T15:39:20.871Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:chantilly-school-358053569",
+      "name": "Chantilly School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9967159,
+        "lng": -90.842631
+      },
+      "source": {
+        "id": "osm-358053569",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.871Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.871Z",
+      "updatedAt": "2026-04-04T15:39:20.871Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:lindsey-school-358053570",
+      "name": "Lindsey School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9864386,
+        "lng": -90.8026285
+      },
+      "source": {
+        "id": "osm-358053570",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.872Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.872Z",
+      "updatedAt": "2026-04-04T15:39:20.872Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:bals-school-358053572",
+      "name": "Bals School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9375507,
+        "lng": -90.7634598
+      },
+      "source": {
+        "id": "osm-358053572",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.872Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.872Z",
+      "updatedAt": "2026-04-04T15:39:20.872Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:saint-marys-school-358053574",
+      "name": "Saint Marys School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9378283,
+        "lng": -90.7795719
+      },
+      "source": {
+        "id": "osm-358053574",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.873Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.873Z",
+      "updatedAt": "2026-04-04T15:39:20.873Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:oak-dale-school-358053575",
+      "name": "Oak Dale School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7614392,
+        "lng": -90.9954188
+      },
+      "source": {
+        "id": "osm-358053575",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.873Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.873Z",
+      "updatedAt": "2026-04-04T15:39:20.873Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:blottner-school-358053576",
+      "name": "Blottner School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7978277,
+        "lng": -90.989585
+      },
+      "source": {
+        "id": "osm-358053576",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.874Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.874Z",
+      "updatedAt": "2026-04-04T15:39:20.874Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:gibson-school-358053582",
+      "name": "Gibson School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8664381,
+        "lng": -90.9809733
+      },
+      "source": {
+        "id": "osm-358053582",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.874Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.874Z",
+      "updatedAt": "2026-04-04T15:39:20.874Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:sugar-grove-school-358059030",
+      "name": "Sugar Grove School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9353262,
+        "lng": -90.9829178
+      },
+      "source": {
+        "id": "osm-358059030",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.881Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.881Z",
+      "updatedAt": "2026-04-04T15:39:20.881Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:rock-spring-school-358059031",
+      "name": "Rock Spring School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8892156,
+        "lng": -90.9851402
+      },
+      "source": {
+        "id": "osm-358059031",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.881Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.881Z",
+      "updatedAt": "2026-04-04T15:39:20.881Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:black-jack-school-358066914",
+      "name": "Black Jack School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7853292,
+        "lng": -90.5345648
+      },
+      "source": {
+        "id": "osm-358066914",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.884Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.884Z",
+      "updatedAt": "2026-04-04T15:39:20.884Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:fort-zumwalt-school-358067500",
+      "name": "Fort Zumwalt School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8036631,
+        "lng": -90.6973477
+      },
+      "source": {
+        "id": "osm-358067500",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.889Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.889Z",
+      "updatedAt": "2026-04-04T15:39:20.889Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:kampville-school-358067855",
+      "name": "Kampville School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8528282,
+        "lng": -90.5292862
+      },
+      "source": {
+        "id": "osm-358067855",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.891Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.891Z",
+      "updatedAt": "2026-04-04T15:39:20.891Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:lincoln-school-358068001",
+      "name": "Lincoln School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7789401,
+        "lng": -90.4909524
+      },
+      "source": {
+        "id": "osm-358068001",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.891Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.891Z",
+      "updatedAt": "2026-04-04T15:39:20.891Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:sacred-heart-academy-358068763",
+      "name": "Sacred Heart Academy",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7869955,
+        "lng": -90.4806743
+      },
+      "source": {
+        "id": "osm-358068763",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.895Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.895Z",
+      "updatedAt": "2026-04-04T15:39:20.895Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:saint-joseph-school-358068829",
+      "name": "Saint Joseph School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7436635,
+        "lng": -90.653458
+      },
+      "source": {
+        "id": "osm-358068829",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.897Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.897Z",
+      "updatedAt": "2026-04-04T15:39:20.897Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:zion-school-358069251",
+      "name": "Zion School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7419965,
+        "lng": -90.5854003
+      },
+      "source": {
+        "id": "osm-358069251",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.904Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.904Z",
+      "updatedAt": "2026-04-04T15:39:20.904Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:star-prairie-school-358069282",
+      "name": "Star Prairie School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.890051,
+        "lng": -90.7781835
+      },
+      "source": {
+        "id": "osm-358069282",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.904Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.904Z",
+      "updatedAt": "2026-04-04T15:39:20.904Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:mount-hope-school-358069286",
+      "name": "Mount Hope School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8469961,
+        "lng": -90.763183
+      },
+      "source": {
+        "id": "osm-358069286",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.905Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.905Z",
+      "updatedAt": "2026-04-04T15:39:20.905Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:gilmore-school-358069290",
+      "name": "Gilmore School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8032627,
+        "lng": -90.8092329
+      },
+      "source": {
+        "id": "osm-358069290",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.905Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.905Z",
+      "updatedAt": "2026-04-04T15:39:20.905Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:jacksonville-school-358069300",
+      "name": "Jacksonville School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7622738,
+        "lng": -90.866245
+      },
+      "source": {
+        "id": "osm-358069300",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.906Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.906Z",
+      "updatedAt": "2026-04-04T15:39:20.906Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:point-prairie-school-358069317",
+      "name": "Point Prairie School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8038716,
+        "lng": -90.905835
+      },
+      "source": {
+        "id": "osm-358069317",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.906Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.906Z",
+      "updatedAt": "2026-04-04T15:39:20.906Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:maple-school-358069373",
+      "name": "Maple School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8992174,
+        "lng": -90.675957
+      },
+      "source": {
+        "id": "osm-358069373",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.907Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.907Z",
+      "updatedAt": "2026-04-04T15:39:20.907Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:grothe-school-358069695",
+      "name": "Grothe School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8778274,
+        "lng": -90.9318038
+      },
+      "source": {
+        "id": "osm-358069695",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.913Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.913Z",
+      "updatedAt": "2026-04-04T15:39:20.913Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:josephville-school-358069808",
+      "name": "Josephville School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8439424,
+        "lng": -90.795942
+      },
+      "source": {
+        "id": "osm-358069808",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.913Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.913Z",
+      "updatedAt": "2026-04-04T15:39:20.913Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:dardenne-school-358069810",
+      "name": "Dardenne School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.766997,
+        "lng": -90.7565168
+      },
+      "source": {
+        "id": "osm-358069810",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.914Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.914Z",
+      "updatedAt": "2026-04-04T15:39:20.914Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:franklin-school-358069826",
+      "name": "Franklin School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7878288,
+        "lng": -90.4803965
+      },
+      "source": {
+        "id": "osm-358069826",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.914Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.914Z",
+      "updatedAt": "2026-04-04T15:39:20.914Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:lea-ridge-school-358069869",
+      "name": "Lea Ridge School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7586637,
+        "lng": -90.7117931
+      },
+      "source": {
+        "id": "osm-358069869",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.915Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.915Z",
+      "updatedAt": "2026-04-04T15:39:20.915Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:baldwin-school-358069872",
+      "name": "Baldwin School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8611619,
+        "lng": -90.6115109
+      },
+      "source": {
+        "id": "osm-358069872",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.915Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.915Z",
+      "updatedAt": "2026-04-04T15:39:20.915Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:boonslick-state-school-358084371",
+      "name": "Boonslick State School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7766782,
+        "lng": -90.6773651
+      },
+      "source": {
+        "id": "osm-358084371",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.931Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.931Z",
+      "updatedAt": "2026-04-04T15:39:20.931Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:saint-dominic-high-school-358084378",
+      "name": "Saint Dominic High School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8062482,
+        "lng": -90.7223228
+      },
+      "source": {
+        "id": "osm-358084378",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.931Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.931Z",
+      "updatedAt": "2026-04-04T15:39:20.931Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:north-middle-school-358084379",
+      "name": "North Middle School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8047742,
+        "lng": -90.6973476
+      },
+      "source": {
+        "id": "osm-358084379",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.932Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.932Z",
+      "updatedAt": "2026-04-04T15:39:20.932Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:joseph-l-mudd-school-358084380",
+      "name": "Joseph L Mudd School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8139407,
+        "lng": -90.689014
+      },
+      "source": {
+        "id": "osm-358084380",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.932Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.932Z",
+      "updatedAt": "2026-04-04T15:39:20.932Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:mount-hope-school-358084383",
+      "name": "Mount Hope School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.839774,
+        "lng": -90.7334595
+      },
+      "source": {
+        "id": "osm-358084383",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.933Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.933Z",
+      "updatedAt": "2026-04-04T15:39:20.933Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:fort-zumwalt-north-high-school-358084384",
+      "name": "Fort Zumwalt North High School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8200516,
+        "lng": -90.6681799
+      },
+      "source": {
+        "id": "osm-358084384",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.933Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.933Z",
+      "updatedAt": "2026-04-04T15:39:20.933Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:forest-park-school-358084386",
+      "name": "Forest Park School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8150518,
+        "lng": -90.6881806
+      },
+      "source": {
+        "id": "osm-358084386",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.934Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.934Z",
+      "updatedAt": "2026-04-04T15:39:20.934Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:progress-south-elementary-school-358084390",
+      "name": "Progress South Elementary School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "201 Knaust Road",
+      "location": {
+        "lat": 38.7783427,
+        "lng": -90.6768608
+      },
+      "source": {
+        "id": "osm-358084390",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.935Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.935Z",
+      "updatedAt": "2026-04-04T15:39:20.935Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:saint-charles-west-high-school-358086560",
+      "name": "Saint Charles West High School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8013066,
+        "lng": -90.5325261
+      },
+      "source": {
+        "id": "osm-358086560",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.942Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.942Z",
+      "updatedAt": "2026-04-04T15:39:20.942Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:benton-elementary-school-358086916",
+      "name": "Benton Elementary School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7861,
+        "lng": -90.4877
+      },
+      "source": {
+        "id": "osm-358086916",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.955Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.955Z",
+      "updatedAt": "2026-04-04T15:39:20.955Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:blackhurst-elementary-school-358086922",
+      "name": "Blackhurst Elementary School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7927284,
+        "lng": -90.4971798
+      },
+      "source": {
+        "id": "osm-358086922",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.956Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.956Z",
+      "updatedAt": "2026-04-04T15:39:20.956Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:coverdell-elementary-school-358086975",
+      "name": "Coverdell Elementary School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8057,
+        "lng": -90.4932
+      },
+      "source": {
+        "id": "osm-358086975",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.959Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.959Z",
+      "updatedAt": "2026-04-04T15:39:20.959Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:early-child-family-education-center-358086985",
+      "name": "Early Child Family Education Center",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7449715,
+        "lng": -90.6138612
+      },
+      "source": {
+        "id": "osm-358086985",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.961Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.961Z",
+      "updatedAt": "2026-04-04T15:39:20.961Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:hardin-middle-school-358087062",
+      "name": "Hardin Middle School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7919424,
+        "lng": -90.496536
+      },
+      "source": {
+        "id": "osm-358087062",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.966Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.966Z",
+      "updatedAt": "2026-04-04T15:39:20.966Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:heritage-landing-school-358087072",
+      "name": "Heritage Landing School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7514,
+        "lng": -90.5507
+      },
+      "source": {
+        "id": "osm-358087072",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.966Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.966Z",
+      "updatedAt": "2026-04-04T15:39:20.966Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:jefferson-middle-school-358087095",
+      "name": "Jefferson Middle School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "address": "2660 Zumbehl Rd",
+      "location": {
+        "lat": 38.7984217,
+        "lng": -90.5324082
+      },
+      "source": {
+        "id": "osm-358087095",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.968Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.968Z",
+      "updatedAt": "2026-04-04T15:39:20.968Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:lewis-and-clark-career-center-358087123",
+      "name": "Lewis and Clark Career Center",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7943936,
+        "lng": -90.534437
+      },
+      "source": {
+        "id": "osm-358087123",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.970Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.970Z",
+      "updatedAt": "2026-04-04T15:39:20.970Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:mid-rivers-elementary-school-358087147",
+      "name": "Mid Rivers Elementary School",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "school",
+      "address": "7479 Mexico Road",
+      "location": {
+        "lat": 38.7876661,
+        "lng": -90.6396752
+      },
+      "source": {
+        "id": "osm-358087147",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.972Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.972Z",
+      "updatedAt": "2026-04-04T15:39:20.972Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:wilott-christian-academy-1041650301",
+      "name": "Wilott Christian Academy",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7765371,
+        "lng": -90.5954447
+      },
+      "source": {
+        "id": "osm-1041650301",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.979Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.979Z",
+      "updatedAt": "2026-04-04T15:39:20.979Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:duchesne-high-school-1217084947",
+      "name": "Duchesne High School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7978006,
+        "lng": -90.5002668
+      },
+      "source": {
+        "id": "osm-1217084947",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.980Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.980Z",
+      "updatedAt": "2026-04-04T15:39:20.980Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:timberland-high-school-2372817173",
+      "name": "Timberland High School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.773735,
+        "lng": -90.84533
+      },
+      "source": {
+        "id": "osm-2372817173",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.983Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.983Z",
+      "updatedAt": "2026-04-04T15:39:20.983Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:fort-zumwalt-south-high-school-2533391425",
+      "name": "Fort Zumwalt South High School",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "school",
+      "address": "8050 Mexico Road",
+      "location": {
+        "lat": 38.7887178,
+        "lng": -90.6691855
+      },
+      "source": {
+        "id": "osm-2533391425",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.983Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.983Z",
+      "updatedAt": "2026-04-04T15:39:20.983Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:green-tree-elementary-school-3377349999",
+      "name": "Green Tree Elementary School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7802789,
+        "lng": -90.7803326
+      },
+      "source": {
+        "id": "osm-3377349999",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.988Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.988Z",
+      "updatedAt": "2026-04-04T15:39:20.988Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:twin-chimneys-elementary-school-5922733192",
+      "name": "Twin Chimneys Elementary School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "7396 Twin Chimneys Boulevard",
+      "location": {
+        "lat": 38.7633207,
+        "lng": -90.7308886
+      },
+      "source": {
+        "id": "osm-5922733192",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.999Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.999Z",
+      "updatedAt": "2026-04-04T15:39:20.999Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:brussels-grade-school-6751165015",
+      "name": "Brussels Grade School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9471045,
+        "lng": -90.5878918
+      },
+      "source": {
+        "id": "osm-6751165015",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.008Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.008Z",
+      "updatedAt": "2026-04-04T15:39:21.008Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:brussel-s-high-school-6751165016",
+      "name": "Brussel's High School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9475511,
+        "lng": -90.5878722
+      },
+      "source": {
+        "id": "osm-6751165016",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.009Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.009Z",
+      "updatedAt": "2026-04-04T15:39:21.009Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:the-goddard-school-12645675201",
+      "name": "The Goddard School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "address": "9008 Phoenix Village Parkway",
+      "location": {
+        "lat": 38.7506155,
+        "lng": -90.7390274
+      },
+      "source": {
+        "id": "osm-12645675201",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.054Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.054Z",
+      "updatedAt": "2026-04-04T15:39:21.054Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:crossroads-elementary-school-132546432",
+      "name": "Crossroads Elementary School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.764865,
+        "lng": -90.7492618
+      },
+      "source": {
+        "id": "osm-132546432",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.157Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.157Z",
+      "updatedAt": "2026-04-04T15:39:21.157Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:barnwell-middle-school-157516040",
+      "name": "Barnwell Middle School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7421096,
+        "lng": -90.5644336
+      },
+      "source": {
+        "id": "osm-157516040",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.347Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.347Z",
+      "updatedAt": "2026-04-04T15:39:21.347Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:becky-david-elementary-school-157516041",
+      "name": "Becky-David Elementary School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7442309,
+        "lng": -90.5637776
+      },
+      "source": {
+        "id": "osm-157516041",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.348Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.348Z",
+      "updatedAt": "2026-04-04T15:39:21.348Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:francis-howell-central-high-school-saeger-middle-school-157522180",
+      "name": "Francis Howell Central High School/ Saeger Middle School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7478523,
+        "lng": -90.6465122
+      },
+      "source": {
+        "id": "osm-157522180",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.352Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.352Z",
+      "updatedAt": "2026-04-04T15:39:21.352Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:fort-zumwalt-east-high-school-157548640",
+      "name": "Fort Zumwalt East High School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7891031,
+        "lng": -90.586552
+      },
+      "source": {
+        "id": "osm-157548640",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.354Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.354Z",
+      "updatedAt": "2026-04-04T15:39:21.354Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:george-m-null-elementary-school-157550537",
+      "name": "George M Null Elementary School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7979287,
+        "lng": -90.516632
+      },
+      "source": {
+        "id": "osm-157550537",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.355Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.355Z",
+      "updatedAt": "2026-04-04T15:39:21.355Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:monroe-elementary-school-157552325",
+      "name": "Monroe Elementary School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "address": "2670 Zumbehl Road",
+      "location": {
+        "lat": 38.7998458,
+        "lng": -90.5335371
+      },
+      "source": {
+        "id": "osm-157552325",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.361Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.361Z",
+      "updatedAt": "2026-04-04T15:39:21.361Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:central-elementary-school-158028664",
+      "name": "Central Elementary School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7446283,
+        "lng": -90.6119915
+      },
+      "source": {
+        "id": "osm-158028664",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.365Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.365Z",
+      "updatedAt": "2026-04-04T15:39:21.365Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:hollenbeck-middle-school-158028667",
+      "name": "Hollenbeck Middle School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7445566,
+        "lng": -90.614745
+      },
+      "source": {
+        "id": "osm-158028667",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.366Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.366Z",
+      "updatedAt": "2026-04-04T15:39:21.366Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:fort-zumwalt-west-high-school-160374159",
+      "name": "Fort Zumwalt West High School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7902418,
+        "lng": -90.7292918
+      },
+      "source": {
+        "id": "osm-160374159",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.369Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.369Z",
+      "updatedAt": "2026-04-04T15:39:21.369Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:fort-zumwalt-south-middle-school-160657552",
+      "name": "Fort Zumwalt South Middle School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7780422,
+        "lng": -90.6791003
+      },
+      "source": {
+        "id": "osm-160657552",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.371Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.371Z",
+      "updatedAt": "2026-04-04T15:39:21.371Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:wentzville-middle-school-220349972",
+      "name": "Wentzville Middle School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "405 Campus Drive",
+      "location": {
+        "lat": 38.8125795,
+        "lng": -90.868192
+      },
+      "source": {
+        "id": "osm-220349972",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.437Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.437Z",
+      "updatedAt": "2026-04-04T15:39:21.437Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:harvest-ridge-elementary-school-247500361",
+      "name": "Harvest Ridge Elementary School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7517012,
+        "lng": -90.5247669
+      },
+      "source": {
+        "id": "osm-247500361",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.477Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.477Z",
+      "updatedAt": "2026-04-04T15:39:21.477Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:winfield-high-school-304164661",
+      "name": "Winfield High School",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "school",
+      "address": "3920 Highway 47",
+      "location": {
+        "lat": 38.9887834,
+        "lng": -90.7504794
+      },
+      "source": {
+        "id": "osm-304164661",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.629Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.629Z",
+      "updatedAt": "2026-04-04T15:39:21.629Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:francis-howell-high-school-405953014",
+      "name": "Francis Howell High School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "7001 MO-94",
+      "location": {
+        "lat": 38.7021522,
+        "lng": -90.7162862
+      },
+      "source": {
+        "id": "osm-405953014",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.864Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.864Z",
+      "updatedAt": "2026-04-04T15:39:21.864Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:francis-howell-union-high-school-405953015",
+      "name": "Francis Howell Union High School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "1405 MO D",
+      "location": {
+        "lat": 38.7025184,
+        "lng": -90.7141459
+      },
+      "source": {
+        "id": "osm-405953015",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.866Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.866Z",
+      "updatedAt": "2026-04-04T15:39:21.866Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:discovery-elementary-school-494746145",
+      "name": "Discovery Elementary School",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "school",
+      "address": "500 Discovery Path Lane",
+      "location": {
+        "lat": 38.8190907,
+        "lng": -90.4773387
+      },
+      "source": {
+        "id": "osm-494746145",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.341Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.341Z",
+      "updatedAt": "2026-04-04T15:39:22.341Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:liberty-high-school-522197579",
+      "name": "Liberty High School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7566046,
+        "lng": -90.7871767
+      },
+      "source": {
+        "id": "osm-522197579",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.473Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.473Z",
+      "updatedAt": "2026-04-04T15:39:22.473Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:holt-high-school-544786520",
+      "name": "Holt High School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "600 Campus Drive",
+      "location": {
+        "lat": 38.8165503,
+        "lng": -90.8666032
+      },
+      "source": {
+        "id": "osm-544786520",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.613Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.613Z",
+      "updatedAt": "2026-04-04T15:39:22.613Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:dubray-middle-school-545485860",
+      "name": "Dubray Middle School",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "school",
+      "address": "100 Dubray Drive",
+      "location": {
+        "lat": 38.7811938,
+        "lng": -90.6217709
+      },
+      "source": {
+        "id": "osm-545485860",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.630Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.630Z",
+      "updatedAt": "2026-04-04T15:39:22.630Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:all-saints-catholic-school-559642540",
+      "name": "All Saints Catholic School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7973098,
+        "lng": -90.6287493
+      },
+      "source": {
+        "id": "osm-559642540",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.784Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.784Z",
+      "updatedAt": "2026-04-04T15:39:22.784Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:fort-zumwalt-early-childhood-center-560604207",
+      "name": "Fort Zumwalt Early Childhood Center",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "school",
+      "address": "7898 Veterans Memorial Parkway",
+      "location": {
+        "lat": 38.8016705,
+        "lng": -90.659532
+      },
+      "source": {
+        "id": "osm-560604207",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.790Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.790Z",
+      "updatedAt": "2026-04-04T15:39:22.790Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:frontier-middle-school-568602565",
+      "name": "Frontier Middle School",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "restrictedPropertyType": "school",
+      "address": "9233 State Highway DD",
+      "location": {
+        "lat": 38.7458163,
+        "lng": -90.788079
+      },
+      "source": {
+        "id": "osm-568602565",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.810Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.810Z",
+      "updatedAt": "2026-04-04T15:39:22.810Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:prairie-view-elementary-school-601052512",
+      "name": "Prairie View Elementary School",
+      "county": "st-charles-county",
+      "municipality": "Dardenne Prairie",
+      "restrictedPropertyType": "school",
+      "address": "1550 Feise Road",
+      "location": {
+        "lat": 38.7723319,
+        "lng": -90.7587233
+      },
+      "source": {
+        "id": "osm-601052512",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.940Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.940Z",
+      "updatedAt": "2026-04-04T15:39:22.940Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:william-cappel-elementary-school-grounds-693416402",
+      "name": "William Cappel Elementary School Grounds",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9354003,
+        "lng": -90.9301861
+      },
+      "source": {
+        "id": "osm-693416402",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.501Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.501Z",
+      "updatedAt": "2026-04-04T15:39:23.501Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:ninth-grade-center-school-grounds-693416403",
+      "name": "Ninth Grade Center School Grounds",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9393434,
+        "lng": -90.9318303
+      },
+      "source": {
+        "id": "osm-693416403",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.505Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.505Z",
+      "updatedAt": "2026-04-04T15:39:23.505Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:troy-middle-south-school-grounds-693423620",
+      "name": "Troy Middle South School Grounds",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9350575,
+        "lng": -90.9481586
+      },
+      "source": {
+        "id": "osm-693423620",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.508Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.508Z",
+      "updatedAt": "2026-04-04T15:39:23.508Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:early-childhood-education-center-school-grounds-693423621",
+      "name": "Early Childhood Education Center School Grounds",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9567031,
+        "lng": -90.9742482
+      },
+      "source": {
+        "id": "osm-693423621",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.512Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.512Z",
+      "updatedAt": "2026-04-04T15:39:23.512Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:troy-middle-school-grounds-693423622",
+      "name": "Troy Middle School Grounds",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9802123,
+        "lng": -90.987342
+      },
+      "source": {
+        "id": "osm-693423622",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.517Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.517Z",
+      "updatedAt": "2026-04-04T15:39:23.517Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:claude-brown-elementary-school-grounds-693423623",
+      "name": "Claude Brown Elementary School Grounds",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9801865,
+        "lng": -90.9862737
+      },
+      "source": {
+        "id": "osm-693423623",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.521Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.521Z",
+      "updatedAt": "2026-04-04T15:39:23.521Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:main-street-elementary-school-grounds-693423624",
+      "name": "Main Street Elementary School Grounds",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9840649,
+        "lng": -90.9845513
+      },
+      "source": {
+        "id": "osm-693423624",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.524Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.524Z",
+      "updatedAt": "2026-04-04T15:39:23.524Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:troy-buchanan-high-school-grounds-693423626",
+      "name": "Troy Buchanan High School Grounds",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9734914,
+        "lng": -90.9587345
+      },
+      "source": {
+        "id": "osm-693423626",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.528Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.528Z",
+      "updatedAt": "2026-04-04T15:39:23.528Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:cuivre-park-elementary-school-grounds-693423627",
+      "name": "Cuivre Park Elementary School Grounds",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.9870423,
+        "lng": -90.9106706
+      },
+      "source": {
+        "id": "osm-693423627",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.530Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.530Z",
+      "updatedAt": "2026-04-04T15:39:23.530Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:saint-charles-high-school-1012184497",
+      "name": "Saint Charles High School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7913506,
+        "lng": -90.4898097
+      },
+      "source": {
+        "id": "osm-1012184497",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.109Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.109Z",
+      "updatedAt": "2026-04-04T15:39:24.109Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:north-point-high-school-1314280557",
+      "name": "North Point High School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "2255 West Meyer Road",
+      "location": {
+        "lat": 38.8307051,
+        "lng": -90.9025396
+      },
+      "source": {
+        "id": "osm-1314280557",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.653Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.653Z",
+      "updatedAt": "2026-04-04T15:39:24.653Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:north-point-middle-school-and-high-school-1314280558",
+      "name": "North Point Middle School and High School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "West Meyer Road",
+      "location": {
+        "lat": 38.8297117,
+        "lng": -90.9013415
+      },
+      "source": {
+        "id": "osm-1314280558",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.657Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.657Z",
+      "updatedAt": "2026-04-04T15:39:24.657Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:north-point-middle-school-1314280574",
+      "name": "North Point Middle School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "2275 West Meyer Road",
+      "location": {
+        "lat": 38.8280706,
+        "lng": -90.904089
+      },
+      "source": {
+        "id": "osm-1314280574",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.661Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.661Z",
+      "updatedAt": "2026-04-04T15:39:24.661Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:flint-hill-elementary-1332045621",
+      "name": "Flint Hill Elementary",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "587 Mexico Road",
+      "location": {
+        "lat": 38.8450996,
+        "lng": -90.8482199
+      },
+      "source": {
+        "id": "osm-1332045621",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.711Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.711Z",
+      "updatedAt": "2026-04-04T15:39:24.711Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:peine-ridge-elementary-1333779603",
+      "name": "Peine Ridge Elementary",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.8367028,
+        "lng": -90.8945705
+      },
+      "source": {
+        "id": "osm-1333779603",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.733Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.733Z",
+      "updatedAt": "2026-04-04T15:39:24.733Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:wabash-elementary-1333849823",
+      "name": "Wabash Elementary",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "100 Golden Gate Parkway",
+      "location": {
+        "lat": 38.8230724,
+        "lng": -90.9124977
+      },
+      "source": {
+        "id": "osm-1333849823",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.736Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.736Z",
+      "updatedAt": "2026-04-04T15:39:24.736Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:stone-creek-elementary-1334039174",
+      "name": "Stone Creek Elementary",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "1850 MO Z",
+      "location": {
+        "lat": 38.7856022,
+        "lng": -90.8558962
+      },
+      "source": {
+        "id": "osm-1334039174",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.739Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.739Z",
+      "updatedAt": "2026-04-04T15:39:24.739Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:winfield-middle-school-1335863531",
+      "name": "Winfield Middle School",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "school",
+      "address": "3914 Highway 47",
+      "location": {
+        "lat": 38.9886525,
+        "lng": -90.7529283
+      },
+      "source": {
+        "id": "osm-1335863531",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.741Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.741Z",
+      "updatedAt": "2026-04-04T15:39:24.741Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:winfield-primary-school-1337556623",
+      "name": "Winfield Primary School",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "school",
+      "address": "207 8th Street",
+      "location": {
+        "lat": 38.9956066,
+        "lng": -90.7470138
+      },
+      "source": {
+        "id": "osm-1337556623",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.748Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.748Z",
+      "updatedAt": "2026-04-04T15:39:24.748Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:winfield-intermediate-school-1337556662",
+      "name": "Winfield Intermediate School",
+      "county": "st-charles-county",
+      "municipality": "Winfield",
+      "restrictedPropertyType": "school",
+      "address": "701 West Elm Street",
+      "location": {
+        "lat": 38.9964478,
+        "lng": -90.7447735
+      },
+      "source": {
+        "id": "osm-1337556662",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.750Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.750Z",
+      "updatedAt": "2026-04-04T15:39:24.750Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:journey-elementary-school-1355818104",
+      "name": "Journey Elementary School",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "2000 Interstate Drive",
+      "location": {
+        "lat": 38.8021976,
+        "lng": -90.8986981
+      },
+      "source": {
+        "id": "osm-1355818104",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.813Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.813Z",
+      "updatedAt": "2026-04-04T15:39:24.813Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:wentzville-r-iv-school-district-1371267531",
+      "name": "Wentzville R-IV School District",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "school",
+      "address": "280 Interstate Drive",
+      "location": {
+        "lat": 38.8007331,
+        "lng": -90.8296109
+      },
+      "source": {
+        "id": "osm-1371267531",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.866Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.866Z",
+      "updatedAt": "2026-04-04T15:39:24.866Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:wright-city-east-elementary-1381267545",
+      "name": "Wright City East Elementary",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "restrictedPropertyType": "school",
+      "address": "3675 W Meyer Rd",
+      "location": {
+        "lat": 38.8268669,
+        "lng": -90.9644883
+      },
+      "source": {
+        "id": "osm-1381267545",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.886Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.886Z",
+      "updatedAt": "2026-04-04T15:39:24.886Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:lutheran-high-school-8296711",
+      "name": "Lutheran High School",
+      "county": "st-charles-county",
+      "restrictedPropertyType": "school",
+      "location": {
+        "lat": 38.7907917,
+        "lng": -90.5903049
+      },
+      "source": {
+        "id": "osm-8296711",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.187Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:25.187Z",
+      "updatedAt": "2026-04-04T15:39:25.187Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:hawthorn-elementary-school-8299067",
+      "name": "Hawthorn Elementary School",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "school",
+      "address": "166 Boone Hills Drive",
+      "location": {
+        "lat": 38.7876105,
+        "lng": -90.5951194
+      },
+      "source": {
+        "id": "osm-8299067",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.197Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:25.197Z",
+      "updatedAt": "2026-04-04T15:39:25.197Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:st-peters-elementary-school-8623443",
+      "name": "St. Peters Elementary School",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "school",
+      "address": "400 McMenamy Road",
+      "location": {
+        "lat": 38.7922313,
+        "lng": -90.6226031
+      },
+      "source": {
+        "id": "osm-8623443",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.223Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:25.223Z",
+      "updatedAt": "2026-04-04T15:39:25.223Z"
+    },
+    {
+      "id": "restricted:schools:st-charles-county:lewis-clark-elementary-school-8623444",
+      "name": "Lewis & Clark Elementary School",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "restrictedPropertyType": "school",
+      "address": "460 McMenamy Road",
+      "location": {
+        "lat": 38.7917222,
+        "lng": -90.6214044
+      },
+      "source": {
+        "id": "osm-8623444",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.226Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:25.226Z",
+      "updatedAt": "2026-04-04T15:39:25.226Z"
+    }
   ]
 }

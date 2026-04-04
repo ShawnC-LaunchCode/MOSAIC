@@ -2713,6 +2713,1347 @@
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
       "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:castleman-corner-day-care-center-367086351",
+      "name": "Castleman Corner Day Care Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.615382,
+        "lng": -90.2536131
+      },
+      "source": {
+        "id": "osm-367086351",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.975Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.975Z",
+      "updatedAt": "2026-04-04T15:39:20.975Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:planet-child-care-center-of-oakville-367086443",
+      "name": "Planet Child Care Center of Oakville",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.4683,
+        "lng": -90.3052
+      },
+      "source": {
+        "id": "osm-367086443",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.975Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.975Z",
+      "updatedAt": "2026-04-04T15:39:20.975Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:happy-go-lucky-child-care-center-367086449",
+      "name": "Happy Go Lucky Child Care Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.7476,
+        "lng": -90.3108
+      },
+      "source": {
+        "id": "osm-367086449",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.975Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.975Z",
+      "updatedAt": "2026-04-04T15:39:20.975Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:lambs-pride-day-care-center-367086450",
+      "name": "Lambs Pride Day Care Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.6247511,
+        "lng": -90.2562422
+      },
+      "source": {
+        "id": "osm-367086450",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.976Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.976Z",
+      "updatedAt": "2026-04-04T15:39:20.976Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:bayer-child-care-center-367086452",
+      "name": "Bayer Child Care Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.6686613,
+        "lng": -90.4005326
+      },
+      "source": {
+        "id": "osm-367086452",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.976Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.976Z",
+      "updatedAt": "2026-04-04T15:39:20.976Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:a-place-for-children-1599317231",
+      "name": "A Place for Children",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "restrictedPropertyType": "childcare",
+      "address": "10823 Big Bend Rd.",
+      "location": {
+        "lat": 38.5669857,
+        "lng": -90.4102774
+      },
+      "source": {
+        "id": "osm-1599317231",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.980Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.980Z",
+      "updatedAt": "2026-04-04T15:39:20.980Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:gymboree-2091101944",
+      "name": "Gymboree",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.5939499,
+        "lng": -90.3613722
+      },
+      "source": {
+        "id": "osm-2091101944",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.981Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.981Z",
+      "updatedAt": "2026-04-04T15:39:20.981Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kyddie-karnival-24-hr-learning-academy-5898913521",
+      "name": "Kyddie Karnival 24 Hr Learning Academy",
+      "county": "st-louis-county",
+      "municipality": "St Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "12265 Bellefontaine Road",
+      "location": {
+        "lat": 38.7961637,
+        "lng": -90.2133106
+      },
+      "source": {
+        "id": "osm-5898913521",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.998Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:20.998Z",
+      "updatedAt": "2026-04-04T15:39:20.998Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kim-s-kids-6092522034",
+      "name": "Kim's Kids",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "720 North Leonard Avenue",
+      "location": {
+        "lat": 38.6391187,
+        "lng": -90.2251249
+      },
+      "source": {
+        "id": "osm-6092522034",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.000Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.000Z",
+      "updatedAt": "2026-04-04T15:39:21.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kim-s-kids-6143929996",
+      "name": "Kim's Kids",
+      "county": "st-louis-county",
+      "municipality": "East Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1000 Gaty Avenue",
+      "location": {
+        "lat": 38.6223787,
+        "lng": -90.1533014
+      },
+      "source": {
+        "id": "osm-6143929996",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.000Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.000Z",
+      "updatedAt": "2026-04-04T15:39:21.000Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:christian-activity-center-6143999421",
+      "name": "Christian Activity Center",
+      "county": "st-louis-county",
+      "municipality": "East Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "540 North 6th Street",
+      "location": {
+        "lat": 38.6300646,
+        "lng": -90.1503529
+      },
+      "source": {
+        "id": "osm-6143999421",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.001Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.001Z",
+      "updatedAt": "2026-04-04T15:39:21.001Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:siue-head-start-lovejoy-center-6146656300",
+      "name": "SIUe Head Start Lovejoy Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.6597384,
+        "lng": -90.1654539
+      },
+      "source": {
+        "id": "osm-6146656300",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.002Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.002Z",
+      "updatedAt": "2026-04-04T15:39:21.002Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:itty-bitty-children-s-city-6157658697",
+      "name": "Itty Bitty Children's City",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.5820073,
+        "lng": -90.1118174
+      },
+      "source": {
+        "id": "osm-6157658697",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.003Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.003Z",
+      "updatedAt": "2026-04-04T15:39:21.003Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:all-about-kids-academy-6157768347",
+      "name": "All About Kids Academy",
+      "county": "st-louis-county",
+      "municipality": "Centreville",
+      "restrictedPropertyType": "childcare",
+      "address": "6800 Old Missouri Avenue",
+      "location": {
+        "lat": 38.5638389,
+        "lng": -90.1038454
+      },
+      "source": {
+        "id": "osm-6157768347",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.003Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.003Z",
+      "updatedAt": "2026-04-04T15:39:21.003Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:gravois-childcare-learning-center-6550438879",
+      "name": "Gravois Childcare Learning Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.5917479,
+        "lng": -90.246968
+      },
+      "source": {
+        "id": "osm-6550438879",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.007Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.007Z",
+      "updatedAt": "2026-04-04T15:39:21.007Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:eternity-childcare-6558728479",
+      "name": "Eternity Childcare",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.6558255,
+        "lng": -90.2343176
+      },
+      "source": {
+        "id": "osm-6558728479",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.007Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.007Z",
+      "updatedAt": "2026-04-04T15:39:21.007Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:chesterfield-kindercare-7099316790",
+      "name": "Chesterfield KinderCare",
+      "county": "st-louis-county",
+      "municipality": "Chesterfield",
+      "restrictedPropertyType": "childcare",
+      "address": "2275 Village Green Parkway",
+      "location": {
+        "lat": 38.6230293,
+        "lng": -90.5209856
+      },
+      "source": {
+        "id": "osm-7099316790",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.015Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.015Z",
+      "updatedAt": "2026-04-04T15:39:21.015Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:mary-margaret-daycare-7965448503",
+      "name": "Mary Margaret Daycare",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "3800 Watson Road",
+      "location": {
+        "lat": 38.5956239,
+        "lng": -90.3007455
+      },
+      "source": {
+        "id": "osm-7965448503",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.020Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.020Z",
+      "updatedAt": "2026-04-04T15:39:21.020Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:union-preschool-7965448721",
+      "name": "Union Preschool",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "3543 Watson Road",
+      "location": {
+        "lat": 38.5979952,
+        "lng": -90.3008673
+      },
+      "source": {
+        "id": "osm-7965448721",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.020Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.020Z",
+      "updatedAt": "2026-04-04T15:39:21.020Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kingdom-kare-early-learning-center-9769251020",
+      "name": "Kingdom Kare Early Learning Center",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "2469 Baroness Dr",
+      "location": {
+        "lat": 38.7612281,
+        "lng": -90.2446948
+      },
+      "source": {
+        "id": "osm-9769251020",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.026Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.026Z",
+      "updatedAt": "2026-04-04T15:39:21.026Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:university-city-children-s-center-11749003869",
+      "name": "University City Children's Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.6613295,
+        "lng": -90.3067135
+      },
+      "source": {
+        "id": "osm-11749003869",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.037Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.037Z",
+      "updatedAt": "2026-04-04T15:39:21.037Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:blessing-hands-childcare-center-12625939398",
+      "name": "Blessing Hands Childcare Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.7210205,
+        "lng": -90.3701868
+      },
+      "source": {
+        "id": "osm-12625939398",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.051Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.051Z",
+      "updatedAt": "2026-04-04T15:39:21.051Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:sunshine-daycare-12626002345",
+      "name": "Sunshine Daycare",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.7258534,
+        "lng": -90.3786991
+      },
+      "source": {
+        "id": "osm-12626002345",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.051Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.051Z",
+      "updatedAt": "2026-04-04T15:39:21.051Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-gingerbread-house-12644041929",
+      "name": "Little Gingerbread House",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.7005574,
+        "lng": -90.3724691
+      },
+      "source": {
+        "id": "osm-12644041929",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.052Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.052Z",
+      "updatedAt": "2026-04-04T15:39:21.052Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:chosen-path-adult-daycare-12644102934",
+      "name": "Chosen Path Adult Daycare",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.7007792,
+        "lng": -90.3648793
+      },
+      "source": {
+        "id": "osm-12644102934",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.053Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.053Z",
+      "updatedAt": "2026-04-04T15:39:21.053Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-gingerbread-house-12644107145",
+      "name": "The Gingerbread House",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.7010816,
+        "lng": -90.3682373
+      },
+      "source": {
+        "id": "osm-12644107145",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.054Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.054Z",
+      "updatedAt": "2026-04-04T15:39:21.054Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:st-louis-children-s-hospital-child-development-center-at-taylor-avenue-building-12981342126",
+      "name": "St. Louis Children's Hospital Child Development Center at Taylor Avenue Building",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "610 South Taylor Avenue",
+      "location": {
+        "lat": 38.6345992,
+        "lng": -90.2585391
+      },
+      "source": {
+        "id": "osm-12981342126",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.058Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.058Z",
+      "updatedAt": "2026-04-04T15:39:21.058Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:downtown-children-s-center-13107873533",
+      "name": "Downtown Children's Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "607 North 22nd Street",
+      "location": {
+        "lat": 38.6349842,
+        "lng": -90.2107716
+      },
+      "source": {
+        "id": "osm-13107873533",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.061Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.061Z",
+      "updatedAt": "2026-04-04T15:39:21.061Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kinder-care-41128773",
+      "name": "Kinder Care",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.5063906,
+        "lng": -90.4917305
+      },
+      "source": {
+        "id": "osm-41128773",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.103Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.103Z",
+      "updatedAt": "2026-04-04T15:39:21.103Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:first-child-academy-233903328",
+      "name": "First Child Academy",
+      "county": "st-louis-county",
+      "municipality": "Fenton",
+      "restrictedPropertyType": "childcare",
+      "address": "570 South Highway Drive",
+      "location": {
+        "lat": 38.5419722,
+        "lng": -90.4498699
+      },
+      "source": {
+        "id": "osm-233903328",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.445Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.445Z",
+      "updatedAt": "2026-04-04T15:39:21.445Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:children-s-enrichment-center-238227648",
+      "name": "Children's Enrichment Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "210 South Ewing Avenue",
+      "location": {
+        "lat": 38.6299523,
+        "lng": -90.2215497
+      },
+      "source": {
+        "id": "osm-238227648",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.449Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.449Z",
+      "updatedAt": "2026-04-04T15:39:21.449Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:nestle-purina-child-development-center-269589745",
+      "name": "Nestle Purina Child Development Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "1000 South 9th Street",
+      "location": {
+        "lat": 38.6176945,
+        "lng": -90.1981271
+      },
+      "source": {
+        "id": "osm-269589745",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.509Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.509Z",
+      "updatedAt": "2026-04-04T15:39:21.509Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kirkwood-west-kindercare-295598586",
+      "name": "Kirkwood West KinderCare",
+      "county": "st-louis-county",
+      "municipality": "Valley Park",
+      "restrictedPropertyType": "childcare",
+      "address": "13550 Big Bend Road",
+      "location": {
+        "lat": 38.5670494,
+        "lng": -90.4747321
+      },
+      "source": {
+        "id": "osm-295598586",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.555Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.555Z",
+      "updatedAt": "2026-04-04T15:39:21.555Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:perfect-gift-nursery-learning-345400412",
+      "name": "Perfect Gift Nursery & Learning",
+      "county": "st-louis-county",
+      "municipality": "Bellefontaine Neighbors",
+      "restrictedPropertyType": "childcare",
+      "address": "10012 Bellefontaine Road",
+      "location": {
+        "lat": 38.7502085,
+        "lng": -90.2234964
+      },
+      "source": {
+        "id": "osm-345400412",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.753Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.753Z",
+      "updatedAt": "2026-04-04T15:39:21.753Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:saint-paul-s-early-childhood-center-385159949",
+      "name": "Saint Paul's Early Childhood Center",
+      "county": "st-louis-county",
+      "municipality": "Des Peres",
+      "restrictedPropertyType": "childcare",
+      "address": "823 North Ballas Road",
+      "location": {
+        "lat": 38.5990972,
+        "lng": -90.4452773
+      },
+      "source": {
+        "id": "osm-385159949",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.829Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.829Z",
+      "updatedAt": "2026-04-04T15:39:21.829Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kinder-care-448848227",
+      "name": "Kinder Care",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "restrictedPropertyType": "childcare",
+      "address": "497 Big Bend Road",
+      "location": {
+        "lat": 38.5680901,
+        "lng": -90.5442112
+      },
+      "source": {
+        "id": "osm-448848227",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.922Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.922Z",
+      "updatedAt": "2026-04-04T15:39:21.922Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:la-petite-academy-448851748",
+      "name": "La Petite Academy",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "restrictedPropertyType": "childcare",
+      "address": "354 New Ballwin Road",
+      "location": {
+        "lat": 38.5754232,
+        "lng": -90.5574371
+      },
+      "source": {
+        "id": "osm-448851748",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.927Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:21.927Z",
+      "updatedAt": "2026-04-04T15:39:21.927Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:kids-ahoy-learn-and-care-center-479796952",
+      "name": "Kids Ahoy Learn and Care Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.5423114,
+        "lng": -90.9874163
+      },
+      "source": {
+        "id": "osm-479796952",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.103Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.103Z",
+      "updatedAt": "2026-04-04T15:39:22.103Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:meremec-valley-community-school-485156184",
+      "name": "Meremec Valley Community School",
+      "county": "st-louis-county",
+      "municipality": "Pacific",
+      "restrictedPropertyType": "childcare",
+      "address": "413 West Union Street",
+      "location": {
+        "lat": 38.4835843,
+        "lng": -90.7458199
+      },
+      "source": {
+        "id": "osm-485156184",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.244Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.244Z",
+      "updatedAt": "2026-04-04T15:39:22.244Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:lapetite-academy-508460613",
+      "name": "LaPetite Academy",
+      "county": "st-louis-county",
+      "municipality": "Fenton",
+      "restrictedPropertyType": "childcare",
+      "address": "1000 Brookwood Center",
+      "location": {
+        "lat": 38.5219048,
+        "lng": -90.4727672
+      },
+      "source": {
+        "id": "osm-508460613",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.365Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.365Z",
+      "updatedAt": "2026-04-04T15:39:22.365Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-goddard-school-510795927",
+      "name": "The Goddard School",
+      "county": "st-louis-county",
+      "municipality": "Fenton",
+      "restrictedPropertyType": "childcare",
+      "address": "1157 Smizer Mill Road",
+      "location": {
+        "lat": 38.5233255,
+        "lng": -90.4681212
+      },
+      "source": {
+        "id": "osm-510795927",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.434Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.434Z",
+      "updatedAt": "2026-04-04T15:39:22.434Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:little-steps-preschool-517943293",
+      "name": "Little Steps Preschool",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.79524,
+        "lng": -90.2885658
+      },
+      "source": {
+        "id": "osm-517943293",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.449Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.449Z",
+      "updatedAt": "2026-04-04T15:39:22.449Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:carrot-patch-day-care-center-535621101",
+      "name": "Carrot Patch Day Care Center",
+      "county": "st-louis-county",
+      "municipality": "Columbia",
+      "restrictedPropertyType": "childcare",
+      "address": "252 Veterans Parkway",
+      "location": {
+        "lat": 38.4441396,
+        "lng": -90.2218797
+      },
+      "source": {
+        "id": "osm-535621101",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.519Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.519Z",
+      "updatedAt": "2026-04-04T15:39:22.519Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:children-first-learning-center-columbia-535621116",
+      "name": "Children First Learning Center - Columbia",
+      "county": "st-louis-county",
+      "municipality": "Columbia",
+      "restrictedPropertyType": "childcare",
+      "address": "100 Southwoods Center",
+      "location": {
+        "lat": 38.4367094,
+        "lng": -90.2000545
+      },
+      "source": {
+        "id": "osm-535621116",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.521Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.521Z",
+      "updatedAt": "2026-04-04T15:39:22.521Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:bows-bullfrogs-549762185",
+      "name": "Bows & Bullfrogs",
+      "county": "st-louis-county",
+      "municipality": "Union",
+      "restrictedPropertyType": "childcare",
+      "address": "668 S Highway 47",
+      "location": {
+        "lat": 38.4370074,
+        "lng": -90.990358
+      },
+      "source": {
+        "id": "osm-549762185",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.711Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.711Z",
+      "updatedAt": "2026-04-04T15:39:22.711Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:child-care-montessori-children-s-house-551136011",
+      "name": "Child Care/ Montessori Children's House",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.9526117,
+        "lng": -90.1958757
+      },
+      "source": {
+        "id": "osm-551136011",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.720Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.720Z",
+      "updatedAt": "2026-04-04T15:39:22.720Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:veasley-s-tender-loving-care-development-center-569825821",
+      "name": "Veasley's Tender Loving Care Development Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.7170869,
+        "lng": -90.2297875
+      },
+      "source": {
+        "id": "osm-569825821",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.815Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.815Z",
+      "updatedAt": "2026-04-04T15:39:22.815Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:dumas-bi-lingual-child-development-center-569825845",
+      "name": "Dumas Bi-Lingual Child Development Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.7154843,
+        "lng": -90.2295159
+      },
+      "source": {
+        "id": "osm-569825845",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.818Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.818Z",
+      "updatedAt": "2026-04-04T15:39:22.818Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:smart-start-learning-acadamy-569825876",
+      "name": "Smart Start Learning Acadamy",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.7101463,
+        "lng": -90.2306673
+      },
+      "source": {
+        "id": "osm-569825876",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.820Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.820Z",
+      "updatedAt": "2026-04-04T15:39:22.820Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:miss-patt-s-daycare-569825892",
+      "name": "Miss Patt's Daycare",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.707403,
+        "lng": -90.2306186
+      },
+      "source": {
+        "id": "osm-569825892",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.823Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.823Z",
+      "updatedAt": "2026-04-04T15:39:22.823Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:ywca-head-start-570019522",
+      "name": "YWCA Head Start",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.6837946,
+        "lng": -90.2303624
+      },
+      "source": {
+        "id": "osm-570019522",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.826Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.826Z",
+      "updatedAt": "2026-04-04T15:39:22.826Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:hope-montessori-academy-572760182",
+      "name": "Hope Montessori Academy",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.6043523,
+        "lng": -90.6184775
+      },
+      "source": {
+        "id": "osm-572760182",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.838Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:22.838Z",
+      "updatedAt": "2026-04-04T15:39:22.838Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:child-development-center-617519567",
+      "name": "Child Development Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "321 South Newstead Avenue",
+      "location": {
+        "lat": 38.635907,
+        "lng": -90.256456
+      },
+      "source": {
+        "id": "osm-617519567",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.023Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.023Z",
+      "updatedAt": "2026-04-04T15:39:23.023Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:tendercare-642053240",
+      "name": "Tendercare",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.8026353,
+        "lng": -90.2952237
+      },
+      "source": {
+        "id": "osm-642053240",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.331Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.331Z",
+      "updatedAt": "2026-04-04T15:39:23.331Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:rockwood-early-childhood-education-660878241",
+      "name": "Rockwood Early Childhood Education",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.6068134,
+        "lng": -90.5935488
+      },
+      "source": {
+        "id": "osm-660878241",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.362Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.362Z",
+      "updatedAt": "2026-04-04T15:39:23.362Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:marcia-s-child-care-center-768287999",
+      "name": "Marcia's Child Care Center",
+      "county": "st-louis-county",
+      "municipality": "Alton",
+      "restrictedPropertyType": "childcare",
+      "address": "1053 Johnson Street",
+      "location": {
+        "lat": 38.9062184,
+        "lng": -90.1666987
+      },
+      "source": {
+        "id": "osm-768287999",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.708Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:23.708Z",
+      "updatedAt": "2026-04-04T15:39:23.708Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:the-goddard-school-988704354",
+      "name": "The Goddard School",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.5703709,
+        "lng": -90.5240284
+      },
+      "source": {
+        "id": "osm-988704354",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.003Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.003Z",
+      "updatedAt": "2026-04-04T15:39:24.003Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:primrose-school-of-ballwin-1041039218",
+      "name": "Primrose School of Ballwin",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.5947754,
+        "lng": -90.5483907
+      },
+      "source": {
+        "id": "osm-1041039218",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.120Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.120Z",
+      "updatedAt": "2026-04-04T15:39:24.120Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:mercy-co-worker-children-s-center-1063053493",
+      "name": "Mercy Co-Worker Children’s Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.50285,
+        "lng": -90.3798295
+      },
+      "source": {
+        "id": "osm-1063053493",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.159Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.159Z",
+      "updatedAt": "2026-04-04T15:39:24.159Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:fun-2-3-childcare-1134351036",
+      "name": "Fun, 2, 3 Childcare",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "address": "17 Municipal Drive",
+      "location": {
+        "lat": 38.4446266,
+        "lng": -90.403487
+      },
+      "source": {
+        "id": "osm-1134351036",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.278Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.278Z",
+      "updatedAt": "2026-04-04T15:39:24.278Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:childtime-1134427987",
+      "name": "Childtime",
+      "county": "st-louis-county",
+      "municipality": "Arnold",
+      "restrictedPropertyType": "childcare",
+      "address": "2130 Michigan Avenue",
+      "location": {
+        "lat": 38.4367779,
+        "lng": -90.3800716
+      },
+      "source": {
+        "id": "osm-1134427987",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.283Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.283Z",
+      "updatedAt": "2026-04-04T15:39:24.283Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:christian-academy-of-greater-st-louis-1203771295",
+      "name": "Christian Academy of Greater St. Louis",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "11050 North Warson Road",
+      "location": {
+        "lat": 38.6989702,
+        "lng": -90.4072331
+      },
+      "source": {
+        "id": "osm-1203771295",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.402Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.402Z",
+      "updatedAt": "2026-04-04T15:39:24.402Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:montessori-learning-center-1208918440",
+      "name": "Montessori Learning Center",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "address": "1045 Union Road",
+      "location": {
+        "lat": 38.5427529,
+        "lng": -90.3009415
+      },
+      "source": {
+        "id": "osm-1208918440",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.461Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.461Z",
+      "updatedAt": "2026-04-04T15:39:24.461Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:westbrook-academy-1415965331",
+      "name": "Westbrook Academy",
+      "county": "st-louis-county",
+      "restrictedPropertyType": "childcare",
+      "location": {
+        "lat": 38.4029707,
+        "lng": -90.3768995
+      },
+      "source": {
+        "id": "osm-1415965331",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.960Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.960Z",
+      "updatedAt": "2026-04-04T15:39:24.960Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:children-s-learning-center-1416779674",
+      "name": "Children's Learning Center",
+      "county": "st-louis-county",
+      "municipality": "High Ridge",
+      "restrictedPropertyType": "childcare",
+      "address": "2317 Cape Town Village Road",
+      "location": {
+        "lat": 38.4679537,
+        "lng": -90.5253549
+      },
+      "source": {
+        "id": "osm-1416779674",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.963Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.963Z",
+      "updatedAt": "2026-04-04T15:39:24.963Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:john-cary-early-childhood-center-1422530326",
+      "name": "John Cary Early Childhood Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "restrictedPropertyType": "childcare",
+      "address": "3155 Koch Road",
+      "location": {
+        "lat": 38.49382,
+        "lng": -90.2859323
+      },
+      "source": {
+        "id": "osm-1422530326",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.975Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:24.975Z",
+      "updatedAt": "2026-04-04T15:39:24.975Z"
+    },
+    {
+      "id": "restricted:childcare:st-louis-county:daytime-discoveries-1465345273",
+      "name": "Daytime Discoveries",
+      "county": "st-louis-county",
+      "municipality": "Valmeyer",
+      "restrictedPropertyType": "childcare",
+      "address": "627 South Meyer Avenue",
+      "location": {
+        "lat": 38.3057531,
+        "lng": -90.2773222
+      },
+      "source": {
+        "id": "osm-1465345273",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.055Z"
+      },
+      "needsVerification": true,
+      "createdAt": "2026-04-04T15:39:25.055Z",
+      "updatedAt": "2026-04-04T15:39:25.055Z"
     }
   ]
 }

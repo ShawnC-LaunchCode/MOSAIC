@@ -1,0 +1,1176 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-louis-county",
+  "category": "community-center",
+  "places": [
+    {
+      "id": "candidate:community-center:st-louis-county:kirkwood-community-center",
+      "name": "Kirkwood Community Center",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "recreationType": "community-center",
+      "address": "111 S Geyer Rd, Kirkwood, MO 63122",
+      "location": {
+        "lat": 38.5839,
+        "lng": -90.4069
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5839,-90.4069",
+      "websiteUrl": "https://www.kirkwoodparksandrec.org/places-to-go/facilities/community-center",
+      "source": {
+        "id": "source-kirkwood-community-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "community"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:community-center:st-louis-county:chesterfield-community-center",
+      "name": "Chesterfield Community Center",
+      "county": "st-louis-county",
+      "municipality": "Chesterfield",
+      "recreationType": "community-center",
+      "address": "16464 Burkhardt Pl, Chesterfield, MO 63017",
+      "location": {
+        "lat": 38.6614,
+        "lng": -90.5724
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6614,-90.5724",
+      "websiteUrl": "https://www.chesterfield.mo.us/chesterfield-community-center.html",
+      "source": {
+        "id": "source-chesterfield-community-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "community"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:community-center:st-louis-county:fenton-city-park-rec-complex",
+      "name": "Fenton City Park – Recreation Complex",
+      "county": "st-louis-county",
+      "municipality": "Fenton",
+      "recreationType": "community-center",
+      "address": "1215 Larkin Williams Rd, Fenton, MO 63026",
+      "location": {
+        "lat": 38.5133,
+        "lng": -90.4444
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5133,-90.4444",
+      "websiteUrl": "https://fentonmo.org",
+      "source": {
+        "id": "source-fenton-city-park-rec-complex-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "community"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:community-center:st-louis-county:creve-coeur-parks-rec-center",
+      "name": "Creve Coeur Parks & Recreation Center",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "recreationType": "community-center",
+      "address": "300 N New Ballas Rd, Creve Coeur, MO 63141",
+      "location": {
+        "lat": 38.6617,
+        "lng": -90.4273
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6617,-90.4273",
+      "websiteUrl": "https://www.crevecoeurmo.gov/126/Parks-Recreation",
+      "source": {
+        "id": "source-creve-coeur-parks-rec-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "community"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:community-center:st-louis-county:valley-park-community-center",
+      "name": "Valley Park Community Center",
+      "county": "st-louis-county",
+      "municipality": "Valley Park",
+      "recreationType": "community-center",
+      "address": "320 Benton St, Valley Park, MO 63088",
+      "location": {
+        "lat": 38.5479,
+        "lng": -90.4935
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5479,-90.4935",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-valley-park-community-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "community"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:madison-memorial-center-368064064",
+      "name": "Madison Memorial Center",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.6833647,
+        "lng": -90.1532092
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6833647,-90.1532092",
+      "source": {
+        "id": "osm-368064064",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.977Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.977Z",
+      "updatedAt": "2026-04-04T15:39:20.977Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:family-forward-4712780008",
+      "name": "Family Forward",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.5990521,
+        "lng": -90.2708058
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5990521,-90.2708058",
+      "source": {
+        "id": "osm-4712780008",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.991Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.991Z",
+      "updatedAt": "2026-04-04T15:39:20.991Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:excel-center-5167711521",
+      "name": "Excel Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "2707 14th Street",
+      "location": {
+        "lat": 38.6506624,
+        "lng": -90.197556
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6506624,-90.197556",
+      "websiteUrl": "https://prosperityconnection.org/excel-center/",
+      "source": {
+        "id": "osm-5167711521",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.993Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.993Z",
+      "updatedAt": "2026-04-04T15:39:20.993Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:leslie-bates-davis-neighborhood-house-6139746022",
+      "name": "Leslie Bates Davis Neighborhood House",
+      "county": "st-louis-county",
+      "municipality": "East Saint Louis",
+      "recreationType": "community-center",
+      "address": "606 South 15th Street",
+      "location": {
+        "lat": 38.6100291,
+        "lng": -90.1563779
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6100291,-90.1563779",
+      "source": {
+        "id": "osm-6139746022",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.000Z",
+      "updatedAt": "2026-04-04T15:39:21.000Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:fairmont-city-christian-activity-center-6148786367",
+      "name": "Fairmont City Christian Activity Center",
+      "county": "st-louis-county",
+      "municipality": "Fairmont City",
+      "recreationType": "community-center",
+      "address": "4012 Maple Avenue",
+      "location": {
+        "lat": 38.6440273,
+        "lng": -90.1080088
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6440273,-90.1080088",
+      "source": {
+        "id": "osm-6148786367",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.002Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.002Z",
+      "updatedAt": "2026-04-04T15:39:21.002Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:jackie-joyner-kersee-community-center-10005607963",
+      "name": "Jackie Joyner Kersee Community Center",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.6248329,
+        "lng": -90.1245175
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6248329,-90.1245175",
+      "source": {
+        "id": "osm-10005607963",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.027Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.027Z",
+      "updatedAt": "2026-04-04T15:39:21.027Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:brentwood-community-center-10233763069",
+      "name": "Brentwood Community Center",
+      "county": "st-louis-county",
+      "municipality": "Brentwood",
+      "recreationType": "community-center",
+      "address": "2505 South Brentwood Boulevard",
+      "location": {
+        "lat": 38.6160238,
+        "lng": -90.349916
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6160238,-90.349916",
+      "websiteUrl": "https://www.brentwoodmo.org/205/Community-Center",
+      "source": {
+        "id": "osm-10233763069",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.028Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.028Z",
+      "updatedAt": "2026-04-04T15:39:21.028Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:fathers-families-support-center-201971915",
+      "name": "Fathers & Families Support Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "1601 Olive Street",
+      "location": {
+        "lat": 38.6312075,
+        "lng": -90.2033562
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6312075,-90.2033562",
+      "websiteUrl": "https://www.fatherssupportcenter.org/",
+      "source": {
+        "id": "osm-201971915",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.428Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.428Z",
+      "updatedAt": "2026-04-04T15:39:21.428Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:the-youth-and-family-center-271637809",
+      "name": "The Youth and Family Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "818 Cass Avenue",
+      "location": {
+        "lat": 38.6398452,
+        "lng": -90.1892025
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6398452,-90.1892025",
+      "websiteUrl": "https://www.theyfc.org/",
+      "source": {
+        "id": "osm-271637809",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.517Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.517Z",
+      "updatedAt": "2026-04-04T15:39:21.517Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:richmond-heights-community-center-272694358",
+      "name": "Richmond Heights Community Center",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.6286726,
+        "lng": -90.3312435
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6286726,-90.3312435",
+      "source": {
+        "id": "osm-272694358",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.531Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.531Z",
+      "updatedAt": "2026-04-04T15:39:21.531Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:james-j-eagan-center-363398852",
+      "name": "James J Eagan Center",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.7944138,
+        "lng": -90.2984743
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7944138,-90.2984743",
+      "source": {
+        "id": "osm-363398852",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.800Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.800Z",
+      "updatedAt": "2026-04-04T15:39:21.800Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:vfw-hall-374856422",
+      "name": "VFW Hall",
+      "county": "st-louis-county",
+      "municipality": "Maplewood",
+      "recreationType": "community-center",
+      "address": "Sutton Boulevard",
+      "location": {
+        "lat": 38.606138,
+        "lng": -90.3206994
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.606138,-90.3206994",
+      "source": {
+        "id": "osm-374856422",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.818Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.818Z",
+      "updatedAt": "2026-04-04T15:39:21.818Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:eureka-community-center-404983686",
+      "name": "Eureka Community Center",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.5000362,
+        "lng": -90.632543
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5000362,-90.632543",
+      "source": {
+        "id": "osm-404983686",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.852Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.852Z",
+      "updatedAt": "2026-04-04T15:39:21.852Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:edward-jones-family-ymca-461992838",
+      "name": "Edward Jones Family YMCA",
+      "county": "st-louis-county",
+      "municipality": "Maryland Heights",
+      "recreationType": "community-center",
+      "address": "12521 Marine Avenue",
+      "location": {
+        "lat": 38.7041537,
+        "lng": -90.4590082
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7041537,-90.4590082",
+      "source": {
+        "id": "osm-461992838",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.978Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.978Z",
+      "updatedAt": "2026-04-04T15:39:21.978Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:vfw-hall-metzger-crook-post-6504-492447199",
+      "name": "VFW Hall Metzger Crook Post 6504",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.339373,
+        "lng": -90.1554965
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.339373,-90.1554965",
+      "source": {
+        "id": "osm-492447199",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.323Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.323Z",
+      "updatedAt": "2026-04-04T15:39:22.323Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:sugarloaf-township-office-508817937",
+      "name": "Sugarloaf Township Office",
+      "county": "st-louis-county",
+      "municipality": "Dupo",
+      "recreationType": "community-center",
+      "address": "240 South 5th Street",
+      "location": {
+        "lat": 38.515413,
+        "lng": -90.2071954
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.515413,-90.2071954",
+      "source": {
+        "id": "osm-508817937",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.390Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.390Z",
+      "updatedAt": "2026-04-04T15:39:22.390Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:east-carondelet-community-center-508831938",
+      "name": "East Carondelet Community Center",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.540481,
+        "lng": -90.2319328
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.540481,-90.2319328",
+      "source": {
+        "id": "osm-508831938",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.397Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.397Z",
+      "updatedAt": "2026-04-04T15:39:22.397Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:countrylane-woods-ii-clubhouse-546688690",
+      "name": "Countrylane Woods II Clubhouse",
+      "county": "st-louis-county",
+      "municipality": "Manchester",
+      "recreationType": "community-center",
+      "address": "851 Country Stone Drive",
+      "location": {
+        "lat": 38.573623,
+        "lng": -90.4831808
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.573623,-90.4831808",
+      "websiteUrl": "https://www.countrylanewoodsii.com/Clubhouse.html",
+      "source": {
+        "id": "osm-546688690",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.643Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.643Z",
+      "updatedAt": "2026-04-04T15:39:22.643Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:rush-city-community-center-548462105",
+      "name": "Rush City Community Center",
+      "county": "st-louis-county",
+      "municipality": "East St. Louis",
+      "recreationType": "community-center",
+      "address": "1015 Liberty Avenue",
+      "location": {
+        "lat": 38.6092438,
+        "lng": -90.1694681
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6092438,-90.1694681",
+      "source": {
+        "id": "osm-548462105",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.693Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.693Z",
+      "updatedAt": "2026-04-04T15:39:22.693Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:maryland-heights-community-center-549412001",
+      "name": "Maryland Heights Community Center",
+      "county": "st-louis-county",
+      "municipality": "Maryland Heights",
+      "recreationType": "community-center",
+      "address": "2300 McKelvey Road",
+      "location": {
+        "lat": 38.7225314,
+        "lng": -90.4465913
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7225314,-90.4465913",
+      "source": {
+        "id": "osm-549412001",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.697Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.697Z",
+      "updatedAt": "2026-04-04T15:39:22.697Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:ymca-572847488",
+      "name": "YMCA",
+      "county": "st-louis-county",
+      "municipality": "Wildwood",
+      "recreationType": "community-center",
+      "address": "2641 MO-109",
+      "location": {
+        "lat": 38.5732048,
+        "lng": -90.6460387
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5732048,-90.6460387",
+      "websiteUrl": "https://gwrymca.org/locations/wildwood-family-ymca",
+      "source": {
+        "id": "osm-572847488",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.841Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.841Z",
+      "updatedAt": "2026-04-04T15:39:22.841Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:affton-elk-s-lodge-585524559",
+      "name": "Affton Elk's Lodge",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.5652915,
+        "lng": -90.3225729
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5652915,-90.3225729",
+      "source": {
+        "id": "osm-585524559",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.892Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.892Z",
+      "updatedAt": "2026-04-04T15:39:22.892Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:parson-s-place-community-center-586449894",
+      "name": "Parson's Place Community Center",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.6279443,
+        "lng": -90.1324212
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6279443,-90.1324212",
+      "source": {
+        "id": "osm-586449894",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.904Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.904Z",
+      "updatedAt": "2026-04-04T15:39:22.904Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:john-f-kennedy-civic-center-615665538",
+      "name": "John F Kennedy Civic Center",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "recreationType": "community-center",
+      "address": "315 Howdershell Road",
+      "location": {
+        "lat": 38.8077198,
+        "lng": -90.361745
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8077198,-90.361745",
+      "source": {
+        "id": "osm-615665538",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.003Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.003Z",
+      "updatedAt": "2026-04-04T15:39:23.003Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:rita-ford-community-center-618411329",
+      "name": "Rita Ford Community Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "3353 California Avenue",
+      "location": {
+        "lat": 38.5942122,
+        "lng": -90.2302772
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5942122,-90.2302772",
+      "source": {
+        "id": "osm-618411329",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.036Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.036Z",
+      "updatedAt": "2026-04-04T15:39:23.036Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:hogan-street-regional-youth-center-state-of-mo-619591569",
+      "name": "Hogan Street Regional Youth Center, State of MO",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "1839 Hogan Street",
+      "location": {
+        "lat": 38.6465995,
+        "lng": -90.2006496
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6465995,-90.2006496",
+      "source": {
+        "id": "osm-619591569",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.053Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.053Z",
+      "updatedAt": "2026-04-04T15:39:23.053Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:the-hub-620261600",
+      "name": "The Hub",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "3000 Prairie Avenue",
+      "location": {
+        "lat": 38.6590825,
+        "lng": -90.2225467
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6590825,-90.2225467",
+      "websiteUrl": "https://thehubstl.org/",
+      "source": {
+        "id": "osm-620261600",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.061Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.061Z",
+      "updatedAt": "2026-04-04T15:39:23.061Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:better-family-life-621374555",
+      "name": "Better Family Life",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "5415 Page Boulevard",
+      "location": {
+        "lat": 38.6629032,
+        "lng": -90.2745298
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6629032,-90.2745298",
+      "websiteUrl": "https://www.betterfamilylife.org/",
+      "source": {
+        "id": "osm-621374555",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.072Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.072Z",
+      "updatedAt": "2026-04-04T15:39:23.072Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:city-sewing-room-627473791",
+      "name": "City Sewing Room",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "6700 Arsenal Street",
+      "location": {
+        "lat": 38.6082447,
+        "lng": -90.3034236
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6082447,-90.3034236",
+      "websiteUrl": "http://citysewingroom.com/",
+      "source": {
+        "id": "osm-627473791",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.114Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.114Z",
+      "updatedAt": "2026-04-04T15:39:23.114Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:st-louis-activity-center-628492086",
+      "name": "St. Louis Activity Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "5602 Arsenal Street",
+      "location": {
+        "lat": 38.6059957,
+        "lng": -90.2822359
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6059957,-90.2822359",
+      "websiteUrl": "http://www.stlactivitycenter.com/",
+      "source": {
+        "id": "osm-628492086",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.121Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.121Z",
+      "updatedAt": "2026-04-04T15:39:23.121Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:frank-munsch-community-center-633930933",
+      "name": "Frank Munsch Community Center",
+      "county": "st-louis-county",
+      "municipality": "Overland",
+      "recreationType": "community-center",
+      "address": "9225 Lackland Road",
+      "location": {
+        "lat": 38.7007373,
+        "lng": -90.3598717
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7007373,-90.3598717",
+      "source": {
+        "id": "osm-633930933",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.219Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.219Z",
+      "updatedAt": "2026-04-04T15:39:23.219Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:community-center-656386045",
+      "name": "Community Center",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.6455723,
+        "lng": -90.1082969
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6455723,-90.1082969",
+      "source": {
+        "id": "osm-656386045",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.350Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.350Z",
+      "updatedAt": "2026-04-04T15:39:23.350Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:charlie-coleman-community-center-657098295",
+      "name": "Charlie Coleman Community Center",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.581947,
+        "lng": -90.1189554
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.581947,-90.1189554",
+      "source": {
+        "id": "osm-657098295",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.353Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.353Z",
+      "updatedAt": "2026-04-04T15:39:23.353Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:the-salvation-army-alton--769792426",
+      "name": "The Salvation Army (Alton)",
+      "county": "st-louis-county",
+      "municipality": "Alton",
+      "recreationType": "community-center",
+      "address": "525 Alby Street",
+      "location": {
+        "lat": 38.8930321,
+        "lng": -90.1835857
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8930321,-90.1835857",
+      "websiteUrl": "https://centralusa.salvationarmy.org/midland/alton/",
+      "source": {
+        "id": "osm-769792426",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.719Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.719Z",
+      "updatedAt": "2026-04-04T15:39:23.719Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:house-of-miles-east-st-louis-home--837374922",
+      "name": "House of Miles East St. Louis (HOME)",
+      "county": "st-louis-county",
+      "municipality": "East Saint Louis",
+      "recreationType": "community-center",
+      "address": "1701 Kansas Avenue",
+      "location": {
+        "lat": 38.6136907,
+        "lng": -90.1454435
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6136907,-90.1454435",
+      "websiteUrl": "http://houseofmilesestl.org",
+      "source": {
+        "id": "osm-837374922",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.830Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.830Z",
+      "updatedAt": "2026-04-04T15:39:23.830Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:gamble-community-center-842861316",
+      "name": "Gamble Community Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "2907 Gamble Street",
+      "location": {
+        "lat": 38.6414888,
+        "lng": -90.217931
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6414888,-90.217931",
+      "websiteUrl": "https://www.stlouis-mo.gov/government/departments/parks/recreation/centers/gamble.cfm",
+      "source": {
+        "id": "osm-842861316",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.842Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.842Z",
+      "updatedAt": "2026-04-04T15:39:23.842Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:st-louis-bridge-center-1177429554",
+      "name": "St. Louis Bridge Center",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "1270 North Price Road",
+      "location": {
+        "lat": 38.6806571,
+        "lng": -90.3674181
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6806571,-90.3674181",
+      "websiteUrl": "https://www.stlouisbridge.org/",
+      "source": {
+        "id": "osm-1177429554",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.350Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.350Z",
+      "updatedAt": "2026-04-04T15:39:24.350Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:moose-family-center-1329996432",
+      "name": "Moose Family Center",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.7064549,
+        "lng": -90.3616059
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7064549,-90.3616059",
+      "source": {
+        "id": "osm-1329996432",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.702Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.702Z",
+      "updatedAt": "2026-04-04T15:39:24.702Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:hillel-at-washington-university-in-st-louis-1344831389",
+      "name": "Hillel at Washington University in St. Louis",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "community-center",
+      "address": "6300 Forsyth Boulevard",
+      "location": {
+        "lat": 38.6458862,
+        "lng": -90.3037401
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6458862,-90.3037401",
+      "source": {
+        "id": "osm-1344831389",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.779Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.779Z",
+      "updatedAt": "2026-04-04T15:39:24.779Z"
+    },
+    {
+      "id": "candidate:community-centers:st-louis-county:holy-spirit-parish-annex-1461270024",
+      "name": "Holy Spirit Parish Annex",
+      "county": "st-louis-county",
+      "municipality": "Maryland Heights",
+      "recreationType": "community-center",
+      "address": "3111 Parkwood Lane",
+      "location": {
+        "lat": 38.7335488,
+        "lng": -90.4348829
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7335488,-90.4348829",
+      "source": {
+        "id": "osm-1461270024",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.039Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.039Z",
+      "updatedAt": "2026-04-04T15:39:25.039Z"
+    }
+  ]
+}

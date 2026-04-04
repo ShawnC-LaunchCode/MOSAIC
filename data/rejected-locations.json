@@ -1,0 +1,91 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "description": "Locations researched during curation that were not added as candidates. Every location researched must appear here or in a candidate file.",
+  "rejectedLocations": [
+    {
+      "name": "Katy Trail – Defiance Trailhead",
+      "address": "700 S Highway 94, Defiance, MO 63341",
+      "location": { "lat": 38.6628, "lng": -90.7870 },
+      "municipality": "Defiance",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "rejectionCategory": "duplicate",
+      "rejectionReason": "Exact duplicate of existing candidate:trail:st-charles-county:katy-trail-defiance — same coordinates and trailhead access point.",
+      "duplicateOf": "candidate:trail:st-charles-county:katy-trail-defiance",
+      "rejectedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "name": "Katy Trail – St. Charles Trailhead",
+      "address": "500 S Riverside Dr, St. Charles, MO 63301",
+      "location": { "lat": 38.7789, "lng": -90.4820 },
+      "municipality": "St. Charles",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "rejectionCategory": "duplicate",
+      "rejectionReason": "Same address (500 S Riverside Dr) as existing candidate:trail:st-charles-county:frontier-park-trail. Different name for the same trailhead access point.",
+      "duplicateOf": "candidate:trail:st-charles-county:frontier-park-trail",
+      "rejectedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "name": "Wentzville Recreation Center (WREC)",
+      "address": "500 Great Oaks Blvd, Wentzville, MO 63385",
+      "location": { "lat": 38.8135, "lng": -90.8578 },
+      "municipality": "Wentzville",
+      "county": "st-charles-county",
+      "recreationType": "community-center",
+      "rejectionCategory": "duplicate",
+      "rejectionReason": "Same physical building as Wentzville Recreation Center (candidate:gym:st-charles-county:wentzville-recreation-center). Keeping the gym entry as the primary record.",
+      "duplicateOf": "candidate:gym:st-charles-county:wentzville-recreation-center",
+      "rejectedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "name": "Kirkwood Community Center – Fitness & Gym",
+      "address": "111 S Geyer Rd, Kirkwood, MO 63122",
+      "location": { "lat": 38.5839, "lng": -90.4069 },
+      "municipality": "Kirkwood",
+      "county": "st-louis-county",
+      "recreationType": "gym",
+      "rejectionCategory": "duplicate",
+      "rejectionReason": "Same physical building as Kirkwood Community Center (candidate:community-center:st-louis-county:kirkwood-community-center). Keeping the community-center entry as the primary record.",
+      "duplicateOf": "candidate:community-center:st-louis-county:kirkwood-community-center",
+      "rejectedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "name": "The Pointe at Ballwin Commons – Community Recreation",
+      "address": "1 Ballwin Commons Cir, Ballwin, MO 63021",
+      "location": { "lat": 38.5951, "lng": -90.5530 },
+      "municipality": "Ballwin",
+      "county": "st-louis-county",
+      "recreationType": "community-center",
+      "rejectionCategory": "duplicate",
+      "rejectionReason": "Same physical building as The Pointe at Ballwin Commons (candidate:gym:st-louis-county:the-pointe-at-ballwin). Keeping the gym entry as the primary record.",
+      "duplicateOf": "candidate:gym:st-louis-county:the-pointe-at-ballwin",
+      "rejectedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "name": "St. Charles County Kinetic Park – Youth Activity Center",
+      "address": "7801 Town Square Ave, Dardenne Prairie, MO 63368",
+      "location": { "lat": 38.7481, "lng": -90.6928 },
+      "municipality": "Dardenne Prairie",
+      "county": "st-charles-county",
+      "recreationType": "community-center",
+      "rejectionCategory": "child-focused",
+      "rejectionReason": "Facility name indicates youth-focused programming ('Youth Activity Center'). Excluded pending human review to confirm whether adult-only or mixed-use access is available.",
+      "duplicateOf": null,
+      "rejectedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "name": "Laumeier Sculpture Park",
+      "address": "12580 Rott Rd, St. Louis, MO 63127",
+      "location": { "lat": 38.5243, "lng": -90.3841 },
+      "municipality": "Sunset Hills",
+      "county": "st-louis-county",
+      "recreationType": "museum",
+      "rejectionCategory": "duplicate",
+      "rejectionReason": "Same location as candidate:park:st-louis-county:laumeier-sculpture-park. Park is the primary use; museum category entry is redundant.",
+      "duplicateOf": "candidate:park:st-louis-county:laumeier-sculpture-park",
+      "rejectedAt": "2026-04-04T00:00:00.000Z"
+    }
+  ]
+}

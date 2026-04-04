@@ -1,0 +1,1645 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-louis-county",
+  "category": "golf",
+  "places": [
+    {
+      "id": "candidate:golf:st-louis-county:eagle-springs-golf-course",
+      "name": "Eagle Springs Golf Course",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "recreationType": "golf",
+      "address": "2575 Redman Rd, St. Louis, MO 63136",
+      "location": {
+        "lat": 38.7668,
+        "lng": -90.2584
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7668,-90.2584",
+      "websiteUrl": "https://www.eaglesprings.com",
+      "source": {
+        "id": "source-eagle-springs-golf-course-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:quail-creek-golf-club",
+      "name": "Quail Creek Golf Club",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "recreationType": "golf",
+      "address": "6022 Wells Rd, St. Louis, MO 63128",
+      "location": {
+        "lat": 38.4877,
+        "lng": -90.3802
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4877,-90.3802",
+      "websiteUrl": "https://quailcreekstl.com",
+      "source": {
+        "id": "source-quail-creek-golf-club-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:ballwin-golf-course",
+      "name": "Ballwin Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "recreationType": "golf",
+      "address": "333 Holloway Rd, Ballwin, MO 63011",
+      "location": {
+        "lat": 38.5972,
+        "lng": -90.5451
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5972,-90.5451",
+      "websiteUrl": "https://www.ballwingolfcourse.com",
+      "source": {
+        "id": "source-ballwin-golf-course-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:landings-at-spirit-golf-club",
+      "name": "Landings at Spirit Golf Club",
+      "county": "st-louis-county",
+      "municipality": "Chesterfield",
+      "recreationType": "golf",
+      "address": "180 N Eatherton Rd, Chesterfield, MO 63005",
+      "location": {
+        "lat": 38.6701,
+        "lng": -90.579
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6701,-90.5790",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-landings-at-spirit-golf-club-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:emerald-greens-golf-course",
+      "name": "Emerald Greens Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Spanish Lake",
+      "recreationType": "golf",
+      "address": "11700 Dunn Rd, Spanish Lake, MO 63138",
+      "location": {
+        "lat": 38.7723,
+        "lng": -90.2101
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7723,-90.2101",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-emerald-greens-golf-course-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:riverside-golf-course-41043070",
+      "name": "Riverside Golf Course",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.5325711,
+        "lng": -90.4388974
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5325711,-90.4388974",
+      "websiteUrl": "http://riversidegolf.net/",
+      "source": {
+        "id": "osm-41043070",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.100Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.100Z",
+      "updatedAt": "2026-04-04T15:39:21.100Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:greenbriar-hills-country-club-41084517",
+      "name": "Greenbriar Hills Country Club",
+      "county": "st-louis-county",
+      "municipality": "Kirkwood",
+      "recreationType": "golf",
+      "address": "12665 Big Bend Road",
+      "location": {
+        "lat": 38.5733538,
+        "lng": -90.4500951
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5733538,-90.4500951",
+      "websiteUrl": "https://www.greenbriarcc.com/",
+      "source": {
+        "id": "osm-41084517",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.101Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.101Z",
+      "updatedAt": "2026-04-04T15:39:21.101Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:quail-creek-golf-course-41098288",
+      "name": "Quail Creek Golf Course",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.4678998,
+        "lng": -90.3824372
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4678998,-90.3824372",
+      "websiteUrl": "https://www.quailcreekgolfclub.com/",
+      "source": {
+        "id": "osm-41098288",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.102Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.102Z",
+      "updatedAt": "2026-04-04T15:39:21.102Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:algonquin-golf-club-42765424",
+      "name": "Algonquin Golf Club",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.5902779,
+        "lng": -90.3731277
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5902779,-90.3731277",
+      "source": {
+        "id": "osm-42765424",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.115Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.115Z",
+      "updatedAt": "2026-04-04T15:39:21.115Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:westborough-county-club-42765475",
+      "name": "Westborough County Club",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.5801333,
+        "lng": -90.3813922
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5801333,-90.3813922",
+      "source": {
+        "id": "osm-42765475",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.116Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.116Z",
+      "updatedAt": "2026-04-04T15:39:21.116Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:meadowbrook-country-club-52136232",
+      "name": "Meadowbrook Country Club",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "recreationType": "golf",
+      "address": "200 Meadowbrook Country Club Estates",
+      "location": {
+        "lat": 38.6163656,
+        "lng": -90.5619578
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6163656,-90.5619578",
+      "source": {
+        "id": "osm-52136232",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.127Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.127Z",
+      "updatedAt": "2026-04-04T15:39:21.127Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:st-louis-country-club-149385948",
+      "name": "St. Louis Country Club",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "golf",
+      "address": "400 Barnes Road",
+      "location": {
+        "lat": 38.6498304,
+        "lng": -90.3752561
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6498304,-90.3752561",
+      "source": {
+        "id": "osm-149385948",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.168Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.168Z",
+      "updatedAt": "2026-04-04T15:39:21.168Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:westwood-country-club-149421579",
+      "name": "Westwood Country Club",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.6447185,
+        "lng": -90.432497
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6447185,-90.432497",
+      "source": {
+        "id": "osm-149421579",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.176Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.176Z",
+      "updatedAt": "2026-04-04T15:39:21.176Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:creve-coeur-golf-course-149421590",
+      "name": "Creve Coeur Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Creve Coeur",
+      "recreationType": "golf",
+      "address": "11400 Olde Cabin Road",
+      "location": {
+        "lat": 38.6650258,
+        "lng": -90.4353372
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6650258,-90.4353372",
+      "websiteUrl": "https://www.crevecoeurgolf.com/",
+      "source": {
+        "id": "osm-149421590",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.179Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.179Z",
+      "updatedAt": "2026-04-04T15:39:21.179Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:ruth-park-golf-couse-149427294",
+      "name": "Ruth Park Golf Couse",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.6700145,
+        "lng": -90.3524269
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6700145,-90.3524269",
+      "source": {
+        "id": "osm-149427294",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.184Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.184Z",
+      "updatedAt": "2026-04-04T15:39:21.184Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:normandie-golf-club-151229180",
+      "name": "Normandie Golf Club",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "golf",
+      "address": "7605 Saint Charles Rock Road",
+      "location": {
+        "lat": 38.6975557,
+        "lng": -90.3173652
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6975557,-90.3173652",
+      "websiteUrl": "https://normandiegolf.com/",
+      "source": {
+        "id": "osm-151229180",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.220Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.220Z",
+      "updatedAt": "2026-04-04T15:39:21.220Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:norwood-hills-country-club-151229184",
+      "name": "Norwood Hills Country Club",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "golf",
+      "address": "1 Norwood Hills Country Club Drive",
+      "location": {
+        "lat": 38.7222494,
+        "lng": -90.2842884
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7222494,-90.2842884",
+      "websiteUrl": "https://www.norwoodhills.com/",
+      "source": {
+        "id": "osm-151229184",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.221Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.221Z",
+      "updatedAt": "2026-04-04T15:39:21.221Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:glen-echo-country-club-151230738",
+      "name": "Glen Echo Country Club",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "golf",
+      "address": "3401 Lucas & Hunt Road",
+      "location": {
+        "lat": 38.6989936,
+        "lng": -90.2996945
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6989936,-90.2996945",
+      "websiteUrl": "https://www.gecc.org/",
+      "source": {
+        "id": "osm-151230738",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.223Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.223Z",
+      "updatedAt": "2026-04-04T15:39:21.223Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:old-warson-country-club-151291997",
+      "name": "Old Warson Country Club",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.6183204,
+        "lng": -90.3843826
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6183204,-90.3843826",
+      "source": {
+        "id": "osm-151291997",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.225Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.225Z",
+      "updatedAt": "2026-04-04T15:39:21.225Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:tower-tee-151292016",
+      "name": "Tower Tee",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.5679708,
+        "lng": -90.3291086
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5679708,-90.3291086",
+      "source": {
+        "id": "osm-151292016",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.228Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.228Z",
+      "updatedAt": "2026-04-04T15:39:21.228Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:the-quarry-at-crystal-springs-157480618",
+      "name": "The Quarry at Crystal Springs",
+      "county": "st-louis-county",
+      "municipality": "Maryland Heights",
+      "recreationType": "golf",
+      "address": "1 Crystal Springs Quarry Drive",
+      "location": {
+        "lat": 38.7252457,
+        "lng": -90.4738291
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7252457,-90.4738291",
+      "websiteUrl": "https://www.quarrygc.com/golfcenter/",
+      "source": {
+        "id": "osm-157480618",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.342Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.342Z",
+      "updatedAt": "2026-04-04T15:39:21.342Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:fairfield-golf-club-163601292",
+      "name": "Fairfield Golf Club",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.4522148,
+        "lng": -90.1727768
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4522148,-90.1727768",
+      "source": {
+        "id": "osm-163601292",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.379Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.379Z",
+      "updatedAt": "2026-04-04T15:39:21.379Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:columbia-golf-club-163602895",
+      "name": "Columbia Golf Club",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.4806961,
+        "lng": -90.2071168
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4806961,-90.2071168",
+      "source": {
+        "id": "osm-163602895",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.380Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.380Z",
+      "updatedAt": "2026-04-04T15:39:21.380Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:river-lakes-golf-course-163604330",
+      "name": "River Lakes Golf Course",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.4684111,
+        "lng": -90.2361178
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4684111,-90.2361178",
+      "source": {
+        "id": "osm-163604330",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.381Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.381Z",
+      "updatedAt": "2026-04-04T15:39:21.381Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:florissant-golf-club-165326812",
+      "name": "Florissant Golf Club",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "recreationType": "golf",
+      "address": "50 Country Club Lane",
+      "location": {
+        "lat": 38.8053478,
+        "lng": -90.2815495
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8053478,-90.2815495",
+      "websiteUrl": "http://www.golfclubofflorissant.com/",
+      "source": {
+        "id": "osm-165326812",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.391Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.391Z",
+      "updatedAt": "2026-04-04T15:39:21.391Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:eagle-springs-golf-course-165336340",
+      "name": "Eagle Springs Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Florissant",
+      "recreationType": "golf",
+      "address": "2575 Redman Road",
+      "location": {
+        "lat": 38.7866896,
+        "lng": -90.2483776
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7866896,-90.2483776",
+      "websiteUrl": "https://www.eaglesprings.com/",
+      "source": {
+        "id": "osm-165336340",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.396Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.396Z",
+      "updatedAt": "2026-04-04T15:39:21.396Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:sunset-country-club-251820799",
+      "name": "Sunset Country Club",
+      "county": "st-louis-county",
+      "municipality": "Sappington",
+      "recreationType": "golf",
+      "address": "9555 Geyer",
+      "location": {
+        "lat": 38.5328561,
+        "lng": -90.3977759
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5328561,-90.3977759",
+      "source": {
+        "id": "osm-251820799",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.491Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.491Z",
+      "updatedAt": "2026-04-04T15:39:21.491Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:cloverleaf-golf-course-295678316",
+      "name": "Cloverleaf Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Alton",
+      "recreationType": "golf",
+      "address": "3555 Fosterburg Road",
+      "location": {
+        "lat": 38.9261337,
+        "lng": -90.1002842
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9261337,-90.1002842",
+      "websiteUrl": "https://cloverleafgolfcourse.com/",
+      "source": {
+        "id": "osm-295678316",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.562Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.562Z",
+      "updatedAt": "2026-04-04T15:39:21.562Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:rock-spring-golf-course-295678323",
+      "name": "Rock Spring Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Alton",
+      "recreationType": "golf",
+      "address": "2500 Rock Spring Drive",
+      "location": {
+        "lat": 38.9097024,
+        "lng": -90.1615709
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9097024,-90.1615709",
+      "websiteUrl": "https://www.rockspringgolfcourse.com/",
+      "source": {
+        "id": "osm-295678323",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.564Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.564Z",
+      "updatedAt": "2026-04-04T15:39:21.564Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:rolling-hills-golf-course-295678324",
+      "name": "Rolling Hills Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Godfrey",
+      "recreationType": "golf",
+      "address": "5801 Pierce Lane",
+      "location": {
+        "lat": 38.9503931,
+        "lng": -90.2131201
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9503931,-90.2131201",
+      "websiteUrl": "https://www.rollinghillsgc.com/",
+      "source": {
+        "id": "osm-295678324",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.565Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.565Z",
+      "updatedAt": "2026-04-04T15:39:21.565Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:spencer-t-olin-community-golf-course-295678325",
+      "name": "Spencer T. Olin Community Golf Course",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.9032354,
+        "lng": -90.1084816
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9032354,-90.1084816",
+      "source": {
+        "id": "osm-295678325",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.566Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.566Z",
+      "updatedAt": "2026-04-04T15:39:21.566Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:paradise-valley-golf-country-club-296221876",
+      "name": "Paradise Valley Golf & Country Club",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "golf",
+      "address": "1055 Lochmoor Drive",
+      "location": {
+        "lat": 38.5050788,
+        "lng": -90.517178
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5050788,-90.517178",
+      "websiteUrl": "https://www.paradisevalleygolf.com/",
+      "source": {
+        "id": "osm-296221876",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.567Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.567Z",
+      "updatedAt": "2026-04-04T15:39:21.567Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:aberdeen-golf-club-365165191",
+      "name": "Aberdeen Golf Club",
+      "county": "st-louis-county",
+      "municipality": "Eureka",
+      "recreationType": "golf",
+      "address": "4111 Crescent Road",
+      "location": {
+        "lat": 38.533651,
+        "lng": -90.6193718
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.533651,-90.6193718",
+      "websiteUrl": "https://www.aberdeengolf.com/",
+      "source": {
+        "id": "osm-365165191",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.806Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.806Z",
+      "updatedAt": "2026-04-04T15:39:21.806Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:crescent-farms-golf-club-365165194",
+      "name": "Crescent Farms Golf Club",
+      "county": "st-louis-county",
+      "municipality": "Eureka",
+      "recreationType": "golf",
+      "address": "745 Lewis Road",
+      "location": {
+        "lat": 38.5309983,
+        "lng": -90.6098023
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5309983,-90.6098023",
+      "websiteUrl": "https://www.crescentfarms.com/",
+      "source": {
+        "id": "osm-365165194",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.808Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.808Z",
+      "updatedAt": "2026-04-04T15:39:21.808Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:meramec-lakes-golf-course-365398988",
+      "name": "Meramec Lakes Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Saint Clair",
+      "recreationType": "golf",
+      "address": "321 Birdie Lane",
+      "location": {
+        "lat": 38.3175911,
+        "lng": -90.9138027
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3175911,-90.9138027",
+      "websiteUrl": "https://merameclakes.com/",
+      "source": {
+        "id": "osm-365398988",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.810Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.810Z",
+      "updatedAt": "2026-04-04T15:39:21.810Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:ballwin-golf-course-event-center-431674088",
+      "name": "Ballwin Golf Course & Event Center",
+      "county": "st-louis-county",
+      "municipality": "Ballwin",
+      "recreationType": "golf",
+      "address": "333 Holloway Road",
+      "location": {
+        "lat": 38.6039401,
+        "lng": -90.544608
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6039401,-90.544608",
+      "websiteUrl": "https://www.ballwingolfcourse.com/",
+      "source": {
+        "id": "osm-431674088",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.904Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.904Z",
+      "updatedAt": "2026-04-04T15:39:21.904Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:mystic-oak-golf-course-468897460",
+      "name": "Mystic Oak Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Waterloo",
+      "recreationType": "golf",
+      "address": "643 Ridge Rd.",
+      "location": {
+        "lat": 38.3420155,
+        "lng": -90.1315129
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3420155,-90.1315129",
+      "source": {
+        "id": "osm-468897460",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.002Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.002Z",
+      "updatedAt": "2026-04-04T15:39:22.002Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:wolf-hollow-golf-club-481051543",
+      "name": "Wolf Hollow Golf Club",
+      "county": "st-louis-county",
+      "municipality": "Labadie",
+      "recreationType": "golf",
+      "address": "4504 Highway 100",
+      "location": {
+        "lat": 38.507072,
+        "lng": -90.9238156
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.507072,-90.9238156",
+      "websiteUrl": "https://www.wolfhollowgolf.com/",
+      "source": {
+        "id": "osm-481051543",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.135Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.135Z",
+      "updatedAt": "2026-04-04T15:39:22.135Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:the-prairies-golf-course-508541236",
+      "name": "The Prairies Golf Course",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.5543035,
+        "lng": -90.1808006
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5543035,-90.1808006",
+      "source": {
+        "id": "osm-508541236",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.367Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.367Z",
+      "updatedAt": "2026-04-04T15:39:22.367Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:jefferson-barracks-golf-tee-508829982",
+      "name": "Jefferson Barracks Golf Tee",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.4731017,
+        "lng": -90.236947
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4731017,-90.236947",
+      "source": {
+        "id": "osm-508829982",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.394Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.394Z",
+      "updatedAt": "2026-04-04T15:39:22.394Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:triple-lakes-golf-course-509095430",
+      "name": "Triple Lakes Golf Course",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.4799825,
+        "lng": -90.1424125
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4799825,-90.1424125",
+      "source": {
+        "id": "osm-509095430",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.405Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.405Z",
+      "updatedAt": "2026-04-04T15:39:22.405Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:bridgeton-berry-hill-golf-course-542340055",
+      "name": "Bridgeton Berry Hill Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Bridgeton",
+      "recreationType": "golf",
+      "address": "11919 Berry Hill Road",
+      "location": {
+        "lat": 38.7639076,
+        "lng": -90.3984406
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7639076,-90.3984406",
+      "source": {
+        "id": "osm-542340055",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.540Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.540Z",
+      "updatedAt": "2026-04-04T15:39:22.540Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:flight-range-546878808",
+      "name": "Flight Range",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "recreationType": "golf",
+      "address": "13502 Big Bend Road",
+      "location": {
+        "lat": 38.5667846,
+        "lng": -90.4728792
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5667846,-90.4728792",
+      "websiteUrl": "https://alohastl.com/",
+      "source": {
+        "id": "osm-546878808",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.648Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.648Z",
+      "updatedAt": "2026-04-04T15:39:22.648Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:driving-range-546878834",
+      "name": "Driving Range",
+      "county": "st-louis-county",
+      "municipality": "Valley Park",
+      "recreationType": "golf",
+      "address": "3390 Quinette Road",
+      "location": {
+        "lat": 38.5664474,
+        "lng": -90.4751415
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5664474,-90.4751415",
+      "websiteUrl": "https://bigbendgolfcenter.com/",
+      "source": {
+        "id": "osm-546878834",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.651Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.651Z",
+      "updatedAt": "2026-04-04T15:39:22.651Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:carrollton-park-dgc-550931000",
+      "name": "Carrollton Park DGC",
+      "county": "st-louis-county",
+      "municipality": "Bridgeton",
+      "recreationType": "golf",
+      "address": "14861 Phelps Drive",
+      "location": {
+        "lat": 38.7598033,
+        "lng": -90.4237404
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7598033,-90.4237404",
+      "websiteUrl": "http://stlouisdiscgolfclub.com/courses/#Bridgeton",
+      "source": {
+        "id": "osm-550931000",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.717Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.717Z",
+      "updatedAt": "2026-04-04T15:39:22.717Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:bellerive-country-club-617944761",
+      "name": "Bellerive Country Club",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.66287,
+        "lng": -90.4843187
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.66287,-90.4843187",
+      "source": {
+        "id": "osm-617944761",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.028Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.028Z",
+      "updatedAt": "2026-04-04T15:39:23.028Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:the-woodlands-golf-club-768645108",
+      "name": "The Woodlands Golf Club",
+      "county": "st-louis-county",
+      "municipality": "Alton",
+      "recreationType": "golf",
+      "address": "2839 Harris Lane",
+      "location": {
+        "lat": 38.933886,
+        "lng": -90.1327764
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.933886,-90.1327764",
+      "websiteUrl": "https://thewoodlandsgolfclub.com/",
+      "source": {
+        "id": "osm-768645108",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.712Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.712Z",
+      "updatedAt": "2026-04-04T15:39:23.712Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:gateway-national-golf-links-782435512",
+      "name": "Gateway National Golf Links",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.658395,
+        "lng": -90.1446497
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.658395,-90.1446497",
+      "source": {
+        "id": "osm-782435512",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.733Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.733Z",
+      "updatedAt": "2026-04-04T15:39:23.733Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:fore-honor-golf-course-1219099645",
+      "name": "Fore Honor Golf Course",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.3781431,
+        "lng": -90.5794285
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3781431,-90.5794285",
+      "source": {
+        "id": "osm-1219099645",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.481Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.481Z",
+      "updatedAt": "2026-04-04T15:39:24.481Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:tower-tee-golf-recreation-1309052835",
+      "name": "Tower Tee Golf & Recreation",
+      "county": "st-louis-county",
+      "municipality": "St. Louis",
+      "recreationType": "golf",
+      "address": "6727 Heege Road",
+      "location": {
+        "lat": 38.5668128,
+        "lng": -90.3277614
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5668128,-90.3277614",
+      "websiteUrl": "https://www.towertee.com/",
+      "source": {
+        "id": "osm-1309052835",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.634Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.634Z",
+      "updatedAt": "2026-04-04T15:39:24.634Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:waterloo-country-club-1456324187",
+      "name": "Waterloo Country Club",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.3647728,
+        "lng": -90.1478777
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3647728,-90.1478777",
+      "source": {
+        "id": "osm-1456324187",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.026Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.026Z",
+      "updatedAt": "2026-04-04T15:39:25.026Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:acorns-golf-links-1465335554",
+      "name": "Acorns Golf Links",
+      "county": "st-louis-county",
+      "municipality": "Warterloo",
+      "recreationType": "golf",
+      "address": "3933 Ahne Road",
+      "location": {
+        "lat": 38.2955539,
+        "lng": -90.2017454
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.2955539,-90.2017454",
+      "websiteUrl": "https://acornsgolf.com/",
+      "source": {
+        "id": "osm-1465335554",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.053Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.053Z",
+      "updatedAt": "2026-04-04T15:39:25.053Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:annbriar-golf-course-1466372251",
+      "name": "Annbriar Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Waterloo",
+      "recreationType": "golf",
+      "address": "1524 Birdie Lane",
+      "location": {
+        "lat": 38.3510225,
+        "lng": -90.1997016
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.3510225,-90.1997016",
+      "source": {
+        "id": "osm-1466372251",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.057Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.057Z",
+      "updatedAt": "2026-04-04T15:39:25.057Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:pevely-farms-golf-course-5429230",
+      "name": "Pevely Farms Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "golf",
+      "address": "400 Lewis Road",
+      "location": {
+        "lat": 38.5257815,
+        "lng": -90.5981432
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5257815,-90.5981432",
+      "websiteUrl": "https://www.pevelyfarms.com/",
+      "source": {
+        "id": "osm-5429230",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.110Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.110Z",
+      "updatedAt": "2026-04-04T15:39:25.110Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:the-legends-golf-club-5429382",
+      "name": "The Legends Golf Club",
+      "county": "st-louis-county",
+      "municipality": "Eureka",
+      "recreationType": "golf",
+      "address": "625 The Legends Parkway",
+      "location": {
+        "lat": 38.4979796,
+        "lng": -90.6442378
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4979796,-90.6442378",
+      "websiteUrl": "https://www.thelegendsgolf.com/",
+      "source": {
+        "id": "osm-5429382",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.114Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.114Z",
+      "updatedAt": "2026-04-04T15:39:25.114Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:the-country-club-of-saint-albans-5431970",
+      "name": "The Country Club of Saint Albans",
+      "county": "st-louis-county",
+      "municipality": "Saint Albans",
+      "recreationType": "golf",
+      "address": "3165 Saint Albans Road",
+      "location": {
+        "lat": 38.5836499,
+        "lng": -90.7559044
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5836499,-90.7559044",
+      "websiteUrl": "http://www.ccstalbans.com/",
+      "source": {
+        "id": "osm-5431970",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.119Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.119Z",
+      "updatedAt": "2026-04-04T15:39:25.119Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:tapawingo-national-golf-club-6668441",
+      "name": "Tapawingo National Golf Club",
+      "county": "st-louis-county",
+      "municipality": "Sunset Hills",
+      "recreationType": "golf",
+      "address": "13001 Gary Player Drive",
+      "location": {
+        "lat": 38.5315747,
+        "lng": -90.4284123
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.5315747,-90.4284123",
+      "websiteUrl": "https://www.tapawingogolf.com/",
+      "source": {
+        "id": "osm-6668441",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.133Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.133Z",
+      "updatedAt": "2026-04-04T15:39:25.133Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:fox-run-golf-club-7064787",
+      "name": "Fox Run Golf Club",
+      "county": "st-louis-county",
+      "municipality": "Eureka",
+      "recreationType": "golf",
+      "address": "1 Putt Lane",
+      "location": {
+        "lat": 38.4443949,
+        "lng": -90.6014351
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.4443949,-90.6014351",
+      "websiteUrl": "https://www.foxrungolfclub.com/",
+      "source": {
+        "id": "osm-7064787",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.140Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.140Z",
+      "updatedAt": "2026-04-04T15:39:25.140Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:forest-hills-country-club-13333847",
+      "name": "Forest Hills Country Club",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.6168935,
+        "lng": -90.594254
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6168935,-90.594254",
+      "websiteUrl": "https://www.foresthillscc.net/",
+      "source": {
+        "id": "osm-13333847",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.272Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.272Z",
+      "updatedAt": "2026-04-04T15:39:25.272Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:four-seasons-country-club-15880900",
+      "name": "Four Seasons Country Club",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.6751086,
+        "lng": -90.5042635
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6751086,-90.5042635",
+      "websiteUrl": "https://www.fourseasonscc-chesterfield.com/",
+      "source": {
+        "id": "osm-15880900",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.296Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.296Z",
+      "updatedAt": "2026-04-04T15:39:25.296Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:norman-k-probstein-golf-course-18343759",
+      "name": "Norman K. Probstein Golf Course",
+      "county": "st-louis-county",
+      "municipality": "Saint Louis",
+      "recreationType": "golf",
+      "address": "6141 Lagoon Drive",
+      "location": {
+        "lat": 38.643047,
+        "lng": -90.2945135
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.643047,-90.2945135",
+      "websiteUrl": "https://www.forestparkgc.com",
+      "source": {
+        "id": "osm-18343759",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.325Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.325Z",
+      "updatedAt": "2026-04-04T15:39:25.325Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:the-highlands-golf-course-20252486",
+      "name": "The Highlands Golf Course",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "address": "5163 Clayton Avenue",
+      "location": {
+        "lat": 38.6354163,
+        "lng": -90.2754967
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6354163,-90.2754967",
+      "websiteUrl": "https://www.highlandsgolfandtennis.com/",
+      "source": {
+        "id": "osm-20252486",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.386Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.386Z",
+      "updatedAt": "2026-04-04T15:39:25.386Z"
+    },
+    {
+      "id": "candidate:golf:st-louis-county:whitmoor-country-club-north-course-20346860",
+      "name": "Whitmoor Country Club - North Course",
+      "county": "st-louis-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.7197293,
+        "lng": -90.6275624
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7197293,-90.6275624",
+      "source": {
+        "id": "osm-20346860",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.390Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.390Z",
+      "updatedAt": "2026-04-04T15:39:25.390Z"
+    }
+  ]
+}

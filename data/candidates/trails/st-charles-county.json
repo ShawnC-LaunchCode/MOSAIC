@@ -11,7 +11,10 @@
       "municipality": "Defiance",
       "recreationType": "trail",
       "address": "700 S Highway 94, Defiance, MO",
-      "location": { "lat": 38.6628, "lng": -90.7870 },
+      "location": {
+        "lat": 38.6628,
+        "lng": -90.787
+      },
       "googleMapsUrl": "https://maps.google.com/?q=38.6628,-90.7870",
       "source": {
         "id": "source-trail-001",
@@ -21,7 +24,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "walking"],
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
       "createdAt": "2026-03-28T00:00:00.000Z",
       "updatedAt": "2026-03-28T00:00:00.000Z"
     },
@@ -32,7 +38,10 @@
       "municipality": "St. Charles",
       "recreationType": "trail",
       "address": "500 S Riverside Dr, St Charles, MO",
-      "location": { "lat": 38.7809, "lng": -90.4838 },
+      "location": {
+        "lat": 38.7809,
+        "lng": -90.4838
+      },
       "googleMapsUrl": "https://maps.google.com/?q=38.7809,-90.4838",
       "source": {
         "id": "source-trail-002",
@@ -42,9 +51,420 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["urban", "park"],
+      "tags": [
+        "urban",
+        "park"
+      ],
       "createdAt": "2026-03-28T00:00:00.000Z",
       "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trail:st-charles-county:katy-trail-weldon-spring",
+      "name": "Katy Trail – Weldon Spring Trailhead",
+      "county": "st-charles-county",
+      "municipality": "Weldon Spring",
+      "recreationType": "trail",
+      "address": "7295 Highway 94 S, Weldon Spring, MO 63304",
+      "location": {
+        "lat": 38.7032,
+        "lng": -90.6741
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7032,-90.6741",
+      "websiteUrl": "https://mostateparks.com/park/katy-trail-state-park",
+      "source": {
+        "id": "source-trail-003",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trail:st-charles-county:broemmelsiek-park-trail",
+      "name": "Broemmelsiek Park – Multi-Use Trail",
+      "county": "st-charles-county",
+      "municipality": "Defiance",
+      "recreationType": "trail",
+      "address": "1795 Highway DD, Defiance, MO 63341",
+      "location": {
+        "lat": 38.7001,
+        "lng": -90.765
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7001,-90.7650",
+      "websiteUrl": "https://www.sccmo.org/617/Broemmelsiek-Park",
+      "source": {
+        "id": "source-trail-004",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trail:st-charles-county:matson-hill-park-trail",
+      "name": "Matson Hill Park – Mountain Bike Trailhead",
+      "county": "st-charles-county",
+      "municipality": "Defiance",
+      "recreationType": "trail",
+      "address": "3576 Stub Rd, Defiance, MO 63341",
+      "location": {
+        "lat": 38.6791,
+        "lng": -90.7509
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6791,-90.7509",
+      "websiteUrl": "https://www.sccmo.org/713/Matson-Hill-Park",
+      "source": {
+        "id": "source-trail-005",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trail:st-charles-county:indian-camp-creek-trail",
+      "name": "Indian Camp Creek Park – Trail Access",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "recreationType": "trail",
+      "address": "2679 Dietrich Rd, Foristell, MO 63348",
+      "location": {
+        "lat": 38.7924,
+        "lng": -90.9101
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7924,-90.9101",
+      "websiteUrl": "https://www.sccmo.org/665/Indian-Camp-Creek-Park",
+      "source": {
+        "id": "source-trail-006",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trail:st-charles-county:busch-conservation-area-trail",
+      "name": "August A. Busch Memorial Conservation Area – Trail Access",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "trail",
+      "address": "2360 Highway D, St. Charles, MO 63304",
+      "location": {
+        "lat": 38.7184,
+        "lng": -90.7557
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7184,-90.7557",
+      "websiteUrl": "https://mdc.mo.gov/discover-nature/places/august-busch-memorial-conservation-area",
+      "source": {
+        "id": "source-trail-007",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trail:st-charles-county:klondike-park-trail",
+      "name": "Klondike Park – Hiking & Biking Trailhead",
+      "county": "st-charles-county",
+      "municipality": "Augusta",
+      "recreationType": "trail",
+      "address": "4600 Highway 94 S, Augusta, MO 63332",
+      "location": {
+        "lat": 38.6371,
+        "lng": -90.882
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6371,-90.8820",
+      "websiteUrl": "https://www.sccmo.org/669/Klondike-Park",
+      "source": {
+        "id": "source-trail-008",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:trails:st-charles-county:indian-camp-creek-116529866",
+      "name": "Indian Camp Creek",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8810519,
+        "lng": -90.944268
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8810519,-90.944268",
+      "source": {
+        "id": "osm-116529866",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.147Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.147Z",
+      "updatedAt": "2026-04-04T15:39:21.147Z"
+    },
+    {
+      "id": "candidate:trails:st-charles-county:fountain-lakes-trail-146280024",
+      "name": "Fountain Lakes Trail",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8220702,
+        "lng": -90.5257299
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8220702,-90.5257299",
+      "source": {
+        "id": "osm-146280024",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.160Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.160Z",
+      "updatedAt": "2026-04-04T15:39:21.160Z"
+    },
+    {
+      "id": "candidate:trails:st-charles-county:fox-hill-park-trail-146659684",
+      "name": "Fox Hill Park Trail",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8192768,
+        "lng": -90.4913839
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8192768,-90.4913839",
+      "source": {
+        "id": "osm-146659684",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.165Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.165Z",
+      "updatedAt": "2026-04-04T15:39:21.165Z"
+    },
+    {
+      "id": "candidate:trails:st-charles-county:prairie-adventure-trail-329372692",
+      "name": "Prairie Adventure Trail",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.9370504,
+        "lng": -90.5402339
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9370504,-90.5402339",
+      "source": {
+        "id": "osm-329372692",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.703Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.703Z",
+      "updatedAt": "2026-04-04T15:39:21.703Z"
+    },
+    {
+      "id": "candidate:trails:st-charles-county:sports-center-trail-480961093",
+      "name": "Sports Center Trail",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8035596,
+        "lng": -90.6346858
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8035596,-90.6346858",
+      "source": {
+        "id": "osm-480961093",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.127Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.127Z",
+      "updatedAt": "2026-04-04T15:39:22.127Z"
+    },
+    {
+      "id": "candidate:trails:st-charles-county:kountz-fort-trail-543612079",
+      "name": "Kountz Fort Trail",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7521457,
+        "lng": -90.6424387
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7521457,-90.6424387",
+      "source": {
+        "id": "osm-543612079",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.548Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.548Z",
+      "updatedAt": "2026-04-04T15:39:22.548Z"
+    },
+    {
+      "id": "candidate:trails:st-charles-county:lakeside-loop-562364387",
+      "name": "Lakeside Loop",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8764914,
+        "lng": -90.9000042
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8764914,-90.9000042",
+      "source": {
+        "id": "osm-562364387",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.793Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.793Z",
+      "updatedAt": "2026-04-04T15:39:22.793Z"
+    },
+    {
+      "id": "candidate:trails:st-charles-county:towne-trail-562364389",
+      "name": "Towne Trail",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8756899,
+        "lng": -90.8982
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8756899,-90.8982",
+      "source": {
+        "id": "osm-562364389",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.795Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.795Z",
+      "updatedAt": "2026-04-04T15:39:22.795Z"
+    },
+    {
+      "id": "candidate:trails:st-charles-county:love-park-lane-752892544",
+      "name": "Love Park Lane",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.8329359,
+        "lng": -90.8431462
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8329359,-90.8431462",
+      "source": {
+        "id": "osm-752892544",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:23.689Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:23.689Z",
+      "updatedAt": "2026-04-04T15:39:23.689Z"
+    },
+    {
+      "id": "candidate:trails:st-charles-county:madison-street-1070264620",
+      "name": "Madison Street",
+      "county": "st-charles-county",
+      "recreationType": "trail",
+      "location": {
+        "lat": 38.7804307,
+        "lng": -90.4820209
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7804307,-90.4820209",
+      "source": {
+        "id": "osm-1070264620",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.178Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.178Z",
+      "updatedAt": "2026-04-04T15:39:24.178Z"
     }
   ]
 }

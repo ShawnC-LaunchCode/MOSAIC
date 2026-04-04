@@ -1,0 +1,195 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T00:00:00.000Z",
+  "county": "st-charles-county",
+  "category": "community-center",
+  "places": [
+    {
+      "id": "candidate:community-center:st-charles-county:st-charles-city-parks-rec-center",
+      "name": "St. Charles City Parks & Recreation Community Center",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "community-center",
+      "address": "1900 Randolph St, St. Charles, MO 63301",
+      "location": {
+        "lat": 38.7882,
+        "lng": -90.4942
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7882,-90.4942",
+      "websiteUrl": "https://stcharlesparks.com",
+      "source": {
+        "id": "source-st-charles-city-parks-rec-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "community"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:community-center:st-charles-county:dardenne-prairie-rec",
+      "name": "Dardenne Prairie City Hall Park & Recreation",
+      "county": "st-charles-county",
+      "municipality": "Dardenne Prairie",
+      "recreationType": "community-center",
+      "address": "2032 Hanley Rd, Dardenne Prairie, MO 63368",
+      "location": {
+        "lat": 38.7471,
+        "lng": -90.696
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7471,-90.6960",
+      "websiteUrl": "https://www.dardenneprairie.org",
+      "source": {
+        "id": "source-dardenne-prairie-rec-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "community"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:community-center:st-charles-county:ofallon-parks-rec-center",
+      "name": "O'Fallon Parks & Recreation Center",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "community-center",
+      "address": "100 N Main St, O'Fallon, MO 63366",
+      "location": {
+        "lat": 38.8117,
+        "lng": -90.6998
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8117,-90.6998",
+      "websiteUrl": "https://www.ofallon.mo.us",
+      "source": {
+        "id": "source-ofallon-parks-rec-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "community"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:community-center:st-charles-county:st-peters-parks-rec-center",
+      "name": "St. Peters Parks & Recreation Community Center",
+      "county": "st-charles-county",
+      "municipality": "St. Peters",
+      "recreationType": "community-center",
+      "address": "1020 Grand Teton Dr, St. Peters, MO 63376",
+      "location": {
+        "lat": 38.7929,
+        "lng": -90.5892
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7929,-90.5892",
+      "websiteUrl": "https://www.stpetersmo.net",
+      "source": {
+        "id": "source-st-peters-parks-rec-center-001",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "indoor",
+        "community"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:community-centers:st-charles-county:rec-plex-1050558995",
+      "name": "Rec-Plex",
+      "county": "st-charles-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.7920404,
+        "lng": -90.5929833
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7920404,-90.5929833",
+      "source": {
+        "id": "osm-1050558995",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:20.979Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:20.979Z",
+      "updatedAt": "2026-04-04T15:39:20.979Z"
+    },
+    {
+      "id": "candidate:community-centers:st-charles-county:memorial-hall-257725151",
+      "name": "Memorial Hall",
+      "county": "st-charles-county",
+      "recreationType": "community-center",
+      "location": {
+        "lat": 38.7990925,
+        "lng": -90.4846349
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7990925,-90.4846349",
+      "source": {
+        "id": "osm-257725151",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.498Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.498Z",
+      "updatedAt": "2026-04-04T15:39:21.498Z"
+    },
+    {
+      "id": "candidate:community-centers:st-charles-county:mayor-tom-brown-senior-center-559988095",
+      "name": "Mayor Tom Brown Senior Center",
+      "county": "st-charles-county",
+      "municipality": "Saint Peters",
+      "recreationType": "community-center",
+      "address": "108 McMenamy Road",
+      "location": {
+        "lat": 38.7948157,
+        "lng": -90.626917
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7948157,-90.626917",
+      "websiteUrl": "https://www.stpetersmo.net/senior-center.aspx",
+      "source": {
+        "id": "osm-559988095",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.787Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.787Z",
+      "updatedAt": "2026-04-04T15:39:22.787Z"
+    }
+  ]
+}

@@ -11,7 +11,10 @@
       "municipality": "St. Charles",
       "recreationType": "golf",
       "address": "1120 Country Club Rd, St Charles, MO",
-      "location": { "lat": 38.8132, "lng": -90.5331 },
+      "location": {
+        "lat": 38.8132,
+        "lng": -90.5331
+      },
       "googleMapsUrl": "https://maps.google.com/?q=38.8132,-90.5331",
       "source": {
         "id": "source-golf-001",
@@ -21,9 +24,518 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "sports"],
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
       "createdAt": "2026-03-28T00:00:00.000Z",
       "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:missouri-bluffs-golf-club",
+      "name": "Missouri Bluffs Golf Club",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "golf",
+      "address": "18 Research Park Cir, St. Charles, MO 63304",
+      "location": {
+        "lat": 38.759,
+        "lng": -90.5975
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7590,-90.5975",
+      "websiteUrl": "https://www.mobluffs.com",
+      "source": {
+        "id": "source-golf-002",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:bear-creek-golf-club",
+      "name": "Bear Creek Golf Club",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "golf",
+      "address": "158 Bear Creek Dr, Wentzville, MO 63385",
+      "location": {
+        "lat": 38.8245,
+        "lng": -90.8521
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8245,-90.8521",
+      "websiteUrl": "https://www.bearcreekgolf.com",
+      "source": {
+        "id": "source-golf-003",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:boone-valley-golf-club",
+      "name": "Boone Valley Golf Club",
+      "county": "st-charles-county",
+      "municipality": "Augusta",
+      "recreationType": "golf",
+      "address": "1319 Schluersburg Rd, Augusta, MO 63332",
+      "location": {
+        "lat": 38.6421,
+        "lng": -90.8897
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6421,-90.8897",
+      "websiteUrl": "https://www.boonevalley.org",
+      "source": {
+        "id": "source-golf-004",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:golf-club-of-wentzville",
+      "name": "Golf Club of Wentzville",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "golf",
+      "address": "9 Pro Shop Dr, Wentzville, MO 63385",
+      "location": {
+        "lat": 38.8094,
+        "lng": -90.8626
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8094,-90.8626",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-golf-005",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:incline-village-golf-course",
+      "name": "Incline Village Golf Course",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "recreationType": "golf",
+      "address": "10220 Fairway Dr, Foristell, MO 63348",
+      "location": {
+        "lat": 38.7841,
+        "lng": -90.9071
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7841,-90.9071",
+      "websiteUrl": null,
+      "source": {
+        "id": "source-golf-006",
+        "sourceType": "manual",
+        "sourceName": "Web Research",
+        "fetchedAt": "2026-04-04T00:00:00.000Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
+      "createdAt": "2026-04-04T00:00:00.000Z",
+      "updatedAt": "2026-04-04T00:00:00.000Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:old-hickory-golf-club-157522177",
+      "name": "Old Hickory Golf Club",
+      "county": "st-charles-county",
+      "recreationType": "golf",
+      "address": "1 Dye Club Drive",
+      "location": {
+        "lat": 38.7566018,
+        "lng": -90.628643
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7566018,-90.628643",
+      "source": {
+        "id": "osm-157522177",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.350Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.350Z",
+      "updatedAt": "2026-04-04T15:39:21.350Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:bogey-hills-country-club-157935617",
+      "name": "Bogey Hills Country Club",
+      "county": "st-charles-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.7795376,
+        "lng": -90.5353737
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7795376,-90.5353737",
+      "source": {
+        "id": "osm-157935617",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.364Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.364Z",
+      "updatedAt": "2026-04-04T15:39:21.364Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:winghaven-country-club-160974685",
+      "name": "WingHaven Country Club",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "golf",
+      "address": "7777 Winghaven Boulevard",
+      "location": {
+        "lat": 38.7570281,
+        "lng": -90.7448796
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7570281,-90.7448796",
+      "websiteUrl": "http://www.winghavencc.com/",
+      "source": {
+        "id": "osm-160974685",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.373Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.373Z",
+      "updatedAt": "2026-04-04T15:39:21.373Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:pheasant-run-golf-course-395120828",
+      "name": "Pheasant Run Golf Course",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "golf",
+      "address": "205 Tri-Sports Drive",
+      "location": {
+        "lat": 38.7409582,
+        "lng": -90.701988
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7409582,-90.701988",
+      "websiteUrl": "https://www.golf-headquarters.com/course/",
+      "source": {
+        "id": "osm-395120828",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:21.839Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:21.839Z",
+      "updatedAt": "2026-04-04T15:39:21.839Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:missouri-bluffs-golf-club-564144286",
+      "name": "Missouri Bluffs Golf Club",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "recreationType": "golf",
+      "address": "18 Research Park Circle",
+      "location": {
+        "lat": 38.6940408,
+        "lng": -90.675399
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.6940408,-90.675399",
+      "websiteUrl": "https://mobluffs.com/",
+      "source": {
+        "id": "osm-564144286",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:22.803Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:22.803Z",
+      "updatedAt": "2026-04-04T15:39:22.803Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:heritage-of-hawk-ridge-1296119881",
+      "name": "Heritage of Hawk Ridge",
+      "county": "st-charles-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.7763026,
+        "lng": -90.8083925
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7763026,-90.8083925",
+      "source": {
+        "id": "osm-1296119881",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:24.588Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:24.588Z",
+      "updatedAt": "2026-04-04T15:39:24.588Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:lake-saint-louis-9-hole-golf-course-3939927",
+      "name": "Lake Saint Louis 9-Hole Golf Course",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "recreationType": "golf",
+      "address": "100 Cognac",
+      "location": {
+        "lat": 38.7959568,
+        "lng": -90.7971022
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7959568,-90.7971022",
+      "websiteUrl": "https://lslca.com/jupgrade/index.php/amenities/golf",
+      "source": {
+        "id": "osm-3939927",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.102Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.102Z",
+      "updatedAt": "2026-04-04T15:39:25.102Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:the-falls-golf-club-3939928",
+      "name": "The Falls Golf Club",
+      "county": "st-charles-county",
+      "municipality": "O'Fallon",
+      "recreationType": "golf",
+      "address": "1170 Turtle Creek Drive",
+      "location": {
+        "lat": 38.7895075,
+        "lng": -90.7237109
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7895075,-90.7237109",
+      "websiteUrl": "https://www.fallsgolf.com/",
+      "source": {
+        "id": "osm-3939928",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.105Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.105Z",
+      "updatedAt": "2026-04-04T15:39:25.105Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:bear-creek-golf-club-5755987",
+      "name": "Bear Creek Golf Club",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "golf",
+      "address": "158 Bear Creek Drive",
+      "location": {
+        "lat": 38.8177924,
+        "lng": -90.8971772
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8177924,-90.8971772",
+      "websiteUrl": "https://bearcreekgolf.com/",
+      "source": {
+        "id": "osm-5755987",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.124Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.124Z",
+      "updatedAt": "2026-04-04T15:39:25.124Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:golf-club-of-incline-village-5755988",
+      "name": "Golf Club of Incline Village",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "recreationType": "golf",
+      "address": "10220 Fairway Drive",
+      "location": {
+        "lat": 38.8677864,
+        "lng": -90.9578446
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.8677864,-90.9578446",
+      "websiteUrl": "https://www.inclinevillagegc.com/",
+      "source": {
+        "id": "osm-5755988",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.129Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.129Z",
+      "updatedAt": "2026-04-04T15:39:25.129Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:st-peters-golf-course-8541335",
+      "name": "St. Peters Golf Course",
+      "county": "st-charles-county",
+      "recreationType": "golf",
+      "location": {
+        "lat": 38.7950674,
+        "lng": -90.6473484
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7950674,-90.6473484",
+      "source": {
+        "id": "osm-8541335",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.214Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.214Z",
+      "updatedAt": "2026-04-04T15:39:25.214Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:lake-forest-country-club-9114429",
+      "name": "Lake Forest Country Club",
+      "county": "st-charles-county",
+      "municipality": "Lake Saint Louis",
+      "recreationType": "golf",
+      "address": "300 Yard Drive",
+      "location": {
+        "lat": 38.7867173,
+        "lng": -90.754066
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.7867173,-90.754066",
+      "websiteUrl": "https://www.lakeforestgolf.org/",
+      "source": {
+        "id": "osm-9114429",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.236Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.236Z",
+      "updatedAt": "2026-04-04T15:39:25.236Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:woods-fort-golf-course-9392550",
+      "name": "Woods Fort Golf Course",
+      "county": "st-charles-county",
+      "municipality": "Troy",
+      "recreationType": "golf",
+      "address": "1 Country Club Drive",
+      "location": {
+        "lat": 38.9930739,
+        "lng": -90.9785763
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.9930739,-90.9785763",
+      "websiteUrl": "https://woodsfortgolf.com/",
+      "source": {
+        "id": "osm-9392550",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.244Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.244Z",
+      "updatedAt": "2026-04-04T15:39:25.244Z"
+    },
+    {
+      "id": "candidate:golf:st-charles-county:golf-club-of-wentzville-17061374",
+      "name": "Golf Club of Wentzville",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "recreationType": "golf",
+      "address": "9 Pro Shop Drive",
+      "location": {
+        "lat": 38.792377,
+        "lng": -90.8965621
+      },
+      "googleMapsUrl": "https://maps.google.com/?q=38.792377,-90.8965621",
+      "source": {
+        "id": "osm-17061374",
+        "sourceType": "osm",
+        "sourceName": "OpenStreetMap",
+        "fetchedAt": "2026-04-04T15:39:25.302Z"
+      },
+      "isPublic": true,
+      "isActive": true,
+      "tags": [
+        "generated-osm"
+      ],
+      "createdAt": "2026-04-04T15:39:25.302Z",
+      "updatedAt": "2026-04-04T15:39:25.302Z"
     }
   ]
 }
