@@ -212,6 +212,1056 @@
       "needsVerification": false,
       "createdAt": "2026-04-04T16:31:24.860Z",
       "updatedAt": "2026-04-04T16:31:24.860Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:jaycee-park",
+      "name": "Jaycee Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "2805 Elm St",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2805 Elm St",
+      "location": {
+        "lat": 38.8001955,
+        "lng": -90.5038665
+      },
+      "source": {
+        "id": "source-playground-batch2-jaycee-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:07.465Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:07.465Z",
+      "updatedAt": "2026-04-04T17:11:07.465Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:vogt-brothers-park",
+      "name": "Vogt Brothers Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "500 Fairgrounds Road",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "500 Fairgrounds Road",
+      "location": {
+        "lat": 40.2347713,
+        "lng": -94.3367653
+      },
+      "source": {
+        "id": "source-playground-batch2-vogt-brothers-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:09.373Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:09.373Z",
+      "updatedAt": "2026-04-04T17:11:09.373Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:kister-park",
+      "name": "Kister Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "408 S Main St",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "408 S Main St",
+      "location": {
+        "lat": 39.0886763,
+        "lng": -94.4159713
+      },
+      "source": {
+        "id": "source-playground-batch2-kister-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:13.339Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:13.339Z",
+      "updatedAt": "2026-04-04T17:11:13.339Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:blanchette-park",
+      "name": "Blanchette Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "1900 W Randolph St",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1900 W Randolph St",
+      "location": {
+        "lat": 38.7961557,
+        "lng": -90.484205
+      },
+      "source": {
+        "id": "source-playground-batch2-blanchette-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:15.288Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:15.288Z",
+      "updatedAt": "2026-04-04T17:11:15.288Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:mcnair-park",
+      "name": "McNair Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "3100 Droste Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "3100 Droste Rd",
+      "location": {
+        "lat": 38.797328,
+        "lng": -90.525345
+      },
+      "source": {
+        "id": "source-playground-batch2-mcnair-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:17.197Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:17.197Z",
+      "updatedAt": "2026-04-04T17:11:17.197Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:eco-park",
+      "name": "Eco Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "1802 N 2nd St",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1802 N 2nd St",
+      "location": {
+        "lat": 39.7802241,
+        "lng": -94.8581598
+      },
+      "source": {
+        "id": "source-playground-batch2-eco-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:20.559Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:20.559Z",
+      "updatedAt": "2026-04-04T17:11:20.559Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:heatherbrook-park",
+      "name": "Heatherbrook Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "130 Wildwood Ct",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "130 Wildwood Ct",
+      "location": {
+        "lat": 38.7488265,
+        "lng": -90.5186124
+      },
+      "source": {
+        "id": "source-playground-batch2-heatherbrook-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:22.555Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:22.555Z",
+      "updatedAt": "2026-04-04T17:11:22.555Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:schaefer-park",
+      "name": "Schaefer Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "1647 Wilshire Valley Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1647 Wilshire Valley Dr",
+      "location": {
+        "lat": 38.7548936,
+        "lng": -90.5553553
+      },
+      "source": {
+        "id": "source-playground-batch2-schaefer-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:24.538Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:24.538Z",
+      "updatedAt": "2026-04-04T17:11:24.538Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:webster-park",
+      "name": "Webster Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "2201 S River Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2201 S River Rd",
+      "location": {
+        "lat": 38.74777,
+        "lng": -90.511452
+      },
+      "source": {
+        "id": "source-playground-batch2-webster-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:26.699Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:26.699Z",
+      "updatedAt": "2026-04-04T17:11:26.699Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:laurel-park",
+      "name": "Laurel Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "3000 McClay Valley Blvd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "3000 McClay Valley Blvd",
+      "location": {
+        "lat": 38.7606601,
+        "lng": -90.5678761
+      },
+      "source": {
+        "id": "source-playground-batch2-laurel-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:28.638Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:28.638Z",
+      "updatedAt": "2026-04-04T17:11:28.638Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:new-town-park",
+      "name": "New Town Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "Civic Green Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "Civic Green Dr",
+      "location": {
+        "lat": 38.8360963,
+        "lng": -90.4911005
+      },
+      "source": {
+        "id": "source-playground-batch2-new-town-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:30.589Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:30.589Z",
+      "updatedAt": "2026-04-04T17:11:30.589Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:boone-s-lick-park",
+      "name": "Boone's Lick Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "1000 Rose Brae Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1000 Rose Brae Dr",
+      "location": {
+        "lat": 38.775284,
+        "lng": -90.498585
+      },
+      "source": {
+        "id": "source-playground-batch2-boone-s-lick-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:32.301Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:32.301Z",
+      "updatedAt": "2026-04-04T17:11:32.301Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:boonslick-park",
+      "name": "Boonslick park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "Dardenne St",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "Dardenne St",
+      "location": {
+        "lat": 38.7760577,
+        "lng": -90.5009113
+      },
+      "source": {
+        "id": "source-playground-batch2-boonslick-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:34.179Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:34.179Z",
+      "updatedAt": "2026-04-04T17:11:34.179Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:fox-hill-park",
+      "name": "Fox Hill Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "3400 Kister Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "3400 Kister Dr",
+      "location": {
+        "lat": 38.8172762,
+        "lng": -90.4891238
+      },
+      "source": {
+        "id": "source-playground-batch2-fox-hill-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:36.094Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:36.094Z",
+      "updatedAt": "2026-04-04T17:11:36.094Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:charlestowne-playground",
+      "name": "Charlestowne Playground - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "3110 Waterwheel Pl",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "3110 Waterwheel Pl",
+      "location": {
+        "lat": 38.8252934,
+        "lng": -90.4907237
+      },
+      "source": {
+        "id": "source-playground-batch2-charlestowne-playground",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:37.973Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:37.973Z",
+      "updatedAt": "2026-04-04T17:11:37.973Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:mcauley-playground",
+      "name": "McAuley Playground - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "1360 St Peters Cottleville Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1360 St Peters Cottleville Rd",
+      "location": {
+        "lat": 38.7669721,
+        "lng": -90.6351901
+      },
+      "source": {
+        "id": "source-playground-batch2-mcauley-playground",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:39.850Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:39.850Z",
+      "updatedAt": "2026-04-04T17:11:39.850Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:tot-lot-park",
+      "name": "Tot Lot Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "259 Bellemeade Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "259 Bellemeade Dr",
+      "location": {
+        "lat": 38.7846471,
+        "lng": -90.6157488
+      },
+      "source": {
+        "id": "source-playground-batch2-tot-lot-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:41.730Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:41.730Z",
+      "updatedAt": "2026-04-04T17:11:41.730Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:wapelhorst-park",
+      "name": "Wapelhorst Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "1875 Muegge Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1875 Muegge Rd",
+      "location": {
+        "lat": 38.7676246,
+        "lng": -90.5472546
+      },
+      "source": {
+        "id": "source-playground-batch2-wapelhorst-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:43.658Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:43.658Z",
+      "updatedAt": "2026-04-04T17:11:43.658Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:shady-springs-park",
+      "name": "Shady Springs Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "3888 Shady Springs Ln",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "3888 Shady Springs Ln",
+      "location": {
+        "lat": 38.8031468,
+        "lng": -90.5717786
+      },
+      "source": {
+        "id": "source-playground-batch2-shady-springs-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:45.663Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:45.663Z",
+      "updatedAt": "2026-04-04T17:11:45.663Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:schneider-kiwanis-park",
+      "name": "Schneider/Kiwanis Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "3596 Elm Point Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "3596 Elm Point Rd",
+      "location": {
+        "lat": 38.8173978,
+        "lng": -90.5104254
+      },
+      "source": {
+        "id": "source-playground-batch2-schneider-kiwanis-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:49.509Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:49.509Z",
+      "updatedAt": "2026-04-04T17:11:49.509Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:brendan-s-playground",
+      "name": "Brendan's Playground - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "810 Sheppard Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "810 Sheppard Dr",
+      "location": {
+        "lat": 38.811428,
+        "lng": -90.6898516
+      },
+      "source": {
+        "id": "source-playground-batch2-brendan-s-playground",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:51.410Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:51.410Z",
+      "updatedAt": "2026-04-04T17:11:51.410Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:wild-sprouts",
+      "name": "Wild Sprouts - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "3010 MO-94",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "3010 MO-94",
+      "location": {
+        "lat": 38.8148247,
+        "lng": -90.4731372
+      },
+      "source": {
+        "id": "source-playground-batch2-wild-sprouts",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:53.394Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:53.394Z",
+      "updatedAt": "2026-04-04T17:11:53.394Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:spencer-creek-park",
+      "name": "Spencer Creek Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "200 Sutters Mill Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "200 Sutters Mill Rd",
+      "location": {
+        "lat": 38.7807636,
+        "lng": -90.588928
+      },
+      "source": {
+        "id": "source-playground-batch2-spencer-creek-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:59.869Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:59.869Z",
+      "updatedAt": "2026-04-04T17:11:59.869Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:dusable-park-playground",
+      "name": "DuSable Park Playground - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "2006 N Main St",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2006 N Main St",
+      "location": {
+        "lat": 38.7965492,
+        "lng": -90.47353
+      },
+      "source": {
+        "id": "source-playground-batch2-dusable-park-playground",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:02.233Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:02.233Z",
+      "updatedAt": "2026-04-04T17:12:02.233Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:woodland-sports-park-playground",
+      "name": "Woodland Sports Park Playground - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "1 Woodlands Pkwy",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1 Woodlands Pkwy",
+      "location": {
+        "lat": 38.7728872,
+        "lng": -90.6435788
+      },
+      "source": {
+        "id": "source-playground-batch2-woodland-sports-park-playground",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:04.384Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:04.384Z",
+      "updatedAt": "2026-04-04T17:12:04.384Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:city-centre-park",
+      "name": "City Centre Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "1 St Peters Centre Blvd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1 St Peters Centre Blvd",
+      "location": {
+        "lat": 38.791602,
+        "lng": -90.5959041
+      },
+      "source": {
+        "id": "source-playground-batch2-city-centre-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:06.223Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:06.223Z",
+      "updatedAt": "2026-04-04T17:12:06.223Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:zachary-s-playground",
+      "name": "Zachary's Playground - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "8392 Orf Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "8392 Orf Rd",
+      "location": {
+        "lat": 38.7655,
+        "lng": -90.7894832
+      },
+      "source": {
+        "id": "source-playground-batch2-zachary-s-playground",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:08.118Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:08.118Z",
+      "updatedAt": "2026-04-04T17:12:08.119Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:circle-park",
+      "name": "Circle Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "920 Circle Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "920 Circle Dr",
+      "location": {
+        "lat": 38.7775535,
+        "lng": -90.4971908
+      },
+      "source": {
+        "id": "source-playground-batch2-circle-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:10.050Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:10.050Z",
+      "updatedAt": "2026-04-04T17:12:10.050Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:fountain-lakes-park",
+      "name": "Fountain Lakes Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "3850 Huster Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "3850 Huster Rd",
+      "location": {
+        "lat": 38.8202668,
+        "lng": -90.5303246
+      },
+      "source": {
+        "id": "source-playground-batch2-fountain-lakes-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:11.955Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:11.955Z",
+      "updatedAt": "2026-04-04T17:12:11.955Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:bangert-island",
+      "name": "Bangert Island - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "1704 S River Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1704 S River Rd",
+      "location": {
+        "lat": 38.7612209,
+        "lng": -90.4948759
+      },
+      "source": {
+        "id": "source-playground-batch2-bangert-island",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:14.410Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:14.410Z",
+      "updatedAt": "2026-04-04T17:12:14.410Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:hawk-ridge-park",
+      "name": "Hawk Ridge Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "1229 Ridgeway Ave",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1229 Ridgeway Ave",
+      "location": {
+        "lat": 39.0239435,
+        "lng": -94.4422094
+      },
+      "source": {
+        "id": "source-playground-batch2-hawk-ridge-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:16.379Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:16.379Z",
+      "updatedAt": "2026-04-04T17:12:16.379Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:playground-ed-bales-area",
+      "name": "Playground Ed Bales Area - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "N Main St",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "N Main St",
+      "location": {
+        "lat": 39.3000435,
+        "lng": -94.5799329
+      },
+      "source": {
+        "id": "source-playground-batch2-playground-ed-bales-area",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:19.626Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:19.626Z",
+      "updatedAt": "2026-04-04T17:12:19.626Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:rabbit-run-park",
+      "name": "Rabbit Run Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "10 Mayfield Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "10 Mayfield Rd",
+      "location": {
+        "lat": 38.7823959,
+        "lng": -90.6295751
+      },
+      "source": {
+        "id": "source-playground-batch2-rabbit-run-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:21.549Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:21.549Z",
+      "updatedAt": "2026-04-04T17:12:21.549Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:scott-a-lewis-park",
+      "name": "Scott A. Lewis Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "Unknown",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "Scott A. Lewis Park",
+      "location": {
+        "lat": 38.7604815,
+        "lng": -92.5617875
+      },
+      "source": {
+        "id": "source-playground-batch2-scott-a-lewis-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:23.446Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:23.446Z",
+      "updatedAt": "2026-04-04T17:12:23.446Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:legacy-park",
+      "name": "Legacy Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "5490 5th St",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "5490 5th St",
+      "location": {
+        "lat": 39.1657306,
+        "lng": -94.4503083
+      },
+      "source": {
+        "id": "source-playground-batch2-legacy-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:27.869Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:27.869Z",
+      "updatedAt": "2026-04-04T17:12:27.869Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:covenant-park",
+      "name": "Covenant Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "2199 Willott Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2199 Willott Rd",
+      "location": {
+        "lat": 38.7762483,
+        "lng": -90.6064868
+      },
+      "source": {
+        "id": "source-playground-batch2-covenant-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:31.713Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:31.713Z",
+      "updatedAt": "2026-04-04T17:12:31.713Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:forget-me-not-park",
+      "name": "Forget-Me-Not Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "150 S Main St",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "150 S Main St",
+      "location": {
+        "lat": 39.0915783,
+        "lng": -94.4158389
+      },
+      "source": {
+        "id": "source-playground-batch2-forget-me-not-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:36.899Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:36.899Z",
+      "updatedAt": "2026-04-04T17:12:36.899Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:missouri-bluffs-park",
+      "name": "Missouri Bluffs Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "100 Research Park Cir",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "100 Research Park Cir",
+      "location": {
+        "lat": 38.7026251,
+        "lng": -90.6738898
+      },
+      "source": {
+        "id": "source-playground-batch2-missouri-bluffs-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:40.839Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:40.839Z",
+      "updatedAt": "2026-04-04T17:12:40.839Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:city-hall-park",
+      "name": "City Hall Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "2032 Hanley Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2032 Hanley Rd",
+      "location": {
+        "lat": 38.7689147,
+        "lng": -90.7557424
+      },
+      "source": {
+        "id": "source-playground-batch2-city-hall-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:42.892Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:42.892Z",
+      "updatedAt": "2026-04-04T17:12:42.892Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:graystone-park",
+      "name": "Graystone Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "2232 Graystone Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2232 Graystone Dr",
+      "location": {
+        "lat": 38.7682213,
+        "lng": -90.539515
+      },
+      "source": {
+        "id": "source-playground-batch2-graystone-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:46.723Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:46.723Z",
+      "updatedAt": "2026-04-04T17:12:46.723Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:heartland-park",
+      "name": "Heartland Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "100 William Dierberg Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "100 William Dierberg Dr",
+      "location": {
+        "lat": 38.818712,
+        "lng": -90.8724358
+      },
+      "source": {
+        "id": "source-playground-batch2-heartland-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:48.525Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:48.525Z",
+      "updatedAt": "2026-04-04T17:12:48.525Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:o-day-park",
+      "name": "O'Day Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "1000 O'Day Park Drive",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1000 O'Day Park Drive",
+      "location": {
+        "lat": 38.7486808,
+        "lng": -90.7714299
+      },
+      "source": {
+        "id": "source-playground-batch2-o-day-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:50.465Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:50.465Z",
+      "updatedAt": "2026-04-04T17:12:50.465Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:flatwoods-park",
+      "name": "Flatwoods Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "2420 Hwy Y",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2420 Hwy Y",
+      "location": {
+        "lat": 39.0436962,
+        "lng": -90.7960283
+      },
+      "source": {
+        "id": "source-playground-batch2-flatwoods-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:54.555Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:54.555Z",
+      "updatedAt": "2026-04-04T17:12:54.555Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:nob-hill-park",
+      "name": "Nob Hill Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "50 Sutters Mill Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "50 Sutters Mill Rd",
+      "location": {
+        "lat": 38.7795891,
+        "lng": -90.5801954
+      },
+      "source": {
+        "id": "source-playground-batch2-nob-hill-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:56.442Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:56.442Z",
+      "updatedAt": "2026-04-04T17:12:56.442Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:paul-a-westhoff-park",
+      "name": "Paul A. Westhoff Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "810 Sheppard Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "810 Sheppard Dr",
+      "location": {
+        "lat": 38.811428,
+        "lng": -90.6898516
+      },
+      "source": {
+        "id": "source-playground-batch2-paul-a-westhoff-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:57.953Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:57.953Z",
+      "updatedAt": "2026-04-04T17:12:57.953Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:legacy-playground",
+      "name": "Legacy Playground - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "5445 State Rte N",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "5445 State Rte N",
+      "location": {
+        "lat": 38.9397699,
+        "lng": -94.3101223
+      },
+      "source": {
+        "id": "source-playground-batch2-legacy-playground",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:13:02.063Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:13:02.063Z",
+      "updatedAt": "2026-04-04T17:13:02.063Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:kennedy-s-playground",
+      "name": "Kennedy's Playground - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "115 McMenamy Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "115 McMenamy Rd",
+      "location": {
+        "lat": 38.7951701,
+        "lng": -90.6255929
+      },
+      "source": {
+        "id": "source-playground-batch2-kennedy-s-playground",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:13:03.961Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:13:03.961Z",
+      "updatedAt": "2026-04-04T17:13:03.961Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:jake-s-field-of-dreams",
+      "name": "Jake's Field Of Dreams - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "100 William Dierberg Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "100 William Dierberg Dr",
+      "location": {
+        "lat": 38.818712,
+        "lng": -90.8724358
+      },
+      "source": {
+        "id": "source-playground-batch2-jake-s-field-of-dreams",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:13:05.473Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:13:05.473Z",
+      "updatedAt": "2026-04-04T17:13:05.473Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:founders-park",
+      "name": "Founders Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "7 Freymuth Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "7 Freymuth Rd",
+      "location": {
+        "lat": 38.8017324,
+        "lng": -90.8100402
+      },
+      "source": {
+        "id": "source-playground-batch2-founders-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:13:07.401Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:13:07.401Z",
+      "updatedAt": "2026-04-04T17:13:07.401Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:rotary-park",
+      "name": "Rotary Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "2577 W Meyer Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2577 W Meyer Rd",
+      "location": {
+        "lat": 38.8285193,
+        "lng": -90.9147904
+      },
+      "source": {
+        "id": "source-playground-batch2-rotary-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:13:15.293Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:13:15.293Z",
+      "updatedAt": "2026-04-04T17:13:15.293Z"
     }
   ]
 }

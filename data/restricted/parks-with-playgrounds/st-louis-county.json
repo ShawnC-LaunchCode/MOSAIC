@@ -1,0 +1,281 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-04-04T17:11:04.415Z",
+  "county": "st-louis-county",
+  "sourceKind": "parks-with-playgrounds",
+  "sites": [
+    {
+      "id": "restricted:park-with-playground:st-louis-county:eise-park",
+      "name": "Eise Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "12103 Bourbon St",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "12103 Bourbon St",
+      "location": {
+        "lat": 38.7331265,
+        "lng": -90.4529581
+      },
+      "source": {
+        "id": "source-playground-batch2-eise-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:11:47.608Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:11:47.608Z",
+      "updatedAt": "2026-04-04T17:11:47.608Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:central-park-chesterfield",
+      "name": "Central Park Chesterfield - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "16365 Lydia Hill Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "16365 Lydia Hill Dr",
+      "location": {
+        "lat": 38.6523233,
+        "lng": -90.5741725
+      },
+      "source": {
+        "id": "source-playground-batch2-central-park-chesterfield",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:25.410Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:25.410Z",
+      "updatedAt": "2026-04-04T17:12:25.410Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:spanish-village-park",
+      "name": "Spanish Village Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "12899 Spanish Village Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "12899 Spanish Village Dr",
+      "location": {
+        "lat": 38.755928,
+        "lng": -90.446766
+      },
+      "source": {
+        "id": "source-playground-batch2-spanish-village-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:29.858Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:29.858Z",
+      "updatedAt": "2026-04-04T17:12:29.858Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:vago-park",
+      "name": "Vago Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "2700 Fee Fee Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2700 Fee Fee Rd",
+      "location": {
+        "lat": 38.720689,
+        "lng": -90.422305
+      },
+      "source": {
+        "id": "source-playground-batch2-vago-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:33.747Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:33.747Z",
+      "updatedAt": "2026-04-04T17:12:33.747Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:parkwood-park",
+      "name": "Parkwood Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "3145 Parkwood Ln",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "3145 Parkwood Ln",
+      "location": {
+        "lat": 38.7356621,
+        "lng": -90.4346595
+      },
+      "source": {
+        "id": "source-playground-batch2-parkwood-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:38.806Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:38.806Z",
+      "updatedAt": "2026-04-04T17:12:38.806Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:james-mcdonnell-county-park",
+      "name": "James McDonnell County Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "2961 Adie Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2961 Adie Rd",
+      "location": {
+        "lat": 38.7134071,
+        "lng": -90.4052422
+      },
+      "source": {
+        "id": "source-playground-batch2-james-mcdonnell-county-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:44.820Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:44.820Z",
+      "updatedAt": "2026-04-04T17:12:44.820Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:mckelvey-park",
+      "name": "McKelvey Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "3220 McKelvey Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "3220 McKelvey Rd",
+      "location": {
+        "lat": 38.7447308,
+        "lng": -90.4355026
+      },
+      "source": {
+        "id": "source-playground-batch2-mckelvey-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:12:52.396Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:12:52.396Z",
+      "updatedAt": "2026-04-04T17:12:52.396Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:tiemeyer-park",
+      "name": "Tiemeyer Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "3311 Ashby Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "3311 Ashby Rd",
+      "location": {
+        "lat": 38.7198909,
+        "lng": -90.3877173
+      },
+      "source": {
+        "id": "source-playground-batch2-tiemeyer-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:13:09.374Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:13:09.374Z",
+      "updatedAt": "2026-04-04T17:13:09.374Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:bridgeway-park",
+      "name": "Bridgeway Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "11700 Brookford Ln",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "11700 Brookford Ln",
+      "location": {
+        "lat": 38.7364276,
+        "lng": -90.4207038
+      },
+      "source": {
+        "id": "source-playground-batch2-bridgeway-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:13:11.282Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:13:11.282Z",
+      "updatedAt": "2026-04-04T17:13:11.282Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:vlasis-park",
+      "name": "Vlasis Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "300 Park Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "300 Park Dr",
+      "location": {
+        "lat": 38.596271,
+        "lng": -90.540826
+      },
+      "source": {
+        "id": "source-playground-batch2-vlasis-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:13:13.282Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:13:13.282Z",
+      "updatedAt": "2026-04-04T17:13:13.282Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:matthews-park",
+      "name": "Matthews Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "11050 Ayrshire Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "11050 Ayrshire Dr",
+      "location": {
+        "lat": 38.7241825,
+        "lng": -90.4168959
+      },
+      "source": {
+        "id": "source-playground-batch2-matthews-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:13:17.236Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:13:17.236Z",
+      "updatedAt": "2026-04-04T17:13:17.236Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:manion-park",
+      "name": "Manion Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "15 Manion Park Dr",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "15 Manion Park Dr",
+      "location": {
+        "lat": 38.7846378,
+        "lng": -90.3372988
+      },
+      "source": {
+        "id": "source-playground-batch2-manion-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:13:18.929Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:13:18.929Z",
+      "updatedAt": "2026-04-04T17:13:18.929Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-louis-county:st-vincent-park",
+      "name": "St Vincent Park - Playground Area",
+      "county": "st-louis-county",
+      "municipality": "7335 St Charles Rock Rd",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "7335 St Charles Rock Rd",
+      "location": {
+        "lat": 38.687449,
+        "lng": -90.3082273
+      },
+      "source": {
+        "id": "source-playground-batch2-st-vincent-park",
+        "sourceType": "manual",
+        "sourceName": "Google Maps Playgrounds Batch",
+        "fetchedAt": "2026-04-04T17:13:21.200Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T17:13:21.200Z",
+      "updatedAt": "2026-04-04T17:13:21.200Z"
+    }
+  ]
+}
