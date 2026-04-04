@@ -298,7 +298,9 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground",
+        "school"
       ],
       "createdAt": "2026-04-04T15:39:21.010Z",
       "updatedAt": "2026-04-04T15:39:21.010Z"

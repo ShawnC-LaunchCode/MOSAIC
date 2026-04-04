@@ -110,10 +110,11 @@ export function buildRestrictionFlags(
   ).triggered;
 
   const hasPlaygroundTag = place.tags && place.tags.includes("playground");
+  const hasSchoolTag = place.tags && place.tags.includes("school");
 
   // A place is considered on a restricted property if it has a playground tag,
   // or if its name exactly matches a restricted site and its coordinates are within ~10 meters.
-  const onRestrictedProperty = hasPlaygroundTag || restrictedSites.some((site) => {
+  const onRestrictedProperty = hasPlaygroundTag || hasSchoolTag || restrictedSites.some((site) => {
     if (site.location.lat === null || site.location.lng === null) return false;
     if (site.name.toLowerCase() !== place.name.toLowerCase()) return false;
     const distanceMeters = getDistance(
