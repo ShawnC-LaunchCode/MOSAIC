@@ -11,8 +11,11 @@
       "municipality": "St. Charles",
       "recreationType": "fishing",
       "address": "2360 Highway D, St. Charles, MO 63304",
-      "location": { "lat": 38.7184, "lng": -90.7557 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7184,-90.7557",
+      "location": {
+        "lat": 38.7184,
+        "lng": -90.7557
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=August%20A.%20Busch%20Memorial%20Conservation%20Area%20%E2%80%93%20Fishing%2C%202360%20Highway%20D%2C%20St.%20Charles%2C%20MO%2063304",
       "websiteUrl": "https://mdc.mo.gov/discover-nature/places/august-busch-memorial-conservation-area",
       "source": {
         "id": "source-busch-conservation-fishing-001",
@@ -22,7 +25,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "fishing"],
+      "tags": [
+        "outdoor",
+        "fishing"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -33,8 +39,11 @@
       "municipality": "Augusta",
       "recreationType": "fishing",
       "address": "4600 Highway 94 S, Augusta, MO 63332",
-      "location": { "lat": 38.6371, "lng": -90.8820 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6371,-90.8820",
+      "location": {
+        "lat": 38.6371,
+        "lng": -90.882
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Klondike%20Park%20%E2%80%93%20Fishing%20Lake%2C%204600%20Highway%2094%20S%2C%20Augusta%2C%20MO%2063332",
       "websiteUrl": "https://www.sccmo.org/669/Klondike-Park",
       "source": {
         "id": "source-klondike-park-fishing-001",
@@ -44,7 +53,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "fishing"],
+      "tags": [
+        "outdoor",
+        "fishing"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -55,8 +67,11 @@
       "municipality": "New Melle",
       "recreationType": "fishing",
       "address": "400 Foristell Rd, New Melle, MO 63365",
-      "location": { "lat": 38.7742, "lng": -90.8540 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7742,-90.8540",
+      "location": {
+        "lat": 38.7742,
+        "lng": -90.854
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Park%20at%20New%20Melle%20Lakes%20%E2%80%93%20Fishing%2C%20400%20Foristell%20Rd%2C%20New%20Melle%2C%20MO%2063365",
       "websiteUrl": null,
       "source": {
         "id": "source-new-melle-lakes-fishing-001",
@@ -66,7 +81,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "fishing"],
+      "tags": [
+        "outdoor",
+        "fishing"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     }

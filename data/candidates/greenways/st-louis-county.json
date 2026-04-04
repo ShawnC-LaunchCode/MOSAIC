@@ -11,8 +11,11 @@
       "municipality": "Affton",
       "recreationType": "greenway",
       "address": "4590 Hoffmeister Ave, St. Louis, MO 63125",
-      "location": { "lat": 38.5068, "lng": -90.2968 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5068,-90.2968",
+      "location": {
+        "lat": 38.5068,
+        "lng": -90.2968
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grant's%20Trail%20%E2%80%93%20South%20Trailhead%2C%204590%20Hoffmeister%20Ave%2C%20St.%20Louis%2C%20MO%2063125",
       "websiteUrl": "https://greatriversgreenway.org",
       "source": {
         "id": "source-grants-trail-south-001",
@@ -22,7 +25,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "walking"],
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -33,8 +39,11 @@
       "municipality": "Kirkwood",
       "recreationType": "greenway",
       "address": "Holmes Ave & Leffingwell Ave, Kirkwood, MO 63122",
-      "location": { "lat": 38.5762, "lng": -90.4068 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5762,-90.4068",
+      "location": {
+        "lat": 38.5762,
+        "lng": -90.4068
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grant's%20Trail%20%E2%80%93%20Kirkwood%20North%20Trailhead%2C%20Holmes%20Ave%20%26%20Leffingwell%20Ave%2C%20Kirkwood%2C%20MO%2063122",
       "websiteUrl": "https://greatriversgreenway.org",
       "source": {
         "id": "source-grants-trail-kirkwood-north-001",
@@ -44,7 +53,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "walking"],
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -55,8 +67,11 @@
       "municipality": "Kirkwood",
       "recreationType": "greenway",
       "address": "2150 Marshall Rd, Kirkwood, MO 63122",
-      "location": { "lat": 38.5570, "lng": -90.4261 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5570,-90.4261",
+      "location": {
+        "lat": 38.557,
+        "lng": -90.4261
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Meramec%20Greenway%20%E2%80%93%20Greentree%20Park%20Trailhead%2C%202150%20Marshall%20Rd%2C%20Kirkwood%2C%20MO%2063122",
       "websiteUrl": "https://greatriversgreenway.org",
       "source": {
         "id": "source-meramec-greenway-greentree-001",
@@ -66,7 +81,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "walking"],
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -77,8 +95,11 @@
       "municipality": "Fenton",
       "recreationType": "greenway",
       "address": "1215 Larkin Williams Rd, Fenton, MO 63026",
-      "location": { "lat": 38.5133, "lng": -90.4444 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5133,-90.4444",
+      "location": {
+        "lat": 38.5133,
+        "lng": -90.4444
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Meramec%20Greenway%20%E2%80%93%20Fenton%20City%20Park%20Trailhead%2C%201215%20Larkin%20Williams%20Rd%2C%20Fenton%2C%20MO%2063026",
       "websiteUrl": "https://greatriversgreenway.org",
       "source": {
         "id": "source-meramec-greenway-fenton-001",
@@ -88,7 +109,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "walking"],
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -99,8 +123,11 @@
       "municipality": "Chesterfield",
       "recreationType": "greenway",
       "address": "17017 N Outer 40 Rd, Chesterfield, MO 63005",
-      "location": { "lat": 38.7301, "lng": -90.5849 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7301,-90.5849",
+      "location": {
+        "lat": 38.7301,
+        "lng": -90.5849
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Monarch-Chesterfield%20Levee%20Trail%20%E2%80%93%20River's%20Edge%20Trailhead%2C%2017017%20N%20Outer%2040%20Rd%2C%20Chesterfield%2C%20MO%2063005",
       "websiteUrl": "https://greatriversgreenway.org/greenways/missouri-greenway-monarch-chesterfield-levee",
       "source": {
         "id": "source-monarch-chesterfield-levee-rivers-edge-001",
@@ -110,7 +137,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "walking"],
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -121,8 +151,11 @@
       "municipality": "Chesterfield",
       "recreationType": "greenway",
       "address": "17634 Edison Ave, Chesterfield, MO 63005",
-      "location": { "lat": 38.7340, "lng": -90.5990 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7340,-90.5990",
+      "location": {
+        "lat": 38.734,
+        "lng": -90.599
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Monarch-Chesterfield%20Levee%20Trail%20%E2%80%93%20Railroad%20Park%20Trailhead%2C%2017634%20Edison%20Ave%2C%20Chesterfield%2C%20MO%2063005",
       "websiteUrl": "https://greatriversgreenway.org/greenways/missouri-greenway-monarch-chesterfield-levee",
       "source": {
         "id": "source-monarch-chesterfield-levee-railroad-park-001",
@@ -132,7 +165,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "walking"],
+      "tags": [
+        "outdoor",
+        "walking"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     }

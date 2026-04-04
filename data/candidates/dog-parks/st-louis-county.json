@@ -15,7 +15,7 @@
         "lat": 38.6049,
         "lng": -90.3534
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6049,-90.3534",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Deer%20Creek%20Dog%20Park%2C%203200%20N%20Laclede%20Station%20Rd%2C%20Maplewood%2C%20MO%2063143",
       "websiteUrl": null,
       "source": {
         "id": "source-deer-creek-dog-park-001",
@@ -43,7 +43,7 @@
         "lat": 38.584,
         "lng": -90.4957
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5840,-90.4957",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tails%20%26%20Trails%20Dog%20Park%20at%20Queeny%20Park%2C%201675%20S%20Mason%20Rd%2C%20Ballwin%2C%20MO%2063011",
       "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/places/tails-trails-dog-park",
       "source": {
         "id": "source-tails-trails-dog-park-queeny-001",
@@ -71,7 +71,7 @@
         "lat": 38.5501,
         "lng": -90.4612
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5501,-90.4612",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Treecourt%20Dog%20Adventure%20Park%2C%202499%20Marshall%20Rd%2C%20St.%20Louis%2C%20MO%2063122",
       "websiteUrl": null,
       "source": {
         "id": "source-treecourt-dog-adventure-park-001",
@@ -99,7 +99,7 @@
         "lat": 38.5849,
         "lng": -90.2985
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5849,-90.2985",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Southwest%20City%20Dog%20Park%2C%206415%20Jamieson%20Ave%2C%20St.%20Louis%2C%20MO%2063109",
       "websiteUrl": "https://swcitydogpark.org",
       "source": {
         "id": "source-southwest-city-dog-park-001",
@@ -127,7 +127,7 @@
         "lat": 38.5921,
         "lng": -90.5868
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5921,-90.5868",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kiefer%20Creek%20Park%20%E2%80%93%20Dog%20Park%2C%20225%20Kiefer%20Creek%20Rd%2C%20Ellisville%2C%20MO%2063021",
       "websiteUrl": null,
       "source": {
         "id": "source-kiefer-creek-dog-park-001",
@@ -155,7 +155,7 @@
         "lat": 38.7480708,
         "lng": -90.2898276
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7480708,-90.2898276",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wayside%20Park%20Unleashed%2C%201026%20Chambers%20Road",
       "websiteUrl": "https://www.fergusoncity.com/613/Wayside-Park",
       "source": {
         "id": "osm-11664359436",
@@ -182,7 +182,7 @@
         "lat": 38.7873263,
         "lng": -90.3408133
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7873263,-90.3408133",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Florissant%20Dog%20Park%2C%205%20Brower%20Lane",
       "websiteUrl": "https://www.florissantmo.com/topic/index.php?topicid=239&structureid=20",
       "source": {
         "id": "osm-11664405174",
@@ -207,7 +207,7 @@
         "lat": 38.8261475,
         "lng": -90.2220071
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8261475,-90.2220071",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=K-9%20Training%2C%20st-louis-county",
       "source": {
         "id": "osm-12569719715",
         "sourceType": "osm",
@@ -231,7 +231,7 @@
         "lat": 38.9450774,
         "lng": -90.1967177
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9450774,-90.1967177",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Heinz%20Memorial%20Dog%20Park%2C%20st-louis-county",
       "source": {
         "id": "osm-13646382880",
         "sourceType": "osm",
@@ -255,7 +255,7 @@
         "lat": 38.7169435,
         "lng": -90.8185792
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7169435,-90.8185792",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Broemmelsiek%2C%20st-louis-county",
       "source": {
         "id": "osm-156992003",
         "sourceType": "osm",
@@ -279,7 +279,7 @@
         "lat": 38.6117565,
         "lng": -90.2515595
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6117565,-90.2515595",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Shaw%20Neighborhood%20Dog%20Park%2C%20st-louis-county",
       "websiteUrl": "https://shawstlouis.org/attractions-amenities/shaw-dog-park",
       "source": {
         "id": "osm-200493076",
@@ -304,7 +304,7 @@
         "lat": 38.5865369,
         "lng": -90.6483078
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5865369,-90.6483078",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wildwood%20Dog%20Park%2C%20st-louis-county",
       "source": {
         "id": "osm-453343294",
         "sourceType": "osm",
@@ -330,7 +330,7 @@
         "lat": 38.6301891,
         "lng": -90.2575694
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6301891,-90.2575694",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Forest%20Park%20Southeast%20Dog%20Park%2C%204359%20Chouteau%20Avenue",
       "websiteUrl": "https://www.stlouis-mo.gov/parks/parks/browse-parks/amenity.cfm?id=504",
       "source": {
         "id": "osm-461391324",
@@ -355,7 +355,7 @@
         "lat": 38.6101388,
         "lng": -90.2052833
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6101388,-90.2052833",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Soulard%20Dog%20Park%2C%20st-louis-county",
       "source": {
         "id": "osm-544634331",
         "sourceType": "osm",
@@ -379,7 +379,7 @@
         "lat": 38.6153345,
         "lng": -90.2352684
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6153345,-90.2352684",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Water%20Tower%20Dog%20Park%2C%20st-louis-county",
       "source": {
         "id": "osm-626042855",
         "sourceType": "osm",
@@ -403,7 +403,7 @@
         "lat": 38.4321795,
         "lng": -90.3896339
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4321795,-90.3896339",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paw%20Park%2C%20st-louis-county",
       "source": {
         "id": "osm-747113458",
         "sourceType": "osm",
@@ -427,7 +427,7 @@
         "lat": 38.4273306,
         "lng": -90.3866316
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4273306,-90.3866316",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ozark%20Paw%20Park%2C%20st-louis-county",
       "source": {
         "id": "osm-747113459",
         "sourceType": "osm",
@@ -451,7 +451,7 @@
         "lat": 38.5141352,
         "lng": -90.3358445
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5141352,-90.3358445",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20Johns%20Community%20Dog%20Park%2C%20st-louis-county",
       "source": {
         "id": "osm-1093687090",
         "sourceType": "osm",
@@ -477,7 +477,7 @@
         "lat": 38.6314295,
         "lng": -90.1836885
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6314295,-90.1836885",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Laclede's%20Landing%20Dog%20Park%2C%20Laclede's%20Landing%20Boulevard",
       "source": {
         "id": "osm-1152000102",
         "sourceType": "osm",
@@ -501,7 +501,7 @@
         "lat": 38.6821502,
         "lng": -90.3621717
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6821502,-90.3621717",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Woodson%20Road%20Dog%20Park%2C%20st-louis-county",
       "websiteUrl": "https://www.overlandmo.org/418/Dog-Park",
       "source": {
         "id": "osm-1182374416",
@@ -526,7 +526,7 @@
         "lat": 38.6159871,
         "lng": -90.3306331
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6159871,-90.3306331",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maplewood%20Dog%20Park%2C%20st-louis-county",
       "source": {
         "id": "osm-1192458743",
         "sourceType": "osm",
@@ -552,7 +552,7 @@
         "lat": 38.6210987,
         "lng": -90.2594812
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6210987,-90.2594812",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bar%20K%2C%204565%20McRee%20Avenue",
       "websiteUrl": "https://barkdogbar.com/locations/st-louis-mo/",
       "source": {
         "id": "osm-1309486943",
@@ -577,7 +577,7 @@
         "lat": 38.6418044,
         "lng": -90.2285487
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6418044,-90.2285487",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Renaissance%20Place%20Dog%20Park%2C%20st-louis-county",
       "source": {
         "id": "osm-1349015611",
         "sourceType": "osm",
@@ -601,7 +601,7 @@
         "lat": 38.8861222,
         "lng": -90.1703691
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8861222,-90.1703691",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Alton%20Dog%20Park%2C%20st-louis-county",
       "source": {
         "id": "osm-1424632063",
         "sourceType": "osm",
@@ -627,7 +627,7 @@
         "lat": 38.5569014,
         "lng": -90.460638
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5569014,-90.460638",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Treecourt%20Unleashed%20Dog%20Adventure%20Park%2C%202499%20Marshall%20Rd",
       "websiteUrl": "https://treecourtunleasheddogadventureparks.com",
       "source": {
         "id": "osm-1430810748",

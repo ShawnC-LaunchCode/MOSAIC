@@ -11,8 +11,11 @@
       "municipality": "Portage des Sioux",
       "recreationType": "boat-ramp",
       "address": "1550 Hideaway Harbor Dr, Portage des Sioux, MO 63373",
-      "location": { "lat": 38.9192, "lng": -90.3713 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9192,-90.3713",
+      "location": {
+        "lat": 38.9192,
+        "lng": -90.3713
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hideaway%20Harbor%20Park%20%E2%80%93%20Boat%20Ramp%2C%201550%20Hideaway%20Harbor%20Dr%2C%20Portage%20des%20Sioux%2C%20MO%2063373",
       "websiteUrl": "https://www.sccmo.org/663/Hideaway-Harbor-Park",
       "source": {
         "id": "source-hideaway-harbor-boat-ramp-001",
@@ -22,7 +25,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "boating"],
+      "tags": [
+        "outdoor",
+        "boating"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -33,8 +39,11 @@
       "municipality": "St. Charles",
       "recreationType": "boat-ramp",
       "address": "101 Riverport Lane, St. Charles, MO 63301",
-      "location": { "lat": 38.7869, "lng": -90.4768 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7869,-90.4768",
+      "location": {
+        "lat": 38.7869,
+        "lng": -90.4768
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riverside%20Landing%20Park%20%E2%80%93%20Mississippi%20River%20Boat%20Ramp%2C%20101%20Riverport%20Lane%2C%20St.%20Charles%2C%20MO%2063301",
       "websiteUrl": "https://www.sccmo.org/726/Riverside-Landing",
       "source": {
         "id": "source-riverside-landing-boat-ramp-001",
@@ -44,7 +53,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "boating"],
+      "tags": [
+        "outdoor",
+        "boating"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -55,8 +67,11 @@
       "municipality": "Augusta",
       "recreationType": "boat-ramp",
       "address": "4600 Highway 94 S, Augusta, MO 63332",
-      "location": { "lat": 38.6350, "lng": -90.8830 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6350,-90.8830",
+      "location": {
+        "lat": 38.635,
+        "lng": -90.883
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Klondike%20Park%20%E2%80%93%20Missouri%20River%20Boat%20Ramp%2C%204600%20Highway%2094%20S%2C%20Augusta%2C%20MO%2063332",
       "websiteUrl": "https://www.sccmo.org/669/Klondike-Park",
       "source": {
         "id": "source-klondike-park-boat-ramp-001",
@@ -66,7 +81,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "boating"],
+      "tags": [
+        "outdoor",
+        "boating"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -77,8 +95,11 @@
       "municipality": "O'Fallon",
       "recreationType": "boat-ramp",
       "address": "2420 Flatwoods Rd, O'Fallon, MO 63366",
-      "location": { "lat": 38.8612, "lng": -90.6482 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8612,-90.6482",
+      "location": {
+        "lat": 38.8612,
+        "lng": -90.6482
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Flatwoods%20Park%20%E2%80%93%20Cuivre%20River%20Kayak%20Launch%2C%202420%20Flatwoods%20Rd%2C%20O'Fallon%2C%20MO%2063366",
       "websiteUrl": "https://www.sccmo.org/2100/Flatwoods-Park",
       "source": {
         "id": "source-flatwoods-park-kayak-launch-001",
@@ -88,7 +109,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "boating"],
+      "tags": [
+        "outdoor",
+        "boating"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     }

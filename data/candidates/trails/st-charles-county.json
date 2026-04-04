@@ -15,7 +15,7 @@
         "lat": 38.6628,
         "lng": -90.787
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6628,-90.7870",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Katy%20Trail%20%E2%80%93%20Defiance%20Access%2C%20700%20S%20Highway%2094%2C%20Defiance%2C%20MO",
       "source": {
         "id": "source-trail-001",
         "sourceType": "manual",
@@ -42,7 +42,7 @@
         "lat": 38.7809,
         "lng": -90.4838
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7809,-90.4838",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Frontier%20Park%20Trail%2C%20500%20S%20Riverside%20Dr%2C%20St%20Charles%2C%20MO",
       "source": {
         "id": "source-trail-002",
         "sourceType": "manual",
@@ -69,7 +69,7 @@
         "lat": 38.7032,
         "lng": -90.6741
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7032,-90.6741",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Katy%20Trail%20%E2%80%93%20Weldon%20Spring%20Trailhead%2C%207295%20Highway%2094%20S%2C%20Weldon%20Spring%2C%20MO%2063304",
       "websiteUrl": "https://mostateparks.com/park/katy-trail-state-park",
       "source": {
         "id": "source-trail-003",
@@ -97,7 +97,7 @@
         "lat": 38.7001,
         "lng": -90.765
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7001,-90.7650",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Broemmelsiek%20Park%20%E2%80%93%20Multi-Use%20Trail%2C%201795%20Highway%20DD%2C%20Defiance%2C%20MO%2063341",
       "websiteUrl": "https://www.sccmo.org/617/Broemmelsiek-Park",
       "source": {
         "id": "source-trail-004",
@@ -125,7 +125,7 @@
         "lat": 38.6791,
         "lng": -90.7509
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6791,-90.7509",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Matson%20Hill%20Park%20%E2%80%93%20Mountain%20Bike%20Trailhead%2C%203576%20Stub%20Rd%2C%20Defiance%2C%20MO%2063341",
       "websiteUrl": "https://www.sccmo.org/713/Matson-Hill-Park",
       "source": {
         "id": "source-trail-005",
@@ -153,7 +153,7 @@
         "lat": 38.7924,
         "lng": -90.9101
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7924,-90.9101",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Camp%20Creek%20Park%20%E2%80%93%20Trail%20Access%2C%202679%20Dietrich%20Rd%2C%20Foristell%2C%20MO%2063348",
       "websiteUrl": "https://www.sccmo.org/665/Indian-Camp-Creek-Park",
       "source": {
         "id": "source-trail-006",
@@ -181,7 +181,7 @@
         "lat": 38.7184,
         "lng": -90.7557
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7184,-90.7557",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=August%20A.%20Busch%20Memorial%20Conservation%20Area%20%E2%80%93%20Trail%20Access%2C%202360%20Highway%20D%2C%20St.%20Charles%2C%20MO%2063304",
       "websiteUrl": "https://mdc.mo.gov/discover-nature/places/august-busch-memorial-conservation-area",
       "source": {
         "id": "source-trail-007",
@@ -209,7 +209,7 @@
         "lat": 38.6371,
         "lng": -90.882
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6371,-90.8820",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Klondike%20Park%20%E2%80%93%20Hiking%20%26%20Biking%20Trailhead%2C%204600%20Highway%2094%20S%2C%20Augusta%2C%20MO%2063332",
       "websiteUrl": "https://www.sccmo.org/669/Klondike-Park",
       "source": {
         "id": "source-trail-008",
@@ -235,7 +235,7 @@
         "lat": 38.8810519,
         "lng": -90.944268
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8810519,-90.944268",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Camp%20Creek%2C%20st-charles-county",
       "source": {
         "id": "osm-116529866",
         "sourceType": "osm",
@@ -259,7 +259,7 @@
         "lat": 38.8220702,
         "lng": -90.5257299
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8220702,-90.5257299",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fountain%20Lakes%20Trail%2C%20st-charles-county",
       "source": {
         "id": "osm-146280024",
         "sourceType": "osm",
@@ -283,7 +283,7 @@
         "lat": 38.8192768,
         "lng": -90.4913839
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8192768,-90.4913839",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fox%20Hill%20Park%20Trail%2C%20st-charles-county",
       "source": {
         "id": "osm-146659684",
         "sourceType": "osm",
@@ -307,7 +307,7 @@
         "lat": 38.9370504,
         "lng": -90.5402339
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9370504,-90.5402339",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prairie%20Adventure%20Trail%2C%20st-charles-county",
       "source": {
         "id": "osm-329372692",
         "sourceType": "osm",
@@ -331,7 +331,7 @@
         "lat": 38.8035596,
         "lng": -90.6346858
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8035596,-90.6346858",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sports%20Center%20Trail%2C%20st-charles-county",
       "source": {
         "id": "osm-480961093",
         "sourceType": "osm",
@@ -355,7 +355,7 @@
         "lat": 38.7521457,
         "lng": -90.6424387
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7521457,-90.6424387",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kountz%20Fort%20Trail%2C%20st-charles-county",
       "source": {
         "id": "osm-543612079",
         "sourceType": "osm",
@@ -379,7 +379,7 @@
         "lat": 38.8764914,
         "lng": -90.9000042
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8764914,-90.9000042",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lakeside%20Loop%2C%20st-charles-county",
       "source": {
         "id": "osm-562364387",
         "sourceType": "osm",
@@ -403,7 +403,7 @@
         "lat": 38.8756899,
         "lng": -90.8982
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8756899,-90.8982",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Towne%20Trail%2C%20st-charles-county",
       "source": {
         "id": "osm-562364389",
         "sourceType": "osm",
@@ -427,7 +427,7 @@
         "lat": 38.8329359,
         "lng": -90.8431462
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8329359,-90.8431462",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Love%20Park%20Lane%2C%20st-charles-county",
       "source": {
         "id": "osm-752892544",
         "sourceType": "osm",
@@ -451,7 +451,7 @@
         "lat": 38.7804307,
         "lng": -90.4820209
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7804307,-90.4820209",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Madison%20Street%2C%20st-charles-county",
       "source": {
         "id": "osm-1070264620",
         "sourceType": "osm",

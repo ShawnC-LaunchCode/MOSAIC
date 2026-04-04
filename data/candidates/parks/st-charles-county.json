@@ -15,7 +15,7 @@
         "lat": 38.7001,
         "lng": -90.765
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7001,-90.7650",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Broemmelsiek%20Park%2C%201795%20Highway%20DD%2C%20Defiance%2C%20MO%2063341",
       "websiteUrl": "https://www.sccmo.org/617/Broemmelsiek-Park",
       "source": {
         "id": "source-broemmelsiek-park-001",
@@ -43,7 +43,7 @@
         "lat": 38.6371,
         "lng": -90.882
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6371,-90.8820",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Klondike%20Park%2C%204600%20Highway%2094%20S%2C%20Augusta%2C%20MO%2063332",
       "websiteUrl": "https://www.sccmo.org/669/Klondike-Park",
       "source": {
         "id": "source-klondike-park-001",
@@ -71,7 +71,7 @@
         "lat": 38.7924,
         "lng": -90.9101
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7924,-90.9101",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Indian%20Camp%20Creek%20Park%2C%202679%20Dietrich%20Rd%2C%20Foristell%2C%20MO%2063348",
       "websiteUrl": "https://www.sccmo.org/665/Indian-Camp-Creek-Park",
       "source": {
         "id": "source-indian-camp-creek-park-001",
@@ -99,7 +99,7 @@
         "lat": 38.7541,
         "lng": -90.5793
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7541,-90.5793",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Veterans%20Tribute%20Park%2C%201031%20Kisker%20Rd%2C%20St.%20Charles%2C%20MO%2063304",
       "websiteUrl": "https://www.sccmo.org/741/Veterans-Tribute-Park",
       "source": {
         "id": "source-veterans-tribute-park-001",
@@ -127,7 +127,7 @@
         "lat": 38.8024,
         "lng": -90.9266
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8024,-90.9266",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Towne%20Park%2C%20100%20Towne%20Park%20Dr%2C%20Foristell%2C%20MO%2063348",
       "websiteUrl": "https://www.sccmo.org/739/Towne-Park",
       "source": {
         "id": "source-towne-park-001",
@@ -155,7 +155,7 @@
         "lat": 38.7613,
         "lng": -90.596
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7613,-90.5960",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Missouri%20Bluffs%20Park%2C%20100%20Research%20Circle%2C%20St.%20Charles%2C%20MO%2063304",
       "websiteUrl": "https://www.sccmo.org/715/Missouri-Bluffs-Park",
       "source": {
         "id": "source-missouri-bluffs-park-001",
@@ -183,7 +183,7 @@
         "lat": 38.7985,
         "lng": -90.894
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7985,-90.8940",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oglesby%20Park%2C%202801%20W%20Meyer%20Rd%2C%20Foristell%2C%20MO%2063348",
       "websiteUrl": null,
       "source": {
         "id": "source-oglesby-park-001",
@@ -209,7 +209,7 @@
         "lat": 38.8681058,
         "lng": -90.5203968
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8681058,-90.5203968",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=River%20Road%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-358069879",
         "sourceType": "osm",
@@ -233,7 +233,7 @@
         "lat": 38.8125518,
         "lng": -90.6856806
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8125518,-90.6856806",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paul%20A%20Westhoff%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-358084387",
         "sourceType": "osm",
@@ -257,7 +257,7 @@
         "lat": 38.8336962,
         "lng": -90.8370256
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8336962,-90.8370256",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brookshire%20Commons%2C%20st-charles-county",
       "source": {
         "id": "osm-5260694722",
         "sourceType": "osm",
@@ -281,7 +281,7 @@
         "lat": 38.9485557,
         "lng": -90.5886295
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9485557,-90.5886295",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20School%20Gym%2C%20st-charles-county",
       "source": {
         "id": "osm-6751192761",
         "sourceType": "osm",
@@ -305,7 +305,7 @@
         "lat": 38.8613323,
         "lng": -90.5336308
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8613323,-90.5336308",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riverside%20Landing%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-12705922207",
         "sourceType": "osm",
@@ -329,7 +329,7 @@
         "lat": 38.8179507,
         "lng": -90.4917166
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8179507,-90.4917166",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fox%20Hill%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-110348135",
         "sourceType": "osm",
@@ -353,7 +353,7 @@
         "lat": 38.8362027,
         "lng": -90.4913986
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8362027,-90.4913986",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Town%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-110348391",
         "sourceType": "osm",
@@ -377,7 +377,7 @@
         "lat": 38.751037,
         "lng": -90.6499398
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.751037,-90.6499398",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Legacy%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-147096510",
         "sourceType": "osm",
@@ -401,7 +401,7 @@
         "lat": 38.928775,
         "lng": -90.7532358
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.928775,-90.7532358",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Monroe%20CommunityBallpark%2C%20st-charles-county",
       "source": {
         "id": "osm-154644555",
         "sourceType": "osm",
@@ -425,7 +425,7 @@
         "lat": 38.9306024,
         "lng": -90.748137
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9306024,-90.748137",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Goos%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-155849924",
         "sourceType": "osm",
@@ -449,7 +449,7 @@
         "lat": 38.7972163,
         "lng": -90.5223394
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7972163,-90.5223394",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McNair%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-157550541",
         "sourceType": "osm",
@@ -473,7 +473,7 @@
         "lat": 38.7752814,
         "lng": -90.4986003
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7752814,-90.4986003",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boone's%20Lick%20Park%2C%20st-charles-county",
       "websiteUrl": "http://www.stcharlesparks.com/park/boones-lick-park/",
       "source": {
         "id": "osm-157551420",
@@ -498,7 +498,7 @@
         "lat": 38.8016894,
         "lng": -90.8110341
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8016894,-90.8110341",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Founders%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-160654488",
         "sourceType": "osm",
@@ -522,7 +522,7 @@
         "lat": 38.7968578,
         "lng": -90.7085652
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7968578,-90.7085652",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fort%20Zumwalt%20Park%2C%20st-charles-county",
       "websiteUrl": "https://www.ofallon.mo.us/fort-zumwalt-park",
       "source": {
         "id": "osm-161810670",
@@ -547,7 +547,7 @@
         "lat": 38.8266995,
         "lng": -90.70804
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8266995,-90.70804",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dames%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-164078994",
         "sourceType": "osm",
@@ -571,7 +571,7 @@
         "lat": 38.7994419,
         "lng": -90.504733
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7994419,-90.504733",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jaycee%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-164817874",
         "sourceType": "osm",
@@ -595,7 +595,7 @@
         "lat": 38.9495722,
         "lng": -90.8995915
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9495722,-90.8995915",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moscow%20Mills%20Athletic%20Association%2C%20st-charles-county",
       "source": {
         "id": "osm-166891420",
         "sourceType": "osm",
@@ -619,7 +619,7 @@
         "lat": 38.7746941,
         "lng": -90.6437624
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7746941,-90.6437624",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Woodlands%20Sports%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-205301490",
         "sourceType": "osm",
@@ -643,7 +643,7 @@
         "lat": 38.7797717,
         "lng": -90.6149879
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7797717,-90.6149879",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brookmount%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-206197035",
         "sourceType": "osm",
@@ -667,7 +667,7 @@
         "lat": 38.7845581,
         "lng": -90.6149772
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7845581,-90.6149772",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tot%20Lot%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-208370216",
         "sourceType": "osm",
@@ -691,7 +691,7 @@
         "lat": 38.7537971,
         "lng": -90.5558076
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7537971,-90.5558076",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Schaefer%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-233583887",
         "sourceType": "osm",
@@ -715,7 +715,7 @@
         "lat": 38.7973525,
         "lng": -90.5216161
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7973525,-90.5216161",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=McNair%20Aquatic%20Facility%2C%20st-charles-county",
       "source": {
         "id": "osm-233683920",
         "sourceType": "osm",
@@ -739,7 +739,7 @@
         "lat": 38.7959498,
         "lng": -90.5201114
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7959498,-90.5201114",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Roller%20hockey%2C%20st-charles-county",
       "source": {
         "id": "osm-233683927",
         "sourceType": "osm",
@@ -765,7 +765,7 @@
         "lat": 38.7989238,
         "lng": -90.4832188
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7989238,-90.4832188",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Blanchette%20Park%2C%201900%20Randolph%20St",
       "websiteUrl": "http://www.stcharlesparks.com/park/blanchette-park/",
       "source": {
         "id": "osm-238319331",
@@ -790,7 +790,7 @@
         "lat": 38.7975327,
         "lng": -90.4837653
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7975327,-90.4837653",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field%20No.%202%2C%20st-charles-county",
       "source": {
         "id": "osm-238319333",
         "sourceType": "osm",
@@ -814,7 +814,7 @@
         "lat": 38.7994294,
         "lng": -90.4830313
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7994294,-90.4830313",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Horseshoe%20pits%2C%20st-charles-county",
       "source": {
         "id": "osm-238319337",
         "sourceType": "osm",
@@ -838,7 +838,7 @@
         "lat": 38.8232794,
         "lng": -90.5610123
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8232794,-90.5610123",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Archery%20Range%2C%20st-charles-county",
       "source": {
         "id": "osm-240280186",
         "sourceType": "osm",
@@ -862,7 +862,7 @@
         "lat": 38.7878106,
         "lng": -90.5019238
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7878106,-90.5019238",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Harlen%20C.%20Hunter%20Stadium%2C%20st-charles-county",
       "source": {
         "id": "osm-249556830",
         "sourceType": "osm",
@@ -886,7 +886,7 @@
         "lat": 38.8364305,
         "lng": -90.4945684
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8364305,-90.4945684",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Town%20Center%2C%20st-charles-county",
       "source": {
         "id": "osm-268514552",
         "sourceType": "osm",
@@ -912,7 +912,7 @@
         "lat": 38.7890215,
         "lng": -90.5051882
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7890215,-90.5051882",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sand%20Volleyball%20Court%2C%202020%20Lions%20One%20Roar%20Drive",
       "source": {
         "id": "osm-347336306",
         "sourceType": "osm",
@@ -936,7 +936,7 @@
         "lat": 38.8001182,
         "lng": -90.8387859
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8001182,-90.8387859",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Quail%20Ridge%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-358611817",
         "sourceType": "osm",
@@ -962,7 +962,7 @@
         "lat": 38.7228726,
         "lng": -90.8149131
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7228726,-90.8149131",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Broemmelsiek%20Astronomy%20Viewing%20Area%2C%201615%20Schwede%20Road",
       "source": {
         "id": "osm-404755385",
         "sourceType": "osm",
@@ -986,7 +986,7 @@
         "lat": 38.7979507,
         "lng": -90.499201
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7979507,-90.499201",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Duchesne%20High%20School%20Track%20%26%20Football%20Field%2C%20st-charles-county",
       "source": {
         "id": "osm-406608926",
         "sourceType": "osm",
@@ -1010,7 +1010,7 @@
         "lat": 38.8299344,
         "lng": -90.4895171
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8299344,-90.4895171",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Town%20Kid's%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-466735908",
         "sourceType": "osm",
@@ -1034,7 +1034,7 @@
         "lat": 38.8324069,
         "lng": -90.7089376
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8324069,-90.7089376",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hyland%20Green%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-468430356",
         "sourceType": "osm",
@@ -1058,7 +1058,7 @@
         "lat": 38.8238394,
         "lng": -90.5752622
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8238394,-90.5752622",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=370%20Lakeside%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-468489435",
         "sourceType": "osm",
@@ -1084,7 +1084,7 @@
         "lat": 38.8126224,
         "lng": -90.7047103
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8126224,-90.7047103",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Civic%20Park%2C%20410%20E%20Elm%20Street",
       "source": {
         "id": "osm-469215172",
         "sourceType": "osm",
@@ -1110,7 +1110,7 @@
         "lat": 38.7763134,
         "lng": -90.4823981
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7763134,-90.4823981",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Frontier%20Park%2C%20500%20South%20Riverside%20Drive",
       "websiteUrl": "https://stcharlesparks.com/park/frontier-park/",
       "source": {
         "id": "osm-469216413",
@@ -1137,7 +1137,7 @@
         "lat": 38.7783533,
         "lng": -90.4823693
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7783533,-90.4823693",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kister%20Park%2C%20408%20South%20Main%20Street",
       "source": {
         "id": "osm-469217827",
         "sourceType": "osm",
@@ -1163,7 +1163,7 @@
         "lat": 38.7799162,
         "lng": -90.48227
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7799162,-90.48227",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Berthold%20Square%20Park%2C%20221%20South%20Main%20Street",
       "source": {
         "id": "osm-469218671",
         "sourceType": "osm",
@@ -1187,7 +1187,7 @@
         "lat": 38.8127345,
         "lng": -90.6864169
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8127345,-90.6864169",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Westoff%20park%2C%20st-charles-county",
       "source": {
         "id": "osm-470057510",
         "sourceType": "osm",
@@ -1213,7 +1213,7 @@
         "lat": 38.8289188,
         "lng": -90.9167469
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8289188,-90.9167469",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rotary%20Park%2C%202577%20West%20Meyer%20Road",
       "websiteUrl": "https://www.wentzvillemo.gov/parks-and-recreation/parks-facilities/find-a-park-or-facility/rotary-park/",
       "source": {
         "id": "osm-470419173",
@@ -1240,7 +1240,7 @@
         "lat": 38.8183088,
         "lng": -90.8724701
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8183088,-90.8724701",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Heartland%20Park%2C%20100%20William%20Dierberg%20Drive",
       "source": {
         "id": "osm-470419774",
         "sourceType": "osm",
@@ -1266,7 +1266,7 @@
         "lat": 38.7831838,
         "lng": -90.7803725
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7831838,-90.7803725",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boulevard%20Park%2C%202550%20Lake%20Saint%20Louis%20Boulevard",
       "source": {
         "id": "osm-470423135",
         "sourceType": "osm",
@@ -1290,7 +1290,7 @@
         "lat": 38.8013538,
         "lng": -90.6277316
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8013538,-90.6277316",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Towne%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-475882684",
         "sourceType": "osm",
@@ -1314,7 +1314,7 @@
         "lat": 38.7686026,
         "lng": -90.7551
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7686026,-90.7551",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dardenne%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-475885112",
         "sourceType": "osm",
@@ -1340,7 +1340,7 @@
         "lat": 38.7797412,
         "lng": -90.5802788
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7797412,-90.5802788",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nob%20Hill%20Park%2C%2050%20Sutters%20Mill%20Road",
       "websiteUrl": "https://www.stpetersmo.net/st-peters-parks.aspx#nobhill",
       "source": {
         "id": "osm-480961134",
@@ -1365,7 +1365,7 @@
         "lat": 38.7749257,
         "lng": -90.5824443
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7749257,-90.5824443",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Veterans%20Memorial%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-480961141",
         "sourceType": "osm",
@@ -1389,7 +1389,7 @@
         "lat": 38.7835962,
         "lng": -90.5784435
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7835962,-90.5784435",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Orchard%20Hills%20Pocket%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-482783169",
         "sourceType": "osm",
@@ -1413,7 +1413,7 @@
         "lat": 38.8053249,
         "lng": -90.9530197
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8053249,-90.9530197",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Foristell%20City%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-494952764",
         "sourceType": "osm",
@@ -1437,7 +1437,7 @@
         "lat": 38.7974726,
         "lng": -90.4811308
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7974726,-90.4811308",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ball%20Field%204%2C%20st-charles-county",
       "source": {
         "id": "osm-518954309",
         "sourceType": "osm",
@@ -1461,7 +1461,7 @@
         "lat": 38.7597169,
         "lng": -90.5068608
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7597169,-90.5068608",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vogt%20Brothers%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-536482491",
         "sourceType": "osm",
@@ -1485,7 +1485,7 @@
         "lat": 38.7854778,
         "lng": -90.7940429
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7854778,-90.7940429",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Veteran's%20Memorial%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-552179778",
         "sourceType": "osm",
@@ -1509,7 +1509,7 @@
         "lat": 38.8123698,
         "lng": -90.8560462
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8123698,-90.8560462",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fireman's%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-552228447",
         "sourceType": "osm",
@@ -1533,7 +1533,7 @@
         "lat": 38.7648081,
         "lng": -90.789147
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7648081,-90.789147",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hawk%20Ridge%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-552633305",
         "sourceType": "osm",
@@ -1559,7 +1559,7 @@
         "lat": 38.8768674,
         "lng": -90.8988291
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8768674,-90.8988291",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Towne%20Park%2C%20100%20Towne%20Park%20Drive",
       "websiteUrl": "https://www.sccmo.org/739/Towne-Park",
       "source": {
         "id": "osm-562364391",
@@ -1584,7 +1584,7 @@
         "lat": 38.9762379,
         "lng": -90.9714662
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9762379,-90.9714662",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fairgrounds%20Historical%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-577681245",
         "sourceType": "osm",
@@ -1608,7 +1608,7 @@
         "lat": 38.9800334,
         "lng": -90.9705692
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9800334,-90.9705692",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Avery%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-577684145",
         "sourceType": "osm",
@@ -1632,7 +1632,7 @@
         "lat": 38.9755536,
         "lng": -90.9962175
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9755536,-90.9962175",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Weinand%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-577688358",
         "sourceType": "osm",
@@ -1656,7 +1656,7 @@
         "lat": 38.9777492,
         "lng": -90.9890227
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9777492,-90.9890227",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bonfields'%20Ballfields%2C%20st-charles-county",
       "source": {
         "id": "osm-577691026",
         "sourceType": "osm",
@@ -1680,7 +1680,7 @@
         "lat": 38.9878793,
         "lng": -90.9955805
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9878793,-90.9955805",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lincoln%20County%20Fairgrounds%2C%20st-charles-county",
       "source": {
         "id": "osm-577926554",
         "sourceType": "osm",
@@ -1704,7 +1704,7 @@
         "lat": 38.975695,
         "lng": -90.9706436
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.975695,-90.9706436",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field%203%2C%20st-charles-county",
       "source": {
         "id": "osm-578212961",
         "sourceType": "osm",
@@ -1728,7 +1728,7 @@
         "lat": 38.9754166,
         "lng": -90.9691684
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9754166,-90.9691684",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field%204%2C%20st-charles-county",
       "source": {
         "id": "osm-578213275",
         "sourceType": "osm",
@@ -1752,7 +1752,7 @@
         "lat": 38.9766323,
         "lng": -90.9718475
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9766323,-90.9718475",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field%202%2C%20st-charles-county",
       "source": {
         "id": "osm-578215684",
         "sourceType": "osm",
@@ -1776,7 +1776,7 @@
         "lat": 38.9766187,
         "lng": -90.9729835
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9766187,-90.9729835",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field%201%2C%20st-charles-county",
       "source": {
         "id": "osm-578216091",
         "sourceType": "osm",
@@ -1800,7 +1800,7 @@
         "lat": 38.9781974,
         "lng": -90.9810396
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9781974,-90.9810396",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Glenna's%20Garden%2C%20st-charles-county",
       "source": {
         "id": "osm-578220222",
         "sourceType": "osm",
@@ -1824,7 +1824,7 @@
         "lat": 38.9795767,
         "lng": -90.9815054
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9795767,-90.9815054",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20Cherry%20Street%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-578233561",
         "sourceType": "osm",
@@ -1848,7 +1848,7 @@
         "lat": 38.9803152,
         "lng": -90.9821195
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9803152,-90.9821195",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Historic%20Court%20House%20Grounds%2C%20st-charles-county",
       "source": {
         "id": "osm-578234191",
         "sourceType": "osm",
@@ -1872,7 +1872,7 @@
         "lat": 38.978625,
         "lng": -90.9806089
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.978625,-90.9806089",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Heckler%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-578684461",
         "sourceType": "osm",
@@ -1896,7 +1896,7 @@
         "lat": 38.9967939,
         "lng": -90.920679
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9967939,-90.920679",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kathren's%20Garden%2C%20st-charles-county",
       "source": {
         "id": "osm-578700678",
         "sourceType": "osm",
@@ -1920,7 +1920,7 @@
         "lat": 38.9238259,
         "lng": -90.9036463
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9238259,-90.9036463",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Miss%20Rodeo%20Missouri%20Ranch%2C%20st-charles-county",
       "source": {
         "id": "osm-583788075",
         "sourceType": "osm",
@@ -1944,7 +1944,7 @@
         "lat": 38.7857832,
         "lng": -90.6138906
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7857832,-90.6138906",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brookmont%20Dog%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-584017457",
         "sourceType": "osm",
@@ -1968,7 +1968,7 @@
         "lat": 38.7427073,
         "lng": -90.7352016
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7427073,-90.7352016",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Winghaven%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-598667787",
         "sourceType": "osm",
@@ -1992,7 +1992,7 @@
         "lat": 38.7407714,
         "lng": -90.7351689
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7407714,-90.7351689",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boardwalk%20Springs%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-598999864",
         "sourceType": "osm",
@@ -2016,7 +2016,7 @@
         "lat": 38.7568235,
         "lng": -90.4931337
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7568235,-90.4931337",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangert%20Island%2C%20st-charles-county",
       "source": {
         "id": "osm-601199724",
         "sourceType": "osm",
@@ -2040,7 +2040,7 @@
         "lat": 38.9754987,
         "lng": -90.9886779
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9754987,-90.9886779",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pin%20Oak%20Grove%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-606819126",
         "sourceType": "osm",
@@ -2064,7 +2064,7 @@
         "lat": 38.9270708,
         "lng": -90.8997805
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9270708,-90.8997805",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Antler%20Paradise%2C%20st-charles-county",
       "source": {
         "id": "osm-606899407",
         "sourceType": "osm",
@@ -2090,7 +2090,7 @@
         "lat": 38.8229361,
         "lng": -90.8569245
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8229361,-90.8569245",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Progress%20Park%2C%20968%20Meyer%20Road",
       "websiteUrl": "https://www.wentzvillemo.gov/parks-and-recreation/parks-facilities/find-a-park-or-facility/progress-park/",
       "source": {
         "id": "osm-682783738",
@@ -2115,7 +2115,7 @@
         "lat": 38.948325,
         "lng": -90.5879766
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.948325,-90.5879766",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brussels%20Boy's%20Baseball%20Field%2C%20st-charles-county",
       "source": {
         "id": "osm-719038600",
         "sourceType": "osm",
@@ -2141,7 +2141,7 @@
         "lat": 38.7453551,
         "lng": -90.7547855
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7453551,-90.7547855",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field%201%2C%20901%20Caledonia%20Dr",
       "websiteUrl": "https://www.morushsoccer.com/parkdetails",
       "source": {
         "id": "osm-740405429",
@@ -2166,7 +2166,7 @@
         "lat": 38.7454416,
         "lng": -90.7539227
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7454416,-90.7539227",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field%202%2C%20st-charles-county",
       "websiteUrl": "https://www.morushsoccer.com/parkdetails",
       "source": {
         "id": "osm-740405430",
@@ -2191,7 +2191,7 @@
         "lat": 38.7455281,
         "lng": -90.7530622
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7455281,-90.7530622",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field%203%2C%20st-charles-county",
       "websiteUrl": "https://www.morushsoccer.com/parkdetails",
       "source": {
         "id": "osm-740405431",
@@ -2216,7 +2216,7 @@
         "lat": 38.745614,
         "lng": -90.7522016
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.745614,-90.7522016",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Field%204%2C%20st-charles-county",
       "websiteUrl": "https://www.morushsoccer.com/parkdetails",
       "source": {
         "id": "osm-740405432",
@@ -2243,7 +2243,7 @@
         "lat": 38.8092053,
         "lng": -90.6875628
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8092053,-90.6875628",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wabash%20Woods%20Community%20Park%2C%20329%20Wabash%20Woods%20Way",
       "source": {
         "id": "osm-831863324",
         "sourceType": "osm",
@@ -2269,7 +2269,7 @@
         "lat": 38.8180263,
         "lng": -90.6805899
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8180263,-90.6805899",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ozzie%20Smith%20Sports%20Complex%2C%20900%20TR%20Hughes%20Boulevard",
       "websiteUrl": "https://www.ofallon.mo.us/ozzie-smith-sports-complex",
       "source": {
         "id": "osm-839179689",
@@ -2294,7 +2294,7 @@
         "lat": 38.7905417,
         "lng": -90.6776476
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7905417,-90.6776476",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Schrader%20Farm%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-923496842",
         "sourceType": "osm",
@@ -2318,7 +2318,7 @@
         "lat": 38.7409331,
         "lng": -90.5989723
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7409331,-90.5989723",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stone%20Ridge%20Tennis%20Court%2C%20st-charles-county",
       "source": {
         "id": "osm-939025475",
         "sourceType": "osm",
@@ -2342,7 +2342,7 @@
         "lat": 38.7665725,
         "lng": -90.6284031
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7665725,-90.6284031",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cavalry%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-962258392",
         "sourceType": "osm",
@@ -2366,7 +2366,7 @@
         "lat": 38.7622234,
         "lng": -90.7012638
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7622234,-90.7012638",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=RoyallSprings%20Park%20South%2C%20st-charles-county",
       "source": {
         "id": "osm-977039760",
         "sourceType": "osm",
@@ -2390,7 +2390,7 @@
         "lat": 38.7630547,
         "lng": -90.7007935
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7630547,-90.7007935",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=RoyallSprings%20Park%20North%2C%20st-charles-county",
       "source": {
         "id": "osm-977039761",
         "sourceType": "osm",
@@ -2414,7 +2414,7 @@
         "lat": 38.7508701,
         "lng": -90.6515326
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7508701,-90.6515326",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Legacy%20Park%20Volleyball%2C%20st-charles-county",
       "source": {
         "id": "osm-1104737675",
         "sourceType": "osm",
@@ -2440,7 +2440,7 @@
         "lat": 38.8328622,
         "lng": -90.9380896
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8328622,-90.9380896",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oglesby%20Park%2C%202949%20W%20Meyer%20Road",
       "websiteUrl": "https://www.sccmo.org/2223/Oglesby-Park",
       "source": {
         "id": "osm-1107092876",
@@ -2467,7 +2467,7 @@
         "lat": 38.9696723,
         "lng": -90.9862337
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9696723,-90.9862337",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Troy%20Kiwanis%20Park%2C%202500%20Trojan%20Circle",
       "source": {
         "id": "osm-1107720263",
         "sourceType": "osm",
@@ -2491,7 +2491,7 @@
         "lat": 38.7448495,
         "lng": -90.7530254
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7448495,-90.7530254",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tiki%20Beach%20Missouri%20Sand%20Volleyball%20Club%2C%20st-charles-county",
       "source": {
         "id": "osm-1204006814",
         "sourceType": "osm",
@@ -2515,7 +2515,7 @@
         "lat": 38.801835,
         "lng": -90.536782
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.801835,-90.536782",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Cletus%20Soccer%20Field%2C%20st-charles-county",
       "source": {
         "id": "osm-1204013350",
         "sourceType": "osm",
@@ -2541,7 +2541,7 @@
         "lat": 38.748611,
         "lng": -90.6531727
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.748611,-90.6531727",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Frankie%20Martin's%20Garden%2C%205372%20Saint%20Charles%20Street",
       "websiteUrl": "https://frankiemartinsgarden.com/",
       "source": {
         "id": "osm-1212697983",
@@ -2568,7 +2568,7 @@
         "lat": 38.8140585,
         "lng": -90.4860499
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8140585,-90.4860499",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fox%20Hill%20Apartments%20Play%20Area%2C%20800%20Fox%20Chase%20Drive",
       "source": {
         "id": "osm-1273895539",
         "sourceType": "osm",
@@ -2594,7 +2594,7 @@
         "lat": 38.7658145,
         "lng": -90.6363673
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7658145,-90.6363673",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hansen%20Park%2C%2065%20Ohmes%20Road",
       "source": {
         "id": "osm-1305753483",
         "sourceType": "osm",
@@ -2618,7 +2618,7 @@
         "lat": 38.8331169,
         "lng": -90.4812606
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8331169,-90.4812606",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=New%20Town%20Pickleball%2C%20st-charles-county",
       "source": {
         "id": "osm-1332926241",
         "sourceType": "osm",
@@ -2642,7 +2642,7 @@
         "lat": 38.8353306,
         "lng": -90.4871437
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8353306,-90.4871437",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Island%20District%20Quay%2C%20st-charles-county",
       "source": {
         "id": "osm-1332926243",
         "sourceType": "osm",
@@ -2666,7 +2666,7 @@
         "lat": 38.8338962,
         "lng": -90.5038022
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8338962,-90.5038022",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Suntan%20Quadrangle%2C%20st-charles-county",
       "source": {
         "id": "osm-1332926244",
         "sourceType": "osm",
@@ -2690,7 +2690,7 @@
         "lat": 38.8350728,
         "lng": -90.5077026
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8350728,-90.5077026",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rector%20Green%2C%20st-charles-county",
       "source": {
         "id": "osm-1332926245",
         "sourceType": "osm",
@@ -2714,7 +2714,7 @@
         "lat": 38.8354399,
         "lng": -90.5031285
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8354399,-90.5031285",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Island%20Quadrangle%2C%20st-charles-county",
       "source": {
         "id": "osm-1332926249",
         "sourceType": "osm",
@@ -2738,7 +2738,7 @@
         "lat": 38.9928628,
         "lng": -90.7455956
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9928628,-90.7455956",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Warrior%20Way%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-1337855611",
         "sourceType": "osm",
@@ -2762,7 +2762,7 @@
         "lat": 38.7778096,
         "lng": -90.5257846
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7778096,-90.5257846",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pundmann%20Nature%20Reserve%2C%20st-charles-county",
       "source": {
         "id": "osm-1376582358",
         "sourceType": "osm",
@@ -2786,7 +2786,7 @@
         "lat": 38.7929367,
         "lng": -90.6646811
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7929367,-90.6646811",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trailwoods%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-1377611557",
         "sourceType": "osm",
@@ -2810,7 +2810,7 @@
         "lat": 38.8307212,
         "lng": -90.9186979
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8307212,-90.9186979",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Joust%20Field%2C%20st-charles-county",
       "source": {
         "id": "osm-1382395498",
         "sourceType": "osm",
@@ -2834,7 +2834,7 @@
         "lat": 38.8029576,
         "lng": -90.6327248
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8029576,-90.6327248",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brown%20Road%20park%2C%20st-charles-county",
       "source": {
         "id": "osm-7079905",
         "sourceType": "osm",
@@ -2858,7 +2858,7 @@
         "lat": 38.8031877,
         "lng": -90.6303947
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8031877,-90.6303947",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lone%20Wolff%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-7079907",
         "sourceType": "osm",
@@ -2882,7 +2882,7 @@
         "lat": 38.801968,
         "lng": -90.6341846
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.801968,-90.6341846",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sports%20Center%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-7079908",
         "sourceType": "osm",
@@ -2906,7 +2906,7 @@
         "lat": 38.7813558,
         "lng": -90.6343549
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7813558,-90.6343549",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Glen%20Travis%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-7790432",
         "sourceType": "osm",
@@ -2930,7 +2930,7 @@
         "lat": 38.7803535,
         "lng": -90.6312755
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7803535,-90.6312755",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rabbit%20Run%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-7790433",
         "sourceType": "osm",
@@ -2954,7 +2954,7 @@
         "lat": 38.7879099,
         "lng": -90.6157223
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7879099,-90.6157223",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Teton%20Pocket%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-7793139",
         "sourceType": "osm",
@@ -2978,7 +2978,7 @@
         "lat": 38.7823055,
         "lng": -90.6099925
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7823055,-90.6099925",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brookmount%20Trail%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-7793141",
         "sourceType": "osm",
@@ -3002,7 +3002,7 @@
         "lat": 39.0357926,
         "lng": -90.9344561
       },
-      "googleMapsUrl": "https://maps.google.com/?q=39.0357926,-90.9344561",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuivre%20River%20State%20Park%2C%20st-charles-county",
       "websiteUrl": "https://mostateparks.com/park/cuivre-river-state-park",
       "source": {
         "id": "osm-7802017",
@@ -3027,7 +3027,7 @@
         "lat": 38.7716409,
         "lng": -90.5852186
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7716409,-90.5852186",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Covenant%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-8126369",
         "sourceType": "osm",
@@ -3051,7 +3051,7 @@
         "lat": 38.7812946,
         "lng": -90.5861956
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7812946,-90.5861956",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Spencer%20Creek%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-8296713",
         "sourceType": "osm",
@@ -3075,7 +3075,7 @@
         "lat": 38.7899743,
         "lng": -90.5957147
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7899743,-90.5957147",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=City%20Centre%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-8296714",
         "sourceType": "osm",
@@ -3099,7 +3099,7 @@
         "lat": 38.7769243,
         "lng": -90.6006096
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7769243,-90.6006096",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Spencer%20Road%20Pocket%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-8309811",
         "sourceType": "osm",
@@ -3123,7 +3123,7 @@
         "lat": 38.7766706,
         "lng": -90.5969434
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7766706,-90.5969434",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oak%20Creek%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-8309812",
         "sourceType": "osm",
@@ -3147,7 +3147,7 @@
         "lat": 38.7924338,
         "lng": -90.6485773
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7924338,-90.6485773",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dardenne%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-8439076",
         "sourceType": "osm",
@@ -3171,7 +3171,7 @@
         "lat": 38.7609746,
         "lng": -90.6296626
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7609746,-90.6296626",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Scott%20A%20Lewis%20Park%2C%20st-charles-county",
       "websiteUrl": "https://www.cityofcottleville.com/parks-and-recreation/scott-a-lewis-park/",
       "source": {
         "id": "osm-9198264",
@@ -3198,7 +3198,7 @@
         "lat": 38.7640658,
         "lng": -90.6437703
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7640658,-90.6437703",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=College%20Meadows%20Park%2C%204601%20Mid%20Rivers%20Mall%20Drive",
       "websiteUrl": "https://www.sccmo.org/1483/College-Meadows-Park",
       "source": {
         "id": "osm-9347497",
@@ -3223,7 +3223,7 @@
         "lat": 38.7656704,
         "lng": -90.5720511
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7656704,-90.5720511",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Laurel%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-9647119",
         "sourceType": "osm",
@@ -3247,7 +3247,7 @@
         "lat": 38.7790619,
         "lng": -90.6387735
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7790619,-90.6387735",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack%20Gettermeyer%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-10295073",
         "sourceType": "osm",
@@ -3273,7 +3273,7 @@
         "lat": 38.7760423,
         "lng": -90.6850441
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7760423,-90.6850441",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Knaust%20Park%2C%20114%20Sea%20Side%20Court",
       "source": {
         "id": "osm-12594527",
         "sourceType": "osm",
@@ -3297,7 +3297,7 @@
         "lat": 38.7683298,
         "lng": -90.7634447
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7683298,-90.7634447",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kinetic%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-13922094",
         "sourceType": "osm",
@@ -3321,7 +3321,7 @@
         "lat": 38.8342169,
         "lng": -90.494063
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8342169,-90.494063",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Civic%20Green%20Lawn%2C%20st-charles-county",
       "source": {
         "id": "osm-18275642",
         "sourceType": "osm",

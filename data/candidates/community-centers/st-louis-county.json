@@ -15,7 +15,7 @@
         "lat": 38.5839,
         "lng": -90.4069
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5839,-90.4069",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kirkwood%20Community%20Center%2C%20111%20S%20Geyer%20Rd%2C%20Kirkwood%2C%20MO%2063122",
       "websiteUrl": "https://www.kirkwoodparksandrec.org/places-to-go/facilities/community-center",
       "source": {
         "id": "source-kirkwood-community-center-001",
@@ -43,7 +43,7 @@
         "lat": 38.6614,
         "lng": -90.5724
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6614,-90.5724",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chesterfield%20Community%20Center%2C%2016464%20Burkhardt%20Pl%2C%20Chesterfield%2C%20MO%2063017",
       "websiteUrl": "https://www.chesterfield.mo.us/chesterfield-community-center.html",
       "source": {
         "id": "source-chesterfield-community-center-001",
@@ -71,7 +71,7 @@
         "lat": 38.5133,
         "lng": -90.4444
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5133,-90.4444",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fenton%20City%20Park%20%E2%80%93%20Recreation%20Complex%2C%201215%20Larkin%20Williams%20Rd%2C%20Fenton%2C%20MO%2063026",
       "websiteUrl": "https://fentonmo.org",
       "source": {
         "id": "source-fenton-city-park-rec-complex-001",
@@ -99,7 +99,7 @@
         "lat": 38.6617,
         "lng": -90.4273
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6617,-90.4273",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Creve%20Coeur%20Parks%20%26%20Recreation%20Center%2C%20300%20N%20New%20Ballas%20Rd%2C%20Creve%20Coeur%2C%20MO%2063141",
       "websiteUrl": "https://www.crevecoeurmo.gov/126/Parks-Recreation",
       "source": {
         "id": "source-creve-coeur-parks-rec-center-001",
@@ -127,7 +127,7 @@
         "lat": 38.5479,
         "lng": -90.4935
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5479,-90.4935",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Valley%20Park%20Community%20Center%2C%20320%20Benton%20St%2C%20Valley%20Park%2C%20MO%2063088",
       "websiteUrl": null,
       "source": {
         "id": "source-valley-park-community-center-001",
@@ -153,7 +153,7 @@
         "lat": 38.6833647,
         "lng": -90.1532092
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6833647,-90.1532092",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Madison%20Memorial%20Center%2C%20st-louis-county",
       "source": {
         "id": "osm-368064064",
         "sourceType": "osm",
@@ -177,7 +177,7 @@
         "lat": 38.5990521,
         "lng": -90.2708058
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5990521,-90.2708058",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Family%20Forward%2C%20st-louis-county",
       "source": {
         "id": "osm-4712780008",
         "sourceType": "osm",
@@ -203,7 +203,7 @@
         "lat": 38.6506624,
         "lng": -90.197556
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6506624,-90.197556",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Excel%20Center%2C%202707%2014th%20Street",
       "websiteUrl": "https://prosperityconnection.org/excel-center/",
       "source": {
         "id": "osm-5167711521",
@@ -230,7 +230,7 @@
         "lat": 38.6100291,
         "lng": -90.1563779
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6100291,-90.1563779",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Leslie%20Bates%20Davis%20Neighborhood%20House%2C%20606%20South%2015th%20Street",
       "source": {
         "id": "osm-6139746022",
         "sourceType": "osm",
@@ -256,7 +256,7 @@
         "lat": 38.6440273,
         "lng": -90.1080088
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6440273,-90.1080088",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fairmont%20City%20Christian%20Activity%20Center%2C%204012%20Maple%20Avenue",
       "source": {
         "id": "osm-6148786367",
         "sourceType": "osm",
@@ -280,7 +280,7 @@
         "lat": 38.6248329,
         "lng": -90.1245175
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6248329,-90.1245175",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jackie%20Joyner%20Kersee%20Community%20Center%2C%20st-louis-county",
       "source": {
         "id": "osm-10005607963",
         "sourceType": "osm",
@@ -306,7 +306,7 @@
         "lat": 38.6160238,
         "lng": -90.349916
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6160238,-90.349916",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brentwood%20Community%20Center%2C%202505%20South%20Brentwood%20Boulevard",
       "websiteUrl": "https://www.brentwoodmo.org/205/Community-Center",
       "source": {
         "id": "osm-10233763069",
@@ -333,7 +333,7 @@
         "lat": 38.6312075,
         "lng": -90.2033562
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6312075,-90.2033562",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fathers%20%26%20Families%20Support%20Center%2C%201601%20Olive%20Street",
       "websiteUrl": "https://www.fatherssupportcenter.org/",
       "source": {
         "id": "osm-201971915",
@@ -360,7 +360,7 @@
         "lat": 38.6398452,
         "lng": -90.1892025
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6398452,-90.1892025",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Youth%20and%20Family%20Center%2C%20818%20Cass%20Avenue",
       "websiteUrl": "https://www.theyfc.org/",
       "source": {
         "id": "osm-271637809",
@@ -385,7 +385,7 @@
         "lat": 38.6286726,
         "lng": -90.3312435
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6286726,-90.3312435",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Richmond%20Heights%20Community%20Center%2C%20st-louis-county",
       "source": {
         "id": "osm-272694358",
         "sourceType": "osm",
@@ -409,7 +409,7 @@
         "lat": 38.7944138,
         "lng": -90.2984743
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7944138,-90.2984743",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=James%20J%20Eagan%20Center%2C%20st-louis-county",
       "source": {
         "id": "osm-363398852",
         "sourceType": "osm",
@@ -435,7 +435,7 @@
         "lat": 38.606138,
         "lng": -90.3206994
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.606138,-90.3206994",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=VFW%20Hall%2C%20Sutton%20Boulevard",
       "source": {
         "id": "osm-374856422",
         "sourceType": "osm",
@@ -459,7 +459,7 @@
         "lat": 38.5000362,
         "lng": -90.632543
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5000362,-90.632543",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eureka%20Community%20Center%2C%20st-louis-county",
       "source": {
         "id": "osm-404983686",
         "sourceType": "osm",
@@ -485,7 +485,7 @@
         "lat": 38.7041537,
         "lng": -90.4590082
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7041537,-90.4590082",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Edward%20Jones%20Family%20YMCA%2C%2012521%20Marine%20Avenue",
       "source": {
         "id": "osm-461992838",
         "sourceType": "osm",
@@ -509,7 +509,7 @@
         "lat": 38.339373,
         "lng": -90.1554965
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.339373,-90.1554965",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=VFW%20Hall%20Metzger%20Crook%20Post%206504%2C%20st-louis-county",
       "source": {
         "id": "osm-492447199",
         "sourceType": "osm",
@@ -535,7 +535,7 @@
         "lat": 38.515413,
         "lng": -90.2071954
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.515413,-90.2071954",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sugarloaf%20Township%20Office%2C%20240%20South%205th%20Street",
       "source": {
         "id": "osm-508817937",
         "sourceType": "osm",
@@ -559,7 +559,7 @@
         "lat": 38.540481,
         "lng": -90.2319328
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.540481,-90.2319328",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=East%20Carondelet%20Community%20Center%2C%20st-louis-county",
       "source": {
         "id": "osm-508831938",
         "sourceType": "osm",
@@ -585,7 +585,7 @@
         "lat": 38.573623,
         "lng": -90.4831808
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.573623,-90.4831808",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Countrylane%20Woods%20II%20Clubhouse%2C%20851%20Country%20Stone%20Drive",
       "websiteUrl": "https://www.countrylanewoodsii.com/Clubhouse.html",
       "source": {
         "id": "osm-546688690",
@@ -612,7 +612,7 @@
         "lat": 38.6092438,
         "lng": -90.1694681
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6092438,-90.1694681",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rush%20City%20Community%20Center%2C%201015%20Liberty%20Avenue",
       "source": {
         "id": "osm-548462105",
         "sourceType": "osm",
@@ -638,7 +638,7 @@
         "lat": 38.7225314,
         "lng": -90.4465913
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7225314,-90.4465913",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maryland%20Heights%20Community%20Center%2C%202300%20McKelvey%20Road",
       "source": {
         "id": "osm-549412001",
         "sourceType": "osm",
@@ -664,7 +664,7 @@
         "lat": 38.5732048,
         "lng": -90.6460387
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5732048,-90.6460387",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=YMCA%2C%202641%20MO-109",
       "websiteUrl": "https://gwrymca.org/locations/wildwood-family-ymca",
       "source": {
         "id": "osm-572847488",
@@ -689,7 +689,7 @@
         "lat": 38.5652915,
         "lng": -90.3225729
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5652915,-90.3225729",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Affton%20Elk's%20Lodge%2C%20st-louis-county",
       "source": {
         "id": "osm-585524559",
         "sourceType": "osm",
@@ -713,7 +713,7 @@
         "lat": 38.6279443,
         "lng": -90.1324212
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6279443,-90.1324212",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parson's%20Place%20Community%20Center%2C%20st-louis-county",
       "source": {
         "id": "osm-586449894",
         "sourceType": "osm",
@@ -739,7 +739,7 @@
         "lat": 38.8077198,
         "lng": -90.361745
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8077198,-90.361745",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=John%20F%20Kennedy%20Civic%20Center%2C%20315%20Howdershell%20Road",
       "source": {
         "id": "osm-615665538",
         "sourceType": "osm",
@@ -765,7 +765,7 @@
         "lat": 38.5942122,
         "lng": -90.2302772
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5942122,-90.2302772",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rita%20Ford%20Community%20Center%2C%203353%20California%20Avenue",
       "source": {
         "id": "osm-618411329",
         "sourceType": "osm",
@@ -791,7 +791,7 @@
         "lat": 38.6465995,
         "lng": -90.2006496
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6465995,-90.2006496",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hogan%20Street%20Regional%20Youth%20Center%2C%20State%20of%20MO%2C%201839%20Hogan%20Street",
       "source": {
         "id": "osm-619591569",
         "sourceType": "osm",
@@ -817,7 +817,7 @@
         "lat": 38.6590825,
         "lng": -90.2225467
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6590825,-90.2225467",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Hub%2C%203000%20Prairie%20Avenue",
       "websiteUrl": "https://thehubstl.org/",
       "source": {
         "id": "osm-620261600",
@@ -844,7 +844,7 @@
         "lat": 38.6629032,
         "lng": -90.2745298
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6629032,-90.2745298",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Better%20Family%20Life%2C%205415%20Page%20Boulevard",
       "websiteUrl": "https://www.betterfamilylife.org/",
       "source": {
         "id": "osm-621374555",
@@ -871,7 +871,7 @@
         "lat": 38.6082447,
         "lng": -90.3034236
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6082447,-90.3034236",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=City%20Sewing%20Room%2C%206700%20Arsenal%20Street",
       "websiteUrl": "http://citysewingroom.com/",
       "source": {
         "id": "osm-627473791",
@@ -898,7 +898,7 @@
         "lat": 38.6059957,
         "lng": -90.2822359
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6059957,-90.2822359",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Louis%20Activity%20Center%2C%205602%20Arsenal%20Street",
       "websiteUrl": "http://www.stlactivitycenter.com/",
       "source": {
         "id": "osm-628492086",
@@ -925,7 +925,7 @@
         "lat": 38.7007373,
         "lng": -90.3598717
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7007373,-90.3598717",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Frank%20Munsch%20Community%20Center%2C%209225%20Lackland%20Road",
       "source": {
         "id": "osm-633930933",
         "sourceType": "osm",
@@ -949,7 +949,7 @@
         "lat": 38.6455723,
         "lng": -90.1082969
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6455723,-90.1082969",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Community%20Center%2C%20st-louis-county",
       "source": {
         "id": "osm-656386045",
         "sourceType": "osm",
@@ -973,7 +973,7 @@
         "lat": 38.581947,
         "lng": -90.1189554
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.581947,-90.1189554",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Charlie%20Coleman%20Community%20Center%2C%20st-louis-county",
       "source": {
         "id": "osm-657098295",
         "sourceType": "osm",
@@ -999,7 +999,7 @@
         "lat": 38.8930321,
         "lng": -90.1835857
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8930321,-90.1835857",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Salvation%20Army%20(Alton)%2C%20525%20Alby%20Street",
       "websiteUrl": "https://centralusa.salvationarmy.org/midland/alton/",
       "source": {
         "id": "osm-769792426",
@@ -1026,7 +1026,7 @@
         "lat": 38.6136907,
         "lng": -90.1454435
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6136907,-90.1454435",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=House%20of%20Miles%20East%20St.%20Louis%20(HOME)%2C%201701%20Kansas%20Avenue",
       "websiteUrl": "http://houseofmilesestl.org",
       "source": {
         "id": "osm-837374922",
@@ -1053,7 +1053,7 @@
         "lat": 38.6414888,
         "lng": -90.217931
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6414888,-90.217931",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gamble%20Community%20Center%2C%202907%20Gamble%20Street",
       "websiteUrl": "https://www.stlouis-mo.gov/government/departments/parks/recreation/centers/gamble.cfm",
       "source": {
         "id": "osm-842861316",
@@ -1080,7 +1080,7 @@
         "lat": 38.6806571,
         "lng": -90.3674181
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6806571,-90.3674181",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Louis%20Bridge%20Center%2C%201270%20North%20Price%20Road",
       "websiteUrl": "https://www.stlouisbridge.org/",
       "source": {
         "id": "osm-1177429554",
@@ -1105,7 +1105,7 @@
         "lat": 38.7064549,
         "lng": -90.3616059
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7064549,-90.3616059",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Moose%20Family%20Center%2C%20st-louis-county",
       "source": {
         "id": "osm-1329996432",
         "sourceType": "osm",
@@ -1131,7 +1131,7 @@
         "lat": 38.6458862,
         "lng": -90.3037401
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6458862,-90.3037401",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hillel%20at%20Washington%20University%20in%20St.%20Louis%2C%206300%20Forsyth%20Boulevard",
       "source": {
         "id": "osm-1344831389",
         "sourceType": "osm",
@@ -1157,7 +1157,7 @@
         "lat": 38.7335488,
         "lng": -90.4348829
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7335488,-90.4348829",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Holy%20Spirit%20Parish%20Annex%2C%203111%20Parkwood%20Lane",
       "source": {
         "id": "osm-1461270024",
         "sourceType": "osm",

@@ -11,8 +11,11 @@
       "municipality": "St. Charles",
       "recreationType": "driving-range",
       "address": "3650 W Clay St, St. Charles, MO 63301",
-      "location": { "lat": 38.7923, "lng": -90.5350 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7923,-90.5350",
+      "location": {
+        "lat": 38.7923,
+        "lng": -90.535
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cave%20Spring%20Golf%20Center%20%E2%80%93%20Driving%20Range%2C%203650%20W%20Clay%20St%2C%20St.%20Charles%2C%20MO%2063301",
       "websiteUrl": "https://www.cavespringgolfcenter.com",
       "source": {
         "id": "source-cave-spring-golf-center-001",
@@ -22,7 +25,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "sports"],
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     }

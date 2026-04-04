@@ -15,7 +15,7 @@
         "lat": 38.7882,
         "lng": -90.4942
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7882,-90.4942",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Charles%20City%20Parks%20%26%20Recreation%20Community%20Center%2C%201900%20Randolph%20St%2C%20St.%20Charles%2C%20MO%2063301",
       "websiteUrl": "https://stcharlesparks.com",
       "source": {
         "id": "source-st-charles-city-parks-rec-center-001",
@@ -43,7 +43,7 @@
         "lat": 38.7471,
         "lng": -90.696
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7471,-90.6960",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dardenne%20Prairie%20City%20Hall%20Park%20%26%20Recreation%2C%202032%20Hanley%20Rd%2C%20Dardenne%20Prairie%2C%20MO%2063368",
       "websiteUrl": "https://www.dardenneprairie.org",
       "source": {
         "id": "source-dardenne-prairie-rec-001",
@@ -71,7 +71,7 @@
         "lat": 38.8117,
         "lng": -90.6998
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8117,-90.6998",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=O'Fallon%20Parks%20%26%20Recreation%20Center%2C%20100%20N%20Main%20St%2C%20O'Fallon%2C%20MO%2063366",
       "websiteUrl": "https://www.ofallon.mo.us",
       "source": {
         "id": "source-ofallon-parks-rec-center-001",
@@ -99,7 +99,7 @@
         "lat": 38.7929,
         "lng": -90.5892
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7929,-90.5892",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Peters%20Parks%20%26%20Recreation%20Community%20Center%2C%201020%20Grand%20Teton%20Dr%2C%20St.%20Peters%2C%20MO%2063376",
       "websiteUrl": "https://www.stpetersmo.net",
       "source": {
         "id": "source-st-peters-parks-rec-center-001",
@@ -125,7 +125,7 @@
         "lat": 38.7920404,
         "lng": -90.5929833
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7920404,-90.5929833",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rec-Plex%2C%20st-charles-county",
       "source": {
         "id": "osm-1050558995",
         "sourceType": "osm",
@@ -149,7 +149,7 @@
         "lat": 38.7990925,
         "lng": -90.4846349
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7990925,-90.4846349",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Memorial%20Hall%2C%20st-charles-county",
       "source": {
         "id": "osm-257725151",
         "sourceType": "osm",
@@ -175,7 +175,7 @@
         "lat": 38.7948157,
         "lng": -90.626917
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7948157,-90.626917",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mayor%20Tom%20Brown%20Senior%20Center%2C%20108%20McMenamy%20Road",
       "websiteUrl": "https://www.stpetersmo.net/senior-center.aspx",
       "source": {
         "id": "osm-559988095",

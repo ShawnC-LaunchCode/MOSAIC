@@ -15,7 +15,7 @@
         "lat": 38.5526,
         "lng": -90.5435
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5526,-90.5435",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Castlewood%20State%20Park%20%E2%80%93%20Lone%20Wolf%20Trailhead%2C%201401%20Kiefer%20Creek%20Rd%2C%20Ballwin%2C%20MO%2063021",
       "websiteUrl": "https://mostateparks.com/park/castlewood-state-park",
       "source": {
         "id": "source-castlewood-state-park-trail-001",
@@ -43,7 +43,7 @@
         "lat": 38.521,
         "lng": -90.613
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5210,-90.6130",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Greensfelder%20County%20Park%20%E2%80%93%20Trail%20%26%20Nature%20Center%2C%204312%20Allenton%20Rd%2C%20Wildwood%2C%20MO%2063005",
       "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/find-a-park/greensfelder-park",
       "source": {
         "id": "source-greensfelder-park-trail-001",
@@ -71,7 +71,7 @@
         "lat": 38.5481,
         "lng": -90.5234
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5481,-90.5234",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emmenegger%20Nature%20Park%2C%2011991%20Stoneywood%20Dr%2C%20Kirkwood%2C%20MO%2063122",
       "websiteUrl": "https://mdc.mo.gov/discover-nature/places/emmenegger-nature-park",
       "source": {
         "id": "source-emmenegger-nature-park-001",
@@ -99,7 +99,7 @@
         "lat": 38.5308,
         "lng": -90.5404
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5308,-90.5404",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lone%20Elk%20County%20Park%20%E2%80%93%20White%20Bison%20Trail%2C%201%20Lone%20Elk%20Park%20Rd%2C%20Valley%20Park%2C%20MO%2063088",
       "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/find-a-park/lone-elk-park",
       "source": {
         "id": "source-lone-elk-park-trail-001",
@@ -125,7 +125,7 @@
         "lat": 38.6633957,
         "lng": -90.2770497
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6633957,-90.2770497",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Etzel%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-6411429",
         "sourceType": "osm",
@@ -149,7 +149,7 @@
         "lat": 38.6386736,
         "lng": -90.2527029
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6386736,-90.2527029",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Manhattan%20Mews%2C%20st-louis-county",
       "source": {
         "id": "osm-6423435",
         "sourceType": "osm",
@@ -173,7 +173,7 @@
         "lat": 38.7232261,
         "lng": -90.7724082
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7232261,-90.7724082",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Busch%20Hiking%2FBiking%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-12264850",
         "sourceType": "osm",
@@ -197,7 +197,7 @@
         "lat": 38.7244972,
         "lng": -90.8943278
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7244972,-90.8943278",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lost%20Lake%20Drive%2C%20st-louis-county",
       "source": {
         "id": "osm-12267084",
         "sourceType": "osm",
@@ -221,7 +221,7 @@
         "lat": 38.46348,
         "lng": -90.5913477
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.46348,-90.5913477",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=River%20Bend%20Drive%2C%20st-louis-county",
       "source": {
         "id": "osm-18526589",
         "sourceType": "osm",
@@ -245,7 +245,7 @@
         "lat": 38.4517291,
         "lng": -90.3426654
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4517291,-90.3426654",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hollywood%20Beach%20Road%2C%20st-louis-county",
       "source": {
         "id": "osm-18527205",
         "sourceType": "osm",
@@ -269,7 +269,7 @@
         "lat": 38.5100896,
         "lng": -90.6001667
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5100896,-90.6001667",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Outer%20Loop%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-18706304",
         "sourceType": "osm",
@@ -293,7 +293,7 @@
         "lat": 38.5372191,
         "lng": -90.2388881
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5372191,-90.2388881",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Levee%20Road%2C%20st-louis-county",
       "source": {
         "id": "osm-22023581",
         "sourceType": "osm",
@@ -317,7 +317,7 @@
         "lat": 38.6558536,
         "lng": -90.7560656
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6558536,-90.7560656",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hamburg%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-32551168",
         "sourceType": "osm",
@@ -341,7 +341,7 @@
         "lat": 38.6391822,
         "lng": -90.2684644
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6391822,-90.2684644",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prairie%20Boardwalk%2C%20st-louis-county",
       "source": {
         "id": "osm-40719688",
         "sourceType": "osm",
@@ -365,7 +365,7 @@
         "lat": 38.5180785,
         "lng": -90.2738106
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5180785,-90.2738106",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CCC%20Road%2C%20st-louis-county",
       "source": {
         "id": "osm-108403853",
         "sourceType": "osm",
@@ -389,7 +389,7 @@
         "lat": 38.6782908,
         "lng": -90.7501559
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6782908,-90.7501559",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lost%20Valley%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-117269449",
         "sourceType": "osm",
@@ -413,7 +413,7 @@
         "lat": 38.7176205,
         "lng": -90.8131209
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7176205,-90.8131209",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Broemmelsiek%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-119245328",
         "sourceType": "osm",
@@ -437,7 +437,7 @@
         "lat": 38.668989,
         "lng": -90.7325568
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.668989,-90.7325568",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hamburg%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-127269537",
         "sourceType": "osm",
@@ -461,7 +461,7 @@
         "lat": 38.6629178,
         "lng": -90.3463833
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6629178,-90.3463833",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stanford%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-149427289",
         "sourceType": "osm",
@@ -485,7 +485,7 @@
         "lat": 38.7315084,
         "lng": -90.4814588
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7315084,-90.4814588",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Creve%20Coeur%20Mill%20Road%2C%20st-louis-county",
       "source": {
         "id": "osm-157480679",
         "sourceType": "osm",
@@ -509,7 +509,7 @@
         "lat": 38.7172307,
         "lng": -90.8194536
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7172307,-90.8194536",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mainly%20used%20for%20bike%20race%2C%20st-louis-county",
       "source": {
         "id": "osm-157582302",
         "sourceType": "osm",
@@ -533,7 +533,7 @@
         "lat": 38.6468151,
         "lng": -90.2520683
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6468151,-90.2520683",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=North%20Newstead%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-172756216",
         "sourceType": "osm",
@@ -557,7 +557,7 @@
         "lat": 38.547027,
         "lng": -90.5379304
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.547027,-90.5379304",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Connector%207%2C%20st-louis-county",
       "source": {
         "id": "osm-191995382",
         "sourceType": "osm",
@@ -581,7 +581,7 @@
         "lat": 38.7742973,
         "lng": -90.4753613
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7742973,-90.4753613",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riverwoods%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-225336112",
         "sourceType": "osm",
@@ -605,7 +605,7 @@
         "lat": 38.5400255,
         "lng": -90.573088
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5400255,-90.573088",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stinging%20Nettle%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-242376374",
         "sourceType": "osm",
@@ -629,7 +629,7 @@
         "lat": 38.5389304,
         "lng": -90.5675882
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5389304,-90.5675882",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=WC10%20Gravel%20Plant%20Connector%2C%20st-louis-county",
       "source": {
         "id": "osm-242779504",
         "sourceType": "osm",
@@ -653,7 +653,7 @@
         "lat": 38.5372317,
         "lng": -90.5703689
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5372317,-90.5703689",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=WC9%20Old%20Nettle%20Loop%20Connector%2C%20st-louis-county",
       "source": {
         "id": "osm-242932129",
         "sourceType": "osm",
@@ -677,7 +677,7 @@
         "lat": 38.5368684,
         "lng": -90.5732967
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5368684,-90.5732967",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=WC8%20Rockaway%20Connector%2C%20st-louis-county",
       "source": {
         "id": "osm-242959885",
         "sourceType": "osm",
@@ -701,7 +701,7 @@
         "lat": 38.4223956,
         "lng": -90.6987176
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4223956,-90.6987176",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=LaBarque%20Creek%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-253900996",
         "sourceType": "osm",
@@ -725,7 +725,7 @@
         "lat": 38.6780145,
         "lng": -90.7577423
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6780145,-90.7577423",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Abandoned%20Road%2C%20st-louis-county",
       "source": {
         "id": "osm-264195794",
         "sourceType": "osm",
@@ -749,7 +749,7 @@
         "lat": 38.6914648,
         "lng": -90.4921252
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6914648,-90.4921252",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Farm%20Estates%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-279465697",
         "sourceType": "osm",
@@ -773,7 +773,7 @@
         "lat": 38.609463,
         "lng": -90.222992
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.609463,-90.222992",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Accomac%20Street%2C%20st-louis-county",
       "source": {
         "id": "osm-285596388",
         "sourceType": "osm",
@@ -797,7 +797,7 @@
         "lat": 38.6815386,
         "lng": -90.736624
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6815386,-90.736624",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lost%20Valley%20Trail%20Connector%2C%20st-louis-county",
       "source": {
         "id": "osm-310906409",
         "sourceType": "osm",
@@ -821,7 +821,7 @@
         "lat": 38.5826249,
         "lng": -90.8286471
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5826249,-90.8286471",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hogsback%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-322502991",
         "sourceType": "osm",
@@ -845,7 +845,7 @@
         "lat": 38.903357,
         "lng": -90.1150453
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.903357,-90.1150453",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nelson%20Miller%20Bridge%2C%20st-louis-county",
       "source": {
         "id": "osm-327914711",
         "sourceType": "osm",
@@ -869,7 +869,7 @@
         "lat": 38.8763685,
         "lng": -90.178964
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8763685,-90.178964",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hiking%20Loop%2C%20st-louis-county",
       "source": {
         "id": "osm-329342414",
         "sourceType": "osm",
@@ -893,7 +893,7 @@
         "lat": 38.8745921,
         "lng": -90.1764039
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8745921,-90.1764039",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=2nd%20Connector%2C%20st-louis-county",
       "source": {
         "id": "osm-329342415",
         "sourceType": "osm",
@@ -917,7 +917,7 @@
         "lat": 38.8648238,
         "lng": -90.1682486
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8648238,-90.1682486",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paul%20E%20Bauer%20Memorial%20Trail%20at%20Heron%20Pond%2C%20st-louis-county",
       "source": {
         "id": "osm-329344446",
         "sourceType": "osm",
@@ -941,7 +941,7 @@
         "lat": 38.3056792,
         "lng": -90.3034345
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3056792,-90.3034345",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salt%20Lick%20Point%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-329358084",
         "sourceType": "osm",
@@ -965,7 +965,7 @@
         "lat": 38.3090772,
         "lng": -90.3022122
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3090772,-90.3022122",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Johnson%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-329358092",
         "sourceType": "osm",
@@ -989,7 +989,7 @@
         "lat": 38.426758,
         "lng": -90.8194094
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.426758,-90.8194094",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Spice%20Bush%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-330310979",
         "sourceType": "osm",
@@ -1013,7 +1013,7 @@
         "lat": 38.7955269,
         "lng": -90.2052384
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7955269,-90.2052384",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lakeside%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-330458922",
         "sourceType": "osm",
@@ -1037,7 +1037,7 @@
         "lat": 38.7736999,
         "lng": -90.2922471
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7736999,-90.2922471",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prairie%20Loop%2C%20st-louis-county",
       "source": {
         "id": "osm-330575267",
         "sourceType": "osm",
@@ -1061,7 +1061,7 @@
         "lat": 38.3786968,
         "lng": -90.3831733
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3786968,-90.3831733",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wildflower%20Trail%2C%20st-louis-county",
       "websiteUrl": "https://mostateparks.com/media/pdf/trail-map-wildflower-trail",
       "source": {
         "id": "osm-330675599",
@@ -1086,7 +1086,7 @@
         "lat": 38.3794539,
         "lng": -90.3969232
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3794539,-90.3969232",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Spring%20Branch%20Trail%2C%20st-louis-county",
       "websiteUrl": "https://mostateparks.com/media/pdf/trail-map-spring-branch-trail",
       "source": {
         "id": "osm-330874169",
@@ -1111,7 +1111,7 @@
         "lat": 38.3809429,
         "lng": -90.3953998
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3809429,-90.3953998",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Limestone%20Hill%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-330874174",
         "sourceType": "osm",
@@ -1135,7 +1135,7 @@
         "lat": 38.5318592,
         "lng": -90.3371568
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5318592,-90.3371568",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Botomland%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-332219037",
         "sourceType": "osm",
@@ -1159,7 +1159,7 @@
         "lat": 38.5062558,
         "lng": -90.6043897
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5062558,-90.6043897",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=West%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-339278029",
         "sourceType": "osm",
@@ -1183,7 +1183,7 @@
         "lat": 38.5063439,
         "lng": -90.5969979
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5063439,-90.5969979",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Connector%201%2C%20st-louis-county",
       "source": {
         "id": "osm-339278269",
         "sourceType": "osm",
@@ -1207,7 +1207,7 @@
         "lat": 38.5149592,
         "lng": -90.5817426
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5149592,-90.5817426",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Flint%20Quarry%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-340301766",
         "sourceType": "osm",
@@ -1231,7 +1231,7 @@
         "lat": 38.5103951,
         "lng": -90.5858017
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5103951,-90.5858017",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chinkapin%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-340301767",
         "sourceType": "osm",
@@ -1255,7 +1255,7 @@
         "lat": 38.530493,
         "lng": -90.5812979
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.530493,-90.5812979",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Low%20Water%20Route%2C%20st-louis-county",
       "source": {
         "id": "osm-340303657",
         "sourceType": "osm",
@@ -1279,7 +1279,7 @@
         "lat": 38.6553472,
         "lng": -90.5747254
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6553472,-90.5747254",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Park%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-352321705",
         "sourceType": "osm",
@@ -1303,7 +1303,7 @@
         "lat": 38.6710929,
         "lng": -90.7587963
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6710929,-90.7587963",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Beaver%20Time%2C%20st-louis-county",
       "source": {
         "id": "osm-368590521",
         "sourceType": "osm",
@@ -1327,7 +1327,7 @@
         "lat": 38.61443,
         "lng": -90.2330905
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.61443,-90.2330905",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Geyer%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-405029552",
         "sourceType": "osm",
@@ -1351,7 +1351,7 @@
         "lat": 38.6128145,
         "lng": -90.2343192
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6128145,-90.2343192",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Virginia%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-405029566",
         "sourceType": "osm",
@@ -1375,7 +1375,7 @@
         "lat": 38.7015979,
         "lng": -90.7117062
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7015979,-90.7117062",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Hamburg%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-405953019",
         "sourceType": "osm",
@@ -1399,7 +1399,7 @@
         "lat": 38.6541712,
         "lng": -90.2928816
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6541712,-90.2928816",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Giverville%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-422269100",
         "sourceType": "osm",
@@ -1423,7 +1423,7 @@
         "lat": 38.5489728,
         "lng": -90.5394711
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5489728,-90.5394711",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riverscene%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-455679627",
         "sourceType": "osm",
@@ -1447,7 +1447,7 @@
         "lat": 38.6748994,
         "lng": -90.59133
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6748994,-90.59133",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gravel%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-462198277",
         "sourceType": "osm",
@@ -1471,7 +1471,7 @@
         "lat": 38.5299833,
         "lng": -90.3315066
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5299833,-90.3315066",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Temporirly%20Closed%2C%20st-louis-county",
       "source": {
         "id": "osm-546714750",
         "sourceType": "osm",
@@ -1495,7 +1495,7 @@
         "lat": 38.3935702,
         "lng": -90.6915588
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3935702,-90.6915588",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sandstone%20Canyon%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-597118967",
         "sourceType": "osm",
@@ -1519,7 +1519,7 @@
         "lat": 38.5790815,
         "lng": -90.8332603
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5790815,-90.8332603",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=River%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-627298306",
         "sourceType": "osm",
@@ -1543,7 +1543,7 @@
         "lat": 38.633859,
         "lng": -90.5128298
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.633859,-90.5128298",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salt%20Mill%20Connector%2C%20st-louis-county",
       "source": {
         "id": "osm-681378471",
         "sourceType": "osm",
@@ -1567,7 +1567,7 @@
         "lat": 38.6559118,
         "lng": -90.2546215
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6559118,-90.2546215",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Newberry%20Terrace%2C%20st-louis-county",
       "source": {
         "id": "osm-689436995",
         "sourceType": "osm",
@@ -1591,7 +1591,7 @@
         "lat": 38.6031374,
         "lng": -90.3735741
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6031374,-90.3735741",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Madison%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-695773669",
         "sourceType": "osm",
@@ -1615,7 +1615,7 @@
         "lat": 38.6065621,
         "lng": -90.4243838
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6065621,-90.4243838",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Woodgate%20Drive%2C%20st-louis-county",
       "source": {
         "id": "osm-696803861",
         "sourceType": "osm",
@@ -1639,7 +1639,7 @@
         "lat": 38.7739323,
         "lng": -90.2727258
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7739323,-90.2727258",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sugar%20Pines%20Court%2C%20st-louis-county",
       "source": {
         "id": "osm-727473750",
         "sourceType": "osm",
@@ -1663,7 +1663,7 @@
         "lat": 38.4269391,
         "lng": -90.8177164
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4269391,-90.8177164",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lost%20Hill%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-732226376",
         "sourceType": "osm",
@@ -1687,7 +1687,7 @@
         "lat": 38.3552684,
         "lng": -90.5227318
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3552684,-90.5227318",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tower%20Valley%20Drive%2C%20st-louis-county",
       "source": {
         "id": "osm-760907149",
         "sourceType": "osm",
@@ -1711,7 +1711,7 @@
         "lat": 38.6961955,
         "lng": -90.3428367
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6961955,-90.3428367",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gilrose%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-780409278",
         "sourceType": "osm",
@@ -1735,7 +1735,7 @@
         "lat": 38.5446116,
         "lng": -90.5725424
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5446116,-90.5725424",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cedar%20Bluff%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-823498964",
         "sourceType": "osm",
@@ -1759,7 +1759,7 @@
         "lat": 38.5497217,
         "lng": -90.5400423
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5497217,-90.5400423",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=River%20Scene%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-823504747",
         "sourceType": "osm",
@@ -1783,7 +1783,7 @@
         "lat": 38.3904548,
         "lng": -90.6974981
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3904548,-90.6974981",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=LaBarque%20Hills%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-824615884",
         "sourceType": "osm",
@@ -1807,7 +1807,7 @@
         "lat": 38.3924972,
         "lng": -90.6877387
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3924972,-90.6877387",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Connector%201%2C%20st-louis-county",
       "source": {
         "id": "osm-824615888",
         "sourceType": "osm",
@@ -1831,7 +1831,7 @@
         "lat": 38.6311862,
         "lng": -90.693975
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6311862,-90.693975",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dogwood%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-824624885",
         "sourceType": "osm",
@@ -1855,7 +1855,7 @@
         "lat": 38.6181755,
         "lng": -90.7101663
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6181755,-90.7101663",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hawthorn%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-824624888",
         "sourceType": "osm",
@@ -1879,7 +1879,7 @@
         "lat": 38.6123128,
         "lng": -90.6933431
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6123128,-90.6933431",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Virginia%20Day%20Memorial%20Nature%20Trail%20Access%20Spur%201%2C%20st-louis-county",
       "source": {
         "id": "osm-824627696",
         "sourceType": "osm",
@@ -1903,7 +1903,7 @@
         "lat": 38.6133291,
         "lng": -90.6905212
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6133291,-90.6905212",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Virginia%20Day%20Memorial%20Nature%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-824627698",
         "sourceType": "osm",
@@ -1927,7 +1927,7 @@
         "lat": 38.6151895,
         "lng": -90.6897437
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6151895,-90.6897437",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Connector%202%2C%20st-louis-county",
       "source": {
         "id": "osm-824627699",
         "sourceType": "osm",
@@ -1951,7 +1951,7 @@
         "lat": 38.6153045,
         "lng": -90.7003402
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6153045,-90.7003402",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paved%20Bicycle%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-824631922",
         "sourceType": "osm",
@@ -1975,7 +1975,7 @@
         "lat": 38.8176187,
         "lng": -90.1202812
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8176187,-90.1202812",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Confluence%20Point%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-843301310",
         "sourceType": "osm",
@@ -1999,7 +1999,7 @@
         "lat": 38.5555422,
         "lng": -90.5415641
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5555422,-90.5415641",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Connector%203%2C%20st-louis-county",
       "source": {
         "id": "osm-844080443",
         "sourceType": "osm",
@@ -2023,7 +2023,7 @@
         "lat": 38.5482666,
         "lng": -90.5431259
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5482666,-90.5431259",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lone%20Wolf%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-844080444",
         "sourceType": "osm",
@@ -2047,7 +2047,7 @@
         "lat": 38.552628,
         "lng": -90.5479094
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.552628,-90.5479094",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Connector%201%2C%20st-louis-county",
       "source": {
         "id": "osm-844080445",
         "sourceType": "osm",
@@ -2071,7 +2071,7 @@
         "lat": 38.556325,
         "lng": -90.5429324
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.556325,-90.5429324",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Connector%202%2C%20st-louis-county",
       "source": {
         "id": "osm-844080446",
         "sourceType": "osm",
@@ -2095,7 +2095,7 @@
         "lat": 38.5529391,
         "lng": -90.545437
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5529391,-90.545437",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Grotpeter%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-844080447",
         "sourceType": "osm",
@@ -2119,7 +2119,7 @@
         "lat": 38.5513213,
         "lng": -90.5469267
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5513213,-90.5469267",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Connector%206%2C%20st-louis-county",
       "source": {
         "id": "osm-844080451",
         "sourceType": "osm",
@@ -2143,7 +2143,7 @@
         "lat": 38.5562865,
         "lng": -90.538521
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5562865,-90.538521",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=White%20Connector%204%2C%20st-louis-county",
       "source": {
         "id": "osm-844080452",
         "sourceType": "osm",
@@ -2167,7 +2167,7 @@
         "lat": 38.3111867,
         "lng": -90.2918589
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3111867,-90.2918589",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Newman%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-900500826",
         "sourceType": "osm",
@@ -2191,7 +2191,7 @@
         "lat": 38.5878308,
         "lng": -90.5003318
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5878308,-90.5003318",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Forest%20Parkway%20Drive%2C%20st-louis-county",
       "source": {
         "id": "osm-913044717",
         "sourceType": "osm",
@@ -2215,7 +2215,7 @@
         "lat": 38.7754227,
         "lng": -90.2434863
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7754227,-90.2434863",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Breezy%20Point%20Lane%2C%20st-louis-county",
       "source": {
         "id": "osm-935274135",
         "sourceType": "osm",
@@ -2239,7 +2239,7 @@
         "lat": 38.6646379,
         "lng": -90.6809387
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6646379,-90.6809387",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Howell%20Island%20Conservation%20Area%20Causeway%2C%20st-louis-county",
       "source": {
         "id": "osm-961700230",
         "sourceType": "osm",
@@ -2263,7 +2263,7 @@
         "lat": 38.6012752,
         "lng": -90.3858057
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6012752,-90.3858057",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Joanna%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-965524173",
         "sourceType": "osm",
@@ -2287,7 +2287,7 @@
         "lat": 38.8069565,
         "lng": -90.3580992
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8069565,-90.3580992",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Raymond%20Drive%2C%20st-louis-county",
       "source": {
         "id": "osm-971970612",
         "sourceType": "osm",
@@ -2311,7 +2311,7 @@
         "lat": 38.7608835,
         "lng": -90.2128704
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7608835,-90.2128704",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Huntsman%20Drive%2C%20st-louis-county",
       "source": {
         "id": "osm-978362113",
         "sourceType": "osm",
@@ -2335,7 +2335,7 @@
         "lat": 38.7067806,
         "lng": -90.2560645
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7067806,-90.2560645",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emma%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-978379088",
         "sourceType": "osm",
@@ -2359,7 +2359,7 @@
         "lat": 38.6166956,
         "lng": -90.2291124
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6166956,-90.2291124",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Henrietta%20Street%2C%20st-louis-county",
       "source": {
         "id": "osm-989832673",
         "sourceType": "osm",
@@ -2383,7 +2383,7 @@
         "lat": 38.6273177,
         "lng": -90.2592966
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6273177,-90.2592966",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oakland%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-995462175",
         "sourceType": "osm",
@@ -2407,7 +2407,7 @@
         "lat": 38.6672285,
         "lng": -90.3246015
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6672285,-90.3246015",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Purdue%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-1005608686",
         "sourceType": "osm",
@@ -2431,7 +2431,7 @@
         "lat": 38.6546053,
         "lng": -90.2961306
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6546053,-90.2961306",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosedale%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-1009842656",
         "sourceType": "osm",
@@ -2455,7 +2455,7 @@
         "lat": 38.6117342,
         "lng": -90.1652565
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6117342,-90.1652565",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South%2011th%20Street%2C%20st-louis-county",
       "source": {
         "id": "osm-1011683783",
         "sourceType": "osm",
@@ -2479,7 +2479,7 @@
         "lat": 38.656462,
         "lng": -90.3162517
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.656462,-90.3162517",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vassar%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-1015058263",
         "sourceType": "osm",
@@ -2503,7 +2503,7 @@
         "lat": 38.6107924,
         "lng": -90.2731969
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6107924,-90.2731969",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Columbia%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-1044700198",
         "sourceType": "osm",
@@ -2527,7 +2527,7 @@
         "lat": 38.4576112,
         "lng": -90.447969
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4576112,-90.447969",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Willow%20Glen%20Park%2C%20st-louis-county",
       "source": {
         "id": "osm-1046399385",
         "sourceType": "osm",
@@ -2551,7 +2551,7 @@
         "lat": 38.645534,
         "lng": -90.2249793
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.645534,-90.2249793",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brantner%20Place%2C%20st-louis-county",
       "source": {
         "id": "osm-1056809839",
         "sourceType": "osm",
@@ -2575,7 +2575,7 @@
         "lat": 38.6464462,
         "lng": -90.321497
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6464462,-90.321497",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Asbury%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-1060913828",
         "sourceType": "osm",
@@ -2599,7 +2599,7 @@
         "lat": 38.6668111,
         "lng": -90.2049461
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6668111,-90.2049461",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=19th%20Street%2C%20st-louis-county",
       "source": {
         "id": "osm-1060916886",
         "sourceType": "osm",
@@ -2623,7 +2623,7 @@
         "lat": 38.6660057,
         "lng": -90.2045806
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6660057,-90.2045806",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Penrose%20Street%2C%20st-louis-county",
       "source": {
         "id": "osm-1060916888",
         "sourceType": "osm",
@@ -2647,7 +2647,7 @@
         "lat": 38.4508494,
         "lng": -90.3430094
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4508494,-90.3430094",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bradley%20Beach%20Road%2C%20st-louis-county",
       "source": {
         "id": "osm-1068265643",
         "sourceType": "osm",
@@ -2671,7 +2671,7 @@
         "lat": 38.6696853,
         "lng": -90.2641656
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6696853,-90.2641656",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wabada%20Avenue%2C%20st-louis-county",
       "source": {
         "id": "osm-1069233593",
         "sourceType": "osm",
@@ -2695,7 +2695,7 @@
         "lat": 38.64806,
         "lng": -90.2512736
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.64806,-90.2512736",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Washington%20Boulevard%2C%20st-louis-county",
       "source": {
         "id": "osm-1078128560",
         "sourceType": "osm",
@@ -2719,7 +2719,7 @@
         "lat": 38.5446889,
         "lng": -90.6078436
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5446889,-90.6078436",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Foster%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-1086993703",
         "sourceType": "osm",
@@ -2743,7 +2743,7 @@
         "lat": 38.6604009,
         "lng": -90.2056427
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6604009,-90.2056427",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Farrar%20Street%2C%20st-louis-county",
       "source": {
         "id": "osm-1094420042",
         "sourceType": "osm",
@@ -2767,7 +2767,7 @@
         "lat": 38.6046618,
         "lng": -90.499822
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6046618,-90.499822",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pierremont%20Panther%20Track%2C%20st-louis-county",
       "source": {
         "id": "osm-1101516297",
         "sourceType": "osm",
@@ -2791,7 +2791,7 @@
         "lat": 38.6487731,
         "lng": -90.5732845
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6487731,-90.5732845",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riparian%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-1126142446",
         "sourceType": "osm",
@@ -2815,7 +2815,7 @@
         "lat": 38.6491347,
         "lng": -90.5719739
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6491347,-90.5719739",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riparian%20Trail%20(Old%20Alignment)%2C%20st-louis-county",
       "source": {
         "id": "osm-1126142463",
         "sourceType": "osm",
@@ -2839,7 +2839,7 @@
         "lat": 38.6874445,
         "lng": -90.7768891
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6874445,-90.7768891",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lost%20Valley%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-1206934922",
         "sourceType": "osm",
@@ -2863,7 +2863,7 @@
         "lat": 38.5472997,
         "lng": -90.4854823
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5472997,-90.4854823",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Valley%20Park%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-1217805262",
         "sourceType": "osm",
@@ -2887,7 +2887,7 @@
         "lat": 38.5468096,
         "lng": -90.4847111
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5468096,-90.4847111",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Valley%20Park%20Trail%20Connector%2C%20st-louis-county",
       "source": {
         "id": "osm-1217805263",
         "sourceType": "osm",
@@ -2911,7 +2911,7 @@
         "lat": 38.6408397,
         "lng": -90.272201
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6408397,-90.272201",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Flat%20Rock%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-1282678674",
         "sourceType": "osm",
@@ -2935,7 +2935,7 @@
         "lat": 38.5641293,
         "lng": -90.2658262
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5641293,-90.2658262",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Federer%E2%80%99s%20Folly%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-1316556665",
         "sourceType": "osm",
@@ -2959,7 +2959,7 @@
         "lat": 38.6371027,
         "lng": -90.2601021
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6371027,-90.2601021",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pharmacy%20Place%2C%20st-louis-county",
       "source": {
         "id": "osm-1331143073",
         "sourceType": "osm",
@@ -2983,7 +2983,7 @@
         "lat": 38.6343197,
         "lng": -90.2684356
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6343197,-90.2684356",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bayer%20Boardwalk%2C%20st-louis-county",
       "source": {
         "id": "osm-1341309304",
         "sourceType": "osm",
@@ -3007,7 +3007,7 @@
         "lat": 38.5355539,
         "lng": -90.5373594
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5355539,-90.5373594",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chubb%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-1346040220",
         "sourceType": "osm",
@@ -3031,7 +3031,7 @@
         "lat": 38.7766913,
         "lng": -90.2123392
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7766913,-90.2123392",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cadigan%20Drive%2C%20st-louis-county",
       "source": {
         "id": "osm-1366213975",
         "sourceType": "osm",
@@ -3055,7 +3055,7 @@
         "lat": 38.772762,
         "lng": -90.2902174
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.772762,-90.2902174",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Log%20Cabin%20Loop%2C%20st-louis-county",
       "source": {
         "id": "osm-1368019250",
         "sourceType": "osm",
@@ -3079,7 +3079,7 @@
         "lat": 38.5277414,
         "lng": -90.5866055
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5277414,-90.5866055",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Prairie%20Loop%2C%20st-louis-county",
       "source": {
         "id": "osm-1451370457",
         "sourceType": "osm",
@@ -3103,7 +3103,7 @@
         "lat": 38.9179034,
         "lng": -90.2137169
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9179034,-90.2137169",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Deer%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-1453211177",
         "sourceType": "osm",
@@ -3127,7 +3127,7 @@
         "lat": 38.5579884,
         "lng": -90.539783
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5579884,-90.539783",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Connector%20Trail%2C%20st-louis-county",
       "source": {
         "id": "osm-1461949829",
         "sourceType": "osm",
@@ -3151,7 +3151,7 @@
         "lat": 38.9446458,
         "lng": -90.1961334
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9446458,-90.1961334",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Under%20construction%2C%20st-louis-county",
       "source": {
         "id": "osm-1488700693",
         "sourceType": "osm",

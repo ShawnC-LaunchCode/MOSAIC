@@ -15,7 +15,7 @@
         "lat": 38.8087,
         "lng": -90.8511
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8087,-90.8511",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Quail%20Ridge%20Park%20%E2%80%93%20Off-Leash%20Dog%20Area%2C%20560%20Interstate%20Dr%2C%20Wentzville%2C%20MO%2063385",
       "websiteUrl": "https://www.sccmo.org/716/Quail-Ridge-Park",
       "source": {
         "id": "source-quail-ridge-dog-area-001",
@@ -43,7 +43,7 @@
         "lat": 38.7541,
         "lng": -90.5793
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7541,-90.5793",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Veterans%20Tribute%20Park%20%E2%80%93%20Off-Leash%20Dog%20Area%2C%201031%20Kisker%20Rd%2C%20St.%20Charles%2C%20MO%2063304",
       "websiteUrl": "https://www.sccmo.org/741/Veterans-Tribute-Park",
       "source": {
         "id": "source-veterans-tribute-dog-area-001",
@@ -71,7 +71,7 @@
         "lat": 38.699,
         "lng": -90.764
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6990,-90.7640",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Broemmelsiek%20Park%20%E2%80%93%20Off-Leash%20Dog%20Area%2C%204301%20Wilson%20Rd%2C%20Wentzville%2C%20MO%2063385",
       "websiteUrl": "https://www.sccmo.org/617/Broemmelsiek-Park",
       "source": {
         "id": "source-broemmelsiek-dog-area-001",
@@ -99,7 +99,7 @@
         "lat": 38.806,
         "lng": -90.491
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8060,-90.4910",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=DuSable%20Dog%20Park%2C%202598%20N%20Main%20St%2C%20St.%20Charles%2C%20MO%2063301",
       "websiteUrl": "https://stcharlesparks.com/facilities/dusable-dog-park",
       "source": {
         "id": "source-dusable-dog-park-001",
@@ -127,7 +127,7 @@
         "lat": 38.7645,
         "lng": -90.6418
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7645,-90.6418",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Don%20Yarber%20Bark%20Park%2C%205490%205th%20St%2C%20Cottleville%2C%20MO%2063304",
       "websiteUrl": null,
       "source": {
         "id": "source-don-yarber-bark-park-001",
@@ -153,7 +153,7 @@
         "lat": 38.7516509,
         "lng": -90.6512367
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7516509,-90.6512367",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bark%20Park%2C%20st-charles-county",
       "source": {
         "id": "osm-1028500229",
         "sourceType": "osm",

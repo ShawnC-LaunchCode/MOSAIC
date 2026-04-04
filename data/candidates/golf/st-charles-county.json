@@ -15,7 +15,7 @@
         "lat": 38.8132,
         "lng": -90.5331
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8132,-90.5331",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogey%20Hills%20Country%20Club%2C%201120%20Country%20Club%20Rd%2C%20St%20Charles%2C%20MO",
       "source": {
         "id": "source-golf-001",
         "sourceType": "manual",
@@ -42,7 +42,7 @@
         "lat": 38.759,
         "lng": -90.5975
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7590,-90.5975",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Missouri%20Bluffs%20Golf%20Club%2C%2018%20Research%20Park%20Cir%2C%20St.%20Charles%2C%20MO%2063304",
       "websiteUrl": "https://www.mobluffs.com",
       "source": {
         "id": "source-golf-002",
@@ -70,7 +70,7 @@
         "lat": 38.8245,
         "lng": -90.8521
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8245,-90.8521",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bear%20Creek%20Golf%20Club%2C%20158%20Bear%20Creek%20Dr%2C%20Wentzville%2C%20MO%2063385",
       "websiteUrl": "https://www.bearcreekgolf.com",
       "source": {
         "id": "source-golf-003",
@@ -98,7 +98,7 @@
         "lat": 38.6421,
         "lng": -90.8897
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6421,-90.8897",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Boone%20Valley%20Golf%20Club%2C%201319%20Schluersburg%20Rd%2C%20Augusta%2C%20MO%2063332",
       "websiteUrl": "https://www.boonevalley.org",
       "source": {
         "id": "source-golf-004",
@@ -126,7 +126,7 @@
         "lat": 38.8094,
         "lng": -90.8626
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8094,-90.8626",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golf%20Club%20of%20Wentzville%2C%209%20Pro%20Shop%20Dr%2C%20Wentzville%2C%20MO%2063385",
       "websiteUrl": null,
       "source": {
         "id": "source-golf-005",
@@ -154,7 +154,7 @@
         "lat": 38.7841,
         "lng": -90.9071
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7841,-90.9071",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Incline%20Village%20Golf%20Course%2C%2010220%20Fairway%20Dr%2C%20Foristell%2C%20MO%2063348",
       "websiteUrl": null,
       "source": {
         "id": "source-golf-006",
@@ -181,7 +181,7 @@
         "lat": 38.7566018,
         "lng": -90.628643
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7566018,-90.628643",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Hickory%20Golf%20Club%2C%201%20Dye%20Club%20Drive",
       "source": {
         "id": "osm-157522177",
         "sourceType": "osm",
@@ -205,7 +205,7 @@
         "lat": 38.7795376,
         "lng": -90.5353737
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7795376,-90.5353737",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bogey%20Hills%20Country%20Club%2C%20st-charles-county",
       "source": {
         "id": "osm-157935617",
         "sourceType": "osm",
@@ -231,7 +231,7 @@
         "lat": 38.7570281,
         "lng": -90.7448796
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7570281,-90.7448796",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=WingHaven%20Country%20Club%2C%207777%20Winghaven%20Boulevard",
       "websiteUrl": "http://www.winghavencc.com/",
       "source": {
         "id": "osm-160974685",
@@ -258,7 +258,7 @@
         "lat": 38.7409582,
         "lng": -90.701988
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7409582,-90.701988",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pheasant%20Run%20Golf%20Course%2C%20205%20Tri-Sports%20Drive",
       "websiteUrl": "https://www.golf-headquarters.com/course/",
       "source": {
         "id": "osm-395120828",
@@ -285,7 +285,7 @@
         "lat": 38.6940408,
         "lng": -90.675399
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6940408,-90.675399",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Missouri%20Bluffs%20Golf%20Club%2C%2018%20Research%20Park%20Circle",
       "websiteUrl": "https://mobluffs.com/",
       "source": {
         "id": "osm-564144286",
@@ -310,7 +310,7 @@
         "lat": 38.7763026,
         "lng": -90.8083925
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7763026,-90.8083925",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Heritage%20of%20Hawk%20Ridge%2C%20st-charles-county",
       "source": {
         "id": "osm-1296119881",
         "sourceType": "osm",
@@ -336,7 +336,7 @@
         "lat": 38.7959568,
         "lng": -90.7971022
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7959568,-90.7971022",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lake%20Saint%20Louis%209-Hole%20Golf%20Course%2C%20100%20Cognac",
       "websiteUrl": "https://lslca.com/jupgrade/index.php/amenities/golf",
       "source": {
         "id": "osm-3939927",
@@ -363,7 +363,7 @@
         "lat": 38.7895075,
         "lng": -90.7237109
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7895075,-90.7237109",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Falls%20Golf%20Club%2C%201170%20Turtle%20Creek%20Drive",
       "websiteUrl": "https://www.fallsgolf.com/",
       "source": {
         "id": "osm-3939928",
@@ -390,7 +390,7 @@
         "lat": 38.8177924,
         "lng": -90.8971772
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8177924,-90.8971772",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bear%20Creek%20Golf%20Club%2C%20158%20Bear%20Creek%20Drive",
       "websiteUrl": "https://bearcreekgolf.com/",
       "source": {
         "id": "osm-5755987",
@@ -417,7 +417,7 @@
         "lat": 38.8677864,
         "lng": -90.9578446
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8677864,-90.9578446",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golf%20Club%20of%20Incline%20Village%2C%2010220%20Fairway%20Drive",
       "websiteUrl": "https://www.inclinevillagegc.com/",
       "source": {
         "id": "osm-5755988",
@@ -442,7 +442,7 @@
         "lat": 38.7950674,
         "lng": -90.6473484
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7950674,-90.6473484",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Peters%20Golf%20Course%2C%20st-charles-county",
       "source": {
         "id": "osm-8541335",
         "sourceType": "osm",
@@ -468,7 +468,7 @@
         "lat": 38.7867173,
         "lng": -90.754066
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7867173,-90.754066",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lake%20Forest%20Country%20Club%2C%20300%20Yard%20Drive",
       "websiteUrl": "https://www.lakeforestgolf.org/",
       "source": {
         "id": "osm-9114429",
@@ -495,7 +495,7 @@
         "lat": 38.9930739,
         "lng": -90.9785763
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9930739,-90.9785763",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Woods%20Fort%20Golf%20Course%2C%201%20Country%20Club%20Drive",
       "websiteUrl": "https://woodsfortgolf.com/",
       "source": {
         "id": "osm-9392550",
@@ -522,7 +522,7 @@
         "lat": 38.792377,
         "lng": -90.8965621
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.792377,-90.8965621",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golf%20Club%20of%20Wentzville%2C%209%20Pro%20Shop%20Drive",
       "source": {
         "id": "osm-17061374",
         "sourceType": "osm",

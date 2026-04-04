@@ -15,7 +15,7 @@
         "lat": 38.7871,
         "lng": -90.6141
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7871,-90.6141",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Charles%20County%20Family%20YMCA%2C%203900%20Shady%20Springs%20Ln%2C%20St.%20Peters%2C%20MO%2063376",
       "websiteUrl": "https://www.gwrymca.org/locations/st-charles-ymca",
       "source": {
         "id": "source-st-charles-county-ymca-001",
@@ -43,7 +43,7 @@
         "lat": 38.7768,
         "lng": -90.6905
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7768,-90.6905",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=O'Fallon%20Family%20YMCA%2C%203451%20Pheasant%20Meadow%20Dr%2C%20O'Fallon%2C%20MO%2063366",
       "websiteUrl": "https://www.gwrymca.org/locations/ofallon-missouri-ymca",
       "source": {
         "id": "source-ofallon-family-ymca-001",
@@ -71,7 +71,7 @@
         "lat": 38.8135,
         "lng": -90.8578
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8135,-90.8578",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wentzville%20Recreation%20Center%2C%20500%20Great%20Oaks%20Blvd%2C%20Wentzville%2C%20MO%2063385",
       "websiteUrl": "https://www.wentzvillemo.gov/parks-and-recreation/parks-facilities/find-a-park-or-facility/wentzville-rec-center",
       "source": {
         "id": "source-wentzville-recreation-center-001",
@@ -99,7 +99,7 @@
         "lat": 38.7703,
         "lng": -90.6366
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7703,-90.6366",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Freedom%20Fitness%20%E2%80%93%20Cottleville%2C%205991%20Mid%20Rivers%20Mall%20Dr%2C%20Cottleville%2C%20MO%2063304",
       "websiteUrl": "https://www.gofreedomfit.com/cottleville",
       "source": {
         "id": "source-freedom-fitness-cottleville-001",
@@ -127,7 +127,7 @@
         "lat": 38.7449,
         "lng": -90.7239
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7449,-90.7239",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Freedom%20Fitness%20%E2%80%93%20O'Fallon%2C%202433%20State%20Highway%20K%2C%20O'Fallon%2C%20MO%2063368",
       "websiteUrl": "https://www.gofreedomfit.com",
       "source": {
         "id": "source-freedom-fitness-ofallon-001",
@@ -155,7 +155,7 @@
         "lat": 38.8176,
         "lng": -90.8649
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8176,-90.8649",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Freedom%20Fitness%20%E2%80%93%20Wentzville%2C%201074%20Crosswinds%20Ct%2C%20Wentzville%2C%20MO%2063385",
       "websiteUrl": "https://www.gofreedomfit.com",
       "source": {
         "id": "source-freedom-fitness-wentzville-001",
@@ -182,7 +182,7 @@
         "lat": 38.745389,
         "lng": -90.695342
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.745389,-90.695342",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=O'Fallon%20Family%20YMCA%2C%20st-charles-county",
       "source": {
         "id": "osm-3218288070",
         "sourceType": "osm",
@@ -208,7 +208,7 @@
         "lat": 38.7885018,
         "lng": -90.6396972
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7885018,-90.6396972",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rokita%20Dancer%20Center%2C%207477%20Mexico%20Road",
       "source": {
         "id": "osm-5628751654",
         "sourceType": "osm",
@@ -234,7 +234,7 @@
         "lat": 38.7890364,
         "lng": -90.6334553
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7890364,-90.6334553",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Little%20Gym%20of%20St.%20Charles%2C%207347%20Mexico%20Road",
       "websiteUrl": "https://www.thelittlegym.com/StCharlesMO",
       "source": {
         "id": "osm-5628752569",
@@ -261,7 +261,7 @@
         "lat": 38.8179295,
         "lng": -90.8768297
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8179295,-90.8768297",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Club%20Pilates%2C%201894%20Wentzville%20Parkway",
       "websiteUrl": "https://www.clubpilates.com/wentzville/",
       "source": {
         "id": "osm-5628789394",
@@ -288,7 +288,7 @@
         "lat": 38.7927257,
         "lng": -90.5685797
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7927257,-90.5685797",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Edge%20Fitness%20Clubs%2C%204025%20Veterans%20Memorial%20Parkway",
       "websiteUrl": "https://www.theedgefitnessclubs.com/locations/missouri/st-peters/",
       "source": {
         "id": "osm-5628791460",
@@ -315,7 +315,7 @@
         "lat": 38.808195,
         "lng": -90.6969401
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.808195,-90.6969401",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Club%20Fitness%2C%20225%20O'Fallon%20Plaza",
       "websiteUrl": "https://www.clubfitness.us/location/ofallon-north/",
       "source": {
         "id": "osm-6307394343",
@@ -340,7 +340,7 @@
         "lat": 38.7596446,
         "lng": -90.7036155
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7596446,-90.7036155",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Club%20Fitness%2C%20st-charles-county",
       "source": {
         "id": "osm-6436549026",
         "sourceType": "osm",
@@ -364,7 +364,7 @@
         "lat": 38.9461031,
         "lng": -90.5878782
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9461031,-90.5878782",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fitness%20Center%2C%20st-charles-county",
       "source": {
         "id": "osm-6751165021",
         "sourceType": "osm",
@@ -390,7 +390,7 @@
         "lat": 38.7928439,
         "lng": -90.6194105
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7928439,-90.6194105",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympia%20Gymnastics%2C%20248%20Mid%20Rivers%20Center",
       "websiteUrl": "http://www.olympiadgymnastics.org/mid-rivers.html",
       "source": {
         "id": "osm-160365926",
@@ -417,7 +417,7 @@
         "lat": 38.7953538,
         "lng": -90.6116005
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7953538,-90.6116005",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Planet%20Fitness%2C%20490%20Mid%20Rivers%20Mall%20Circle",
       "websiteUrl": "https://www.planetfitness.com/gyms/st-peters-mid-rivers-mall-mo",
       "source": {
         "id": "osm-547539968",
@@ -444,7 +444,7 @@
         "lat": 38.9868335,
         "lng": -90.9611427
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9868335,-90.9611427",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CDY%20Fitness%20LLC%2C%20116%20Sarah%20Ann%20Boulevard",
       "source": {
         "id": "osm-670504517",
         "sourceType": "osm",
@@ -470,7 +470,7 @@
         "lat": 38.8042212,
         "lng": -90.8589566
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8042212,-90.8589566",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Planet%20Fitness%2C%2099%20Wentzville%20Bluffs%20Drive",
       "source": {
         "id": "osm-674563933",
         "sourceType": "osm",

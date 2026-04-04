@@ -15,7 +15,7 @@
         "lat": 38.7668,
         "lng": -90.2584
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7668,-90.2584",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eagle%20Springs%20Golf%20Course%2C%202575%20Redman%20Rd%2C%20St.%20Louis%2C%20MO%2063136",
       "websiteUrl": "https://www.eaglesprings.com",
       "source": {
         "id": "source-eagle-springs-golf-course-001",
@@ -43,7 +43,7 @@
         "lat": 38.4877,
         "lng": -90.3802
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4877,-90.3802",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Quail%20Creek%20Golf%20Club%2C%206022%20Wells%20Rd%2C%20St.%20Louis%2C%20MO%2063128",
       "websiteUrl": "https://quailcreekstl.com",
       "source": {
         "id": "source-quail-creek-golf-club-001",
@@ -71,7 +71,7 @@
         "lat": 38.5972,
         "lng": -90.5451
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5972,-90.5451",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ballwin%20Golf%20Course%2C%20333%20Holloway%20Rd%2C%20Ballwin%2C%20MO%2063011",
       "websiteUrl": "https://www.ballwingolfcourse.com",
       "source": {
         "id": "source-ballwin-golf-course-001",
@@ -99,7 +99,7 @@
         "lat": 38.6701,
         "lng": -90.579
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6701,-90.5790",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Landings%20at%20Spirit%20Golf%20Club%2C%20180%20N%20Eatherton%20Rd%2C%20Chesterfield%2C%20MO%2063005",
       "websiteUrl": null,
       "source": {
         "id": "source-landings-at-spirit-golf-club-001",
@@ -127,7 +127,7 @@
         "lat": 38.7723,
         "lng": -90.2101
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7723,-90.2101",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Emerald%20Greens%20Golf%20Course%2C%2011700%20Dunn%20Rd%2C%20Spanish%20Lake%2C%20MO%2063138",
       "websiteUrl": null,
       "source": {
         "id": "source-emerald-greens-golf-course-001",
@@ -153,7 +153,7 @@
         "lat": 38.5325711,
         "lng": -90.4388974
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5325711,-90.4388974",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Riverside%20Golf%20Course%2C%20st-louis-county",
       "websiteUrl": "http://riversidegolf.net/",
       "source": {
         "id": "osm-41043070",
@@ -180,7 +180,7 @@
         "lat": 38.5733538,
         "lng": -90.4500951
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5733538,-90.4500951",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Greenbriar%20Hills%20Country%20Club%2C%2012665%20Big%20Bend%20Road",
       "websiteUrl": "https://www.greenbriarcc.com/",
       "source": {
         "id": "osm-41084517",
@@ -205,7 +205,7 @@
         "lat": 38.4678998,
         "lng": -90.3824372
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4678998,-90.3824372",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Quail%20Creek%20Golf%20Course%2C%20st-louis-county",
       "websiteUrl": "https://www.quailcreekgolfclub.com/",
       "source": {
         "id": "osm-41098288",
@@ -230,7 +230,7 @@
         "lat": 38.5902779,
         "lng": -90.3731277
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5902779,-90.3731277",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Algonquin%20Golf%20Club%2C%20st-louis-county",
       "source": {
         "id": "osm-42765424",
         "sourceType": "osm",
@@ -254,7 +254,7 @@
         "lat": 38.5801333,
         "lng": -90.3813922
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5801333,-90.3813922",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Westborough%20County%20Club%2C%20st-louis-county",
       "source": {
         "id": "osm-42765475",
         "sourceType": "osm",
@@ -280,7 +280,7 @@
         "lat": 38.6163656,
         "lng": -90.5619578
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6163656,-90.5619578",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Meadowbrook%20Country%20Club%2C%20200%20Meadowbrook%20Country%20Club%20Estates",
       "source": {
         "id": "osm-52136232",
         "sourceType": "osm",
@@ -306,7 +306,7 @@
         "lat": 38.6498304,
         "lng": -90.3752561
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6498304,-90.3752561",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Louis%20Country%20Club%2C%20400%20Barnes%20Road",
       "source": {
         "id": "osm-149385948",
         "sourceType": "osm",
@@ -330,7 +330,7 @@
         "lat": 38.6447185,
         "lng": -90.432497
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6447185,-90.432497",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Westwood%20Country%20Club%2C%20st-louis-county",
       "source": {
         "id": "osm-149421579",
         "sourceType": "osm",
@@ -356,7 +356,7 @@
         "lat": 38.6650258,
         "lng": -90.4353372
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6650258,-90.4353372",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Creve%20Coeur%20Golf%20Course%2C%2011400%20Olde%20Cabin%20Road",
       "websiteUrl": "https://www.crevecoeurgolf.com/",
       "source": {
         "id": "osm-149421590",
@@ -381,7 +381,7 @@
         "lat": 38.6700145,
         "lng": -90.3524269
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6700145,-90.3524269",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ruth%20Park%20Golf%20Couse%2C%20st-louis-county",
       "source": {
         "id": "osm-149427294",
         "sourceType": "osm",
@@ -407,7 +407,7 @@
         "lat": 38.6975557,
         "lng": -90.3173652
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6975557,-90.3173652",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Normandie%20Golf%20Club%2C%207605%20Saint%20Charles%20Rock%20Road",
       "websiteUrl": "https://normandiegolf.com/",
       "source": {
         "id": "osm-151229180",
@@ -434,7 +434,7 @@
         "lat": 38.7222494,
         "lng": -90.2842884
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7222494,-90.2842884",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Norwood%20Hills%20Country%20Club%2C%201%20Norwood%20Hills%20Country%20Club%20Drive",
       "websiteUrl": "https://www.norwoodhills.com/",
       "source": {
         "id": "osm-151229184",
@@ -461,7 +461,7 @@
         "lat": 38.6989936,
         "lng": -90.2996945
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6989936,-90.2996945",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Glen%20Echo%20Country%20Club%2C%203401%20Lucas%20%26%20Hunt%20Road",
       "websiteUrl": "https://www.gecc.org/",
       "source": {
         "id": "osm-151230738",
@@ -486,7 +486,7 @@
         "lat": 38.6183204,
         "lng": -90.3843826
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6183204,-90.3843826",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Old%20Warson%20Country%20Club%2C%20st-louis-county",
       "source": {
         "id": "osm-151291997",
         "sourceType": "osm",
@@ -510,7 +510,7 @@
         "lat": 38.5679708,
         "lng": -90.3291086
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5679708,-90.3291086",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tower%20Tee%2C%20st-louis-county",
       "source": {
         "id": "osm-151292016",
         "sourceType": "osm",
@@ -536,7 +536,7 @@
         "lat": 38.7252457,
         "lng": -90.4738291
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7252457,-90.4738291",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Quarry%20at%20Crystal%20Springs%2C%201%20Crystal%20Springs%20Quarry%20Drive",
       "websiteUrl": "https://www.quarrygc.com/golfcenter/",
       "source": {
         "id": "osm-157480618",
@@ -561,7 +561,7 @@
         "lat": 38.4522148,
         "lng": -90.1727768
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4522148,-90.1727768",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fairfield%20Golf%20Club%2C%20st-louis-county",
       "source": {
         "id": "osm-163601292",
         "sourceType": "osm",
@@ -585,7 +585,7 @@
         "lat": 38.4806961,
         "lng": -90.2071168
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4806961,-90.2071168",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Columbia%20Golf%20Club%2C%20st-louis-county",
       "source": {
         "id": "osm-163602895",
         "sourceType": "osm",
@@ -609,7 +609,7 @@
         "lat": 38.4684111,
         "lng": -90.2361178
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4684111,-90.2361178",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=River%20Lakes%20Golf%20Course%2C%20st-louis-county",
       "source": {
         "id": "osm-163604330",
         "sourceType": "osm",
@@ -635,7 +635,7 @@
         "lat": 38.8053478,
         "lng": -90.2815495
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.8053478,-90.2815495",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Florissant%20Golf%20Club%2C%2050%20Country%20Club%20Lane",
       "websiteUrl": "http://www.golfclubofflorissant.com/",
       "source": {
         "id": "osm-165326812",
@@ -662,7 +662,7 @@
         "lat": 38.7866896,
         "lng": -90.2483776
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7866896,-90.2483776",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eagle%20Springs%20Golf%20Course%2C%202575%20Redman%20Road",
       "websiteUrl": "https://www.eaglesprings.com/",
       "source": {
         "id": "osm-165336340",
@@ -689,7 +689,7 @@
         "lat": 38.5328561,
         "lng": -90.3977759
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5328561,-90.3977759",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunset%20Country%20Club%2C%209555%20Geyer",
       "source": {
         "id": "osm-251820799",
         "sourceType": "osm",
@@ -715,7 +715,7 @@
         "lat": 38.9261337,
         "lng": -90.1002842
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9261337,-90.1002842",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cloverleaf%20Golf%20Course%2C%203555%20Fosterburg%20Road",
       "websiteUrl": "https://cloverleafgolfcourse.com/",
       "source": {
         "id": "osm-295678316",
@@ -742,7 +742,7 @@
         "lat": 38.9097024,
         "lng": -90.1615709
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9097024,-90.1615709",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rock%20Spring%20Golf%20Course%2C%202500%20Rock%20Spring%20Drive",
       "websiteUrl": "https://www.rockspringgolfcourse.com/",
       "source": {
         "id": "osm-295678323",
@@ -769,7 +769,7 @@
         "lat": 38.9503931,
         "lng": -90.2131201
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9503931,-90.2131201",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rolling%20Hills%20Golf%20Course%2C%205801%20Pierce%20Lane",
       "websiteUrl": "https://www.rollinghillsgc.com/",
       "source": {
         "id": "osm-295678324",
@@ -794,7 +794,7 @@
         "lat": 38.9032354,
         "lng": -90.1084816
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.9032354,-90.1084816",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Spencer%20T.%20Olin%20Community%20Golf%20Course%2C%20st-louis-county",
       "source": {
         "id": "osm-295678325",
         "sourceType": "osm",
@@ -820,7 +820,7 @@
         "lat": 38.5050788,
         "lng": -90.517178
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5050788,-90.517178",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradise%20Valley%20Golf%20%26%20Country%20Club%2C%201055%20Lochmoor%20Drive",
       "websiteUrl": "https://www.paradisevalleygolf.com/",
       "source": {
         "id": "osm-296221876",
@@ -847,7 +847,7 @@
         "lat": 38.533651,
         "lng": -90.6193718
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.533651,-90.6193718",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aberdeen%20Golf%20Club%2C%204111%20Crescent%20Road",
       "websiteUrl": "https://www.aberdeengolf.com/",
       "source": {
         "id": "osm-365165191",
@@ -874,7 +874,7 @@
         "lat": 38.5309983,
         "lng": -90.6098023
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5309983,-90.6098023",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Crescent%20Farms%20Golf%20Club%2C%20745%20Lewis%20Road",
       "websiteUrl": "https://www.crescentfarms.com/",
       "source": {
         "id": "osm-365165194",
@@ -901,7 +901,7 @@
         "lat": 38.3175911,
         "lng": -90.9138027
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3175911,-90.9138027",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Meramec%20Lakes%20Golf%20Course%2C%20321%20Birdie%20Lane",
       "websiteUrl": "https://merameclakes.com/",
       "source": {
         "id": "osm-365398988",
@@ -928,7 +928,7 @@
         "lat": 38.6039401,
         "lng": -90.544608
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6039401,-90.544608",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ballwin%20Golf%20Course%20%26%20Event%20Center%2C%20333%20Holloway%20Road",
       "websiteUrl": "https://www.ballwingolfcourse.com/",
       "source": {
         "id": "osm-431674088",
@@ -955,7 +955,7 @@
         "lat": 38.3420155,
         "lng": -90.1315129
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3420155,-90.1315129",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mystic%20Oak%20Golf%20Course%2C%20643%20Ridge%20Rd.",
       "source": {
         "id": "osm-468897460",
         "sourceType": "osm",
@@ -981,7 +981,7 @@
         "lat": 38.507072,
         "lng": -90.9238156
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.507072,-90.9238156",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wolf%20Hollow%20Golf%20Club%2C%204504%20Highway%20100",
       "websiteUrl": "https://www.wolfhollowgolf.com/",
       "source": {
         "id": "osm-481051543",
@@ -1006,7 +1006,7 @@
         "lat": 38.5543035,
         "lng": -90.1808006
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5543035,-90.1808006",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Prairies%20Golf%20Course%2C%20st-louis-county",
       "source": {
         "id": "osm-508541236",
         "sourceType": "osm",
@@ -1030,7 +1030,7 @@
         "lat": 38.4731017,
         "lng": -90.236947
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4731017,-90.236947",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jefferson%20Barracks%20Golf%20Tee%2C%20st-louis-county",
       "source": {
         "id": "osm-508829982",
         "sourceType": "osm",
@@ -1054,7 +1054,7 @@
         "lat": 38.4799825,
         "lng": -90.1424125
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4799825,-90.1424125",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Triple%20Lakes%20Golf%20Course%2C%20st-louis-county",
       "source": {
         "id": "osm-509095430",
         "sourceType": "osm",
@@ -1080,7 +1080,7 @@
         "lat": 38.7639076,
         "lng": -90.3984406
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7639076,-90.3984406",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bridgeton%20Berry%20Hill%20Golf%20Course%2C%2011919%20Berry%20Hill%20Road",
       "source": {
         "id": "osm-542340055",
         "sourceType": "osm",
@@ -1106,7 +1106,7 @@
         "lat": 38.5667846,
         "lng": -90.4728792
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5667846,-90.4728792",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Flight%20Range%2C%2013502%20Big%20Bend%20Road",
       "websiteUrl": "https://alohastl.com/",
       "source": {
         "id": "osm-546878808",
@@ -1133,7 +1133,7 @@
         "lat": 38.5664474,
         "lng": -90.4751415
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5664474,-90.4751415",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Driving%20Range%2C%203390%20Quinette%20Road",
       "websiteUrl": "https://bigbendgolfcenter.com/",
       "source": {
         "id": "osm-546878834",
@@ -1160,7 +1160,7 @@
         "lat": 38.7598033,
         "lng": -90.4237404
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7598033,-90.4237404",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Carrollton%20Park%20DGC%2C%2014861%20Phelps%20Drive",
       "websiteUrl": "http://stlouisdiscgolfclub.com/courses/#Bridgeton",
       "source": {
         "id": "osm-550931000",
@@ -1185,7 +1185,7 @@
         "lat": 38.66287,
         "lng": -90.4843187
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.66287,-90.4843187",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bellerive%20Country%20Club%2C%20st-louis-county",
       "source": {
         "id": "osm-617944761",
         "sourceType": "osm",
@@ -1211,7 +1211,7 @@
         "lat": 38.933886,
         "lng": -90.1327764
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.933886,-90.1327764",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Woodlands%20Golf%20Club%2C%202839%20Harris%20Lane",
       "websiteUrl": "https://thewoodlandsgolfclub.com/",
       "source": {
         "id": "osm-768645108",
@@ -1236,7 +1236,7 @@
         "lat": 38.658395,
         "lng": -90.1446497
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.658395,-90.1446497",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gateway%20National%20Golf%20Links%2C%20st-louis-county",
       "source": {
         "id": "osm-782435512",
         "sourceType": "osm",
@@ -1260,7 +1260,7 @@
         "lat": 38.3781431,
         "lng": -90.5794285
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3781431,-90.5794285",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fore%20Honor%20Golf%20Course%2C%20st-louis-county",
       "source": {
         "id": "osm-1219099645",
         "sourceType": "osm",
@@ -1286,7 +1286,7 @@
         "lat": 38.5668128,
         "lng": -90.3277614
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5668128,-90.3277614",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tower%20Tee%20Golf%20%26%20Recreation%2C%206727%20Heege%20Road",
       "websiteUrl": "https://www.towertee.com/",
       "source": {
         "id": "osm-1309052835",
@@ -1311,7 +1311,7 @@
         "lat": 38.3647728,
         "lng": -90.1478777
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3647728,-90.1478777",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Waterloo%20Country%20Club%2C%20st-louis-county",
       "source": {
         "id": "osm-1456324187",
         "sourceType": "osm",
@@ -1337,7 +1337,7 @@
         "lat": 38.2955539,
         "lng": -90.2017454
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.2955539,-90.2017454",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Acorns%20Golf%20Links%2C%203933%20Ahne%20Road",
       "websiteUrl": "https://acornsgolf.com/",
       "source": {
         "id": "osm-1465335554",
@@ -1364,7 +1364,7 @@
         "lat": 38.3510225,
         "lng": -90.1997016
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.3510225,-90.1997016",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Annbriar%20Golf%20Course%2C%201524%20Birdie%20Lane",
       "source": {
         "id": "osm-1466372251",
         "sourceType": "osm",
@@ -1390,7 +1390,7 @@
         "lat": 38.5257815,
         "lng": -90.5981432
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5257815,-90.5981432",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pevely%20Farms%20Golf%20Course%2C%20400%20Lewis%20Road",
       "websiteUrl": "https://www.pevelyfarms.com/",
       "source": {
         "id": "osm-5429230",
@@ -1417,7 +1417,7 @@
         "lat": 38.4979796,
         "lng": -90.6442378
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4979796,-90.6442378",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Legends%20Golf%20Club%2C%20625%20The%20Legends%20Parkway",
       "websiteUrl": "https://www.thelegendsgolf.com/",
       "source": {
         "id": "osm-5429382",
@@ -1444,7 +1444,7 @@
         "lat": 38.5836499,
         "lng": -90.7559044
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5836499,-90.7559044",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Country%20Club%20of%20Saint%20Albans%2C%203165%20Saint%20Albans%20Road",
       "websiteUrl": "http://www.ccstalbans.com/",
       "source": {
         "id": "osm-5431970",
@@ -1471,7 +1471,7 @@
         "lat": 38.5315747,
         "lng": -90.4284123
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5315747,-90.4284123",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tapawingo%20National%20Golf%20Club%2C%2013001%20Gary%20Player%20Drive",
       "websiteUrl": "https://www.tapawingogolf.com/",
       "source": {
         "id": "osm-6668441",
@@ -1498,7 +1498,7 @@
         "lat": 38.4443949,
         "lng": -90.6014351
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.4443949,-90.6014351",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fox%20Run%20Golf%20Club%2C%201%20Putt%20Lane",
       "websiteUrl": "https://www.foxrungolfclub.com/",
       "source": {
         "id": "osm-7064787",
@@ -1523,7 +1523,7 @@
         "lat": 38.6168935,
         "lng": -90.594254
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6168935,-90.594254",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Forest%20Hills%20Country%20Club%2C%20st-louis-county",
       "websiteUrl": "https://www.foresthillscc.net/",
       "source": {
         "id": "osm-13333847",
@@ -1548,7 +1548,7 @@
         "lat": 38.6751086,
         "lng": -90.5042635
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6751086,-90.5042635",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Four%20Seasons%20Country%20Club%2C%20st-louis-county",
       "websiteUrl": "https://www.fourseasonscc-chesterfield.com/",
       "source": {
         "id": "osm-15880900",
@@ -1575,7 +1575,7 @@
         "lat": 38.643047,
         "lng": -90.2945135
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.643047,-90.2945135",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Norman%20K.%20Probstein%20Golf%20Course%2C%206141%20Lagoon%20Drive",
       "websiteUrl": "https://www.forestparkgc.com",
       "source": {
         "id": "osm-18343759",
@@ -1601,7 +1601,7 @@
         "lat": 38.6354163,
         "lng": -90.2754967
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.6354163,-90.2754967",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Highlands%20Golf%20Course%2C%205163%20Clayton%20Avenue",
       "websiteUrl": "https://www.highlandsgolfandtennis.com/",
       "source": {
         "id": "osm-20252486",
@@ -1626,7 +1626,7 @@
         "lat": 38.7197293,
         "lng": -90.6275624
       },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7197293,-90.6275624",
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitmoor%20Country%20Club%20-%20North%20Course%2C%20st-louis-county",
       "source": {
         "id": "osm-20346860",
         "sourceType": "osm",

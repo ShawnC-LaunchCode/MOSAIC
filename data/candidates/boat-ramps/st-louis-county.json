@@ -11,8 +11,11 @@
       "municipality": "Maryland Heights",
       "recreationType": "boat-ramp",
       "address": "13725 Marine Ave, Maryland Heights, MO 63146",
-      "location": { "lat": 38.7240, "lng": -90.4835 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7240,-90.4835",
+      "location": {
+        "lat": 38.724,
+        "lng": -90.4835
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Creve%20Coeur%20Lake%20Memorial%20Park%20%E2%80%93%20Boat%20Ramp%2C%2013725%20Marine%20Ave%2C%20Maryland%20Heights%2C%20MO%2063146",
       "websiteUrl": "https://stlouiscountymo.gov/st-louis-county-departments/parks/places/creve-coeur-lake-park",
       "source": {
         "id": "source-creve-coeur-lake-boat-ramp-001",
@@ -22,7 +25,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "boating"],
+      "tags": [
+        "outdoor",
+        "boating"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -33,8 +39,11 @@
       "municipality": "Spanish Lake",
       "recreationType": "boat-ramp",
       "address": "801 Strodtman Rd, St. Louis, MO 63138",
-      "location": { "lat": 38.7938, "lng": -90.1762 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.7938,-90.1762",
+      "location": {
+        "lat": 38.7938,
+        "lng": -90.1762
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Columbia%20Bottom%20Conservation%20Area%20%E2%80%93%20Missouri%20River%20Boat%20Ramp%2C%20801%20Strodtman%20Rd%2C%20St.%20Louis%2C%20MO%2063138",
       "websiteUrl": "https://mdc.mo.gov/discover-nature/places/columbia-bottom-conservation-area",
       "source": {
         "id": "source-columbia-bottom-boat-ramp-001",
@@ -44,7 +53,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "boating"],
+      "tags": [
+        "outdoor",
+        "boating"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     },
@@ -55,8 +67,11 @@
       "municipality": "Valley Park",
       "recreationType": "boat-ramp",
       "address": "1234 Marshall Rd, Valley Park, MO 63088",
-      "location": { "lat": 38.5457, "lng": -90.4653 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5457,-90.4653",
+      "location": {
+        "lat": 38.5457,
+        "lng": -90.4653
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Simpson%20Lake%20%E2%80%93%20Boat%20Ramp%2C%201234%20Marshall%20Rd%2C%20Valley%20Park%2C%20MO%2063088",
       "websiteUrl": null,
       "source": {
         "id": "source-simpson-lake-boat-ramp-001",
@@ -66,7 +81,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "boating"],
+      "tags": [
+        "outdoor",
+        "boating"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     }

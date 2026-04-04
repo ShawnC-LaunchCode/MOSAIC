@@ -11,8 +11,11 @@
       "municipality": "Ballwin",
       "recreationType": "driving-range",
       "address": "16639 Manchester Rd, Ballwin, MO 63021",
-      "location": { "lat": 38.5880, "lng": -90.5350 },
-      "googleMapsUrl": "https://maps.google.com/?q=38.5880,-90.5350",
+      "location": {
+        "lat": 38.588,
+        "lng": -90.535
+      },
+      "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Barrett%20Station%20Golf%20Center%20%E2%80%93%20Driving%20Range%2C%2016639%20Manchester%20Rd%2C%20Ballwin%2C%20MO%2063021",
       "websiteUrl": null,
       "source": {
         "id": "source-barrett-station-golf-center-001",
@@ -22,7 +25,10 @@
       },
       "isPublic": true,
       "isActive": true,
-      "tags": ["outdoor", "sports"],
+      "tags": [
+        "outdoor",
+        "sports"
+      ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
     }
