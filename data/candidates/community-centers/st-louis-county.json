@@ -1167,7 +1167,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:25.039Z",
       "updatedAt": "2026-04-04T15:39:25.039Z"

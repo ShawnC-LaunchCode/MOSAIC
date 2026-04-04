@@ -2741,7 +2741,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.128Z",
       "updatedAt": "2026-04-04T15:39:21.128Z"
@@ -2938,7 +2939,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.134Z",
       "updatedAt": "2026-04-04T15:39:21.134Z"
@@ -4323,7 +4325,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.264Z",
       "updatedAt": "2026-04-04T15:39:21.264Z"
@@ -5010,7 +5013,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.330Z",
       "updatedAt": "2026-04-04T15:39:21.330Z"
@@ -5796,7 +5800,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.448Z",
       "updatedAt": "2026-04-04T15:39:21.448Z"
@@ -6622,7 +6627,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.540Z",
       "updatedAt": "2026-04-04T15:39:21.540Z"
@@ -6670,7 +6676,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.543Z",
       "updatedAt": "2026-04-04T15:39:21.543Z"
@@ -7848,7 +7855,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.681Z",
       "updatedAt": "2026-04-04T15:39:21.681Z"
@@ -7872,7 +7880,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.683Z",
       "updatedAt": "2026-04-04T15:39:21.683Z"
@@ -7896,7 +7905,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.685Z",
       "updatedAt": "2026-04-04T15:39:21.685Z"
@@ -7920,7 +7930,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.687Z",
       "updatedAt": "2026-04-04T15:39:21.687Z"
@@ -11612,7 +11623,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:22.229Z",
       "updatedAt": "2026-04-04T15:39:22.229Z"
@@ -13241,7 +13253,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:22.566Z",
       "updatedAt": "2026-04-04T15:39:22.566Z"
@@ -14463,7 +14476,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:22.765Z",
       "updatedAt": "2026-04-04T15:39:22.765Z"
@@ -15345,7 +15359,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:22.970Z",
       "updatedAt": "2026-04-04T15:39:22.970Z"
@@ -16219,7 +16234,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:23.139Z",
       "updatedAt": "2026-04-04T15:39:23.139Z"
@@ -17286,7 +17302,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:23.600Z",
       "updatedAt": "2026-04-04T15:39:23.600Z"
@@ -18807,7 +18824,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:24.210Z",
       "updatedAt": "2026-04-04T15:39:24.210Z"
@@ -18910,7 +18928,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:24.260Z",
       "updatedAt": "2026-04-04T15:39:24.260Z"
@@ -21160,7 +21179,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:25.036Z",
       "updatedAt": "2026-04-04T15:39:25.036Z"
@@ -21311,7 +21331,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:25.081Z",
       "updatedAt": "2026-04-04T15:39:25.081Z"
@@ -21560,7 +21581,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:25.230Z",
       "updatedAt": "2026-04-04T15:39:25.230Z"

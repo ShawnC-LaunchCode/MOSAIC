@@ -53,7 +53,8 @@
       "isActive": true,
       "tags": [
         "urban",
-        "park"
+        "park",
+        "playground"
       ],
       "createdAt": "2026-03-28T00:00:00.000Z",
       "updatedAt": "2026-03-28T00:00:00.000Z"
@@ -81,7 +82,8 @@
       "isActive": true,
       "tags": [
         "outdoor",
-        "walking"
+        "walking",
+        "playground"
       ],
       "createdAt": "2026-04-04T00:00:00.000Z",
       "updatedAt": "2026-04-04T00:00:00.000Z"
@@ -245,7 +247,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:21.147Z",
       "updatedAt": "2026-04-04T15:39:21.147Z"
@@ -389,7 +392,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:22.793Z",
       "updatedAt": "2026-04-04T15:39:22.793Z"
@@ -413,7 +417,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:22.795Z",
       "updatedAt": "2026-04-04T15:39:22.795Z"
@@ -461,7 +466,8 @@
       "isPublic": true,
       "isActive": true,
       "tags": [
-        "generated-osm"
+        "generated-osm",
+        "playground"
       ],
       "createdAt": "2026-04-04T15:39:24.178Z",
       "updatedAt": "2026-04-04T15:39:24.178Z"
