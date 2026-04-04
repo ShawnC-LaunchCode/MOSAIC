@@ -11,7 +11,10 @@
       "municipality": "St. Charles",
       "restrictedPropertyType": "park-with-playground",
       "address": "500 S Riverside Dr, St Charles, MO",
-      "location": { "lat": 38.7808, "lng": -90.4836 },
+      "location": {
+        "lat": 38.7808,
+        "lng": -90.4836
+      },
       "source": {
         "id": "source-park-001",
         "sourceType": "county-data",
@@ -20,6 +23,195 @@
       },
       "createdAt": "2026-03-28T00:00:00.000Z",
       "updatedAt": "2026-03-28T00:00:00.000Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:broemmelsiek-park",
+      "name": "Broemmelsiek Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "Defiance",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "1795 Highway DD, Defiance, MO 63341",
+      "location": {
+        "lat": 38.7228656,
+        "lng": -90.8148465
+      },
+      "source": {
+        "id": "source-playground-broemmelsiek-park",
+        "sourceType": "manual",
+        "sourceName": "St Charles Parks Table",
+        "fetchedAt": "2026-04-04T16:31:03.448Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T16:31:03.449Z",
+      "updatedAt": "2026-04-04T16:31:03.449Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:indian-camp-creek-park",
+      "name": "Indian Camp Creek Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2679 Dietrich Rd, Foristell, MO 63348",
+      "location": {
+        "lat": 38.8348677,
+        "lng": -90.9492607
+      },
+      "source": {
+        "id": "source-playground-indian-camp-creek-park",
+        "sourceType": "manual",
+        "sourceName": "St Charles Parks Table",
+        "fetchedAt": "2026-04-04T16:31:05.354Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T16:31:05.354Z",
+      "updatedAt": "2026-04-04T16:31:05.354Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:kinetic-park",
+      "name": "Kinetic Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "Dardenne Prairie",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "7801 Town Square Ave, Dardenne Prairie, MO 63368",
+      "location": {
+        "lat": 38.7689211,
+        "lng": -90.7628092
+      },
+      "source": {
+        "id": "source-playground-kinetic-park",
+        "sourceType": "manual",
+        "sourceName": "St Charles Parks Table",
+        "fetchedAt": "2026-04-04T16:31:07.259Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T16:31:07.259Z",
+      "updatedAt": "2026-04-04T16:31:07.259Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:klondike-park",
+      "name": "Klondike Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "Augusta",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "4600 Highway 94 S, Augusta, MO 63332",
+      "location": {
+        "lat": 38.5809704,
+        "lng": -90.8383834
+      },
+      "source": {
+        "id": "source-playground-klondike-park",
+        "sourceType": "manual",
+        "sourceName": "St Charles Parks Table",
+        "fetchedAt": "2026-04-04T16:31:11.307Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T16:31:11.307Z",
+      "updatedAt": "2026-04-04T16:31:11.307Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:oglesby-park",
+      "name": "Oglesby Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "2801 West Meyer Rd, Foristell, MO 63348",
+      "location": {
+        "lat": 38.8255765,
+        "lng": -90.9376222
+      },
+      "source": {
+        "id": "source-playground-oglesby-park",
+        "sourceType": "manual",
+        "sourceName": "St Charles Parks Table",
+        "fetchedAt": "2026-04-04T16:31:13.231Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T16:31:13.231Z",
+      "updatedAt": "2026-04-04T16:31:13.231Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:riverside-landing-park",
+      "name": "Riverside Landing Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "101 Riverport Lane, St. Charles, MO 63301",
+      "location": {
+        "lat": 38.8613323,
+        "lng": -90.5336308
+      },
+      "source": {
+        "id": "source-playground-riverside-landing-park",
+        "sourceType": "manual",
+        "sourceName": "St Charles Parks Table",
+        "fetchedAt": "2026-04-04T16:31:17.108Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T16:31:17.109Z",
+      "updatedAt": "2026-04-04T16:31:17.109Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:quail-ridge-park",
+      "name": "Quail Ridge Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "Wentzville",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "560 Interstate Dr, Wentzville, MO 63385",
+      "location": {
+        "lat": 38.8026645,
+        "lng": -90.8456329
+      },
+      "source": {
+        "id": "source-playground-quail-ridge-park",
+        "sourceType": "manual",
+        "sourceName": "St Charles Parks Table",
+        "fetchedAt": "2026-04-04T16:31:19.028Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T16:31:19.028Z",
+      "updatedAt": "2026-04-04T16:31:19.028Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:towne-park",
+      "name": "Towne Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "Foristell",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "100 Towne Park Dr, Foristell, MO 63348",
+      "location": {
+        "lat": 38.877922,
+        "lng": -90.897858
+      },
+      "source": {
+        "id": "source-playground-towne-park",
+        "sourceType": "manual",
+        "sourceName": "St Charles Parks Table",
+        "fetchedAt": "2026-04-04T16:31:22.955Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T16:31:22.956Z",
+      "updatedAt": "2026-04-04T16:31:22.956Z"
+    },
+    {
+      "id": "restricted:park-with-playground:st-charles-county:veterans-tribute-park",
+      "name": "Veterans Tribute Park - Playground Area",
+      "county": "st-charles-county",
+      "municipality": "St. Charles",
+      "restrictedPropertyType": "park-with-playground",
+      "address": "101 Kisker Rd, St. Charles, MO 63304",
+      "location": {
+        "lat": 38.7305927,
+        "lng": -90.6182803
+      },
+      "source": {
+        "id": "source-playground-veterans-tribute-park",
+        "sourceType": "manual",
+        "sourceName": "St Charles Parks Table",
+        "fetchedAt": "2026-04-04T16:31:24.860Z"
+      },
+      "needsVerification": false,
+      "createdAt": "2026-04-04T16:31:24.860Z",
+      "updatedAt": "2026-04-04T16:31:24.860Z"
     }
   ]
 }
