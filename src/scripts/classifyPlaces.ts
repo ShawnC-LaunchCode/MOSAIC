@@ -44,6 +44,10 @@ function computeDistanceChecks(
       { latitude: site.location.lat, longitude: site.location.lng }
     );
     const distanceFt = metersToFeet(meters);
+    
+    // Only persist distance checks that are realistically nearby to save massive JSON file space.
+    if (distanceFt > 1000) return [];
+    
     return [{
       restrictedSiteId: site.id,
       restrictedSiteType: site.restrictedPropertyType,
