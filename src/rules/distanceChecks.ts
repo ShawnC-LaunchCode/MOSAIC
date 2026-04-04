@@ -109,9 +109,11 @@ export function buildRestrictionFlags(
     byType(CHILD_FOCUSED_TYPES)
   ).triggered;
 
-  // A place is considered on a restricted property if its name exactly matches
-  // a restricted site and its coordinates are within ~10 meters.
-  const onRestrictedProperty = restrictedSites.some((site) => {
+  const hasPlaygroundTag = place.tags && place.tags.includes("playground");
+
+  // A place is considered on a restricted property if it has a playground tag,
+  // or if its name exactly matches a restricted site and its coordinates are within ~10 meters.
+  const onRestrictedProperty = hasPlaygroundTag || restrictedSites.some((site) => {
     if (site.location.lat === null || site.location.lng === null) return false;
     if (site.name.toLowerCase() !== place.name.toLowerCase()) return false;
     const distanceMeters = getDistance(
